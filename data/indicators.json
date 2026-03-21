@@ -1,1 +1,311 @@
-{}
+{
+  "gerado_em": "21/03/2026 18:17 UTC",
+  "gerado_em_br": "21/03/2026 15:17",
+  "anp": {
+    "semana_referencia": "08/03/2026 a 14/03/2026",
+    "preco_atual": 6.89,
+    "semanas": [
+      {
+        "ini": "2026-01-05",
+        "fim": "2026-01-11",
+        "ini_br": "05/01",
+        "fim_br": "11/01/2026",
+        "label": "Jan/26",
+        "preco": 6.08
+      },
+      {
+        "ini": "2026-01-12",
+        "fim": "2026-01-18",
+        "ini_br": "12/01",
+        "fim_br": "18/01/2026",
+        "label": "Jan/26",
+        "preco": 6.082
+      },
+      {
+        "ini": "2026-01-19",
+        "fim": "2026-01-25",
+        "ini_br": "19/01",
+        "fim_br": "25/01/2026",
+        "label": "Jan/26",
+        "preco": 6.084
+      },
+      {
+        "ini": "2026-01-26",
+        "fim": "2026-02-01",
+        "ini_br": "26/01",
+        "fim_br": "01/02/2026",
+        "label": "Fev/26",
+        "preco": 6.086
+      },
+      {
+        "ini": "2026-02-02",
+        "fim": "2026-02-08",
+        "ini_br": "02/02",
+        "fim_br": "08/02/2026",
+        "label": "Fev/26",
+        "preco": 6.09
+      },
+      {
+        "ini": "2026-02-09",
+        "fim": "2026-02-15",
+        "ini_br": "09/02",
+        "fim_br": "15/02/2026",
+        "label": "Fev/26",
+        "preco": 6.095
+      },
+      {
+        "ini": "2026-02-16",
+        "fim": "2026-02-22",
+        "ini_br": "16/02",
+        "fim_br": "22/02/2026",
+        "label": "Fev/26",
+        "preco": 6.1
+      },
+      {
+        "ini": "2026-03-01",
+        "fim": "2026-03-07",
+        "ini_br": "01/03",
+        "fim_br": "07/03/2026",
+        "label": "Mar/26",
+        "preco": 6.15
+      },
+      {
+        "ini": "2026-03-08",
+        "fim": "2026-03-14",
+        "ini_br": "08/03",
+        "fim_br": "14/03/2026",
+        "label": "Mar/26",
+        "preco": 6.89
+      }
+    ],
+    "regioes": [
+      {
+        "nome": "Norte",
+        "emoji": "🟢",
+        "preco": 7.2
+      },
+      {
+        "nome": "Nordeste",
+        "emoji": "🟡",
+        "preco": 7.07
+      },
+      {
+        "nome": "Centro-Oeste",
+        "emoji": "🟠",
+        "preco": 6.85
+      },
+      {
+        "nome": "Sudeste",
+        "emoji": "🔵",
+        "preco": 6.76
+      },
+      {
+        "nome": "Sul",
+        "emoji": "⚪",
+        "preco": 6.668
+      }
+    ],
+    "atualizado": "fallback — 14/03/2026"
+  },
+  "ipca": {
+    "series": [
+      {
+        "label": "Dez/24",
+        "valor": 0.52
+      },
+      {
+        "label": "Jan/25",
+        "valor": 0.16
+      },
+      {
+        "label": "Fev/25",
+        "valor": 1.31
+      },
+      {
+        "label": "Mar/25",
+        "valor": 0.56
+      },
+      {
+        "label": "Abr/25",
+        "valor": 0.43
+      },
+      {
+        "label": "Mai/25",
+        "valor": 0.26
+      },
+      {
+        "label": "Jun/25",
+        "valor": 0.24
+      },
+      {
+        "label": "Jul/25",
+        "valor": 0.26
+      },
+      {
+        "label": "Ago/25",
+        "valor": -0.11
+      },
+      {
+        "label": "Set/25",
+        "valor": 0.48
+      },
+      {
+        "label": "Out/25",
+        "valor": 0.09
+      },
+      {
+        "label": "Nov/25",
+        "valor": 0.18
+      },
+      {
+        "label": "Dez/25",
+        "valor": 0.33
+      },
+      {
+        "label": "Jan/26",
+        "valor": 0.33
+      },
+      {
+        "label": "Fev/26",
+        "valor": 0.7
+      }
+    ],
+    "ultimo": 0.7,
+    "ultimo_label": "Fev/26",
+    "acum12": 3.75
+  },
+  "igpm": {
+    "series": [
+      {
+        "label": "Dez/24",
+        "valor": 0.94
+      },
+      {
+        "label": "Jan/25",
+        "valor": 0.27
+      },
+      {
+        "label": "Fev/25",
+        "valor": 1.06
+      },
+      {
+        "label": "Mar/25",
+        "valor": -0.34
+      },
+      {
+        "label": "Abr/25",
+        "valor": 0.24
+      },
+      {
+        "label": "Mai/25",
+        "valor": -0.49
+      },
+      {
+        "label": "Jun/25",
+        "valor": -1.67
+      },
+      {
+        "label": "Jul/25",
+        "valor": -0.77
+      },
+      {
+        "label": "Ago/25",
+        "valor": 0.36
+      },
+      {
+        "label": "Set/25",
+        "valor": 0.42
+      },
+      {
+        "label": "Out/25",
+        "valor": -0.36
+      },
+      {
+        "label": "Nov/25",
+        "valor": 0.27
+      },
+      {
+        "label": "Dez/25",
+        "valor": -0.01
+      },
+      {
+        "label": "Jan/26",
+        "valor": 0.41
+      },
+      {
+        "label": "Fev/26",
+        "valor": -0.73
+      }
+    ],
+    "ultimo": -0.73,
+    "ultimo_label": "Fev/26",
+    "acum12": -2.67
+  },
+  "selic": {
+    "series": [
+      {
+        "label": "01/16/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/17/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/18/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/19/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/20/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/21/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/22/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/23/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/24/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/25/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/26/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/27/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/28/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/29/04/2",
+        "valor": 14.75
+      }
+    ],
+    "atual": 14.75,
+    "ultimo_label": "Abr/26"
+  },
+  "inctl": {
+    "ultimo": 0.22,
+    "fonte": "CNT scraping",
+    "atualizado": "21/03/2026"
+  }
+}
