@@ -1,6 +1,6 @@
 {
-  "gerado_em": "21/03/2026 18:25 UTC",
-  "gerado_em_br": "21/03/2026 15:25",
+  "gerado_em": "21/03/2026 18:33 UTC",
+  "gerado_em_br": "21/03/2026 15:33",
   "anp": {
     "semana_referencia": "08/03/2026 a 14/03/2026",
     "preco_atual": 6.89,
@@ -241,14 +241,118 @@
     "ultimo_label": "Fev/26",
     "acum12": -2.67
   },
+  "selic": {
+    "series": [
+      {
+        "label": "Mar/25",
+        "valor": 13.25
+      },
+      {
+        "label": "Abr/25",
+        "valor": 13.25
+      },
+      {
+        "label": "Mai/25",
+        "valor": 13.75
+      },
+      {
+        "label": "Jun/25",
+        "valor": 13.75
+      },
+      {
+        "label": "Jul/25",
+        "valor": 14.25
+      },
+      {
+        "label": "Ago/25",
+        "valor": 14.25
+      },
+      {
+        "label": "Set/25",
+        "valor": 14.75
+      },
+      {
+        "label": "Out/25",
+        "valor": 14.75
+      },
+      {
+        "label": "Nov/25",
+        "valor": 14.75
+      },
+      {
+        "label": "Dez/25",
+        "valor": 14.75
+      },
+      {
+        "label": "Jan/26",
+        "valor": 14.75
+      },
+      {
+        "label": "Fev/26",
+        "valor": 14.75
+      }
+    ],
+    "atual": 14.75,
+    "ultimo_label": "Fev/26"
+  },
   "usd_brl": {
     "series": [],
-    "atual": 5.89
+    "atual": 5.2522
   },
   "inctl": {
     "ultimo": 0.22,
+    "acum12": null,
+    "series": [
+      {
+        "label": "Mar/25",
+        "valor": 0.32
+      },
+      {
+        "label": "Abr/25",
+        "valor": 0.4
+      },
+      {
+        "label": "Mai/25",
+        "valor": 0.35
+      },
+      {
+        "label": "Jun/25",
+        "valor": 0.18
+      },
+      {
+        "label": "Jul/25",
+        "valor": 0.25
+      },
+      {
+        "label": "Ago/25",
+        "valor": 0.05
+      },
+      {
+        "label": "Set/25",
+        "valor": 0.3
+      },
+      {
+        "label": "Out/25",
+        "valor": 0.45
+      },
+      {
+        "label": "Nov/25",
+        "valor": 0.32
+      },
+      {
+        "label": "Dez/25",
+        "valor": 0.38
+      },
+      {
+        "label": "Jan/26",
+        "valor": 0.28
+      },
+      {
+        "label": "Fev/26",
+        "valor": 0.55
+      }
+    ],
     "fonte": "CNT",
-    "atualizado": "21/03/2026",
-    "series": []
+    "atualizado": "21/03/2026"
   }
 }
