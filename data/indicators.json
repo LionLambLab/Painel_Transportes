@@ -356,6 +356,54 @@
   },
   "noticias": [
     {
+      "titulo": "Até R$ 3,1 mil por mês: como americanos transformam o próprio sangue em renda extra",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/22/como-americanos-transformam-o-proprio-sangue-em-renda-extra.ghtml",
+      "data": "22/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/zGnp5kcCxPzr8oSwE8Oo1M-vi14=/1500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/B/NDnY4WTtCBPoInAYa2RA/2149404763.jpg"
+    },
+    {
+      "titulo": "A empresa de IA que enfrentou o Pentágono nos EUA — e por que isso afeta o mundo todo",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/22/a-empresa-de-ia-que-enfrentou-o-pentagono-nos-eua-e-por-que-isso-afeta-o-mundo-todo.ghtml",
+      "data": "22/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
+    },
+    {
+      "titulo": "Sônia Guajajara está internada em UTI no InCor, em SP, com suspeita de quadro infeccioso",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/03/22/sonia-guajajara-esta-internada-em-uti-no-incor-em-sp-com-suspeita-de-quadro-infeccioso.ghtml",
+      "data": "22/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/IFzgu0OBPKhR5LDKjbs1go0nNMA=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/X/9GGhfcTAAeBP6uI9Ygxg/whatsapp-image-2026-03-20-at-17.37.04.jpeg"
+    },
+    {
+      "titulo": "Ao menos 40 magistrados punidos com aposentadoria deveriam ter perdido o cargo, segundo tese de Dino",
+      "link": "https://g1.globo.com/politica/noticia/2026/03/22/magistradosaposentadoria-compulsoria-tese-de-dino.ghtml",
+      "data": "22/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/Db-P79uKvoosDjcDRQ7gM5kJraE=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/53/19/14451953"
+    },
+    {
+      "titulo": "24 navios atacados, oito pessoas mortas e 95% de queda no movimento: os números do bloqueio em Hormuz",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/24-navios-atacados-oito-pessoas-mortas-e-95-de-queda-no-movimento-os-numeros-do-bloqueio-em-hormuz.shtml",
+      "data": "22/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": ""
+    },
+    {
+      "titulo": "El Niño e o anticristo se encontram em guerra no Irã",
+      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/colunas/marceloleite/2026/03/el-nino-e-o-anticristo-se-encontram-em-guerra-no-ira.shtml",
+      "data": "22/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/17/177375114969b94b6d4e251_1773751149_3x2_rt.jpg"
+    },
+    {
       "titulo": "Posso falar da minha demissão nas redes? 'Vlogs' sobre desligamentos viralizam, mas exigem cuidados",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/21/vlogs-sobre-desligamentos-viralizam.ghtml",
       "data": "21/03/2026",
@@ -377,7 +425,7 @@
       "data": "21/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/zDy9V7sO-LKKPh41jxx3GRlSphk=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/07/56/14445607"
+      "imagem": "https://s2-g1.glbimg.com/Yf1DIvX-1bhaCXF1PMcGCADS5Xg=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/E/j4NtBQQXOH45I0eelQFA/procon-combustiveis.png"
     },
     {
       "titulo": "MPT firma acordo para Meta bloquear perfis de crianças influencers sem autorização judicial",
@@ -404,92 +452,12 @@
       "imagem": "https://s2-g1.glbimg.com/NQ9fD1NP1q7WQNz3lhnHPFyomOQ=/1280x0/filters:format(jpeg)/https://s01.video.glbimg.com/x720/12984856.jpg"
     },
     {
-      "titulo": "Alta do diesel é das maiores do século, há pânicos na finança e nos governos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/03/alta-do-diesel-e-das-maiores-do-seculo-ha-panicos-na-financa-e-nos-governos.shtml",
-      "data": "21/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/21/177412277169bef7130bf87_1774122771_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Mais de 20 países se dizem prontos para ajudar a acabar com bloqueio em Hormuz",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/mais-de-20-paises-se-dizem-prontos-para-ajudar-a-acabar-com-bloqueio-em-hormuz.shtml",
-      "data": "21/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/10/177314952469b01d5473a38_1773149524_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Guerra no Irã faz setor aéreo enfrentar sua maior crise desde a pandemia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/guerra-no-ira-faz-setor-aereo-enfrentar-sua-maior-crise-desde-a-pandemia.shtml",
-      "data": "21/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/21/177410404769beadef2b43b_1774104047_3x2_rt.jpg"
-    },
-    {
       "titulo": "Aliados de Tarcísio se dizem perplexos com decisão de Fux de interromper julgamento sobre Sabesp",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/03/aliados-de-tarcisio-se-dizem-perplexos-com-decisao-de-fux-de-interromper-julgamento-sobre-sabesp.shtml",
       "data": "21/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
       "imagem": "https://f.i.uol.com.br/fotografia/2026/03/21/177408897969be7313c3d7f_1774088979_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Governo Trump suspende sanções contra petróleo iraniano para tentar conter preços",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/20/governo-trump-sancoes-petroleo-iraniano.ghtml",
-      "data": "20/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/lCHVPdlugENP4nYuyk0oz53M8rw=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/u/rlmCAFSxiTrpbUjXJ5cA/2026-03-18t214048z-1013148856-rc2mwja0qpho-rtrmadp-3-iran-crisis-funds.jpg"
-    },
-    {
-      "titulo": "Preço médio do diesel sobe quase 20% nos postos desde o início da guerra e chega a R$ 7,26, diz ANP",
-      "link": "https://g1.globo.com/carros/noticia/2026/03/20/preco-medio-do-diesel-sobe-guerra-oriente.ghtml",
-      "data": "20/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/FGLT4Tn_SS2SCDrWo8h0rFKNf68=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/t/gyceNnTY6AEXrGBfQrlA/afp-20260309-a2hz8mv-v1-midres-francewariranusisraeloil.jpg"
-    },
-    {
-      "titulo": "Novo ministro da Fazenda aguarda resposta dos estados em proposta sobre diesel e diz que 'impacto da guerra será o mínimo possível'",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/20/novo-ministro-da-fazenda-aguarda-reposta-dos-estados-em-proposta-sobre-diesel-e-diz-que-impacto-da-guerra-sera-o-menor-possivel.ghtml",
-      "data": "20/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/On4fx4OdOvMJKmp3dcf_a0iR3iA=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/w/5/F5EKNOTVyTh7HhlVCWyw/54537555267-f2af500b6d-o.jpg"
-    },
-    {
-      "titulo": "Caso Master: Gilmar Mendes vota para manter prisão de Daniel Vorcaro;  2ª Turma do STF tem unanimidade",
-      "link": "https://g1.globo.com/politica/noticia/2026/03/20/caso-master-gilmar-mendes-vota-para-manter-prisao-de-daniel-vorcaro-2a-turma-do-stf-tem-unanimidade.ghtml",
-      "data": "20/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/koqYU-4eRx3HtDH08BQP-DS7tus=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/e/OeKL6ORtCq02Y6mrGAew/260306-montagem-fotos-vorcaro.jpg"
-    },
-    {
-      "titulo": "Moraes pede que PGR se manifeste sobre pedido de prisão domiciliar de Bolsonaro",
-      "link": "https://g1.globo.com/politica/noticia/2026/03/20/moraes-pede-que-pgr-se-manifeste-sobre-pedido-de-prisao-domiciliar-de-bolsonaro.ghtml",
-      "data": "20/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/uboKLX1wEFK2jBEtKplH6xo7KhQ=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/y/R/6QXszBSBABX0245ApGQg/globo-canal-4-20251125-1600-frame-424554.jpeg"
-    },
-    {
-      "titulo": "Sônia Guajajara deixará ministério para disputar reeleição como deputada federal por SP",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/03/20/sonia-guajajara-deixara-ministerio-para-disputar-reeleicao-como-deputada-federal-por-sp.ghtml",
-      "data": "20/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/IFzgu0OBPKhR5LDKjbs1go0nNMA=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/X/9GGhfcTAAeBP6uI9Ygxg/whatsapp-image-2026-03-20-at-17.37.04.jpeg"
-    },
-    {
-      "titulo": "Consignado CLT completa um ano com R$ 84 bilhões emprestados e segue sem regulamentação do uso do FGTS como garantia",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/20/consignado-clt-completa-um-ano-com-r-84-bilhoes-emprestados-e-segue-sem-regulamentacao-do-uso-do-fgts-como-garantia.ghtml",
-      "data": "20/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/A-ILelSqEoO_byeMxK9Gt8-yTvE=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/M/d/e7tEZrSMOXuR8RySlN0g/36.jpg"
     },
     {
       "titulo": "Caminhões Hyundai Xcient movidos a célula de combustível chegam ao Uruguai",
@@ -580,30 +548,102 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/iveco-mulheres.jpg"
     },
     {
-      "titulo": "Trump ameaça atacar usinas elétricas do Irã se país não abrir Estreito de Ormuz",
-      "link": "https://www.infomoney.com.br/mercados/trump-ameaca-atacar-usinas-eletricas-do-ira-se-pais-nao-abrir-estreito-de-ormuz/",
+      "titulo": "Sistema simples com potes de barro ajuda agricultores a driblar seca no Pará; veja como funciona",
+      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/03/22/sistema-simples-com-potes-de-barro-ajuda-agricultores-a-driblar-seca-no-para-veja-como-funciona.ghtml",
+      "data": "22/03/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/MRy3KD0q7U_Q7PdhTKDrMZcB_i0=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/14442691.jpg"
+    },
+    {
+      "titulo": "Agência internacional recomenda home office e aumentar caronas para enfrentar crise energética da guerra",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/agencia-de-energia-recomenda-home-office-e-aumentar-caronas-para-enfrentar-crise-energetica-devido-a-guerra.shtml",
+      "data": "22/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 2,
+      "imagem": ""
+    },
+    {
+      "titulo": "Fechamento do estreito de Hormuz pode comprometer importação de fertlizantes, diz estudo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/03/fechamento-do-estreito-de-hormuz-pode-comprometer-importacao-de-fertlizantes-diz-estudo.shtml",
+      "data": "22/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 2,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/20/177404705369bdcf4d02e35_1774047053_3x2_xl.jpg"
+    },
+    {
+      "titulo": "Embaixador de Israel diz que ataques às usinas de energia do Irã serão possíveis",
+      "link": "https://www.infomoney.com.br/mundo/embaixador-de-israel-diz-que-ataques-as-usinas-de-energia-do-ira-serao-possiveis/",
       "data": "22/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 2,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-20T203608Z_1331736961_RC2J8KAIZYBE_RTRMADP_3_USA-TRUMP.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/06/2025-06-16T131612Z_1346106641_RC223FAZPW7V_RTRMADP_3_IRAN-NUCLEAR-SITES.jpg?quality=70"
     },
     {
-      "titulo": "Queda mais lenta da Selic traz desafio extra para empresas endividadas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/queda-mais-lenta-da-selic-traz-desafio-extra-para-empresas-endividadas.shtml",
-      "data": "21/03/2026",
-      "fonte": "Folha SP",
+      "titulo": "Papa Leão chama guerra no Oriente Médio de “escândalo” para humanidade",
+      "link": "https://www.infomoney.com.br/mundo/papa-leao-chama-guerra-no-oriente-medio-de-escandalo-para-humanidade/",
+      "data": "22/03/2026",
+      "fonte": "InfoMoney",
       "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2025/08/29/175647729668b1b7709c3f6_1756477296_3x2_rt.jpg"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-23T203246Z_1_LYNXMPELBM0V6_RTROPTP_4_POPE-AUDIENCE.jpg?quality=70"
+    },
+    {
+      "titulo": "Trump e Irã ameaçam intensificar conflito com ataques a instalações de energia e água",
+      "link": "https://www.infomoney.com.br/mundo/trump-e-ira-ameacam-intensificar-conflito-com-ataques-a-instalacoes-de-energia-e-agua/",
+      "data": "22/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 2,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-02-28T144235Z_1199751289_RC22VJAWFIG5_RTRMADP_3_IRAN-CRISIS-QATAR_red.jpg?fit=1920%2C1280&quality=70&strip=all"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "Quina hoje, concurso 6982: Confira o resultado sorteado neste sábado (21)",
-      "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-6982-confira-o-resultado-sorteado-neste-sabado-21/",
+      "titulo": "EUA devem ‘escalar para desescalar’ guerra contra Irã, diz secretário do Tesouro",
+      "link": "https://www.infomoney.com.br/mundo/eua-devem-escalar-para-desescalar-guerra-contra-ira-diz-secretario-do-tesouro/",
       "data": "22/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-05-07T164114Z_1191878122_RC23DEABFTHR_RTRMADP_3_USA-CONGRESS-BESSENT.jpg?quality=70"
+    },
+    {
+      "titulo": "24 navios atacados, oito pessoas mortas e 95% de queda no movimento: os números do bloqueio em Hormuz",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/24-navios-atacados-oito-pessoas-mortas-e-95-de-queda-no-movimento-os-numeros-do-bloqueio-em-hormuz.shtml",
+      "data": "22/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": ""
+    },
+    {
+      "titulo": "Sem citar Trump, premiê da China critica unilateralismo e promete ampliar abertura econômica",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/22/sem-citar-trump-premie-da-china-critica-unilateralismo-e-promete-ampliar-abertura-economica.ghtml",
+      "data": "22/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/5F7XzFlkHX_de5UuHsqG8kHAfro=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/7/AwuUpBSl2A32ynACMsbA/2025-07-26t042149z-716660595-rc21ufaxt07q-rtrmadp-3-china-ai-expo.jpg"
+    },
+    {
+      "titulo": "Até R$ 3,1 mil por mês: como americanos transformam o próprio sangue em renda extra",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/22/como-americanos-transformam-o-proprio-sangue-em-renda-extra.ghtml",
+      "data": "22/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/zGnp5kcCxPzr8oSwE8Oo1M-vi14=/1500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/B/NDnY4WTtCBPoInAYa2RA/2149404763.jpg"
+    },
+    {
+      "titulo": "A empresa de IA que enfrentou o Pentágono nos EUA — e por que isso afeta o mundo todo",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/22/a-empresa-de-ia-que-enfrentou-o-pentagono-nos-eua-e-por-que-isso-afeta-o-mundo-todo.ghtml",
+      "data": "22/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
+    },
+    {
+      "titulo": "'Primeiro emprego' aos 27 anos: jovem relata julgamento por nunca ter sido CLT e diz 'olhavam com pena'",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/22/primeiro-emprego-aos-27-anos-jovem-relata-julgamento-por-nunca-ter-sido-clt-e-diz-olhavam-com-pena.ghtml",
+      "data": "22/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/IEeyMUa156uvgBylyXMJw2WJIv8=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/f/0iMQ3uQhiANxAjgM3q4g/befunky-collage-1-.jpg"
     },
     {
       "titulo": "Mega-Sena, concurso 2.987: prêmio acumula e vai a R$ 13 milhões",
@@ -619,7 +659,7 @@
       "data": "21/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2023/11/21/1700588960655ceda02789c_1700588960_3x2_rt.jpg"
+      "imagem": ""
     },
     {
       "titulo": "Queda mais lenta da Selic traz desafio extra para empresas endividadas",
@@ -627,7 +667,7 @@
       "data": "21/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2025/08/29/175647729668b1b7709c3f6_1756477296_3x2_rt.jpg"
+      "imagem": ""
     },
     {
       "titulo": "Como aumentar salário mínimo sem onerar Previdência e sem desrespeitar Constituição",
@@ -646,22 +686,6 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2026/03/21/177412884669bf0ece1d4bf_1774128846_3x2_rt.jpg"
     },
     {
-      "titulo": "Mais de 20 países se dizem prontos para ajudar a acabar com bloqueio em Hormuz",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/mais-de-20-paises-se-dizem-prontos-para-ajudar-a-acabar-com-bloqueio-em-hormuz.shtml",
-      "data": "21/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/10/177314952469b01d5473a38_1773149524_3x2_rt.jpg"
-    },
-    {
-      "titulo": "'Filho do pedreiro não quer mais ser pedreiro', diz CEO de construtora para público de altíssimo padrão",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/03/filho-do-pedreiro-nao-quer-mais-ser-pedreiro-diz-ceo-de-construtora-para-publico-de-altissimo-padrao.shtml",
-      "data": "21/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/19/177395759169bc71d7331a6_1773957591_3x2_rt.jpg"
-    },
-    {
       "titulo": "Posso falar da minha demissão nas redes? 'Vlogs' sobre desligamentos viralizam, mas exigem cuidados",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/21/vlogs-sobre-desligamentos-viralizam.ghtml",
       "data": "21/03/2026",
@@ -676,40 +700,8 @@
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/Hp7jCQNx2Etd6jtwrIHzA7YYGV8=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/c/jwCXcyQtebshH6YsrKOA/honda-hrv-2026-f99a9930-fabio-tito.jpg"
-    },
-    {
-      "titulo": "Por que setor fez alerta para risco de falta de diesel no Brasil — e o que o governo está fazendo",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/21/por-que-setor-fez-alerta-para-risco-de-falta-de-diesel-no-brasil-e-o-que-o-governo-esta-fazendo.ghtml",
-      "data": "21/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/zDy9V7sO-LKKPh41jxx3GRlSphk=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/07/56/14445607"
-    },
-    {
-      "titulo": "Governo Trump suspende sanções contra petróleo iraniano para tentar conter preços",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/20/governo-trump-sancoes-petroleo-iraniano.ghtml",
-      "data": "20/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/lCHVPdlugENP4nYuyk0oz53M8rw=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/u/rlmCAFSxiTrpbUjXJ5cA/2026-03-18t214048z-1013148856-rc2mwja0qpho-rtrmadp-3-iran-crisis-funds.jpg"
-    },
-    {
-      "titulo": "Banco Central comunica vazamento de dados cadastrais de 28,2 mil chaves PIX da Pefisa",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/20/bc-comunica-vazamento-de-dados-cadastrais-de-282-mil-chaves-pix-da-pefisa.ghtml",
-      "data": "20/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/wxuJt9lyG4Jm02m2kJ1IAaRYkB0=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/k/kZw0OmTfKw9mzF6XOO6g/pix-errado.jpg"
-    },
-    {
-      "titulo": "Preço médio do diesel sobe quase 20% nos postos desde o início da guerra e chega a R$ 7,26, diz ANP",
-      "link": "https://g1.globo.com/carros/noticia/2026/03/20/preco-medio-do-diesel-sobe-guerra-oriente.ghtml",
-      "data": "20/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/FGLT4Tn_SS2SCDrWo8h0rFKNf68=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/t/gyceNnTY6AEXrGBfQrlA/afp-20260309-a2hz8mv-v1-midres-francewariranusisraeloil.jpg"
     }
   ],
-  "noticias_em": "22/03/2026 02:39 UTC",
-  "noticias_em_br": "21/03/2026 23:39"
+  "noticias_em": "22/03/2026 17:53 UTC",
+  "noticias_em_br": "22/03/2026 14:53"
 }
