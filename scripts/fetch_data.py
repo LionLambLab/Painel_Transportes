@@ -54,36 +54,49 @@ def bcb_sgs(cod, n=15):
 # ─────────────────────────────────────────────
 
 NEWS_SOURCES = [
-    # Agencias e portais nacionais
-    ('https://agenciabrasil.ebc.com.br/economia/feed',             'Agencia Brasil'),
-    ('https://agenciabrasil.ebc.com.br/geral/feed',                'Agencia Brasil'),
-    ('https://g1.globo.com/rss/g1/economia/',                      'G1'),
+    # ── G1 / Globo (melhor cobertura nacional) ───────────────────────
     ('https://g1.globo.com/rss/g1/brasil/',                        'G1'),
-    ('https://www.cnnbrasil.com.br/economia/feed/',                 'CNN Brasil'),
+    ('https://g1.globo.com/rss/g1/economia/',                      'G1'),
+    ('https://g1.globo.com/rss/g1/economia/negocios/',             'G1'),
+    ('https://g1.globo.com/rss/g1/politica/',                      'G1'),
+    # ── UOL (alta cobertura de greves e transporte) ──────────────────
+    ('https://rss.uol.com.br/feed/noticias.xml',                   'UOL'),
     ('https://www.uol.com.br/rss/economia',                        'UOL Economia'),
-    ('https://noticias.r7.com/rss/economia.xml',                   'R7'),
-    # Jornais nacionais
+    ('https://transportes.uol.com.br/rss.xml',                     'UOL Transportes'),
+    # ── Folha / Valor / Estadao ──────────────────────────────────────
     ('https://feeds.folha.uol.com.br/mercado/rss091.xml',          'Folha SP'),
     ('https://feeds.folha.uol.com.br/cotidiano/rss091.xml',        'Folha SP'),
+    ('https://feeds.folha.uol.com.br/poder/rss091.xml',            'Folha SP'),
     ('https://valor.globo.com/rss/economia',                       'Valor Economico'),
     ('https://valor.globo.com/rss/empresas',                       'Valor Economico'),
+    # ── Agencias e portais ───────────────────────────────────────────
+    ('https://agenciabrasil.ebc.com.br/economia/feed',             'Agencia Brasil'),
+    ('https://agenciabrasil.ebc.com.br/geral/feed',                'Agencia Brasil'),
+    ('https://www.cnnbrasil.com.br/economia/feed/',                 'CNN Brasil'),
+    ('https://www.cnnbrasil.com.br/nacional/feed/',                 'CNN Brasil'),
+    ('https://noticias.r7.com/rss/brasil.xml',                     'R7'),
     ('https://www.infomoney.com.br/feed/',                         'InfoMoney'),
-    ('https://exame.com/feed/',                                    'Exame'),
-    # Associacoes e entidades do setor
+    # ── Especializados transporte e logistica ────────────────────────
     ('https://www.cnt.org.br/feed',                                'CNT'),
     ('https://www.ntcelogistica.org.br/feed/',                     'NTC'),
-    # Governo e reguladores
+    ('https://www.transportabrasil.com.br/feed/',                  'Transporta Brasil'),
+    ('https://www.revistalogistica.com.br/feed/',                   'Rev. Logistica'),
+    # ── Governo ──────────────────────────────────────────────────────
     ('https://www.gov.br/anp/pt-br/assuntos/noticias/RSS',         'ANP'),
-    # Internacionais
+    ('https://www.gov.br/transportes/pt-br/assuntos/noticias/RSS', 'Min. Transportes'),
+    # ── Internacional ────────────────────────────────────────────────
     ('https://oilprice.com/rss/main',                              'OilPrice'),
     ('https://feeds.reuters.com/reuters/businessNews',             'Reuters'),
 ]
 
 KEYWORDS_PRIORITY = re.compile(
-    r'greve|paralisa|caminhoneiro|caminhao|caminhoes|frete|'
-    r'diesel|combustivel|gasolina|etanol|gnv|'
-    r'antt|transporte rodoviar|'
-    r'petrobras|reajuste|preco.{0,10}combustiv',
+    r'greve|paralisa|paralis|parar|parou|protesto|manifesta|bloqueio|lock.?out|'
+    r'caminhon|caminhao|caminhoes|carreteiro|motorista.{0,15}camin|'
+    r'frete|tabela.{0,10}frete|piso.{0,10}frete|'
+    r'diesel|combustivel|combustiveis|gasolina|etanol|gnv|'
+    r'antt|transporte rodoviar|rodoviari|'
+    r'petrobras|reajuste|alta.{0,15}combus|preco.{0,10}combustiv|'
+    r'abcam|fenatran|setcergs|setcesp|fetranspar',
     re.IGNORECASE
 )
 
