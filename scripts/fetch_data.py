@@ -109,6 +109,33 @@ def parse_pub(pub):
     try: return parsedate_to_datetime(pub).strftime('%d/%m/%Y')
     except: return pub[:10] if len(pub) >= 10 else pub
 
+
+def get_og_image(url):
+    if not url or not url.startswith('http'):
+        return ''
+    try:
+        import re as re2
+        resp = requests.get(url, headers=HEADERS, timeout=6, stream=True)
+        if not resp.ok: return ''
+        chunk = b''
+        for c in resp.iter_content(8192):
+            chunk += c
+            if len(chunk) > 12288: break
+        text = chunk.decode('utf-8', errors='ignore')
+        patterns = [
+            re2.compile(r'property=["\']+og:image["\']+[^>]+content=["\'](https?://[^\"\' ]+)["\'\']', re2.I),
+            re2.compile(r'content=["\'](https?://[^\"\' ]+)["\']+[^>]+property=["\']+og:image', re2.I),
+            re2.compile(r'name=["\']+twitter:image["\']+[^>]+content=["\'](https?://[^\"\' ]+)["\'\']', re2.I),
+        ]
+        for pat in patterns:
+            m = pat.search(text)
+            if m:
+                img = m.group(1).strip()
+                if 5 < len(img) < 400: return img
+    except Exception:
+        pass
+    return ''
+
 def fetch_news():
     print('Clipping de noticias...')
     items = []
@@ -139,6 +166,7 @@ def fetch_news():
                     'data':       parse_pub(pub),
                     'fonte':      src,
                     'prioridade': prio,
+                    'imagem':     get_og_image(link),
                 })
                 count += 1
             if count > 0:
