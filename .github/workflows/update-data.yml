@@ -2,16 +2,14 @@ name: Atualizar Dados ANP + Indicadores
 
 on:
   schedule:
-    # Toda segunda-feira às 17:00 UTC = 14:00 BRT
-    # ANP publica os dados toda segunda entre 12h e 15h
-    - cron: '0 17 * * 1'
-  workflow_dispatch:  # permite rodar manualmente pelo GitHub
+    - cron: '0 17 * * *'
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # necessário para commitar o JSON gerado
+      contents: write
 
     steps:
       - name: Checkout repositório
@@ -23,16 +21,23 @@ jobs:
           python-version: '3.11'
 
       - name: Instalar dependências
-        run: |
-          pip install requests pandas
+        run: pip install requests pandas
 
-      - name: Executar script de coleta
-        run: python scripts/fetch_data.py
+      - name: Executar coleta (modo automático)
+        run: |
+          WEEKDAY=$(date -u +%u)
+          if [ "$WEEKDAY" = "1" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "🔄 Modo COMPLETO (ANP + BCB + Notícias)"
+            python scripts/fetch_data.py --mode=full
+          else
+            echo "📰 Modo NOTÍCIAS apenas"
+            python scripts/fetch_data.py --mode=news
+          fi
 
       - name: Commitar dados atualizados
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/indicators.json
-          git diff --cached --quiet || git commit -m "🔄 Dados atualizados automaticamente $(date -u '+%d/%m/%Y %H:%M UTC')"
+          git diff --cached --quiet || git commit -m "🔄 $(date -u '+%d/%m/%Y %H:%M UTC')"
           git push
