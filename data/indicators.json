@@ -1,6 +1,6 @@
 {
-  "gerado_em": "22/03/2026 02:01 UTC",
-  "gerado_em_br": "21/03/2026 23:01",
+  "gerado_em": "22/03/2026 02:20 UTC",
+  "gerado_em_br": "21/03/2026 23:20",
   "anp": {
     "semana_referencia": "08/03/2026 a 14/03/2026",
     "preco_atual": 6.89,
@@ -356,6 +356,14 @@
   },
   "noticias": [
     {
+      "titulo": "Posso falar da minha demissão nas redes? 'Vlogs' sobre desligamentos viralizam, mas exigem cuidados",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/21/vlogs-sobre-desligamentos-viralizam.ghtml",
+      "data": "21/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/cBO7zu1dYG6eZWOwbx8R9DNpH7A=/4088x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/7/prUEFbSSuScC9CUWBerg/demissao-tiktok.jpg"
+    },
+    {
       "titulo": "Honda HR-V EXL ainda é boa compra? Veja comparação com novos rivais WR-V e Yaris Cross",
       "link": "https://g1.globo.com/carros/noticia/2026/03/21/honda-hr-v-exl-ainda-e-boa-compra-veja-comparacao-com-novos-rivais-wr-v-e-yaris-cross.ghtml",
       "data": "21/03/2026",
@@ -372,12 +380,44 @@
       "imagem": "https://s2-g1.glbimg.com/zDy9V7sO-LKKPh41jxx3GRlSphk=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/07/56/14445607"
     },
     {
+      "titulo": "MPT firma acordo para Meta bloquear perfis de crianças influencers sem autorização judicial",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/21/mpt-firma-acordo-para-meta-bloquear-perfis-de-criancas-influencers-sem-autorizacao-judicial.ghtml",
+      "data": "21/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/9R4aDcDcoDsHH_23rjGIuQhGXKk=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/m/w0gtAfQBKW9k9LdWsXMw/2026-02-23t163009z-1382008186-rc2mkhaggl7v-rtrmadp-3-social-media-trial-meta.jpg"
+    },
+    {
+      "titulo": "Simone Tebet deixa MDB após quase 30 anos e se filia ao PSB para disputar o Senado em SP",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/03/21/simone-tebet-deixa-mdb-apos-quase-30-anos-e-se-filia-ao-psb-para-disputar-o-senado-em-sp.ghtml",
+      "data": "21/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/zsW82OaVnD0RlfJwlaxOX19Q5Ik=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/f/lTMvXtS7yI036c83snCg/54538162031-6b21e4c78d-o.jpg"
+    },
+    {
+      "titulo": "Procuradoria-Geral da República denuncia ex-ministro Silvio Almeida por importunação sexual a Anielle Franco",
+      "link": "https://g1.globo.com/politica/politico/noticia/2026/03/21/procuradoria-geral-da-republica-denuncia-ex-ministro-silvio-almeida-por-importunacao-sexual-de-anielle-franco.ghtml",
+      "data": "21/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/NQ9fD1NP1q7WQNz3lhnHPFyomOQ=/1280x0/filters:format(jpeg)/https://s01.video.glbimg.com/x720/12984856.jpg"
+    },
+    {
       "titulo": "Alta do diesel é das maiores do século, há pânicos na finança e nos governos",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/03/alta-do-diesel-e-das-maiores-do-seculo-ha-panicos-na-financa-e-nos-governos.shtml",
       "data": "21/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
       "imagem": "https://f.i.uol.com.br/fotografia/2026/03/21/177412277169bef7130bf87_1774122771_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Mais de 20 países se dizem prontos para ajudar a acabar com bloqueio em Hormuz",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/mais-de-20-paises-se-dizem-prontos-para-ajudar-a-acabar-com-bloqueio-em-hormuz.shtml",
+      "data": "21/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/10/177314952469b01d5473a38_1773149524_3x2_rt.jpg"
     },
     {
       "titulo": "Guerra no Irã faz setor aéreo enfrentar sua maior crise desde a pandemia",
@@ -388,12 +428,12 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2026/03/21/177410404769beadef2b43b_1774104047_3x2_rt.jpg"
     },
     {
-      "titulo": "Municípios do RS restringem serviços por falta de diesel, diz federação",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/municipios-do-rs-restringem-servicos-por-falta-de-diesel-diz-federacao.shtml",
+      "titulo": "Aliados de Tarcísio se dizem perplexos com decisão de Fux de interromper julgamento sobre Sabesp",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/03/aliados-de-tarcisio-se-dizem-perplexos-com-decisao-de-fux-de-interromper-julgamento-sobre-sabesp.shtml",
       "data": "21/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/21/177410615369beb629ae019_1774106153_3x2_lg.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/21/177408897969be7313c3d7f_1774088979_3x2_rt.jpg"
     },
     {
       "titulo": "Governo Trump suspende sanções contra petróleo iraniano para tentar conter preços",
@@ -420,182 +460,142 @@
       "imagem": "https://s2-g1.glbimg.com/On4fx4OdOvMJKmp3dcf_a0iR3iA=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/w/5/F5EKNOTVyTh7HhlVCWyw/54537555267-f2af500b6d-o.jpg"
     },
     {
+      "titulo": "Caso Master: Gilmar Mendes vota para manter prisão de Daniel Vorcaro;  2ª Turma do STF tem unanimidade",
+      "link": "https://g1.globo.com/politica/noticia/2026/03/20/caso-master-gilmar-mendes-vota-para-manter-prisao-de-daniel-vorcaro-2a-turma-do-stf-tem-unanimidade.ghtml",
+      "data": "20/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/koqYU-4eRx3HtDH08BQP-DS7tus=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/e/OeKL6ORtCq02Y6mrGAew/260306-montagem-fotos-vorcaro.jpg"
+    },
+    {
+      "titulo": "Moraes pede que PGR se manifeste sobre pedido de prisão domiciliar de Bolsonaro",
+      "link": "https://g1.globo.com/politica/noticia/2026/03/20/moraes-pede-que-pgr-se-manifeste-sobre-pedido-de-prisao-domiciliar-de-bolsonaro.ghtml",
+      "data": "20/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/uboKLX1wEFK2jBEtKplH6xo7KhQ=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/y/R/6QXszBSBABX0245ApGQg/globo-canal-4-20251125-1600-frame-424554.jpeg"
+    },
+    {
+      "titulo": "Sônia Guajajara deixará ministério para disputar reeleição como deputada federal por SP",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/03/20/sonia-guajajara-deixara-ministerio-para-disputar-reeleicao-como-deputada-federal-por-sp.ghtml",
+      "data": "20/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/IFzgu0OBPKhR5LDKjbs1go0nNMA=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/X/9GGhfcTAAeBP6uI9Ygxg/whatsapp-image-2026-03-20-at-17.37.04.jpeg"
+    },
+    {
+      "titulo": "Consignado CLT completa um ano com R$ 84 bilhões emprestados e segue sem regulamentação do uso do FGTS como garantia",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/20/consignado-clt-completa-um-ano-com-r-84-bilhoes-emprestados-e-segue-sem-regulamentacao-do-uso-do-fgts-como-garantia.ghtml",
+      "data": "20/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/A-ILelSqEoO_byeMxK9Gt8-yTvE=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/M/d/e7tEZrSMOXuR8RySlN0g/36.jpg"
+    },
+    {
+      "titulo": "Caminhões Hyundai Xcient movidos a célula de combustível chegam ao Uruguai",
+      "link": "https://www.transportabrasil.com.br/2026/03/caminhoes-hyundai-xcient-movidos-a-celula-de-combustivel-chegam-ao-uruguai/",
+      "data": "20/03/2026",
+      "fonte": "Transporta Brasil",
+      "prioridade": 1,
+      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/xcient-uruguai00.jpg"
+    },
+    {
+      "titulo": "Petrobras compra fatia da Petronas em Tartaruga Verde e Espadarte por US$ 450 milhões",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/16/petrobras-compra-fatia-da-petronas-em-tartaruga-verde-e-espadarte-por-us-450-milhoes.ghtml",
+      "data": "17/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/OtowCRweQWa1NIh79OMXOXjfDZs=/5472x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/wCR8ddTkWlDT6bfcazyg/mg-1446-0.jpg"
+    },
+    {
+      "titulo": "VW vai testar biodiesel puro em seus caminhões na soja e nas rodovias",
+      "link": "https://www.transportabrasil.com.br/2026/03/vw-vai-testar-biodiesel-puro-em-seus-caminhoes-na-soja-e-nas-rodovias/",
+      "data": "17/03/2026",
+      "fonte": "Transporta Brasil",
+      "prioridade": 1,
+      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/vw-amaggi-b100-1.jpg"
+    },
+    {
+      "titulo": "Renner deixa de vender camiseta com frase 'Regret Nothing', ligada a discurso misógino",
+      "link": "https://g1.globo.com/economia/negocios/noticia/2026/03/13/renner-camiseta-regret-nothing.ghtml",
+      "data": "13/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/uwMDXUJL8dVr0JeC-L1sTAxeEI8=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/9/i9L3UdQrW4RBnnbu8hoQ/imagem-cortada-2026-03-09t130828.243.jpg"
+    },
+    {
+      "titulo": "Petrobras sobe os preços do diesel para distribuidoras",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/13/petrobras-sobe-precos-do-diesel-para-distribuidoras.ghtml",
+      "data": "13/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/wzsw6G97q7IHtyozw17WZv0U_qM=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/p/Q/B1dSL5Sv6lla5qdBUxow/hora1-limpo-20220728-0350-frame-24460.jpeg"
+    },
+    {
+      "titulo": "Ações da Raízen caíram 70% em 1 ano; empresa pede recuperação extrajudicial para renegociar R$ 65 bilhões",
+      "link": "https://g1.globo.com/economia/negocios/noticia/2026/03/11/acoes-raizen-caem-70-recuperacao-extrajudicial.ghtml",
+      "data": "11/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/CS1Yb4dsoFEkuYvcfGM2W8h7faM=/1357x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/j/BhResOSkOrBAreP9Ddug/usina-santa-elisa2.jpg"
+    },
+    {
+      "titulo": "Raízen e GPA pedem recuperação extrajudicial; entenda as diferenças entre os processos",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/11/raizen-e-grupo-pao-de-acucar-pedem-recuperacao-extrajudicial.ghtml",
+      "data": "11/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/o4NOpNyIC52Y4-oStzIY9fuOWN8=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/d/dv5yFOTmqkh5gF2PvMSg/17-gpa-foto-reproducao-1-.webp"
+    },
+    {
+      "titulo": "Conheça a Raízen, empresa que opera os postos Shell no Brasil e pediu recuperação extrajudicial",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/11/conheca-a-raizen-recuperacao-extrajudicial.ghtml",
+      "data": "11/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/F_4JdDVgGUmNsgFXMBFMBAZygRc=/7667x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/v/53GAyLSYexwztTwcphZw/2026-03-09t131851z-472883162-rc2x0kauxfrw-rtrmadp-3-iran-crisis-energy-denmark.jpg"
+    },
+    {
+      "titulo": "Expansão, dívida alta e resultados em queda: entenda a crise da Raízen",
+      "link": "https://g1.globo.com/economia/negocios/noticia/2026/03/11/entenda-a-crise-da-raizen.ghtml",
+      "data": "11/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/CS1Yb4dsoFEkuYvcfGM2W8h7faM=/1357x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/j/BhResOSkOrBAreP9Ddug/usina-santa-elisa2.jpg"
+    },
+    {
+      "titulo": "Raízen entra com pedido de recuperação extrajudicial, com R$ 65,1 bilhões em dívidas",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/11/raizen-recuperacao-extrajudicial.ghtml",
+      "data": "11/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/2qTUSUpWrhkLvIc-oln_uHEOZ6U=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/V/6hFQlST0iVMfWZDEN3tg/raizen-1200px-v2-1773240962.jpg"
+    },
+    {
+      "titulo": "Iveco oferece capacitação gratuita para mulheres do transporte",
+      "link": "https://www.transportabrasil.com.br/2026/03/iveco-oferece-capacitacao-gratuita-para-mulheres-do-transporte/",
+      "data": "11/03/2026",
+      "fonte": "Transporta Brasil",
+      "prioridade": 1,
+      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/iveco-mulheres.jpg"
+    },
+    {
       "titulo": "Trump ameaça atacar usinas elétricas do Irã se país não abrir Estreito de Ormuz",
       "link": "https://www.infomoney.com.br/mercados/trump-ameaca-atacar-usinas-eletricas-do-ira-se-pais-nao-abrir-estreito-de-ormuz/",
       "data": "22/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 2,
-      "imagem": ""
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-20T203608Z_1331736961_RC2J8KAIZYBE_RTRMADP_3_USA-TRUMP.jpg?quality=70"
     },
     {
-      "titulo": "United Airlines corta voos que não dão lucro e projeta disparada no petróleo com guerra",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/united-airlines-corta-voos-que-nao-dao-lucro-e-projeta-disparada-no-petroleo-com-guerra.shtml",
+      "titulo": "Queda mais lenta da Selic traz desafio extra para empresas endividadas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/queda-mais-lenta-da-selic-traz-desafio-extra-para-empresas-endividadas.shtml",
       "data": "21/03/2026",
       "fonte": "Folha SP",
       "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/21/177412884669bf0ece1d4bf_1774128846_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Mais de 20 países se dizem prontos para ajudar a acabar com bloqueio em Hormuz",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/mais-de-20-paises-se-dizem-prontos-para-ajudar-a-acabar-com-bloqueio-em-hormuz.shtml",
-      "data": "21/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/10/177314952469b01d5473a38_1773149524_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Consumidores europeus buscam energia solar e veículos elétricos com disparada nos preços de energia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/consumidores-europeus-buscam-energia-solar-e-veiculos-eletricos-com-disparada-nos-precos-de-energia.shtml",
-      "data": "21/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/18/177388866069bb64942f9c7_1773888660_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Guerra mostra que estreito de Hormuz não é tão seguro e ressalta sua importância mundial",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/guerra-mostra-que-estreito-de-hormuz-nao-e-tao-seguro-e-ressalta-sua-importancia-mundial.shtml",
-      "data": "21/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/20/177404705369bdcf4d02e35_1774047053_3x2_xl.jpg"
-    },
-    {
-      "titulo": "Projeto acolhe detentas sem família em dia de 'saidinha' no interior de SP",
-      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/03/projeto-acolhe-detentas-sem-familia-em-dia-de-saidinha-no-interior-de-sp.shtml",
-      "data": "21/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/19/177395201769bc5c1153e24_1773952017_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Arábia Saudita expulsa funcionários da embaixada iraniana",
-      "link": "https://www.infomoney.com.br/mercados/arabia-saudita-expulsa-funcionarios-da-embaixada-iraniana/",
-      "data": "21/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 2,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Captura-de-tela-2026-03-03-133317.png?fit=933%2C601&quality=70&strip=all"
-    },
-    {
-      "titulo": "Ataques do Irã a bases dos EUA no Oriente Médio geraram prejuízo de R$ 4,2 bilhões",
-      "link": "https://www.infomoney.com.br/mundo/ataques-do-ira-a-bases-dos-eua-no-oriente-medio-geraram-prejuizo-de-r-42-bilhoes/",
-      "data": "21/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 2,
-      "imagem": ""
-    },
-    {
-      "titulo": "Conheça a Ilha Diego Garcia, base estratégica dos EUA que o Irã tentou atacar",
-      "link": "https://www.infomoney.com.br/mundo/conheca-a-ilha-diego-garcia-base-estrategica-dos-eua-que-o-ira-tentou-atacar/",
-      "data": "21/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 2,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/10/2024-09-06T112516Z_525206279_RC2YU9AY0SDL_RTRMADP_3_BRITAIN-MAURITIUS.jpg?quality=70"
-    },
-    {
-      "titulo": "Nuclear in the Spotlight amid Oil, Gas Crunch",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Nuclear-in-the-Spotlight-amid-Oil-Gas-Crunch.html",
-      "data": "21/03/2026",
-      "fonte": "OilPrice",
-      "prioridade": 2,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-20_mgjcvd8ttj.jpg"
-    },
-    {
-      "titulo": "Big Oil Flocks to Alaska in Record-Setting Petroleum Lease Sale",
-      "link": "https://oilprice.com/Energy/Energy-General/Big-Oil-Flocks-to-Alaska-in-Record-Setting-Petroleum-Lease-Sale.html",
-      "data": "21/03/2026",
-      "fonte": "OilPrice",
-      "prioridade": 2,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-20_ivgixepsp4.jpg"
-    },
-    {
-      "titulo": "AI Energy Demand Is Fueling a High-Stakes Bet on Nuclear Fusion",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/AI-Energy-Demand-Is-Fueling-a-High-Stakes-Bet-on-Nuclear-Fusion.html",
-      "data": "21/03/2026",
-      "fonte": "OilPrice",
-      "prioridade": 2,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-19_ztcqbpls7u.jpg"
-    },
-    {
-      "titulo": "Can Carbon Credits Clean Up Big Tech’s AI-Fueled Emissions Surge?",
-      "link": "https://oilprice.com/Energy/Energy-General/Can-Carbon-Credits-Clean-Up-Big-Techs-AI-Fueled-Emissions-Surge.html",
-      "data": "21/03/2026",
-      "fonte": "OilPrice",
-      "prioridade": 2,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-19_jkyvb59ke7.jpg"
-    },
-    {
-      "titulo": "Ras Laffan Attack Shatters Illusion of Global Gas Abundance",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Ras-Laffan-Attack-Shatters-Illusion-of-Global-Gas-Abundance.html",
-      "data": "21/03/2026",
-      "fonte": "OilPrice",
-      "prioridade": 2,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-21_l3flhyevgx.jpg"
-    },
-    {
-      "titulo": "Why the Iran War May Have Just Killed the AI Boom",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-the-Iran-War-May-Have-Just-Killed-the-AI-Boom.html",
-      "data": "20/03/2026",
-      "fonte": "OilPrice",
-      "prioridade": 2,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-20_fsvxuam1n2.jpg"
-    },
-    {
-      "titulo": "The Startup That Cracked the Code for Commercial Thermal Batteries",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Startup-That-Cracked-the-Code-for-Commercial-Thermal-Batteries.html",
-      "data": "20/03/2026",
-      "fonte": "OilPrice",
-      "prioridade": 2,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-20_iqbcblk5ef.jpg"
-    },
-    {
-      "titulo": "Why This Energy Shock Will Hit Consumers Harder Than 2011",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-This-Energy-Shock-Will-Hit-Consumers-Harder-Than-2011.html",
-      "data": "20/03/2026",
-      "fonte": "OilPrice",
-      "prioridade": 2,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-20_zo47jcmhdw.jpg"
-    },
-    {
-      "titulo": "Norway’s Output Holds Steady—but Spare Capacity Is Gone",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Output-Holds-Steadybut-Spare-Capacity-Is-Gone.html",
-      "data": "20/03/2026",
-      "fonte": "OilPrice",
-      "prioridade": 2,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-20_mqxgiruyif.jpg"
-    },
-    {
-      "titulo": "US Drillers Add Oil Rigs For Second Week In A Row As Prices Soar",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Drillers-Add-Oil-Rigs-For-Second-Week-In-A-Row-As-Prices-Soar.html",
-      "data": "20/03/2026",
-      "fonte": "OilPrice",
-      "prioridade": 2,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-20_v6cuxiskjg.jpg"
-    },
-    {
-      "titulo": "Oil Prices Ease As US Pulls Out All Stops To Secure Supply",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Ease-As-US-Pulls-Out-All-Stops-To-Secure-Supply.html",
-      "data": "20/03/2026",
-      "fonte": "OilPrice",
-      "prioridade": 2,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-03-20_bjl98nmdnz.jpg"
-    },
-    {
-      "titulo": "U.S. Bets on Natural Gas to Power 10 GW AI Buildout in Ohio",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Bets-on-Natural-Gas-to-Power-10-GW-AI-Buildout-in-Ohio.html",
-      "data": "20/03/2026",
-      "fonte": "OilPrice",
-      "prioridade": 2,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-03-20_otcmrnydje.jpg"
-    },
-    {
-      "titulo": "Why the Global Oil System Cannot Replace Hormuz Flows",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-the-Global-Oil-System-Cannot-Replace-Hormuz-Flows.html",
-      "data": "20/03/2026",
-      "fonte": "OilPrice",
-      "prioridade": 2,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-20_cdj8vhl6n1.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/08/29/175647729668b1b7709c3f6_1756477296_3x2_rt.jpg"
     }
   ],
-  "noticias_em": "22/03/2026 02:01 UTC",
-  "noticias_em_br": "21/03/2026 23:01"
+  "noticias_em": "22/03/2026 02:20 UTC",
+  "noticias_em_br": "21/03/2026 23:20"
 }
