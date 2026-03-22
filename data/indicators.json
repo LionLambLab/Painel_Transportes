@@ -1,6 +1,6 @@
 {
-  "gerado_em": "22/03/2026 02:39 UTC",
-  "gerado_em_br": "21/03/2026 23:39",
+  "gerado_em": "22/03/2026 18:28 UTC",
+  "gerado_em_br": "22/03/2026 15:28",
   "anp": {
     "semana_referencia": "08/03/2026 a 14/03/2026",
     "preco_atual": 6.89,
@@ -388,12 +388,20 @@
       "imagem": "https://s2-g1.glbimg.com/Db-P79uKvoosDjcDRQ7gM5kJraE=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/53/19/14451953"
     },
     {
+      "titulo": "Empresas dos EUA suspendem negociações de petróleo à espera de definição sobre guerra",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/empresas-dos-eua-suspendem-negociacoes-de-petroleo-a-espera-de-definicao-sobre-guerra.shtml",
+      "data": "22/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/19/177392112469bbe3645632d_1773921124_3x2_xl.jpg"
+    },
+    {
       "titulo": "24 navios atacados, oito pessoas mortas e 95% de queda no movimento: os números do bloqueio em Hormuz",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/24-navios-atacados-oito-pessoas-mortas-e-95-de-queda-no-movimento-os-numeros-do-bloqueio-em-hormuz.shtml",
       "data": "22/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": ""
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/11/177327251069b1fdbed18e3_1773272510_3x2_rt.jpg"
     },
     {
       "titulo": "El Niño e o anticristo se encontram em guerra no Irã",
@@ -561,7 +569,7 @@
       "data": "22/03/2026",
       "fonte": "Folha SP",
       "prioridade": 2,
-      "imagem": ""
+      "imagem": "https://f.i.uol.com.br/fotografia/2023/11/20/1700518647655bdaf7de6f2_1700518647_3x2_rt.jpg"
     },
     {
       "titulo": "Fechamento do estreito de Hormuz pode comprometer importação de fertlizantes, diz estudo",
@@ -572,38 +580,30 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2026/03/20/177404705369bdcf4d02e35_1774047053_3x2_xl.jpg"
     },
     {
+      "titulo": "Trump finalmente está de olho em uma saída do Irã; será que ele vai aproveitar?",
+      "link": "https://www.infomoney.com.br/business/global/trump-finalmente-esta-de-olho-em-uma-saida-do-ira-sera-que-ele-vai-aproveitar/",
+      "data": "22/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 2,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/TRUMP-IRAN-ASSESS-2_red.jpg?quality=70"
+    },
+    {
       "titulo": "Embaixador de Israel diz que ataques às usinas de energia do Irã serão possíveis",
       "link": "https://www.infomoney.com.br/mundo/embaixador-de-israel-diz-que-ataques-as-usinas-de-energia-do-ira-serao-possiveis/",
       "data": "22/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 2,
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/06/2025-06-16T131612Z_1346106641_RC223FAZPW7V_RTRMADP_3_IRAN-NUCLEAR-SITES.jpg?quality=70"
-    },
-    {
-      "titulo": "Papa Leão chama guerra no Oriente Médio de “escândalo” para humanidade",
-      "link": "https://www.infomoney.com.br/mundo/papa-leao-chama-guerra-no-oriente-medio-de-escandalo-para-humanidade/",
-      "data": "22/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 2,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-23T203246Z_1_LYNXMPELBM0V6_RTROPTP_4_POPE-AUDIENCE.jpg?quality=70"
-    },
-    {
-      "titulo": "Trump e Irã ameaçam intensificar conflito com ataques a instalações de energia e água",
-      "link": "https://www.infomoney.com.br/mundo/trump-e-ira-ameacam-intensificar-conflito-com-ataques-a-instalacoes-de-energia-e-agua/",
-      "data": "22/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 2,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-02-28T144235Z_1199751289_RC22VJAWFIG5_RTRMADP_3_IRAN-CRISIS-QATAR_red.jpg?fit=1920%2C1280&quality=70&strip=all"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "EUA devem ‘escalar para desescalar’ guerra contra Irã, diz secretário do Tesouro",
-      "link": "https://www.infomoney.com.br/mundo/eua-devem-escalar-para-desescalar-guerra-contra-ira-diz-secretario-do-tesouro/",
+      "titulo": "Empresas dos EUA suspendem negociações de petróleo à espera de definição sobre guerra",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/empresas-dos-eua-suspendem-negociacoes-de-petroleo-a-espera-de-definicao-sobre-guerra.shtml",
       "data": "22/03/2026",
-      "fonte": "InfoMoney",
+      "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-05-07T164114Z_1191878122_RC23DEABFTHR_RTRMADP_3_USA-CONGRESS-BESSENT.jpg?quality=70"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/19/177392112469bbe3645632d_1773921124_3x2_xl.jpg"
     },
     {
       "titulo": "24 navios atacados, oito pessoas mortas e 95% de queda no movimento: os números do bloqueio em Hormuz",
@@ -611,7 +611,7 @@
       "data": "22/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": ""
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/11/177327251069b1fdbed18e3_1773272510_3x2_rt.jpg"
     },
     {
       "titulo": "Sem citar Trump, premiê da China critica unilateralismo e promete ampliar abertura econômica",
@@ -659,7 +659,7 @@
       "data": "21/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": ""
+      "imagem": "https://f.i.uol.com.br/fotografia/2023/11/21/1700588960655ceda02789c_1700588960_3x2_rt.jpg"
     },
     {
       "titulo": "Queda mais lenta da Selic traz desafio extra para empresas endividadas",
@@ -667,7 +667,7 @@
       "data": "21/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": ""
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/08/29/175647729668b1b7709c3f6_1756477296_3x2_rt.jpg"
     },
     {
       "titulo": "Como aumentar salário mínimo sem onerar Previdência e sem desrespeitar Constituição",
@@ -676,14 +676,6 @@
       "fonte": "Folha SP",
       "prioridade": 1,
       "imagem": "https://f.i.uol.com.br/fotografia/2021/02/04/1612464269601c408db80d4_1612464269_3x2_xl.jpg"
-    },
-    {
-      "titulo": "United Airlines corta voos que não dão lucro e projeta disparada no petróleo com guerra",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/united-airlines-corta-voos-que-nao-dao-lucro-e-projeta-disparada-no-petroleo-com-guerra.shtml",
-      "data": "21/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/21/177412884669bf0ece1d4bf_1774128846_3x2_rt.jpg"
     },
     {
       "titulo": "Posso falar da minha demissão nas redes? 'Vlogs' sobre desligamentos viralizam, mas exigem cuidados",
@@ -702,6 +694,6 @@
       "imagem": "https://s2-g1.glbimg.com/Hp7jCQNx2Etd6jtwrIHzA7YYGV8=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/c/jwCXcyQtebshH6YsrKOA/honda-hrv-2026-f99a9930-fabio-tito.jpg"
     }
   ],
-  "noticias_em": "22/03/2026 17:53 UTC",
-  "noticias_em_br": "22/03/2026 14:53"
+  "noticias_em": "22/03/2026 18:28 UTC",
+  "noticias_em_br": "22/03/2026 15:28"
 }
