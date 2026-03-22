@@ -1,6 +1,6 @@
 {
-  "gerado_em": "21/03/2026 18:33 UTC",
-  "gerado_em_br": "21/03/2026 15:33",
+  "gerado_em": "22/03/2026 00:11 UTC",
+  "gerado_em_br": "21/03/2026 21:11",
   "anp": {
     "semana_referencia": "08/03/2026 a 14/03/2026",
     "preco_atual": 6.89,
@@ -301,7 +301,6 @@
   },
   "inctl": {
     "ultimo": 0.22,
-    "acum12": null,
     "series": [
       {
         "label": "Mar/25",
@@ -353,6 +352,64 @@
       }
     ],
     "fonte": "CNT",
-    "atualizado": "21/03/2026"
-  }
+    "atualizado": "22/03/2026"
+  },
+  "noticias": [
+    {
+      "titulo": "Nuclear in the Spotlight amid Oil, Gas Crunch",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Nuclear-in-the-Spotlight-amid-Oil-Gas-Crunch.html",
+      "data": "21/03/2026",
+      "fonte": "OilPrice"
+    },
+    {
+      "titulo": "Big Oil Flocks to Alaska in Record-Setting Petroleum Lease Sale",
+      "link": "https://oilprice.com/Energy/Energy-General/Big-Oil-Flocks-to-Alaska-in-Record-Setting-Petroleum-Lease-Sale.html",
+      "data": "21/03/2026",
+      "fonte": "OilPrice"
+    },
+    {
+      "titulo": "AI Energy Demand Is Fueling a High-Stakes Bet on Nuclear Fusion",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/AI-Energy-Demand-Is-Fueling-a-High-Stakes-Bet-on-Nuclear-Fusion.html",
+      "data": "21/03/2026",
+      "fonte": "OilPrice"
+    },
+    {
+      "titulo": "Can Carbon Credits Clean Up Big Tech’s AI-Fueled Emissions Surge?",
+      "link": "https://oilprice.com/Energy/Energy-General/Can-Carbon-Credits-Clean-Up-Big-Techs-AI-Fueled-Emissions-Surge.html",
+      "data": "21/03/2026",
+      "fonte": "OilPrice"
+    },
+    {
+      "titulo": "Why the Iran War May Have Just Killed the AI Boom",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-the-Iran-War-May-Have-Just-Killed-the-AI-Boom.html",
+      "data": "20/03/2026",
+      "fonte": "OilPrice"
+    },
+    {
+      "titulo": "Why This Energy Shock Will Hit Consumers Harder Than 2011",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-This-Energy-Shock-Will-Hit-Consumers-Harder-Than-2011.html",
+      "data": "20/03/2026",
+      "fonte": "OilPrice"
+    },
+    {
+      "titulo": "Norway’s Output Holds Steady—but Spare Capacity Is Gone",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Output-Holds-Steadybut-Spare-Capacity-Is-Gone.html",
+      "data": "20/03/2026",
+      "fonte": "OilPrice"
+    },
+    {
+      "titulo": "US Drillers Add Oil Rigs For Second Week In A Row As Prices Soar",
+      "link": "https://oilprice.com/Energy/Crude-Oil/US-Drillers-Add-Oil-Rigs-For-Second-Week-In-A-Row-As-Prices-Soar.html",
+      "data": "20/03/2026",
+      "fonte": "OilPrice"
+    },
+    {
+      "titulo": "Oil Prices Ease As US Pulls Out All Stops To Secure Supply",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Ease-As-US-Pulls-Out-All-Stops-To-Secure-Supply.html",
+      "data": "20/03/2026",
+      "fonte": "OilPrice"
+    }
+  ],
+  "noticias_em": "22/03/2026 00:11 UTC",
+  "noticias_em_br": "21/03/2026 21:11"
 }
