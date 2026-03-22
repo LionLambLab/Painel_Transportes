@@ -1,6 +1,6 @@
 {
-  "gerado_em": "22/03/2026 00:12 UTC",
-  "gerado_em_br": "21/03/2026 21:12",
+  "gerado_em": "22/03/2026 00:33 UTC",
+  "gerado_em_br": "21/03/2026 21:33",
   "anp": {
     "semana_referencia": "08/03/2026 a 14/03/2026",
     "preco_atual": 6.89,
@@ -356,6 +356,36 @@
   },
   "noticias": [
     {
+      "titulo": "Honda HR-V EXL ainda é boa compra? Veja comparação com novos rivais WR-V e Yaris Cross",
+      "link": "https://g1.globo.com/carros/noticia/2026/03/21/honda-hr-v-exl-ainda-e-boa-compra-veja-comparacao-com-novos-rivais-wr-v-e-yaris-cross.ghtml",
+      "data": "21/03/2026",
+      "fonte": "G1 Economia"
+    },
+    {
+      "titulo": "Por que setor fez alerta para risco de falta de diesel no Brasil — e o que o governo está fazendo",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/21/por-que-setor-fez-alerta-para-risco-de-falta-de-diesel-no-brasil-e-o-que-o-governo-esta-fazendo.ghtml",
+      "data": "21/03/2026",
+      "fonte": "G1 Economia"
+    },
+    {
+      "titulo": "Conheça a Ilha Diego Garcia, base estratégica dos EUA que o Irã tentou atacar",
+      "link": "https://www.infomoney.com.br/mundo/conheca-a-ilha-diego-garcia-base-estrategica-dos-eua-que-o-ira-tentou-atacar/",
+      "data": "21/03/2026",
+      "fonte": "InfoMoney"
+    },
+    {
+      "titulo": "Governo Trump suspende sanções contra petróleo iraniano para tentar conter preços",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/20/governo-trump-sancoes-petroleo-iraniano.ghtml",
+      "data": "20/03/2026",
+      "fonte": "G1 Economia"
+    },
+    {
+      "titulo": "Preço médio do diesel sobe quase 20% nos postos desde o início da guerra e chega a R$ 7,26, diz ANP",
+      "link": "https://g1.globo.com/carros/noticia/2026/03/20/preco-medio-do-diesel-sobe-guerra-oriente.ghtml",
+      "data": "20/03/2026",
+      "fonte": "G1 Economia"
+    },
+    {
       "titulo": "Nuclear in the Spotlight amid Oil, Gas Crunch",
       "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Nuclear-in-the-Spotlight-amid-Oil-Gas-Crunch.html",
       "data": "21/03/2026",
@@ -410,6 +440,6 @@
       "fonte": "OilPrice"
     }
   ],
-  "noticias_em": "22/03/2026 00:12 UTC",
-  "noticias_em_br": "21/03/2026 21:12"
+  "noticias_em": "22/03/2026 00:33 UTC",
+  "noticias_em_br": "21/03/2026 21:33"
 }
