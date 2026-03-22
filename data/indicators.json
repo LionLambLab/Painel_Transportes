@@ -1,6 +1,6 @@
 {
-  "gerado_em": "22/03/2026 01:46 UTC",
-  "gerado_em_br": "21/03/2026 22:46",
+  "gerado_em": "22/03/2026 02:01 UTC",
+  "gerado_em_br": "21/03/2026 23:01",
   "anp": {
     "semana_referencia": "08/03/2026 a 14/03/2026",
     "preco_atual": 6.89,
@@ -425,7 +425,7 @@
       "data": "22/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 2,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-20T203608Z_1331736961_RC2J8KAIZYBE_RTRMADP_3_USA-TRUMP.jpg?quality=70"
+      "imagem": ""
     },
     {
       "titulo": "United Airlines corta voos que não dão lucro e projeta disparada no petróleo com guerra",
@@ -481,7 +481,7 @@
       "data": "21/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 2,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-01T224253Z_1771809226_RC2XVJABFKOO_RTRMADP_3_IRAN-CRISIS-GULF-BAHRAIN.jpg?quality=70"
+      "imagem": ""
     },
     {
       "titulo": "Conheça a Ilha Diego Garcia, base estratégica dos EUA que o Irã tentou atacar",
@@ -596,6 +596,6 @@
       "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-20_cdj8vhl6n1.jpg"
     }
   ],
-  "noticias_em": "22/03/2026 01:46 UTC",
-  "noticias_em_br": "21/03/2026 22:46"
+  "noticias_em": "22/03/2026 02:01 UTC",
+  "noticias_em_br": "21/03/2026 23:01"
 }
