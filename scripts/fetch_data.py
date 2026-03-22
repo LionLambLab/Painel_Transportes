@@ -217,6 +217,88 @@ def fetch_news():
 
 
 
+# ─────────────────────────────────────────────────────────────────
+# NOTÍCIAS ECONOMICS — para KPI's Economics tab
+# ─────────────────────────────────────────────────────────────────
+
+ECON_NEWS_SOURCES = [
+    # Principais fontes de macro/economia
+    ('https://valor.globo.com/rss/financas',                       'Valor Econômico'),
+    ('https://valor.globo.com/rss/brasil',                         'Valor Econômico'),
+    ('https://www.infomoney.com.br/feed/',                         'InfoMoney'),
+    ('https://feeds.folha.uol.com.br/mercado/rss091.xml',          'Folha SP'),
+    ('https://agenciabrasil.ebc.com.br/economia/feed',             'Agência Brasil'),
+    ('https://g1.globo.com/rss/g1/economia/',                      'G1'),
+    ('https://www.cnnbrasil.com.br/economia/feed/',                 'CNN Brasil'),
+    ('https://www.uol.com.br/rss/economia',                        'UOL'),
+    ('https://feeds.reuters.com/reuters/businessNews',             'Reuters'),
+    ('https://exame.com/feed/',                                    'Exame'),
+]
+
+ECON_KEYWORDS = re.compile(
+    r'ipca|igpm|igp-m|infl[aã]|inpc|deflac|pre[cç]o.{0,10}consumidor|'
+    r'selic|copom|juros|taxa.{0,10}bás|banco.{0,10}central|bcb|bacen|politica.{0,10}monetar|'
+    r'd[oó]lar|câmbio|cambio|real.{0,8}desvalori|real.{0,8}valori|brl|ptax|'
+    r'pib|produto.{0,10}interno|crescimento.{0,10}econom|desemprego|caged|pnad|'
+    r'dficit|superávit|superavit|fiscal|arc.{0,6}fiscal|previdência|imposto|arrecad|tesouro|'
+    r'spread|cds|risco.{0,10}brasil|embi|'
+    r'commodit|petroleo|barril|soja|milho|minério',
+    re.IGNORECASE
+)
+
+def fetch_econ_news():
+    print('📥 Notícias Economics...')
+    items = []
+    ok_sources = 0
+    for url, src in ECON_NEWS_SOURCES:
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+            if not r.ok: continue
+            root = ET.fromstring(r.content)
+            count = 0
+            for item in root.findall('.//item')[:12]:
+                def tag(t, item=item):
+                    el = item.find(t)
+                    return (el.text or '').strip() if el is not None else ''
+                title = tag('title'); link = tag('link') or tag('guid')
+                pub = tag('pubDate'); desc = tag('description') or ''
+                if not title or len(title) < 8: continue
+                if not ECON_KEYWORDS.search(title + ' ' + desc): continue
+                items.append({
+                    'titulo':     title[:160],
+                    'link':       link,
+                    'data':       parse_pub(pub),
+                    'fonte':      src,
+                    'prioridade': 1,
+                    'imagem':     get_og_image(link),
+                })
+                count += 1
+            if count > 0:
+                ok_sources += 1
+                print(f'  ✅ {src}: {count}')
+        except Exception as e:
+            print(f'  ⚠️  {src}: {e}')
+
+    # Filter 15 days, dedup, sort
+    cutoff_dt = datetime.utcnow() - timedelta(days=15)
+    def is_recent(item):
+        d = item['data']
+        if not d or len(d) < 8: return True
+        try:
+            p = d.split('/')
+            return datetime(int(p[2]),int(p[1]),int(p[0])) >= cutoff_dt
+        except: return True
+    items = [x for x in items if is_recent(x)]
+    seen = set(); deduped = []
+    for item in items:
+        k = item['titulo'][:55].lower().strip()
+        if k not in seen: seen.add(k); deduped.append(item)
+    deduped.sort(key=lambda x: x['data'], reverse=True)
+    result = deduped[:25]
+    print(f'  📰 Economics: {len(result)} notícias | {ok_sources}/{len(ECON_NEWS_SOURCES)} fontes')
+    return result
+
+
 # ─────────────────────────────────────────────
 # ANP — DIESEL S10
 # ─────────────────────────────────────────────
@@ -419,6 +501,7 @@ def main():
     if mode == 'news':
         # Only update news + timestamp
         existing['noticias']       = fetch_news()
+        existing['econ_noticias']  = fetch_econ_news()
         existing['noticias_em']    = now_utc.strftime('%d/%m/%Y %H:%M UTC')
         existing['noticias_em_br'] = (now_utc - timedelta(hours=3)).strftime('%d/%m/%Y %H:%M')
         output = existing
@@ -433,9 +516,10 @@ def main():
             'selic':  fetch_selic(),
             'usd_brl':fetch_usd(),
             'inctl':  fetch_inctl(),
-            'noticias':     fetch_news(),
-            'noticias_em':  now_utc.strftime('%d/%m/%Y %H:%M UTC'),
-            'noticias_em_br':(now_utc - timedelta(hours=3)).strftime('%d/%m/%Y %H:%M'),
+            'noticias':       fetch_news(),
+            'econ_noticias':  fetch_econ_news(),
+            'noticias_em':    now_utc.strftime('%d/%m/%Y %H:%M UTC'),
+            'noticias_em_br': (now_utc - timedelta(hours=3)).strftime('%d/%m/%Y %H:%M'),
         }
 
     with open(OUTPUT_PATH,'w',encoding='utf-8') as f:
