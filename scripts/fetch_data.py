@@ -54,79 +54,127 @@ def bcb_sgs(cod, n=15):
 # ─────────────────────────────────────────────
 
 NEWS_SOURCES = [
-    # ── Nacionais (prioridade) ───────────────────────────────────
-    ('https://agenciabrasil.ebc.com.br/economia/feed',        'Ag. Brasil'),
-    ('https://www.cnnbrasil.com.br/economia/feed/',            'CNN Brasil'),
-    ('https://valor.globo.com/rss/economia',                   'Valor Econ.'),
-    ('https://g1.globo.com/rss/g1/economia/',                  'G1 Economia'),
-    ('https://www.infomoney.com.br/feed/',                     'InfoMoney'),
-    # ── Internacionais (complemento) ────────────────────────────
-    ('https://oilprice.com/rss/main',                         'OilPrice'),
-    ('https://oilprice.com/rss/category/6',                   'OilPrice'),
-    ('https://feeds.reuters.com/reuters/businessNews',        'Reuters'),
+    # Agencias e portais nacionais
+    ('https://agenciabrasil.ebc.com.br/economia/feed',             'Agencia Brasil'),
+    ('https://agenciabrasil.ebc.com.br/geral/feed',                'Agencia Brasil'),
+    ('https://g1.globo.com/rss/g1/economia/',                      'G1'),
+    ('https://g1.globo.com/rss/g1/brasil/',                        'G1'),
+    ('https://www.cnnbrasil.com.br/economia/feed/',                 'CNN Brasil'),
+    ('https://www.uol.com.br/rss/economia',                        'UOL Economia'),
+    ('https://noticias.r7.com/rss/economia.xml',                   'R7'),
+    # Jornais nacionais
+    ('https://feeds.folha.uol.com.br/mercado/rss091.xml',          'Folha SP'),
+    ('https://feeds.folha.uol.com.br/cotidiano/rss091.xml',        'Folha SP'),
+    ('https://valor.globo.com/rss/economia',                       'Valor Economico'),
+    ('https://valor.globo.com/rss/empresas',                       'Valor Economico'),
+    ('https://www.infomoney.com.br/feed/',                         'InfoMoney'),
+    ('https://exame.com/feed/',                                    'Exame'),
+    # Associacoes e entidades do setor
+    ('https://www.cnt.org.br/feed',                                'CNT'),
+    ('https://www.ntcelogistica.org.br/feed/',                     'NTC'),
+    # Governo e reguladores
+    ('https://www.gov.br/anp/pt-br/assuntos/noticias/RSS',         'ANP'),
+    # Internacionais
+    ('https://oilprice.com/rss/main',                              'OilPrice'),
+    ('https://feeds.reuters.com/reuters/businessNews',             'Reuters'),
 ]
 
-KEYWORDS = re.compile(
-    r'diesel|combustivel|gasolina|petr[oó]leo|brent|petrobras|'
-    r'frete|caminhon|transporte|antt|opep|opec|barril|'
-    r'etanol|biocombust|energia|oil|crude|fuel|wti',
+KEYWORDS_PRIORITY = re.compile(
+    r'greve|paralisa|caminhoneiro|caminhao|caminhoes|frete|'
+    r'diesel|combustivel|gasolina|etanol|gnv|'
+    r'antt|transporte rodoviar|'
+    r'petrobras|reajuste|preco.{0,10}combustiv',
     re.IGNORECASE
 )
+
+KEYWORDS_SECONDARY = re.compile(
+    r'petr[oe]leo|brent|wti|barril|refinaria|'
+    r'opep|opec|iran|saudi|russia|ukraine|'
+    r'dolar|cambio|selic|inflacao|ipca|igpm|'
+    r'logistica|infraestrutura|rodovia|pedagio|'
+    r'oil|crude|fuel|energy|energia',
+    re.IGNORECASE
+)
+
+def classify_news(title, desc):
+    text = title + ' ' + (desc or '')
+    if KEYWORDS_PRIORITY.search(text):
+        return 1
+    if KEYWORDS_SECONDARY.search(text):
+        return 2
+    return None
 
 def parse_pub(pub):
     if not pub: return ''
     try: return parsedate_to_datetime(pub).strftime('%d/%m/%Y')
-    except: return pub[:10] if len(pub)>=10 else pub
+    except: return pub[:10] if len(pub) >= 10 else pub
 
 def fetch_news():
-    print('📥 Notícias...')
+    print('Clipping de noticias...')
     items = []
+    ok_sources = 0
+
     for url, src in NEWS_SOURCES:
         try:
             r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
-            if not r.ok: continue
+            if not r.ok:
+                print(f'  skip {src}: HTTP {r.status_code}')
+                continue
             root = ET.fromstring(r.content)
             count = 0
-            for item in root.findall('.//item')[:12]:
-                def tag(t):
+            for item in root.findall('.//item')[:15]:
+                def tag(t, item=item):
                     el = item.find(t)
                     return (el.text or '').strip() if el is not None else ''
-                title = tag('title'); link = tag('link') or tag('guid')
-                pub   = tag('pubDate'); desc = tag('description') or ''
-                if not title or len(title)<8: continue
-                if not KEYWORDS.search(title+' '+desc): continue
-                items.append({'titulo':title[:150],'link':link,'data':parse_pub(pub),'fonte':src})
+                title = tag('title')
+                link  = tag('link') or tag('guid')
+                pub   = tag('pubDate')
+                desc  = tag('description') or ''
+                if not title or len(title) < 8: continue
+                prio = classify_news(title, desc)
+                if prio is None: continue
+                items.append({
+                    'titulo':     title[:160],
+                    'link':       link,
+                    'data':       parse_pub(pub),
+                    'fonte':      src,
+                    'prioridade': prio,
+                })
                 count += 1
-            print(f'  ✅ {src}: {count}')
+            if count > 0:
+                ok_sources += 1
+                print(f'  ok {src}: {count}')
         except Exception as e:
-            print(f'  ⚠️  {src}: {e}')
-    # Filter: last 15 days
-    from datetime import datetime, timedelta as td
-    cutoff_dt = datetime.utcnow() - td(days=15)
+            print(f'  err {src}: {e}')
+
+    # Filter last 15 days
+    cutoff_dt = datetime.utcnow() - timedelta(days=15)
     def is_recent(item):
         d = item['data']
         if not d or len(d) < 8: return True
         try:
-            parts = d.split('/')
-            return datetime(int(parts[2]), int(parts[1]), int(parts[0])) >= cutoff_dt
+            p = d.split('/')
+            return datetime(int(p[2]), int(p[1]), int(p[0])) >= cutoff_dt
         except: return True
     items = [x for x in items if is_recent(x)]
 
     # Deduplicate
-    seen = set(); out = []
+    seen = set(); deduped = []
     for item in items:
-        k = item['titulo'][:50].lower().strip()
-        if k not in seen: seen.add(k); out.append(item)
+        k = item['titulo'][:55].lower().strip()
+        if k not in seen:
+            seen.add(k)
+            deduped.append(item)
 
-    # Sort: nationals first, then by date desc
-    BR_SOURCES = {'Ag. Brasil','CNN Brasil','Valor Econ.','G1 Economia','InfoMoney'}
-    out.sort(key=lambda x: (1 if x['fonte'] in BR_SOURCES else 2, x['data']), reverse=False)
-    out.sort(key=lambda x: x['data'], reverse=True)
-    out.sort(key=lambda x: 0 if x['fonte'] in BR_SOURCES else 1)
+    # Sort: priority 1 first, then date desc
+    deduped.sort(key=lambda x: x['data'], reverse=True)
+    deduped.sort(key=lambda x: x['prioridade'])
 
-    result = out[:25]
-    print(f'  📰 {len(result)} notícias únicas')
+    result = deduped[:30]
+    print(f'  Total: {len(result)} noticias | {ok_sources}/{len(NEWS_SOURCES)} fontes')
     return result
+
+
 
 # ─────────────────────────────────────────────
 # ANP — DIESEL S10
