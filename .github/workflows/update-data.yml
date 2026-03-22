@@ -2,8 +2,16 @@ name: Atualizar Dados ANP + Indicadores
 
 on:
   schedule:
-    - cron: '0 17 * * *'
+    - cron: '0 17 * * *'      # Todo dia 14h BRT (notícias)
+    - cron: '0 12 1,15 * *'   # Dia 1 e 15 de cada mês, 9h BRT (indicadores)
   workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Modo de execução'
+        required: false
+        default: 'full'
+        type: choice
+        options: [full, news, indicators]
 
 jobs:
   update:
@@ -23,16 +31,25 @@ jobs:
       - name: Instalar dependências
         run: pip install requests pandas
 
-      - name: Executar coleta (modo automático)
+      - name: Detectar modo e executar coleta
         run: |
           WEEKDAY=$(date -u +%u)
-          if [ "$WEEKDAY" = "1" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "🔄 Modo COMPLETO (ANP + BCB + Notícias)"
-            python scripts/fetch_data.py --mode=full
+          DAY=$(date -u +%d)
+          EVENT="${{ github.event_name }}"
+          MANUAL_MODE="${{ github.event.inputs.mode }}"
+
+          if [ "$EVENT" = "workflow_dispatch" ]; then
+            MODE="${MANUAL_MODE:-full}"
+          elif [ "$DAY" = "01" ] || [ "$DAY" = "15" ]; then
+            MODE="full"
+          elif [ "$WEEKDAY" = "1" ]; then
+            MODE="full"
           else
-            echo "📰 Modo NOTÍCIAS apenas"
-            python scripts/fetch_data.py --mode=news
+            MODE="news"
           fi
+
+          echo "▶ Executando modo: $MODE"
+          python scripts/fetch_data.py --mode=$MODE
 
       - name: Commitar dados atualizados
         run: |
