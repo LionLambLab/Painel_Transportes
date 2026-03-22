@@ -1,6 +1,6 @@
 {
-  "gerado_em": "22/03/2026 01:30 UTC",
-  "gerado_em_br": "21/03/2026 22:30",
+  "gerado_em": "22/03/2026 01:46 UTC",
+  "gerado_em_br": "21/03/2026 22:46",
   "anp": {
     "semana_referencia": "08/03/2026 a 14/03/2026",
     "preco_atual": 6.89,
@@ -360,212 +360,242 @@
       "link": "https://g1.globo.com/carros/noticia/2026/03/21/honda-hr-v-exl-ainda-e-boa-compra-veja-comparacao-com-novos-rivais-wr-v-e-yaris-cross.ghtml",
       "data": "21/03/2026",
       "fonte": "G1",
-      "prioridade": 1
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/Hp7jCQNx2Etd6jtwrIHzA7YYGV8=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/c/jwCXcyQtebshH6YsrKOA/honda-hrv-2026-f99a9930-fabio-tito.jpg"
     },
     {
       "titulo": "Por que setor fez alerta para risco de falta de diesel no Brasil — e o que o governo está fazendo",
       "link": "https://g1.globo.com/economia/noticia/2026/03/21/por-que-setor-fez-alerta-para-risco-de-falta-de-diesel-no-brasil-e-o-que-o-governo-esta-fazendo.ghtml",
       "data": "21/03/2026",
       "fonte": "G1",
-      "prioridade": 1
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/zDy9V7sO-LKKPh41jxx3GRlSphk=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/07/56/14445607"
     },
     {
       "titulo": "Alta do diesel é das maiores do século, há pânicos na finança e nos governos",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/03/alta-do-diesel-e-das-maiores-do-seculo-ha-panicos-na-financa-e-nos-governos.shtml",
       "data": "21/03/2026",
       "fonte": "Folha SP",
-      "prioridade": 1
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/21/177412277169bef7130bf87_1774122771_3x2_rt.jpg"
     },
     {
       "titulo": "Guerra no Irã faz setor aéreo enfrentar sua maior crise desde a pandemia",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/guerra-no-ira-faz-setor-aereo-enfrentar-sua-maior-crise-desde-a-pandemia.shtml",
       "data": "21/03/2026",
       "fonte": "Folha SP",
-      "prioridade": 1
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/21/177410404769beadef2b43b_1774104047_3x2_rt.jpg"
     },
     {
       "titulo": "Municípios do RS restringem serviços por falta de diesel, diz federação",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/municipios-do-rs-restringem-servicos-por-falta-de-diesel-diz-federacao.shtml",
       "data": "21/03/2026",
       "fonte": "Folha SP",
-      "prioridade": 1
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/21/177410615369beb629ae019_1774106153_3x2_lg.jpg"
     },
     {
       "titulo": "Governo Trump suspende sanções contra petróleo iraniano para tentar conter preços",
       "link": "https://g1.globo.com/economia/noticia/2026/03/20/governo-trump-sancoes-petroleo-iraniano.ghtml",
       "data": "20/03/2026",
       "fonte": "G1",
-      "prioridade": 1
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/lCHVPdlugENP4nYuyk0oz53M8rw=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/u/rlmCAFSxiTrpbUjXJ5cA/2026-03-18t214048z-1013148856-rc2mwja0qpho-rtrmadp-3-iran-crisis-funds.jpg"
     },
     {
       "titulo": "Preço médio do diesel sobe quase 20% nos postos desde o início da guerra e chega a R$ 7,26, diz ANP",
       "link": "https://g1.globo.com/carros/noticia/2026/03/20/preco-medio-do-diesel-sobe-guerra-oriente.ghtml",
       "data": "20/03/2026",
       "fonte": "G1",
-      "prioridade": 1
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/FGLT4Tn_SS2SCDrWo8h0rFKNf68=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/t/gyceNnTY6AEXrGBfQrlA/afp-20260309-a2hz8mv-v1-midres-francewariranusisraeloil.jpg"
     },
     {
       "titulo": "Novo ministro da Fazenda aguarda resposta dos estados em proposta sobre diesel e diz que 'impacto da guerra será o mínimo possível'",
       "link": "https://g1.globo.com/economia/noticia/2026/03/20/novo-ministro-da-fazenda-aguarda-reposta-dos-estados-em-proposta-sobre-diesel-e-diz-que-impacto-da-guerra-sera-o-menor-possivel.ghtml",
       "data": "20/03/2026",
       "fonte": "G1",
-      "prioridade": 1
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/On4fx4OdOvMJKmp3dcf_a0iR3iA=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/w/5/F5EKNOTVyTh7HhlVCWyw/54537555267-f2af500b6d-o.jpg"
     },
     {
       "titulo": "Trump ameaça atacar usinas elétricas do Irã se país não abrir Estreito de Ormuz",
       "link": "https://www.infomoney.com.br/mercados/trump-ameaca-atacar-usinas-eletricas-do-ira-se-pais-nao-abrir-estreito-de-ormuz/",
       "data": "22/03/2026",
       "fonte": "InfoMoney",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-20T203608Z_1331736961_RC2J8KAIZYBE_RTRMADP_3_USA-TRUMP.jpg?quality=70"
     },
     {
       "titulo": "United Airlines corta voos que não dão lucro e projeta disparada no petróleo com guerra",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/united-airlines-corta-voos-que-nao-dao-lucro-e-projeta-disparada-no-petroleo-com-guerra.shtml",
       "data": "21/03/2026",
       "fonte": "Folha SP",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/21/177412884669bf0ece1d4bf_1774128846_3x2_rt.jpg"
     },
     {
       "titulo": "Mais de 20 países se dizem prontos para ajudar a acabar com bloqueio em Hormuz",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/mais-de-20-paises-se-dizem-prontos-para-ajudar-a-acabar-com-bloqueio-em-hormuz.shtml",
       "data": "21/03/2026",
       "fonte": "Folha SP",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/10/177314952469b01d5473a38_1773149524_3x2_rt.jpg"
     },
     {
       "titulo": "Consumidores europeus buscam energia solar e veículos elétricos com disparada nos preços de energia",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/consumidores-europeus-buscam-energia-solar-e-veiculos-eletricos-com-disparada-nos-precos-de-energia.shtml",
       "data": "21/03/2026",
       "fonte": "Folha SP",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/18/177388866069bb64942f9c7_1773888660_3x2_rt.jpg"
     },
     {
       "titulo": "Guerra mostra que estreito de Hormuz não é tão seguro e ressalta sua importância mundial",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/guerra-mostra-que-estreito-de-hormuz-nao-e-tao-seguro-e-ressalta-sua-importancia-mundial.shtml",
       "data": "21/03/2026",
       "fonte": "Folha SP",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/20/177404705369bdcf4d02e35_1774047053_3x2_xl.jpg"
     },
     {
       "titulo": "Projeto acolhe detentas sem família em dia de 'saidinha' no interior de SP",
       "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/03/projeto-acolhe-detentas-sem-familia-em-dia-de-saidinha-no-interior-de-sp.shtml",
       "data": "21/03/2026",
       "fonte": "Folha SP",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/19/177395201769bc5c1153e24_1773952017_3x2_rt.jpg"
     },
     {
       "titulo": "Arábia Saudita expulsa funcionários da embaixada iraniana",
       "link": "https://www.infomoney.com.br/mercados/arabia-saudita-expulsa-funcionarios-da-embaixada-iraniana/",
       "data": "21/03/2026",
       "fonte": "InfoMoney",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Captura-de-tela-2026-03-03-133317.png?fit=933%2C601&quality=70&strip=all"
     },
     {
       "titulo": "Ataques do Irã a bases dos EUA no Oriente Médio geraram prejuízo de R$ 4,2 bilhões",
       "link": "https://www.infomoney.com.br/mundo/ataques-do-ira-a-bases-dos-eua-no-oriente-medio-geraram-prejuizo-de-r-42-bilhoes/",
       "data": "21/03/2026",
       "fonte": "InfoMoney",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-01T224253Z_1771809226_RC2XVJABFKOO_RTRMADP_3_IRAN-CRISIS-GULF-BAHRAIN.jpg?quality=70"
     },
     {
       "titulo": "Conheça a Ilha Diego Garcia, base estratégica dos EUA que o Irã tentou atacar",
       "link": "https://www.infomoney.com.br/mundo/conheca-a-ilha-diego-garcia-base-estrategica-dos-eua-que-o-ira-tentou-atacar/",
       "data": "21/03/2026",
       "fonte": "InfoMoney",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/10/2024-09-06T112516Z_525206279_RC2YU9AY0SDL_RTRMADP_3_BRITAIN-MAURITIUS.jpg?quality=70"
     },
     {
       "titulo": "Nuclear in the Spotlight amid Oil, Gas Crunch",
       "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Nuclear-in-the-Spotlight-amid-Oil-Gas-Crunch.html",
       "data": "21/03/2026",
       "fonte": "OilPrice",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-20_mgjcvd8ttj.jpg"
     },
     {
       "titulo": "Big Oil Flocks to Alaska in Record-Setting Petroleum Lease Sale",
       "link": "https://oilprice.com/Energy/Energy-General/Big-Oil-Flocks-to-Alaska-in-Record-Setting-Petroleum-Lease-Sale.html",
       "data": "21/03/2026",
       "fonte": "OilPrice",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-20_ivgixepsp4.jpg"
     },
     {
       "titulo": "AI Energy Demand Is Fueling a High-Stakes Bet on Nuclear Fusion",
       "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/AI-Energy-Demand-Is-Fueling-a-High-Stakes-Bet-on-Nuclear-Fusion.html",
       "data": "21/03/2026",
       "fonte": "OilPrice",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-19_ztcqbpls7u.jpg"
     },
     {
       "titulo": "Can Carbon Credits Clean Up Big Tech’s AI-Fueled Emissions Surge?",
       "link": "https://oilprice.com/Energy/Energy-General/Can-Carbon-Credits-Clean-Up-Big-Techs-AI-Fueled-Emissions-Surge.html",
       "data": "21/03/2026",
       "fonte": "OilPrice",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-19_jkyvb59ke7.jpg"
     },
     {
       "titulo": "Ras Laffan Attack Shatters Illusion of Global Gas Abundance",
       "link": "https://oilprice.com/Energy/Natural-Gas/Ras-Laffan-Attack-Shatters-Illusion-of-Global-Gas-Abundance.html",
       "data": "21/03/2026",
       "fonte": "OilPrice",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-21_l3flhyevgx.jpg"
     },
     {
       "titulo": "Why the Iran War May Have Just Killed the AI Boom",
       "link": "https://oilprice.com/Energy/Energy-General/Why-the-Iran-War-May-Have-Just-Killed-the-AI-Boom.html",
       "data": "20/03/2026",
       "fonte": "OilPrice",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-20_fsvxuam1n2.jpg"
     },
     {
       "titulo": "The Startup That Cracked the Code for Commercial Thermal Batteries",
       "link": "https://oilprice.com/Energy/Energy-General/The-Startup-That-Cracked-the-Code-for-Commercial-Thermal-Batteries.html",
       "data": "20/03/2026",
       "fonte": "OilPrice",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-20_iqbcblk5ef.jpg"
     },
     {
       "titulo": "Why This Energy Shock Will Hit Consumers Harder Than 2011",
       "link": "https://oilprice.com/Energy/Energy-General/Why-This-Energy-Shock-Will-Hit-Consumers-Harder-Than-2011.html",
       "data": "20/03/2026",
       "fonte": "OilPrice",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-20_zo47jcmhdw.jpg"
     },
     {
       "titulo": "Norway’s Output Holds Steady—but Spare Capacity Is Gone",
       "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Output-Holds-Steadybut-Spare-Capacity-Is-Gone.html",
       "data": "20/03/2026",
       "fonte": "OilPrice",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-20_mqxgiruyif.jpg"
     },
     {
       "titulo": "US Drillers Add Oil Rigs For Second Week In A Row As Prices Soar",
       "link": "https://oilprice.com/Energy/Crude-Oil/US-Drillers-Add-Oil-Rigs-For-Second-Week-In-A-Row-As-Prices-Soar.html",
       "data": "20/03/2026",
       "fonte": "OilPrice",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-20_v6cuxiskjg.jpg"
     },
     {
       "titulo": "Oil Prices Ease As US Pulls Out All Stops To Secure Supply",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Ease-As-US-Pulls-Out-All-Stops-To-Secure-Supply.html",
       "data": "20/03/2026",
       "fonte": "OilPrice",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-03-20_bjl98nmdnz.jpg"
     },
     {
       "titulo": "U.S. Bets on Natural Gas to Power 10 GW AI Buildout in Ohio",
       "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Bets-on-Natural-Gas-to-Power-10-GW-AI-Buildout-in-Ohio.html",
       "data": "20/03/2026",
       "fonte": "OilPrice",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-03-20_otcmrnydje.jpg"
     },
     {
       "titulo": "Why the Global Oil System Cannot Replace Hormuz Flows",
       "link": "https://oilprice.com/Energy/Energy-General/Why-the-Global-Oil-System-Cannot-Replace-Hormuz-Flows.html",
       "data": "20/03/2026",
       "fonte": "OilPrice",
-      "prioridade": 2
+      "prioridade": 2,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-20_cdj8vhl6n1.jpg"
     }
   ],
-  "noticias_em": "22/03/2026 01:30 UTC",
-  "noticias_em_br": "21/03/2026 22:30"
+  "noticias_em": "22/03/2026 01:46 UTC",
+  "noticias_em_br": "21/03/2026 22:46"
 }
