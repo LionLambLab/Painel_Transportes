@@ -54,12 +54,16 @@ def bcb_sgs(cod, n=15):
 # ─────────────────────────────────────────────
 
 NEWS_SOURCES = [
-    ('https://oilprice.com/rss/main',                    'OilPrice'),
-    ('https://oilprice.com/rss/category/6',              'OilPrice'),
-    ('https://feeds.reuters.com/reuters/businessNews',   'Reuters'),
-    ('https://agenciabrasil.ebc.com.br/economia/feed',   'Ag. Brasil'),
-    ('https://www.cnnbrasil.com.br/economia/feed/',       'CNN Brasil'),
-    ('https://valor.globo.com/rss/economia',             'Valor Econ.'),
+    # ── Nacionais (prioridade) ───────────────────────────────────
+    ('https://agenciabrasil.ebc.com.br/economia/feed',        'Ag. Brasil'),
+    ('https://www.cnnbrasil.com.br/economia/feed/',            'CNN Brasil'),
+    ('https://valor.globo.com/rss/economia',                   'Valor Econ.'),
+    ('https://g1.globo.com/rss/g1/economia/',                  'G1 Economia'),
+    ('https://www.infomoney.com.br/feed/',                     'InfoMoney'),
+    # ── Internacionais (complemento) ────────────────────────────
+    ('https://oilprice.com/rss/main',                         'OilPrice'),
+    ('https://oilprice.com/rss/category/6',                   'OilPrice'),
+    ('https://feeds.reuters.com/reuters/businessNews',        'Reuters'),
 ]
 
 KEYWORDS = re.compile(
@@ -96,12 +100,31 @@ def fetch_news():
             print(f'  ✅ {src}: {count}')
         except Exception as e:
             print(f'  ⚠️  {src}: {e}')
+    # Filter: last 15 days
+    from datetime import datetime, timedelta as td
+    cutoff_dt = datetime.utcnow() - td(days=15)
+    def is_recent(item):
+        d = item['data']
+        if not d or len(d) < 8: return True
+        try:
+            parts = d.split('/')
+            return datetime(int(parts[2]), int(parts[1]), int(parts[0])) >= cutoff_dt
+        except: return True
+    items = [x for x in items if is_recent(x)]
+
+    # Deduplicate
     seen = set(); out = []
     for item in items:
         k = item['titulo'][:50].lower().strip()
         if k not in seen: seen.add(k); out.append(item)
+
+    # Sort: nationals first, then by date desc
+    BR_SOURCES = {'Ag. Brasil','CNN Brasil','Valor Econ.','G1 Economia','InfoMoney'}
+    out.sort(key=lambda x: (1 if x['fonte'] in BR_SOURCES else 2, x['data']), reverse=False)
     out.sort(key=lambda x: x['data'], reverse=True)
-    result = out[:20]
+    out.sort(key=lambda x: 0 if x['fonte'] in BR_SOURCES else 1)
+
+    result = out[:25]
     print(f'  📰 {len(result)} notícias únicas')
     return result
 
