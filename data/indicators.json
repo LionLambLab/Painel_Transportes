@@ -1,6 +1,6 @@
 {
-  "gerado_em": "22/03/2026 02:20 UTC",
-  "gerado_em_br": "21/03/2026 23:20",
+  "gerado_em": "22/03/2026 02:39 UTC",
+  "gerado_em_br": "21/03/2026 23:39",
   "anp": {
     "semana_referencia": "08/03/2026 a 14/03/2026",
     "preco_atual": 6.89,
@@ -596,6 +596,120 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2025/08/29/175647729668b1b7709c3f6_1756477296_3x2_rt.jpg"
     }
   ],
-  "noticias_em": "22/03/2026 02:20 UTC",
-  "noticias_em_br": "21/03/2026 23:20"
+  "econ_noticias": [
+    {
+      "titulo": "Quina hoje, concurso 6982: Confira o resultado sorteado neste sábado (21)",
+      "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-6982-confira-o-resultado-sorteado-neste-sabado-21/",
+      "data": "22/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?quality=70"
+    },
+    {
+      "titulo": "Mega-Sena, concurso 2.987: prêmio acumula e vai a R$ 13 milhões",
+      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/03/21/mega-sena-concurso-2987-confira-dezenas.ghtml",
+      "data": "22/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/zn4eP4Z2enCtPgfj2_EyqzaU70Y=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/Q/msgbjlTTqiYsZtVYmjfg/whatsapp-image-2026-01-03-at-12.29.30-12-.jpeg"
+    },
+    {
+      "titulo": "Famílias comprometem 29% da renda com dívidas, maior patamar em 20 anos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/familias-comprometem-29-da-renda-com-dividas-maior-patamar-em-20-anos.shtml",
+      "data": "21/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2023/11/21/1700588960655ceda02789c_1700588960_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Queda mais lenta da Selic traz desafio extra para empresas endividadas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/queda-mais-lenta-da-selic-traz-desafio-extra-para-empresas-endividadas.shtml",
+      "data": "21/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/08/29/175647729668b1b7709c3f6_1756477296_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Como aumentar salário mínimo sem onerar Previdência e sem desrespeitar Constituição",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/03/como-aumentar-salario-minimo-sem-onerar-previdencia-e-sem-desrespeitar-constituicao.shtml",
+      "data": "21/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2021/02/04/1612464269601c408db80d4_1612464269_3x2_xl.jpg"
+    },
+    {
+      "titulo": "United Airlines corta voos que não dão lucro e projeta disparada no petróleo com guerra",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/united-airlines-corta-voos-que-nao-dao-lucro-e-projeta-disparada-no-petroleo-com-guerra.shtml",
+      "data": "21/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/21/177412884669bf0ece1d4bf_1774128846_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Mais de 20 países se dizem prontos para ajudar a acabar com bloqueio em Hormuz",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/mais-de-20-paises-se-dizem-prontos-para-ajudar-a-acabar-com-bloqueio-em-hormuz.shtml",
+      "data": "21/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/10/177314952469b01d5473a38_1773149524_3x2_rt.jpg"
+    },
+    {
+      "titulo": "'Filho do pedreiro não quer mais ser pedreiro', diz CEO de construtora para público de altíssimo padrão",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/03/filho-do-pedreiro-nao-quer-mais-ser-pedreiro-diz-ceo-de-construtora-para-publico-de-altissimo-padrao.shtml",
+      "data": "21/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/19/177395759169bc71d7331a6_1773957591_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Posso falar da minha demissão nas redes? 'Vlogs' sobre desligamentos viralizam, mas exigem cuidados",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/21/vlogs-sobre-desligamentos-viralizam.ghtml",
+      "data": "21/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/cBO7zu1dYG6eZWOwbx8R9DNpH7A=/4088x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/7/prUEFbSSuScC9CUWBerg/demissao-tiktok.jpg"
+    },
+    {
+      "titulo": "Honda HR-V EXL ainda é boa compra? Veja comparação com novos rivais WR-V e Yaris Cross",
+      "link": "https://g1.globo.com/carros/noticia/2026/03/21/honda-hr-v-exl-ainda-e-boa-compra-veja-comparacao-com-novos-rivais-wr-v-e-yaris-cross.ghtml",
+      "data": "21/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/Hp7jCQNx2Etd6jtwrIHzA7YYGV8=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/c/jwCXcyQtebshH6YsrKOA/honda-hrv-2026-f99a9930-fabio-tito.jpg"
+    },
+    {
+      "titulo": "Por que setor fez alerta para risco de falta de diesel no Brasil — e o que o governo está fazendo",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/21/por-que-setor-fez-alerta-para-risco-de-falta-de-diesel-no-brasil-e-o-que-o-governo-esta-fazendo.ghtml",
+      "data": "21/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/zDy9V7sO-LKKPh41jxx3GRlSphk=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/07/56/14445607"
+    },
+    {
+      "titulo": "Governo Trump suspende sanções contra petróleo iraniano para tentar conter preços",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/20/governo-trump-sancoes-petroleo-iraniano.ghtml",
+      "data": "20/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/lCHVPdlugENP4nYuyk0oz53M8rw=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/u/rlmCAFSxiTrpbUjXJ5cA/2026-03-18t214048z-1013148856-rc2mwja0qpho-rtrmadp-3-iran-crisis-funds.jpg"
+    },
+    {
+      "titulo": "Banco Central comunica vazamento de dados cadastrais de 28,2 mil chaves PIX da Pefisa",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/20/bc-comunica-vazamento-de-dados-cadastrais-de-282-mil-chaves-pix-da-pefisa.ghtml",
+      "data": "20/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/wxuJt9lyG4Jm02m2kJ1IAaRYkB0=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/k/kZw0OmTfKw9mzF6XOO6g/pix-errado.jpg"
+    },
+    {
+      "titulo": "Preço médio do diesel sobe quase 20% nos postos desde o início da guerra e chega a R$ 7,26, diz ANP",
+      "link": "https://g1.globo.com/carros/noticia/2026/03/20/preco-medio-do-diesel-sobe-guerra-oriente.ghtml",
+      "data": "20/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/FGLT4Tn_SS2SCDrWo8h0rFKNf68=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/t/gyceNnTY6AEXrGBfQrlA/afp-20260309-a2hz8mv-v1-midres-francewariranusisraeloil.jpg"
+    }
+  ],
+  "noticias_em": "22/03/2026 02:39 UTC",
+  "noticias_em_br": "21/03/2026 23:39"
 }
