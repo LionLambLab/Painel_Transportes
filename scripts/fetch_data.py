@@ -499,14 +499,33 @@ def main():
         except: pass
 
     if mode == 'news':
-        # Only update news + timestamp
+        # ── Modo NOTÍCIAS: só atualiza os feeds de notícias ──────────
+        print('📰 Modo: apenas notícias')
         existing['noticias']       = fetch_news()
         existing['econ_noticias']  = fetch_econ_news()
         existing['noticias_em']    = now_utc.strftime('%d/%m/%Y %H:%M UTC')
         existing['noticias_em_br'] = (now_utc - timedelta(hours=3)).strftime('%d/%m/%Y %H:%M')
         output = existing
+
+    elif mode == 'indicators':
+        # ── Modo INDICADORES: BCB + INCTL + notícias, preserva ANP ───
+        print('📊 Modo: indicadores econômicos (BCB) + notícias')
+        existing['ipca']          = fetch_ipca()
+        existing['igpm']          = fetch_igpm()
+        existing['selic']         = fetch_selic()
+        existing['usd_brl']       = fetch_usd()
+        existing['inctl']         = fetch_inctl()
+        existing['noticias']      = fetch_news()
+        existing['econ_noticias'] = fetch_econ_news()
+        existing['indicadores_em']    = now_utc.strftime('%d/%m/%Y %H:%M UTC')
+        existing['indicadores_em_br'] = (now_utc - timedelta(hours=3)).strftime('%d/%m/%Y %H:%M')
+        existing['noticias_em']    = now_utc.strftime('%d/%m/%Y %H:%M UTC')
+        existing['noticias_em_br'] = (now_utc - timedelta(hours=3)).strftime('%d/%m/%Y %H:%M')
+        output = existing
+
     else:
-        # Full update
+        # ── Modo FULL: tudo (ANP + BCB + notícias) ───────────────────
+        print('🔄 Modo: completo (ANP + BCB + notícias)')
         output = {
             'gerado_em':    now_utc.strftime('%d/%m/%Y %H:%M UTC'),
             'gerado_em_br': (now_utc - timedelta(hours=3)).strftime('%d/%m/%Y %H:%M'),
@@ -516,10 +535,12 @@ def main():
             'selic':  fetch_selic(),
             'usd_brl':fetch_usd(),
             'inctl':  fetch_inctl(),
-            'noticias':       fetch_news(),
-            'econ_noticias':  fetch_econ_news(),
-            'noticias_em':    now_utc.strftime('%d/%m/%Y %H:%M UTC'),
-            'noticias_em_br': (now_utc - timedelta(hours=3)).strftime('%d/%m/%Y %H:%M'),
+            'noticias':           fetch_news(),
+            'econ_noticias':      fetch_econ_news(),
+            'noticias_em':        now_utc.strftime('%d/%m/%Y %H:%M UTC'),
+            'noticias_em_br':     (now_utc - timedelta(hours=3)).strftime('%d/%m/%Y %H:%M'),
+            'indicadores_em':     now_utc.strftime('%d/%m/%Y %H:%M UTC'),
+            'indicadores_em_br':  (now_utc - timedelta(hours=3)).strftime('%d/%m/%Y %H:%M'),
         }
 
     with open(OUTPUT_PATH,'w',encoding='utf-8') as f:
@@ -529,12 +550,16 @@ def main():
     print(f'\n✅ Salvo: {size//1024}KB')
     if mode == 'news':
         print(f"  📰 Notícias: {len(output.get('noticias',[]))} itens")
+    if output.get('indicadores_em_br'):
+        print(f"  📊 Indicadores atualizados: {output['indicadores_em_br']}")
     else:
         print(f"  ANP:     R$ {output['anp']['preco_atual']}")
         print(f"  IPCA:    {output['ipca']['ultimo']}%")
         print(f"  SELIC:   {output['selic']['atual']}% a.a.")
         print(f"  USD/BRL: R$ {output['usd_brl']['atual']}")
         print(f"  📰 Notícias: {len(output.get('noticias',[]))} itens")
+    if output.get('indicadores_em_br'):
+        print(f"  📊 Indicadores atualizados: {output['indicadores_em_br']}")
 
 if __name__ == '__main__':
     main()
