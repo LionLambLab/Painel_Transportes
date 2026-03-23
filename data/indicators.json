@@ -1,6 +1,6 @@
 {
-  "gerado_em": "23/03/2026 15:59 UTC",
-  "gerado_em_br": "23/03/2026 12:59",
+  "gerado_em": "23/03/2026 16:46 UTC",
+  "gerado_em_br": "23/03/2026 13:46",
   "anp": {
     "semana_referencia": "16/03/2026 a 22/03/2026",
     "preco_atual": 7.35,
@@ -388,7 +388,7 @@
       "imagem": "https://s2-g1.glbimg.com/pVfCZlNO68n9l3pciBxIQAp9Ya8=/4864x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/5/J/2m7co7Qt6B7BNCZh9lag/img-7458-1.jpg"
     },
     {
-      "titulo": "Dólar opera em queda e vai a R$ 5,25, com foco em petróleo e falas de Trump sobre Irã; Ibovespa sobe",
+      "titulo": "Dólar opera em queda e vai a R$ 5,21, com foco em petróleo e falas de Trump sobre Irã; Ibovespa sobe",
       "link": "https://g1.globo.com/economia/noticia/2026/03/23/dolar-ibovespa.ghtml",
       "data": "23/03/2026",
       "fonte": "G1",
@@ -425,7 +425,7 @@
       "data": "23/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/P6qd5gROB9l5E00g8ZGCTRVcLys=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/03/65/14456503"
+      "imagem": "https://s2-g1.glbimg.com/5S8jaTPu-eH1aeBeo3kVCDrE2WM=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/14456503.jpg"
     },
     {
       "titulo": "Sônia Guajajara tem quadro de saúde estável e sem febre, diz assessoria do InCor",
@@ -484,12 +484,20 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2026/03/20/177404705369bdcf4d02e35_1774047053_3x2_xl.jpg"
     },
     {
-      "titulo": "Mesmo após alerta de aliados, Lula deve sancionar PL Antifacção sem vetos, diz jornal",
-      "link": "https://www.infomoney.com.br/politica/mesmo-apos-alerta-de-aliados-lula-deve-sancionar-pl-antifaccao-sem-vetos-diz-jornal/",
+      "titulo": "Petrobras não considera novo aumento no diesel por ora, dizem fontes",
+      "link": "https://www.infomoney.com.br/mercados/petrobras-nao-considera-novo-aumento-no-diesel-por-ora-dizem-fontes/",
       "data": "23/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-04T164629Z_2092250398_RC2PXJARNPC6_RTRMADP_3_BRAZIL-FAO-LULA.jpg?quality=70"
+      "imagem": ""
+    },
+    {
+      "titulo": "Justiça oficializa cerco a patrimônio bilionário de Vorcaro e familiares; veja lista",
+      "link": "https://www.infomoney.com.br/brasil/justica-oficializa-cerco-a-patrimonio-bilionario-de-vorcaro-e-familiares-veja-lista/",
+      "data": "23/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Daniel-Vorcaro.jpg?quality=70"
     },
     {
       "titulo": "Caminhões Hyundai Xcient movidos a célula de combustível chegam ao Uruguai",
@@ -586,24 +594,16 @@
       "fonte": "G1",
       "prioridade": 2,
       "imagem": "https://s2-g1.glbimg.com/5SrC3kcPTXMxtkbknMSEIaH2vDw=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/a/A/Qf1r61RPK1tKfC6zCUSQ/51896364338-58dfcdf573-k.jpg"
-    },
-    {
-      "titulo": "Da infância na Ucrânia até a lista da Forbes: quem foi Leonid Radvinsky, bilionário dono do OnlyFans",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/23/quem-e-leonid-radvinsky-bilionario-ucraniano-dono-do-onlyfans.ghtml",
-      "data": "23/03/2026",
-      "fonte": "G1",
-      "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/sOiaSiKuMUbINkZlOD8utAZeNtg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/10294787.jpg"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "Goldman eleva projeção para petróleo brent de US$ 77 para US$ 85 o barril em 2026",
-      "link": "https://www.infomoney.com.br/mercados/goldman-eleva-projecao-para-petroleo-brent-de-us-77-para-us-85-o-barril-em-2026/",
+      "titulo": "XP: Construtoras podem ter um dos melhores cenários macros já vistos; veja preferidas",
+      "link": "https://www.infomoney.com.br/mercados/xp-construtoras-podem-ter-um-dos-melhores-cenarios-macros-ja-vistos-veja-preferidas/",
       "data": "23/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/10/9421.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2019/06/minha-casa-minha-vida.jpg?quality=70"
     },
     {
       "titulo": "CPMI do INSS não localiza ex-noiva de Vorcaro para depoimento",
@@ -662,14 +662,6 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2026/03/16/177366412669b7f77e3e7c8_1773664126_3x2_rt.jpg"
     },
     {
-      "titulo": "Alta do petróleo pode aumentar em até R$ 125 bi arrecadação em 2026, estima economista da FGV",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/alta-do-petroleo-pode-aumentar-em-ate-r-125-bi-arrecadacao-em-2026-estima-economista-da-fgv.shtml",
-      "data": "23/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2024/03/13/171034040465f1b934680c3_1710340404_3x2_rt.jpg"
-    },
-    {
       "titulo": "FGC começa a receber pedidos de ressarcimento de credores do Banco Pleno",
       "link": "https://g1.globo.com/economia/noticia/2026/03/23/fgc-comeca-a-receber-pedidos-de-ressarcimento-de-credores-do-banco-pleno.ghtml",
       "data": "23/03/2026",
@@ -710,24 +702,16 @@
       "imagem": "https://s2-g1.glbimg.com/pVfCZlNO68n9l3pciBxIQAp9Ya8=/4864x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/5/J/2m7co7Qt6B7BNCZh9lag/img-7458-1.jpg"
     },
     {
-      "titulo": "Dólar opera em queda e vai a R$ 5,25, com foco em petróleo e falas de Trump sobre Irã; Ibovespa sobe",
+      "titulo": "Dólar opera em queda e vai a R$ 5,21, com foco em petróleo e falas de Trump sobre Irã; Ibovespa sobe",
       "link": "https://g1.globo.com/economia/noticia/2026/03/23/dolar-ibovespa.ghtml",
       "data": "23/03/2026",
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/-HnGAPPLwDhg1ObIWIAwecHY6OA=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/8/w/SC7F9ETieI2CPsUDnQMw/2024-12-26t121802z-1-lynxmpekbp07d-rtroptp-4-turkey-money-counterfeit-dollars.jpg"
-    },
-    {
-      "titulo": "Dólar recua mais de 1% e vai a R$ 5,22 com petróleo em forte baixa",
-      "link": "https://exame.com/invest/mercados/dolar-recua-mais-de-1-e-vai-a-r-522-com-petroleo-em-forte-baixa/",
-      "data": "2026-03-23",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2025/01/billie-dollar-money-background_2.jpg"
     }
   ],
-  "noticias_em": "23/03/2026 15:59 UTC",
-  "noticias_em_br": "23/03/2026 12:59",
-  "indicadores_em": "23/03/2026 15:59 UTC",
-  "indicadores_em_br": "23/03/2026 12:59"
+  "noticias_em": "23/03/2026 16:46 UTC",
+  "noticias_em_br": "23/03/2026 13:46",
+  "indicadores_em": "23/03/2026 16:46 UTC",
+  "indicadores_em_br": "23/03/2026 13:46"
 }
