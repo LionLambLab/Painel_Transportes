@@ -1,6 +1,6 @@
 {
-  "gerado_em": "23/03/2026 16:46 UTC",
-  "gerado_em_br": "23/03/2026 13:46",
+  "gerado_em": "23/03/2026 19:38 UTC",
+  "gerado_em_br": "23/03/2026 16:38",
   "anp": {
     "semana_referencia": "16/03/2026 a 22/03/2026",
     "preco_atual": 7.35,
@@ -356,6 +356,14 @@
   },
   "noticias": [
     {
+      "titulo": "Guerra no Irã: como países tentam conter o impacto da crise de energia nas famílias",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/23/guerra-no-ira-como-paises-tentam-conter-o-impacto-da-crise-de-energia-nas-familias.ghtml",
+      "data": "23/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/TQWl-GwtK3IY3a3yT5c3CtXGxcI=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/14455799.jpg"
+    },
+    {
       "titulo": "C6 obtém decisão judicial e volta a operar consignado após bloqueio do INSS",
       "link": "https://g1.globo.com/economia/noticia/2026/03/23/c6-obtem-decisao-favoravel-contra-suspensao-de-emprestimos-consignados-pelo-inss.ghtml",
       "data": "23/03/2026",
@@ -388,20 +396,20 @@
       "imagem": "https://s2-g1.glbimg.com/pVfCZlNO68n9l3pciBxIQAp9Ya8=/4864x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/5/J/2m7co7Qt6B7BNCZh9lag/img-7458-1.jpg"
     },
     {
-      "titulo": "Dólar opera em queda e vai a R$ 5,21, com foco em petróleo e falas de Trump sobre Irã; Ibovespa sobe",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/23/dolar-ibovespa.ghtml",
+      "titulo": "Prisão domiciliar de Bolsonaro ganha força entre investigadores; aliados tentam capitalizar articulação",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/03/23/prisao-domiciliar-de-bolsonaro-ganha-forca-entre-investigadores.ghtml",
       "data": "23/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/-HnGAPPLwDhg1ObIWIAwecHY6OA=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/8/w/SC7F9ETieI2CPsUDnQMw/2024-12-26t121802z-1-lynxmpekbp07d-rtroptp-4-turkey-money-counterfeit-dollars.jpg"
+      "imagem": "https://s2-g1.glbimg.com/3A9v121oxMmfsFHqJmUTVBNc2A4=/2649x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/t/i/CWGcdFQDOOUkZ8Uja4uA/2025-11-21t144942z-434325561-rc211iaapk6d-rtrmadp-3-brazil-bolsonaro.jpg"
     },
     {
-      "titulo": "Mercado projeta mais inflação neste ano e corte menor dos juros com guerra e alta do petróleo",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/23/boletim-focus-com-guerra-no-oriente-medio-e-alta-do-petroleo-mercado-projeta-mais-inflacao-neste-ano-e-corte-menor-dos-juros.ghtml",
+      "titulo": "Após PGR se manifestar a favor de domiciliar para Bolsonaro, Michelle deve se reunir com Moraes",
+      "link": "https://g1.globo.com/politica/noticia/2026/03/23/apos-pgr-se-manifestar-a-favor-de-domiciliar-para-bolsonaro-michelle-se-reunira-com-moraes.ghtml",
       "data": "23/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/KPt2suAGrDHA2FvHRytqGODnmGc=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/g/DZBdSTS2SfBRXXP9wAMQ/midia-de-distribuicao-g1-33-.jpg"
+      "imagem": "https://s2-g1.glbimg.com/b1bkMpqjmcUV7Y3GUxpWNIQxm1Q=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/N/4VRE1BSzunzCJP03InlQ/afp-20251127-86da99m-v1-midres-brazilpoliticsjusticecoupprison.jpg"
     },
     {
       "titulo": "Bolsonaro tem 'evolução favorável' e pode receber alta da UTI nas próximas 24 horas, diz boletim",
@@ -444,12 +452,20 @@
       "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
     },
     {
-      "titulo": "Alta do petróleo pode aumentar em até R$ 125 bi arrecadação em 2026, estima economista da FGV",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/alta-do-petroleo-pode-aumentar-em-ate-r-125-bi-arrecadacao-em-2026-estima-economista-da-fgv.shtml",
+      "titulo": "CEO da BlackRock alerta que IA pode ampliar a desigualdade",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/ceo-da-blackrock-alerta-que-ia-pode-ampliar-a-desigualdade.shtml",
       "data": "23/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2024/03/13/171034040465f1b934680c3_1710340404_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/23/177428484269c1702ae04a8_1774284842_3x2_rt.jpg"
+    },
+    {
+      "titulo": "PGR considera 'desproporcional' suspensão de novas obras e demolições na cidade de SP",
+      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/03/pgr-considera-desproporcional-suspensao-de-novas-obras-e-demolicoes-na-cidade-de-sp.shtml",
+      "data": "23/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/23/177428344569c16ab52c618_1774283445_3x2_rt.jpg"
     },
     {
       "titulo": "Programa gratuito de preparação para o Enem encerra inscrições nesta segunda (23)",
@@ -484,20 +500,20 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2026/03/20/177404705369bdcf4d02e35_1774047053_3x2_xl.jpg"
     },
     {
-      "titulo": "Petrobras não considera novo aumento no diesel por ora, dizem fontes",
-      "link": "https://www.infomoney.com.br/mercados/petrobras-nao-considera-novo-aumento-no-diesel-por-ora-dizem-fontes/",
+      "titulo": "EUA precisam de mais energia para IA, diz presidente de investimentos da Alphabet",
+      "link": "https://www.infomoney.com.br/mundo/eua-precisam-de-mais-energia-para-ia-diz-presidente-de-investimentos-da-alphabet/",
       "data": "23/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": ""
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/07/2025-07-24T104249Z_1_LYNXMPEL6N0MB_RTROPTP_4_TECH-AI.jpg?quality=70"
     },
     {
-      "titulo": "Justiça oficializa cerco a patrimônio bilionário de Vorcaro e familiares; veja lista",
-      "link": "https://www.infomoney.com.br/brasil/justica-oficializa-cerco-a-patrimonio-bilionario-de-vorcaro-e-familiares-veja-lista/",
+      "titulo": "EUA: secretário de Energia descarta bloqueio de exportações de diesel",
+      "link": "https://www.infomoney.com.br/mundo/eua-secretario-de-energia-descarta-bloqueio-de-exportacoes-de-diesel/",
       "data": "23/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Daniel-Vorcaro.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-13T213526Z_1_LYNXMPEL7C0XZ_RTROPTP_4_USA-TRUMP-MINERALS-FUNDING-1.jpg?quality=70"
     },
     {
       "titulo": "Caminhões Hyundai Xcient movidos a célula de combustível chegam ao Uruguai",
@@ -572,38 +588,54 @@
       "imagem": "https://s2-g1.glbimg.com/CS1Yb4dsoFEkuYvcfGM2W8h7faM=/1357x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/j/BhResOSkOrBAreP9Ddug/usina-santa-elisa2.jpg"
     },
     {
-      "titulo": "Raízen entra com pedido de recuperação extrajudicial, com R$ 65,1 bilhões em dívidas",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/11/raizen-recuperacao-extrajudicial.ghtml",
-      "data": "11/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/2qTUSUpWrhkLvIc-oln_uHEOZ6U=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/V/6hFQlST0iVMfWZDEN3tg/raizen-1200px-v2-1773240962.jpg"
-    },
-    {
       "titulo": "Iveco oferece capacitação gratuita para mulheres do transporte",
       "link": "https://www.transportabrasil.com.br/2026/03/iveco-oferece-capacitacao-gratuita-para-mulheres-do-transporte/",
       "data": "11/03/2026",
       "fonte": "Transporta Brasil",
       "prioridade": 1,
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/iveco-mulheres.jpg"
-    },
-    {
-      "titulo": "Devolução de navios pressiona Brasil a negociar padrão da soja com a China; entenda",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/03/23/brasil-china-inspecao-de-cargas-de-soja.ghtml",
-      "data": "23/03/2026",
-      "fonte": "G1",
-      "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/5SrC3kcPTXMxtkbknMSEIaH2vDw=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/a/A/Qf1r61RPK1tKfC6zCUSQ/51896364338-58dfcdf573-k.jpg"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "XP: Construtoras podem ter um dos melhores cenários macros já vistos; veja preferidas",
-      "link": "https://www.infomoney.com.br/mercados/xp-construtoras-podem-ter-um-dos-melhores-cenarios-macros-ja-vistos-veja-preferidas/",
+      "titulo": "Petróleo tomba 10% com falas de Trump sobre guerra e Brent fica abaixo dos US$ 100",
+      "link": "https://www.infomoney.com.br/mercados/petroleo-cai-mais-de-10-e-brent-chega-a-operar-abaixo-de-us-100-com-fala-de-trump/",
       "data": "23/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2019/06/minha-casa-minha-vida.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-16T221448Z_1_LYNXMPEM0F18J_RTROPTP_4_USA-OIL-PRODUCTION.jpg?quality=70"
+    },
+    {
+      "titulo": "Balança comercial tem superávit de US$ 1,387 bilhão na 3ª semana de março",
+      "link": "https://www.infomoney.com.br/economia/balanca-comercial-tem-superavit-de-us-1387-bilhao-na-3a-semana-de-marco/",
+      "data": "23/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/12/daniel-dan-ZbMuzk8iJAI-unsplash.jpg?quality=70"
+    },
+    {
+      "titulo": "CGU abre processo que pode levar à expulsão de servidores do BC suspeitos de envolvimento no caso Master",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/cgu-abre-processo-que-pode-levar-a-expulsao-de-servidores-do-bc-suspeitos-de-envolvimento-no-caso-master.shtml",
+      "data": "23/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/17/177376417869b97e52e81b1_1773764178_3x2_xl.jpg"
+    },
+    {
+      "titulo": "Imposto de Renda: o que muda em 2026",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/webstories/economia/2026/03/imposto-de-renda-o-que-muda-em-2026/",
+      "data": "23/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://cdn2.storyasset.link/7IqpTP4VMIfCcCmDg3agwlHcBYB3/bfc2dc4933a00b702262afb5963279122e54a20651d2940f8a82fb3df1d4a815_5ca29590ebdf1-owxtvfgkfb.png"
+    },
+    {
+      "titulo": "Justiça autoriza C6 a voltar a oferecer crédito consigado do INSS",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/c6-obtem-decisao-favoravel-contra-suspensao-de-emprestimos-consignados-pelo-inss.shtml",
+      "data": "23/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/02/03/177014287169823c9743c9a_1770142871_3x2_rt.jpg"
     },
     {
       "titulo": "CPMI do INSS não localiza ex-noiva de Vorcaro para depoimento",
@@ -622,44 +654,20 @@
       "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
-      "titulo": "Aplicativo e site da Receita Federal para fazer a declaração do IR têm falha no primeiro dia",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/aplicativo-da-receita-federal-para-fazer-a-declaracao-do-ir-tem-falha-no-primeiroa-dia.shtml",
+      "titulo": "Guerra no Irã: como países tentam conter o impacto da crise de energia nas famílias",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/23/guerra-no-ira-como-paises-tentam-conter-o-impacto-da-crise-de-energia-nas-familias.ghtml",
       "data": "23/03/2026",
-      "fonte": "Folha SP",
+      "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2023/03/22/1679521374641b765e31d3e_1679521374_3x2_rt.jpg"
+      "imagem": "https://s2-g1.glbimg.com/TQWl-GwtK3IY3a3yT5c3CtXGxcI=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/14455799.jpg"
     },
     {
-      "titulo": "BTG Pactual diz ter reativado serviço de Pix após ter identificado 'atividades atípicas'",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/btg-pactual-diz-ter-reativado-servico-de-pix-apos-ter-identificado-atividades-atipicas.shtml",
+      "titulo": "Após acordo histórico, agência internacional avalia liberar mais estoques de petróleo para conter crise",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/23/apos-liberacao-recorde-agencia-internacional-avalia-novos-estoques-de-petroleo.ghtml",
       "data": "23/03/2026",
-      "fonte": "Folha SP",
+      "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2023/03/15/16788914336411d9a9c7887_1678891433_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Tesouro Direto suspende negociação na abertura do mercado para conter forte volatilidade de títulos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/tesouro-fica-fora-do-ar-apos-forte-volatilidade-de-titulos.shtml",
-      "data": "23/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/23/177427399169c145c7bd9a2_1774273991_3x2_rt.jpg"
-    },
-    {
-      "titulo": "STF retoma julgamento sobre imunidade de ITBI e abre divergência contra empresas imobiliárias",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/03/stf-retoma-julgamento-sobre-imunidade-de-itbi-e-abre-divergencia-contra-empresas-imobiliarias.shtml",
-      "data": "23/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2025/10/07/175984679568e5218b95e9c_1759846795_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Pix com número do CPF dá prioridade na restituição e pode liberar cashback; entenda",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/pix-com-numero-do-cpf-da-prioridade-na-restituicao-e-pode-liberar-cashback-entenda.shtml",
-      "data": "23/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/16/177366412669b7f77e3e7c8_1773664126_3x2_rt.jpg"
+      "imagem": "https://s2-g1.glbimg.com/y8ZD55X9hW030E826ujCHyAdpV4=/4000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/J/NG6wxBRUaLjnXzDApA1A/2026-03-18t125756z-1386581843-rc2od1azr1td-rtrmadp-3-markets-dollar.jpg"
     },
     {
       "titulo": "FGC começa a receber pedidos de ressarcimento de credores do Banco Pleno",
@@ -678,40 +686,16 @@
       "imagem": "https://s2-g1.glbimg.com/5SrC3kcPTXMxtkbknMSEIaH2vDw=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/a/A/Qf1r61RPK1tKfC6zCUSQ/51896364338-58dfcdf573-k.jpg"
     },
     {
-      "titulo": "Morre Leonid Radvinsky, bilionário e dono do OnlyFans, aos 43 anos",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/23/morre-criador-do-only-fans-aos-43-anos.ghtml",
-      "data": "23/03/2026",
-      "fonte": "G1",
+      "titulo": "Brasil investe R$ 6,9 milhões em semana de perda de apetite dos fundos de criptomoedas",
+      "link": "https://exame.com/future-of-money/brasil-investe-r-69-milhoes-em-semana-de-perda-de-apetite-dos-fundos-de-criptomoedas/",
+      "data": "2026-03-23",
+      "fonte": "Exame",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/bQ3nVwyvrcZ4kjY-ssndgcnADJY=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/X/AHqYZ1StulyWeOItzIDw/1606153176253-redimensionado-para-1200x1200.jpeg"
-    },
-    {
-      "titulo": "Imposto de Renda 2026: Receita recebe quase 136 mil declarações na primeira hora do prazo",
-      "link": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/03/23/imposto-de-renda-2026-receita-federal-recebe-quase-136-mil-declaracoes-na-primeira-hora-do-prazo.ghtml",
-      "data": "23/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/mb60_p8vHaW0kf66cgpYTBcoEOM=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/0/fgPHcHSfS27EDbXGd0Qg/imposto-de-renda.jpg"
-    },
-    {
-      "titulo": "BTG restabelece PIX após desvio de cerca de R$ 100 milhões em ataque hacker",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/23/btg-pix-ataque-hacker.ghtml",
-      "data": "23/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/pVfCZlNO68n9l3pciBxIQAp9Ya8=/4864x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/5/J/2m7co7Qt6B7BNCZh9lag/img-7458-1.jpg"
-    },
-    {
-      "titulo": "Dólar opera em queda e vai a R$ 5,21, com foco em petróleo e falas de Trump sobre Irã; Ibovespa sobe",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/23/dolar-ibovespa.ghtml",
-      "data": "23/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/-HnGAPPLwDhg1ObIWIAwecHY6OA=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/8/w/SC7F9ETieI2CPsUDnQMw/2024-12-26t121802z-1-lynxmpekbp07d-rtroptp-4-turkey-money-counterfeit-dollars.jpg"
+      "imagem": "https://classic.exame.com/wp-content/uploads/2021/06/Bitcoin-brasil.jpg"
     }
   ],
-  "noticias_em": "23/03/2026 16:46 UTC",
-  "noticias_em_br": "23/03/2026 13:46",
-  "indicadores_em": "23/03/2026 16:46 UTC",
-  "indicadores_em_br": "23/03/2026 13:46"
+  "noticias_em": "23/03/2026 19:38 UTC",
+  "noticias_em_br": "23/03/2026 16:38",
+  "indicadores_em": "23/03/2026 19:38 UTC",
+  "indicadores_em_br": "23/03/2026 16:38"
 }
