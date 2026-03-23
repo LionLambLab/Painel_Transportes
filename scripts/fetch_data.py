@@ -372,7 +372,7 @@ def _anp_regioes(df,dc,pc,rc):
     return out
 
 def _anp_fallback():
-    return {'semana_referencia':'08/03/2026 a 14/03/2026','preco_atual':6.890,
+    return {'semana_referencia':'16/03/2026 a 22/03/2026','preco_atual':7.350,
             'semanas':[
                 {'ini':'2026-01-05','fim':'2026-01-11','ini_br':'05/01','fim_br':'11/01/2026','label':'Jan/26','preco':6.080},
                 {'ini':'2026-01-12','fim':'2026-01-18','ini_br':'12/01','fim_br':'18/01/2026','label':'Jan/26','preco':6.082},
