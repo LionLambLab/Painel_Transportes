@@ -1,6 +1,6 @@
 {
-  "gerado_em": "22/03/2026 19:37 UTC",
-  "gerado_em_br": "22/03/2026 16:37",
+  "gerado_em": "23/03/2026 14:16 UTC",
+  "gerado_em_br": "23/03/2026 11:16",
   "anp": {
     "semana_referencia": "08/03/2026 a 14/03/2026",
     "preco_atual": 6.89,
@@ -297,7 +297,7 @@
   },
   "usd_brl": {
     "series": [],
-    "atual": 5.2551
+    "atual": 5.2913
   },
   "inctl": {
     "ultimo": 0.22,
@@ -352,120 +352,112 @@
       }
     ],
     "fonte": "CNT",
-    "atualizado": "22/03/2026"
+    "atualizado": "23/03/2026"
   },
   "noticias": [
     {
-      "titulo": "Até R$ 3,1 mil por mês: como americanos transformam o próprio sangue em renda extra",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/22/como-americanos-transformam-o-proprio-sangue-em-renda-extra.ghtml",
-      "data": "22/03/2026",
+      "titulo": "BTG restabelece PIX após desvio de cerca de R$ 100 milhões em ataque hacker",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/23/btg-pix-ataque-hacker.ghtml",
+      "data": "23/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/zGnp5kcCxPzr8oSwE8Oo1M-vi14=/1500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/B/NDnY4WTtCBPoInAYa2RA/2149404763.jpg"
+      "imagem": "https://s2-g1.glbimg.com/pVfCZlNO68n9l3pciBxIQAp9Ya8=/4864x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/5/J/2m7co7Qt6B7BNCZh9lag/img-7458-1.jpg"
     },
     {
-      "titulo": "A empresa de IA que enfrentou o Pentágono nos EUA — e por que isso afeta o mundo todo",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/22/a-empresa-de-ia-que-enfrentou-o-pentagono-nos-eua-e-por-que-isso-afeta-o-mundo-todo.ghtml",
-      "data": "22/03/2026",
+      "titulo": "Dólar opera em queda e vai a R$ 5,25, com foco em petróleo e falas de Trump sobre Irã; Ibovespa sobe",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/23/dolar-ibovespa.ghtml",
+      "data": "23/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/-HnGAPPLwDhg1ObIWIAwecHY6OA=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/8/w/SC7F9ETieI2CPsUDnQMw/2024-12-26t121802z-1-lynxmpekbp07d-rtroptp-4-turkey-money-counterfeit-dollars.jpg"
+    },
+    {
+      "titulo": "Mercado projeta mais inflação neste ano e corte menor dos juros com guerra e alta do petróleo",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/23/boletim-focus-com-guerra-no-oriente-medio-e-alta-do-petroleo-mercado-projeta-mais-inflacao-neste-ano-e-corte-menor-dos-juros.ghtml",
+      "data": "23/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/KPt2suAGrDHA2FvHRytqGODnmGc=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/g/DZBdSTS2SfBRXXP9wAMQ/midia-de-distribuicao-g1-33-.jpg"
+    },
+    {
+      "titulo": "Dinheiro esquecido no PIS/Pasep: veja se você tem saldo em fundo antigo",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/23/pispasep-dinheiro-esquecido-consulta.ghtml",
+      "data": "23/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/v57McGwUm-Z4guG3COpf7U1fICc=/1909x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/e/M/nmQW1wTfKvy4Om8pddOg/captura-de-tela-2025-03-17-113828.png"
+    },
+    {
+      "titulo": "PGR se manifesta a favor de prisão domiciliar para Bolsonaro",
+      "link": "https://g1.globo.com/politica/noticia/2026/03/23/pgr-se-manifesta-pela-prisao-domiciliar-de-bolsonaro.ghtml",
+      "data": "23/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/P6qd5gROB9l5E00g8ZGCTRVcLys=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/03/65/14456503"
+    },
+    {
+      "titulo": "Sônia Guajajara tem quadro de saúde estável e sem febre, diz assessoria do InCor",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/03/23/sonia-guajajara-tem-quadro-de-saude-estavel-e-sem-febre-diz-assessoria-do-incor.ghtml",
+      "data": "23/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/RwCIc6gWSMlnl1RfKOD65pio8IM=/3342x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/H/JDVXjrQUKsl6NmLBGzNQ/0d4a5774.jpg"
+    },
+    {
+      "titulo": "Deputado que tenta barrar uso de satélite em multa ambiental recebeu doações de fazendeiro punido pelo Ibama",
+      "link": "https://g1.globo.com/meio-ambiente/noticia/2026/03/23/deputado-que-tenta-barrar-uso-de-satelite-em-multa-ambiental-recebeu-doacoes-de-fazendeiro-punido-pelo-ibama.ghtml",
+      "data": "23/03/2026",
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
     },
     {
-      "titulo": "Sônia Guajajara está internada em UTI no InCor, em SP, com suspeita de quadro infeccioso",
+      "titulo": "Alta do petróleo pode aumentar em até R$ 125 bi arrecadação em 2026, estima economista da FGV",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/alta-do-petroleo-pode-aumentar-em-ate-r-125-bi-arrecadacao-em-2026-estima-economista-da-fgv.shtml",
+      "data": "23/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2024/03/13/171034040465f1b934680c3_1710340404_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Em meio à alta do diesel, Conab deve suspender multas e flexibilizar prazos de frete",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/em-meio-a-alta-do-diesel-conab-deve-suspender-multas-e-flexibilizar-prazos-de-frete.shtml",
+      "data": "23/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2018/10/24/15404251865bd105e26ff32_1540425186_3x2_rt.jpg"
+    },
+    {
+      "titulo": "PGR se manifesta a favor da prisão domiciliar de Bolsonaro",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/03/pgr-se-manifesta-a-favor-da-prisao-domiciliar-de-bolsonaro.shtml",
+      "data": "23/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/20/177403096269bd90724ddd6_1774030962_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Emagrecimento de lobista suspeito em venda de decisões judiciais gera apuração e vai parar no STF",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/03/emagrecimento-de-lobista-suspeito-em-venda-de-decisoes-judiciais-gera-apuracao-e-vai-parar-no-stf.shtml",
+      "data": "23/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2024/05/29/17170258256657bc21ecd08_1717025825_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Alta dos combustíveis é a bomba da vez na política nacional",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/03/alta-dos-combustiveis-e-a-bomba-da-vez-na-politica-nacional.shtml",
+      "data": "23/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/20/177404705369bdcf4d02e35_1774047053_3x2_xl.jpg"
+    },
+    {
+      "titulo": "Sônia Guajajara está internada no InCor, em SP, com suspeita de quadro infeccioso",
       "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/03/22/sonia-guajajara-esta-internada-em-uti-no-incor-em-sp-com-suspeita-de-quadro-infeccioso.ghtml",
       "data": "22/03/2026",
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/IFzgu0OBPKhR5LDKjbs1go0nNMA=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/X/9GGhfcTAAeBP6uI9Ygxg/whatsapp-image-2026-03-20-at-17.37.04.jpeg"
-    },
-    {
-      "titulo": "Ao menos 40 magistrados punidos com aposentadoria deveriam ter perdido o cargo, segundo tese de Dino",
-      "link": "https://g1.globo.com/politica/noticia/2026/03/22/magistradosaposentadoria-compulsoria-tese-de-dino.ghtml",
-      "data": "22/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/Db-P79uKvoosDjcDRQ7gM5kJraE=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/53/19/14451953"
-    },
-    {
-      "titulo": "Empresas dos EUA suspendem negociações de petróleo à espera de definição sobre guerra",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/empresas-dos-eua-suspendem-negociacoes-de-petroleo-a-espera-de-definicao-sobre-guerra.shtml",
-      "data": "22/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/19/177392112469bbe3645632d_1773921124_3x2_xl.jpg"
-    },
-    {
-      "titulo": "24 navios atacados, oito pessoas mortas e 95% de queda no movimento: os números do bloqueio em Hormuz",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/24-navios-atacados-oito-pessoas-mortas-e-95-de-queda-no-movimento-os-numeros-do-bloqueio-em-hormuz.shtml",
-      "data": "22/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/11/177327251069b1fdbed18e3_1773272510_3x2_rt.jpg"
-    },
-    {
-      "titulo": "El Niño e o anticristo se encontram em guerra no Irã",
-      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/colunas/marceloleite/2026/03/el-nino-e-o-anticristo-se-encontram-em-guerra-no-ira.shtml",
-      "data": "22/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/17/177375114969b94b6d4e251_1773751149_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Posso falar da minha demissão nas redes? 'Vlogs' sobre desligamentos viralizam, mas exigem cuidados",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/21/vlogs-sobre-desligamentos-viralizam.ghtml",
-      "data": "21/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/cBO7zu1dYG6eZWOwbx8R9DNpH7A=/4088x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/7/prUEFbSSuScC9CUWBerg/demissao-tiktok.jpg"
-    },
-    {
-      "titulo": "Honda HR-V EXL ainda é boa compra? Veja comparação com novos rivais WR-V e Yaris Cross",
-      "link": "https://g1.globo.com/carros/noticia/2026/03/21/honda-hr-v-exl-ainda-e-boa-compra-veja-comparacao-com-novos-rivais-wr-v-e-yaris-cross.ghtml",
-      "data": "21/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/Hp7jCQNx2Etd6jtwrIHzA7YYGV8=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/c/jwCXcyQtebshH6YsrKOA/honda-hrv-2026-f99a9930-fabio-tito.jpg"
-    },
-    {
-      "titulo": "Por que setor fez alerta para risco de falta de diesel no Brasil — e o que o governo está fazendo",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/21/por-que-setor-fez-alerta-para-risco-de-falta-de-diesel-no-brasil-e-o-que-o-governo-esta-fazendo.ghtml",
-      "data": "21/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/Yf1DIvX-1bhaCXF1PMcGCADS5Xg=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/E/j4NtBQQXOH45I0eelQFA/procon-combustiveis.png"
-    },
-    {
-      "titulo": "MPT firma acordo para Meta bloquear perfis de crianças influencers sem autorização judicial",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/21/mpt-firma-acordo-para-meta-bloquear-perfis-de-criancas-influencers-sem-autorizacao-judicial.ghtml",
-      "data": "21/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/9R4aDcDcoDsHH_23rjGIuQhGXKk=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/m/w0gtAfQBKW9k9LdWsXMw/2026-02-23t163009z-1382008186-rc2mkhaggl7v-rtrmadp-3-social-media-trial-meta.jpg"
-    },
-    {
-      "titulo": "Simone Tebet deixa MDB após quase 30 anos e se filia ao PSB para disputar o Senado em SP",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/03/21/simone-tebet-deixa-mdb-apos-quase-30-anos-e-se-filia-ao-psb-para-disputar-o-senado-em-sp.ghtml",
-      "data": "21/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/zsW82OaVnD0RlfJwlaxOX19Q5Ik=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/f/lTMvXtS7yI036c83snCg/54538162031-6b21e4c78d-o.jpg"
-    },
-    {
-      "titulo": "Procuradoria-Geral da República denuncia ex-ministro Silvio Almeida por importunação sexual a Anielle Franco",
-      "link": "https://g1.globo.com/politica/politico/noticia/2026/03/21/procuradoria-geral-da-republica-denuncia-ex-ministro-silvio-almeida-por-importunacao-sexual-de-anielle-franco.ghtml",
-      "data": "21/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/NQ9fD1NP1q7WQNz3lhnHPFyomOQ=/1280x0/filters:format(jpeg)/https://s01.video.glbimg.com/x720/12984856.jpg"
-    },
-    {
-      "titulo": "Aliados de Tarcísio se dizem perplexos com decisão de Fux de interromper julgamento sobre Sabesp",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/03/aliados-de-tarcisio-se-dizem-perplexos-com-decisao-de-fux-de-interromper-julgamento-sobre-sabesp.shtml",
-      "data": "21/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/21/177408897969be7313c3d7f_1774088979_3x2_rt.jpg"
     },
     {
       "titulo": "Caminhões Hyundai Xcient movidos a célula de combustível chegam ao Uruguai",
@@ -556,154 +548,202 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/iveco-mulheres.jpg"
     },
     {
-      "titulo": "Sistema simples com potes de barro ajuda agricultores a driblar seca no Pará; veja como funciona",
-      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/03/22/sistema-simples-com-potes-de-barro-ajuda-agricultores-a-driblar-seca-no-para-veja-como-funciona.ghtml",
-      "data": "22/03/2026",
+      "titulo": "Brasil discute com China inspeção de cargas de soja",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/03/23/brasil-china-inspecao-de-cargas-de-soja.ghtml",
+      "data": "23/03/2026",
       "fonte": "G1",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/MRy3KD0q7U_Q7PdhTKDrMZcB_i0=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/14442691.jpg"
+      "imagem": "https://s2-g1.glbimg.com/5SrC3kcPTXMxtkbknMSEIaH2vDw=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/a/A/Qf1r61RPK1tKfC6zCUSQ/51896364338-58dfcdf573-k.jpg"
     },
     {
-      "titulo": "Maiores petrolíferas reduzem investimentos na transição energética em mais de US$ 12 bi, diz relatório",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/maiores-petroliferas-reduzem-investimentos-na-transicao-energetica-em-mais-de-us-12-bi-diz-relatorio.shtml",
-      "data": "22/03/2026",
+      "titulo": "Da infância na Ucrânia até a lista da Forbes: quem foi Leonid Radvinsky, bilionário dono do OnlyFans",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/23/quem-e-leonid-radvinsky-bilionario-ucraniano-dono-do-onlyfans.ghtml",
+      "data": "23/03/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/sOiaSiKuMUbINkZlOD8utAZeNtg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/10294787.jpg"
+    },
+    {
+      "titulo": "Petróleo despenca e bolsas passam a subir após anúncio de Trump, que pausará ataques ao Irã",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/23/petroleo-opera-em-alta-e-bolsas-em-queda-apos-ultimato-de-trump-ao-ira.ghtml",
+      "data": "23/03/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/lCHVPdlugENP4nYuyk0oz53M8rw=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/u/rlmCAFSxiTrpbUjXJ5cA/2026-03-18t214048z-1013148856-rc2mwja0qpho-rtrmadp-3-iran-crisis-funds.jpg"
+    },
+    {
+      "titulo": "Economistas aumentam previsão da Selic e da inflação neste ano",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/economistas-aumentam-previsao-da-selic-e-da-inflacao-neste-ano.shtml",
+      "data": "23/03/2026",
       "fonte": "Folha SP",
       "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/22/177420542869c039f4a4700_1774205428_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2024/07/25/172194916466a2dbecc049e_1721949164_3x2_rt.jpg"
     },
     {
-      "titulo": "Agência internacional recomenda home office e aumentar caronas para enfrentar crise energética da guerra",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/agencia-de-energia-recomenda-home-office-e-aumentar-caronas-para-enfrentar-crise-energetica-devido-a-guerra.shtml",
-      "data": "22/03/2026",
+      "titulo": "Dólar opera em queda nesta segunda (23)",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/dolar-oscila-perto-da-estabilidade-nesta-segunda-23.shtml",
+      "data": "23/03/2026",
       "fonte": "Folha SP",
       "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2023/11/20/1700518647655bdaf7de6f2_1700518647_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2019/01/31/15489700535c536845c50e4_1548970053_3x2_rt.jpg"
     },
     {
-      "titulo": "Fechamento do estreito de Hormuz pode comprometer importação de fertlizantes, diz estudo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/03/fechamento-do-estreito-de-hormuz-pode-comprometer-importacao-de-fertlizantes-diz-estudo.shtml",
-      "data": "22/03/2026",
+      "titulo": "SP abre consulta pública para passar Complexo do Ibirapuera à iniciativa privada",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/03/sp-abre-consulta-publica-para-passar-complexo-do-ibirapuera-a-iniciativa-privada.shtml",
+      "data": "23/03/2026",
       "fonte": "Folha SP",
       "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/20/177404705369bdcf4d02e35_1774047053_3x2_xl.jpg"
-    },
-    {
-      "titulo": "Guerra EUA X Irã: Veja 11 acontecimentos recentes e entenda a “escalada” do conflito",
-      "link": "https://www.infomoney.com.br/mundo/guerra-eua-x-ira-veja-11-acontecimentos-recentes-e-entenda-a-escalada-do-conflito/",
-      "data": "22/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 2,
-      "imagem": ""
+      "imagem": "https://f.i.uol.com.br/fotografia/2021/11/04/16360413096184025dd981c_1636041309_3x2_rt.jpg"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "Apesar da disparada do petróleo, ninguém fala em boom na região petroleira do Texas",
-      "link": "https://www.infomoney.com.br/mercados/apesar-da-disparada-do-petroleo-ninguem-fala-em-boom-na-regiao-petroleira-do-texas/",
-      "data": "22/03/2026",
+      "titulo": "Miran ainda acredita que o Fed deve reduzir a taxa de juros",
+      "link": "https://www.infomoney.com.br/economia/miran-ainda-acredita-que-o-fed-deve-reduzir-a-taxa-de-juros/",
+      "data": "23/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/TEXAS-OIL-COUNTRY-4_red.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/12/FED-INDEPENDENCE_2.jpg?quality=70"
     },
     {
-      "titulo": "Maiores petrolíferas reduzem investimentos na transição energética em mais de US$ 12 bi, diz relatório",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/maiores-petroliferas-reduzem-investimentos-na-transicao-energetica-em-mais-de-us-12-bi-diz-relatorio.shtml",
-      "data": "22/03/2026",
+      "titulo": "BC vende US$1,8 bilhão em leilão de linha para rolagem do vencimento de 2 de abril",
+      "link": "https://www.infomoney.com.br/economia/bc-vende-us18-bilhao-em-leilao-de-linha-para-rolagem-do-vencimento-de-2-de-abril/",
+      "data": "23/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/09/BC-Brasil.png?quality=70"
+    },
+    {
+      "titulo": "Trump “pacífico” anima mercados, Ibovespa sobe 3% e dólar cai – mas por quanto tempo?",
+      "link": "https://www.infomoney.com.br/mercados/trump-pacifico-anima-mercados-ibovespa-sobe-2-e-dolar-cai-mas-por-quanto-tempo/",
+      "data": "23/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": ""
+    },
+    {
+      "titulo": "STF retoma julgamento sobre imunidade de ITBI e abre divergência contra empresas imobiliárias",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/03/stf-retoma-julgamento-sobre-imunidade-de-itbi-e-abre-divergencia-contra-empresas-imobiliarias.shtml",
+      "data": "23/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/22/177420542869c039f4a4700_1774205428_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/10/07/175984679568e5218b95e9c_1759846795_3x2_rt.jpg"
     },
     {
-      "titulo": "Empresas dos EUA suspendem negociações de petróleo à espera de definição sobre guerra",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/empresas-dos-eua-suspendem-negociacoes-de-petroleo-a-espera-de-definicao-sobre-guerra.shtml",
-      "data": "22/03/2026",
+      "titulo": "Pix com número do CPF dá prioridade na restituição e pode liberar cashback; entenda",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/pix-com-numero-do-cpf-da-prioridade-na-restituicao-e-pode-liberar-cashback-entenda.shtml",
+      "data": "23/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/19/177392112469bbe3645632d_1773921124_3x2_xl.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/16/177366412669b7f77e3e7c8_1773664126_3x2_rt.jpg"
     },
     {
-      "titulo": "24 navios atacados, oito pessoas mortas e 95% de queda no movimento: os números do bloqueio em Hormuz",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/24-navios-atacados-oito-pessoas-mortas-e-95-de-queda-no-movimento-os-numeros-do-bloqueio-em-hormuz.shtml",
-      "data": "22/03/2026",
+      "titulo": "Alta do petróleo pode aumentar em até R$ 125 bi arrecadação em 2026, estima economista da FGV",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/alta-do-petroleo-pode-aumentar-em-ate-r-125-bi-arrecadacao-em-2026-estima-economista-da-fgv.shtml",
+      "data": "23/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/11/177327251069b1fdbed18e3_1773272510_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2024/03/13/171034040465f1b934680c3_1710340404_3x2_rt.jpg"
     },
     {
-      "titulo": "Sem citar Trump, premiê da China critica unilateralismo e promete ampliar abertura econômica",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/22/sem-citar-trump-premie-da-china-critica-unilateralismo-e-promete-ampliar-abertura-economica.ghtml",
-      "data": "22/03/2026",
+      "titulo": "Economistas aumentam previsão da Selic e da inflação neste ano",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/economistas-aumentam-previsao-da-selic-e-da-inflacao-neste-ano.shtml",
+      "data": "23/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2024/07/25/172194916466a2dbecc049e_1721949164_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Dólar opera em queda nesta segunda (23)",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/dolar-oscila-perto-da-estabilidade-nesta-segunda-23.shtml",
+      "data": "23/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2019/01/31/15489700535c536845c50e4_1548970053_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Como declarar o Imposto de Renda 2026 pelo aplicativo da Receita?",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/como-declarar-o-imposto-de-renda-2026-pelo-aplicativo-da-receita.shtml",
+      "data": "23/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/21/177412118969bef0e53f183_1774121189_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Extrato da declaração do Imposto de Renda 2026 levará 4 dias para mostrar malha fina; saiba como consultar",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/extrato-da-declaracao-do-imposto-de-renda-2026-levara-4-dias-mostrar-malha-fina-entenda-o-que-e-e-saiba-como-consultar.shtml",
+      "data": "23/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/23/177426200369c116f30624f_1774262003_3x2_lg.jpg"
+    },
+    {
+      "titulo": "Brasil discute com China inspeção de cargas de soja",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/03/23/brasil-china-inspecao-de-cargas-de-soja.ghtml",
+      "data": "23/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/5F7XzFlkHX_de5UuHsqG8kHAfro=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/7/AwuUpBSl2A32ynACMsbA/2025-07-26t042149z-716660595-rc21ufaxt07q-rtrmadp-3-china-ai-expo.jpg"
+      "imagem": "https://s2-g1.glbimg.com/5SrC3kcPTXMxtkbknMSEIaH2vDw=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/a/A/Qf1r61RPK1tKfC6zCUSQ/51896364338-58dfcdf573-k.jpg"
     },
     {
-      "titulo": "Até R$ 3,1 mil por mês: como americanos transformam o próprio sangue em renda extra",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/22/como-americanos-transformam-o-proprio-sangue-em-renda-extra.ghtml",
-      "data": "22/03/2026",
+      "titulo": "Morre Leonid Radvinsky, bilionário e dono do OnlyFans, aos 43 anos",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/23/morre-criador-do-only-fans-aos-43-anos.ghtml",
+      "data": "23/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/zGnp5kcCxPzr8oSwE8Oo1M-vi14=/1500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/B/NDnY4WTtCBPoInAYa2RA/2149404763.jpg"
+      "imagem": "https://s2-g1.glbimg.com/bQ3nVwyvrcZ4kjY-ssndgcnADJY=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/X/AHqYZ1StulyWeOItzIDw/1606153176253-redimensionado-para-1200x1200.jpeg"
     },
     {
-      "titulo": "A empresa de IA que enfrentou o Pentágono nos EUA — e por que isso afeta o mundo todo",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/22/a-empresa-de-ia-que-enfrentou-o-pentagono-nos-eua-e-por-que-isso-afeta-o-mundo-todo.ghtml",
-      "data": "22/03/2026",
+      "titulo": "Imposto de Renda 2026: Receita recebe quase 136 mil declarações na primeira hora do prazo",
+      "link": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/03/23/imposto-de-renda-2026-receita-federal-recebe-quase-136-mil-declaracoes-na-primeira-hora-do-prazo.ghtml",
+      "data": "23/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/mb60_p8vHaW0kf66cgpYTBcoEOM=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/0/fgPHcHSfS27EDbXGd0Qg/imposto-de-renda.jpg"
+    },
+    {
+      "titulo": "BTG restabelece PIX após desvio de cerca de R$ 100 milhões em ataque hacker",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/23/btg-pix-ataque-hacker.ghtml",
+      "data": "23/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/pVfCZlNO68n9l3pciBxIQAp9Ya8=/4864x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/5/J/2m7co7Qt6B7BNCZh9lag/img-7458-1.jpg"
+    },
+    {
+      "titulo": "Dólar opera em queda e vai a R$ 5,25, com foco em petróleo e falas de Trump sobre Irã; Ibovespa sobe",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/23/dolar-ibovespa.ghtml",
+      "data": "23/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/-HnGAPPLwDhg1ObIWIAwecHY6OA=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/8/w/SC7F9ETieI2CPsUDnQMw/2024-12-26t121802z-1-lynxmpekbp07d-rtroptp-4-turkey-money-counterfeit-dollars.jpg"
+    },
+    {
+      "titulo": "Mercado projeta mais inflação neste ano e corte menor dos juros com guerra e alta do petróleo",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/23/boletim-focus-com-guerra-no-oriente-medio-e-alta-do-petroleo-mercado-projeta-mais-inflacao-neste-ano-e-corte-menor-dos-juros.ghtml",
+      "data": "23/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/KPt2suAGrDHA2FvHRytqGODnmGc=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/g/DZBdSTS2SfBRXXP9wAMQ/midia-de-distribuicao-g1-33-.jpg"
+    },
+    {
+      "titulo": "Fleury, Porto e Oncoclínicas discutem criação de nova companhia para tratamento de câncer",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/23/fleury-oncoclinicas-e-porto-estudam-criar-nova-empresa.ghtml",
+      "data": "23/03/2026",
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
     },
     {
-      "titulo": "'Primeiro emprego' aos 27 anos: jovem relata julgamento por nunca ter sido CLT e diz 'olhavam com pena'",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/22/primeiro-emprego-aos-27-anos-jovem-relata-julgamento-por-nunca-ter-sido-clt-e-diz-olhavam-com-pena.ghtml",
-      "data": "22/03/2026",
+      "titulo": "Petróleo despenca e bolsas passam a subir após anúncio de Trump, que pausará ataques ao Irã",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/23/petroleo-opera-em-alta-e-bolsas-em-queda-apos-ultimato-de-trump-ao-ira.ghtml",
+      "data": "23/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/IEeyMUa156uvgBylyXMJw2WJIv8=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/f/0iMQ3uQhiANxAjgM3q4g/befunky-collage-1-.jpg"
-    },
-    {
-      "titulo": "Mega-Sena, concurso 2.987: prêmio acumula e vai a R$ 13 milhões",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/03/21/mega-sena-concurso-2987-confira-dezenas.ghtml",
-      "data": "22/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/zn4eP4Z2enCtPgfj2_EyqzaU70Y=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/Q/msgbjlTTqiYsZtVYmjfg/whatsapp-image-2026-01-03-at-12.29.30-12-.jpeg"
-    },
-    {
-      "titulo": "Famílias comprometem 29% da renda com dívidas, maior patamar em 20 anos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/familias-comprometem-29-da-renda-com-dividas-maior-patamar-em-20-anos.shtml",
-      "data": "21/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2023/11/21/1700588960655ceda02789c_1700588960_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Queda mais lenta da Selic traz desafio extra para empresas endividadas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/queda-mais-lenta-da-selic-traz-desafio-extra-para-empresas-endividadas.shtml",
-      "data": "21/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2025/08/29/175647729668b1b7709c3f6_1756477296_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Posso falar da minha demissão nas redes? 'Vlogs' sobre desligamentos viralizam, mas exigem cuidados",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/21/vlogs-sobre-desligamentos-viralizam.ghtml",
-      "data": "21/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/cBO7zu1dYG6eZWOwbx8R9DNpH7A=/4088x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/7/prUEFbSSuScC9CUWBerg/demissao-tiktok.jpg"
-    },
-    {
-      "titulo": "Honda HR-V EXL ainda é boa compra? Veja comparação com novos rivais WR-V e Yaris Cross",
-      "link": "https://g1.globo.com/carros/noticia/2026/03/21/honda-hr-v-exl-ainda-e-boa-compra-veja-comparacao-com-novos-rivais-wr-v-e-yaris-cross.ghtml",
-      "data": "21/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/Hp7jCQNx2Etd6jtwrIHzA7YYGV8=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/c/jwCXcyQtebshH6YsrKOA/honda-hrv-2026-f99a9930-fabio-tito.jpg"
+      "imagem": "https://s2-g1.glbimg.com/lCHVPdlugENP4nYuyk0oz53M8rw=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/u/rlmCAFSxiTrpbUjXJ5cA/2026-03-18t214048z-1013148856-rc2mwja0qpho-rtrmadp-3-iran-crisis-funds.jpg"
     }
   ],
-  "noticias_em": "22/03/2026 19:37 UTC",
-  "noticias_em_br": "22/03/2026 16:37",
-  "indicadores_em": "22/03/2026 19:37 UTC",
-  "indicadores_em_br": "22/03/2026 16:37"
+  "noticias_em": "23/03/2026 14:16 UTC",
+  "noticias_em_br": "23/03/2026 11:16",
+  "indicadores_em": "23/03/2026 14:16 UTC",
+  "indicadores_em_br": "23/03/2026 11:16"
 }
