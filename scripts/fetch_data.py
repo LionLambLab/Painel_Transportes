@@ -76,6 +76,15 @@ NEWS_SOURCES = [
     ('https://www.cnnbrasil.com.br/nacional/feed/',                 'CNN Brasil'),
     ('https://noticias.r7.com/rss/brasil.xml',                     'R7'),
     ('https://www.infomoney.com.br/feed/',                         'InfoMoney'),
+    # ── Portais financeiros e negócios ───────────────────────────────
+    ('https://www.infomoney.com.br/mercados/feed/',                 'InfoMoney'),
+    ('https://moneytimes.com.br/feed/',                            'Money Times'),
+    ('https://exame.com/feed/',                                    'Exame'),
+    ('https://exame.com/negocios/feed/',                           'Exame Negócios'),
+    ('https://www.metropoles.com/feed',                            'Metrópoles'),
+    ('https://www.metropoles.com/brasil/feed',                     'Metrópoles'),
+    ('https://feeds.folha.uol.com.br/brasil/rss091.xml',           'Folha SP'),
+    ('https://valor.globo.com/rss/financas',                       'Valor Economico'),
     # ── Especializados transporte e logistica ────────────────────────
     ('https://www.cnt.org.br/feed',                                'CNT'),
     ('https://www.ntcelogistica.org.br/feed/',                     'NTC'),
@@ -233,6 +242,10 @@ ECON_NEWS_SOURCES = [
     ('https://www.uol.com.br/rss/economia',                        'UOL'),
     ('https://feeds.reuters.com/reuters/businessNews',             'Reuters'),
     ('https://exame.com/feed/',                                    'Exame'),
+    ('https://moneytimes.com.br/feed/',                            'Money Times'),
+    ('https://www.metropoles.com/economia/feed',                   'Metrópoles'),
+    ('https://valor.globo.com/rss/financas',                       'Valor Economico'),
+    ('https://feeds.folha.uol.com.br/mercado/rss091.xml',          'Folha SP'),
 ]
 
 ECON_KEYWORDS = re.compile(
@@ -338,7 +351,16 @@ def _anp_process(df):
         if diesel.empty: return _anp_fallback()
         diesel[preco] = pd.to_numeric(diesel[preco],errors='coerce')
         diesel[data]  = pd.to_datetime(diesel[data],dayfirst=True,errors='coerce')
-        nac = diesel.groupby(data)[preco].mean().reset_index().sort_values(data).tail(16)
+        # Exclude current week (not yet fully published by ANP)
+        from datetime import date
+        today = pd.Timestamp.utcnow().normalize()
+        # Current week started on last Monday
+        days_since_monday = today.dayofweek  # 0=Mon
+        week_start = today - pd.Timedelta(days=days_since_monday)
+        # Only include weeks that ended before this Monday
+        diesel_hist = diesel[diesel[data] < week_start]
+        if diesel_hist.empty: diesel_hist = diesel  # fallback
+        nac = diesel_hist.groupby(data)[preco].mean().reset_index().sort_values(data).tail(16)
         semanas = []
         for _,row in nac.iterrows():
             dt=row[data]; dt2=dt+timedelta(days=6)
