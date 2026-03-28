@@ -356,7 +356,111 @@
   },
   "noticias": [
     {
-      "titulo": "Alta do diesel desacelera, mas preço do combustível sobe quase 24% desde o início da guerra, diz ANP.",
+      "titulo": "Bank of America fecha acordo de US$ 72,5 milhões com vítimas de Epstein",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/28/bank-of-america-acordo-epstein.ghtml",
+      "data": "28/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/d7Yuw9JJE0YFk2KKEBSg3q-2FHo=/3200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/H/5/up0YN1QkeRQpTH65FxUg/063-1154615743.jpg"
+    },
+    {
+      "titulo": "O outro estreito crucial para a economia global que o Irã ameaça bloquear",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/28/o-outro-estreito-crucial-para-a-economia-global-que-o-ira-ameaca-bloquear.ghtml",
+      "data": "28/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/HiEfauh4UOUbGMufvDr-fsWil8A=/1280x0/filters:format(jpeg)/https://s02.video.glbimg.com/x720/13697105.jpg"
+    },
+    {
+      "titulo": "'Meu corpo me foi roubado durante anos': atriz alemã denuncia ex-marido após sofrer violência sexual digital",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/28/meu-corpo-me-foi-roubado-durante-anos-atriz-alema-denuncia-ex-marido-apos-sofrer-violencia-sexual-digital.ghtml",
+      "data": "28/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/0TbBxLZmP1L8x0cwcwbkCPJtO-8=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/l/OJkMhnTHSnvhbYINES8Q/76483700-1004.webp"
+    },
+    {
+      "titulo": "Café que fica no Brasil é ruim? Entenda de onde vem essa ideia e se ela é verdadeira",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/03/28/cafe-que-fica-no-brasil-e-ruim-entenda-de-onde-vem-essa-ideia-e-se-ela-e-verdadeira.ghtml",
+      "data": "28/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/6-esy_txg3oCzI5A91DbmjLjNnI=/4889x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/c/x/vSXmKvQvOXdDeW4eNxcA/mike-kenneally-td4dbagg2we-unsplash.jpg"
+    },
+    {
+      "titulo": "Guerra no Oriente Médio agrava crise dos combustíveis, já afeta inflação e abastecimento no Brasil",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/28/guerra-no-oriente-medio-agrava-crise-dos-combustiveis-ja-afeta-inflacao-e-abastecimento-no-brasil.ghtml",
+      "data": "28/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/WK0aV25zfTSaC4IxQsPbHlBnqr0=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/i/VzYDFHRXyIqG3FVKrj4A/globo-canal-4-20260312-2000-frame-75789.jpeg"
+    },
+    {
+      "titulo": "Mais candidatos, mais etapas e pouco retorno: por que parece que buscar um emprego ficou tão difícil",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/28/por-que-parece-que-buscar-um-emprego-ficou-tao-dificil.ghtml",
+      "data": "28/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/thQCQKCLevoD3Jg4wG3091vb0bE=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/s/DNd1bIS3AxiFuAmBYTFA/1768845509604-1-3-.jpg"
+    },
+    {
+      "titulo": "Leilão da Receita tem iPhone 17, MacBook Air, videogames e vinhos; veja lances a partir de R$ 100",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/28/leilao-da-receita-tem-iphone-17-macbook-air-videogames-e-vinhos-veja-lances-a-partir-de-r-100.ghtml",
+      "data": "28/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/ctOsCU-ZDv2AFX1XuVgqIuc7sp8=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/h/Bq2ZS3Qc2IYH5u9zdDSQ/afp-20250909-73xq3dm-v1-midres-appleexpectedtounveilanewiphonemodelataneventstr.jpg"
+    },
+    {
+      "titulo": "Fachin rejeita pedido de CPI do Crime Organizado para manter quebra de sigilo de empresa de Toffoli",
+      "link": "https://g1.globo.com/politica/politico/noticia/2026/03/28/fachin-rejeita-pedido-de-cpi-do-crime-organizado-para-manter-quebra-de-sigilo-de-empresa-ligada-a-toffoli.ghtml",
+      "data": "28/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/Y9BKlo0TdSUgcBG78tlkVDf8UOY=/1170x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/W/ztBxYCQrKKG23xLGszzA/captura-de-tela-2026-03-25-153010.png"
+    },
+    {
+      "titulo": "Brasil continuará a apoiar a candidatura de Bachelet ao cargo de secretária-geral da ONU, diz Lula",
+      "link": "https://g1.globo.com/politica/noticia/2026/03/28/brasil-continuara-a-apoiar-a-candidatura-de-bachelet-ao-cargo-de-secretaria-geral-da-onu-diz-lula.ghtml",
+      "data": "28/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/JwSFSS5VtX1aSzatAxfaKhWmJ7U=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/R/QVaBUPQVCQuTyOUSowAw/53879254269-b9edf2b19e-k.jpg"
+    },
+    {
+      "titulo": "Advogado é morto a tiros durante penhora de caminhões para pagamento de dívida trabalhista em São Vicente (SP)",
+      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/03/advogado-e-morto-a-tiros-durante-penhora-de-caminhoes-para-pagamento-de-divida-trabalhista-em-sao-vicente-sp.shtml",
+      "data": "28/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/28/177470756669c7e36e05aa3_1774707566_3x2_lg.jpg"
+    },
+    {
+      "titulo": "BBB 26: castigo do Monstro é suspenso após acusações de tortura",
+      "link": "https://www.metropoles.com/entretenimento/televisao/bbb-26-castigo-do-monstro-e-suspenso-apos-acusacoes-de-tortura",
+      "data": "28/03/2026",
+      "fonte": "Metrópoles",
+      "prioridade": 1,
+      "imagem": "https://i.metroimg.com/iahwlnB1SCMkVrIg38Qb2zpBii6me2fpVhSBWwMVW4A/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/ana-paula-e-milena-no-castigo-do-monstro.jpg"
+    },
+    {
+      "titulo": "Conta de luz: Aneel mantém bandeira tarifária verde em abril",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/27/conta-de-luz-aneel-mantem-bandeira-tarifaria-verde-em-abril.ghtml",
+      "data": "27/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/7DgfbmTUFAvaTQ6FKWcDLgkNXro=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/4/h/d9pBtqSbOlRQTpuwqSBA/cesp-uhe-porto-primavera-27.02.24.jpg"
+    },
+    {
+      "titulo": "Proposta do governo para baixar preço do diesel foi aceita por número 'relevante' de estados, diz secretário da Fazenda",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/27/proposta-do-governo-diesel.ghtml",
+      "data": "27/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/xOXHdHEPc9ozQqXk6aRE2a9pgFw=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/k/xzLny9QEunFjNDwk5ifg/informe-g1-2026-03-26t145731.329.png"
+    },
+    {
+      "titulo": "Alta do diesel desacelera, mas preço do sobe quase 24% desde o início da guerra, diz ANP",
       "link": "https://g1.globo.com/carros/noticia/2026/03/27/alta-do-diesel-desacelera-guerra.ghtml",
       "data": "27/03/2026",
       "fonte": "G1",
@@ -378,126 +482,6 @@
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/zQ4gKkx8uZ79wghzkiX4FRQOibM=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/v/ckFJEZRSAwqwSqOJfV4w/exportacoes-agosto.jpg"
-    },
-    {
-      "titulo": "'Eu gostava da minha galinha': francesa mata lince para salvar ave e caso vai parar na Justiça",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/03/27/eu-gostava-da-minha-galinha-francesa-mata-lince-para-salvar-ave-e-caso-vai-parar-na-justica.ghtml",
-      "data": "27/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/vexY2llBKClYoKCzgxXRRYbfJy8=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/L/NjxqDpQm6ks9DgP4ZCvw/pexels-magda-ehlers-pexels-5079064.jpg"
-    },
-    {
-      "titulo": "Sony anuncia aumento global de preços do PlayStation 5 e outros dispositivos",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/27/sony-aumenta-preco-de-seus-consoles-playstation-no-mundo.ghtml",
-      "data": "27/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/7kq1Hhj0cvOE6HUIB2-dpjgwnkE=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/j/7/NPkAsLQLAbpyeqpGlZgQ/ps5-pro.jpg"
-    },
-    {
-      "titulo": "Seis vezes em que mercados se movimentaram de maneira suspeita antes de anúncios de Trump",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/27/mercados-se-movimentaram-de-maneira-suspeita-antes-de-anuncios-de-trump.ghtml",
-      "data": "27/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/DEUUYpWZhGhio7vZAVWoOCioq1s=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/0/mLGXHFRRiGvHQXg6Bi9Q/72197291-1004.webp"
-    },
-    {
-      "titulo": "Operação Vem Diesel: se o valor do combustível não é tabelado, o que define um preço abusivo? Entenda",
-      "link": "https://g1.globo.com/politica/noticia/2026/03/27/operacao-vem-diesel-se-o-valor-do-combustivel-nao-e-tabelado-o-que-define-um-preco-abusivo-entenda.ghtml",
-      "data": "27/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/FR3jJMUtaAtwXER960YiYDLswSs=/4200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/u/emsHkMTmqv0UYhDcLLzA/fta20260317036.jpg"
-    },
-    {
-      "titulo": "PF faz operação em 11 estados e no DF para combater preços abusivos em postos de combustíveis",
-      "link": "https://g1.globo.com/politica/noticia/2026/03/27/pf-faz-megaoperacao-de-combate-a-precos-abusivos-em-postos-de-combustiveis.ghtml",
-      "data": "27/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/HTvdNH0ExUX3JXtTOsaRStNV7-0=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/N/u6vwRZQ1KSuMySGPDStA/gasolina.jpg"
-    },
-    {
-      "titulo": "STF busca saída jurídica para garantir eleição direta no Rio",
-      "link": "https://g1.globo.com/politica/blog/octavio-guedes/post/2026/03/27/stf-busca-saida-juridica-para-garantir-eleicoes-limpas-no-rio.ghtml",
-      "data": "27/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/rUI670ptdxnlJUFeEw6oUsVwuUM=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/50/20/14472050"
-    },
-    {
-      "titulo": "Apoio a Eduardo Leite por Pérsio Arida e Armínio Fraga dificulta decisão de Kassab sobre presidenciável do PSD",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/post/2026/03/27/apoio-a-eduardo-leite-por-persio-arida-e-arminio-fraga-dificulta-decisao-de-kassab-sobre-presidenciavel-do-psd.ghtml",
-      "data": "27/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/etl8FrCPmgB54bvb-tSwrtsQ_d8=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/G/QjIMroRkK3PCdES7uFLg/fotojet-46-.jpg"
-    },
-    {
-      "titulo": "CPMI do INSS: relator pede indiciamento de mais de 200 pessoas, incluindo 'Lulinha' e ex-ministros de Lula e Bolsonaro",
-      "link": "https://g1.globo.com/politica/noticia/2026/03/27/cpmi-do-inss-relatorio.ghtml",
-      "data": "27/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/xWVatz2XBx-zkN7m9SPKhdFOZp0=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/B/mftWOmRQ2U75mMyAwHBQ/imagem-1-.png"
-    },
-    {
-      "titulo": "Argentina permite mistura de até 15% de etanol na gasolina após choque do petróleo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/argentina-permite-mistura-de-ate-15-de-etanol-na-gasolina-apos-choque-do-petroleo.shtml",
-      "data": "27/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/27/177463333069c6c17216ce9_1774633330_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Governo reajusta auxílio-alimentação para R$ 1.192 e outros benefícios para servidores federais",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/governo-reajusta-auxilio-alimentacao-para-r-1192-e-outros-beneficios-para-servidores-federais.shtml",
-      "data": "27/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2023/10/16/1697486743652d979719d6b_1697486743_3x2_rt.jpg"
-    },
-    {
-      "titulo": "ANP cria trava para proteger Petrobras em programa de subsídio ao diesel",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/anp-cria-trava-para-proteger-petrobras-em-programa-de-subsidio-ao-diesel.shtml",
-      "data": "27/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2025/09/25/175884549768d5da39c8f9b_1758845497_3x2_rt.jpg"
-    },
-    {
-      "titulo": "USP propõe bônus a professores e racha categoria em meio a campanha salarial",
-      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/educacao/2026/03/usp-propoe-bonus-a-professores-e-racha-categoria-em-meio-a-campanha-salarial.shtml",
-      "data": "27/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2025/11/03/17621905326908e4c4e7202_1762190532_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Chineses interrompem tentativa de passar por Ormuz apesar de Irã garantir segurança",
-      "link": "https://www.infomoney.com.br/mundo/chineses-interrompem-tentativa-de-passar-por-ormuz-apesar-de-ira-garantir-seguranca/",
-      "data": "27/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/450989933.jpg?quality=70"
-    },
-    {
-      "titulo": "Goldman: Petrobras pode perder competitividade no curto prazo por alta no petróleo",
-      "link": "https://www.infomoney.com.br/mercados/goldman-petrobras-pode-perder-competitividade-no-curto-prazo-por-alta-no-petroleo/",
-      "data": "27/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/02/75860444-01-11-2014-plataforma-da-petrobras-em-atuacao-no-campo-de-lula-no-pre-sal-navio-de-produc-2-.jpeg?quality=70"
-    },
-    {
-      "titulo": "Xamã abre o jogo e releva se pretende parar de cantar para atuar",
-      "link": "https://www.metropoles.com/colunas/lucas-pasin/xama-abre-o-jogo-e-releva-se-pretende-parar-de-cantar-para-atuar",
-      "data": "27/03/2026",
-      "fonte": "Metrópoles",
-      "prioridade": 1,
-      "imagem": "https://i.metroimg.com/Zm42f73aDTIc_HPbzVn8oNhi5QyLNveyg6K5yYiE3FE/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/xama.jpg"
     },
     {
       "titulo": "Quem é Rafael Góis, CEO da Fictor e alvo de operação da PF por fraudes bancárias",
@@ -540,12 +524,20 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/0b-Portfolio-Foton-Eletricos.jpg"
     },
     {
-      "titulo": "Como a IA está criando conteúdos para LinkedIn em menos de 5 minutos",
-      "link": "https://exame.com/inteligencia-artificial/como-a-ia-esta-criando-conteudos-para-linkedin-em-menos-de-5-minutos/",
-      "data": "2026-03-27",
+      "titulo": "Filas na segurança em aeroportos dos EUA elevam demanda por 1ª classe",
+      "link": "https://exame.com/invest/mercados/filas-na-seguranca-em-aeroportos-dos-eua-elevam-demanda-por-1a-classe/",
+      "data": "2026-03-28",
       "fonte": "Exame",
       "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2025/06/GettyImages-2205105348.jpg"
+      "imagem": "https://classic.exame.com/wp-content/uploads/2025/03/GettyImages-2185393663.jpg"
+    },
+    {
+      "titulo": "Sony aumenta preços do Playstation 5 no Brasil; veja os novos valores",
+      "link": "https://exame.com/tecnologia/sony-aumenta-precos-do-playstation-5-no-brasil-veja-os-novos-valores/",
+      "data": "2026-03-28",
+      "fonte": "Exame",
+      "prioridade": 1,
+      "imagem": "https://classic.exame.com/wp-content/uploads/2026/03/imagem-2023-10-10-130952860_ecqn.png"
     },
     {
       "titulo": "Caminhões Hyundai Xcient movidos a célula de combustível chegam ao Uruguai",
@@ -572,178 +564,146 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/vw-amaggi-b100-1.jpg"
     },
     {
-      "titulo": "Renner deixa de vender camiseta com frase 'Regret Nothing', ligada a discurso misógino",
-      "link": "https://g1.globo.com/economia/negocios/noticia/2026/03/13/renner-camiseta-regret-nothing.ghtml",
-      "data": "13/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/uwMDXUJL8dVr0JeC-L1sTAxeEI8=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/9/i9L3UdQrW4RBnnbu8hoQ/imagem-cortada-2026-03-09t130828.243.jpg"
-    },
-    {
-      "titulo": "Petrobras sobe os preços do diesel para distribuidoras",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/13/petrobras-sobe-precos-do-diesel-para-distribuidoras.ghtml",
-      "data": "13/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/wzsw6G97q7IHtyozw17WZv0U_qM=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/p/Q/B1dSL5Sv6lla5qdBUxow/hora1-limpo-20220728-0350-frame-24460.jpeg"
-    },
-    {
-      "titulo": "Governador do DF, Ibaneis pede empréstimo de R$ 4 bilhões ao FGC para capitalizar o BRB",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/03/27/ibaneis-rocha-pede-emprestimo-de-r-4-milhoes-ao-fgc.ghtml",
-      "data": "27/03/2026",
+      "titulo": "Vice-governador de SP, Felício Ramuth troca PSD pelo MDB e cita alinhamento com Tarcísio",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/03/28/vice-governador-de-sp-felicio-ramuth-troca-psd-pelo-mdb-e-cita-alinhamento-com-tarcisio.ghtml",
+      "data": "28/03/2026",
       "fonte": "G1",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/oIzLI8BcTMSwOz-Fneyc07QfSeg=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/L/LonDwZSMyRzR8mF5TqnQ/av-ibaneis-rocha-df1-frame-0.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/8D_PSKJ4Zl2W-SyIO04S5LIThCo=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/B/YbQKENTdCVQqFDcYbokw/design-sem-nome.jpg"
+    },
+    {
+      "titulo": "Edilson Damião destaca fé, origem humilde e união entre poderes em discurso de posse como governador de Roraima",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/03/28/edilson-damiao-destaca-fe-origem-humilde-e-uniao-entre-poderes-em-discurso-de-posse-como-governador-de-roraima.ghtml",
+      "data": "28/03/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/RRSgEpjTa7Fxk_yU8JqLYkdoUTk=/4032x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/U/nmRx4aSsyNtcmBzEOD4w/img-6708.jpg.jpeg"
+    },
+    {
+      "titulo": "CPMI do INSS rejeita relatório que pedia indiciamento de 'Lulinha' e ex-ministros de Lula e Bolsonaro",
+      "link": "https://g1.globo.com/politica/noticia/2026/03/28/cpmi-do-inss-relatorio.ghtml",
+      "data": "28/03/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/xWVatz2XBx-zkN7m9SPKhdFOZp0=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/B/mftWOmRQ2U75mMyAwHBQ/imagem-1-.png"
+    },
+    {
+      "titulo": "Edilson Damião toma posse como governador de Roraima após renúncia de Denarium",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/03/27/edilson-damiao-toma-posse-como-governador-de-roraima-apos-renuncia-de-denarium.ghtml",
+      "data": "28/03/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/RRSgEpjTa7Fxk_yU8JqLYkdoUTk=/4032x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/U/nmRx4aSsyNtcmBzEOD4w/img-6708.jpg.jpeg"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "Vale cai 11% no mês, apesar de alta do minério; mas por que mercado segue otimista?",
-      "link": "https://www.infomoney.com.br/mercados/vale-vale3-cai-11-no-mes-apesar-de-alta-do-minerio-mas-por-que-mercado-segue-otimista/",
-      "data": "27/03/2026",
+      "titulo": "Estudo liga escravidão à estagnação do PIB per capita no Brasil",
+      "link": "https://www.infomoney.com.br/politica/estudo-liga-escravidao-a-estagnacao-do-pib-per-capita-no-brasil/",
+      "data": "28/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-04T142216Z_1_LYNXMPEM2310U_RTROPTP_4_USA-STOCKS.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/12/pib_09.webp?quality=70"
     },
     {
-      "titulo": "Irã: ataques enquanto pedem negociações são intoleráveis; resposta não está decidida",
-      "link": "https://www.infomoney.com.br/mundo/ira-ataques-enquanto-pedem-negociacoes-sao-intoleraveis-resposta-nao-esta-decidida/",
-      "data": "27/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": ""
-    },
-    {
-      "titulo": "Vorcaro montou frota de jatos de R$ 260 milhões pagos à vista, diz jornal",
-      "link": "https://www.infomoney.com.br/politica/vorcaro-montou-frota-de-jatos-de-r-260-milhoes-pagos-a-vista-diz-jornal/",
-      "data": "27/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/11/jatinho_vorcaro.webp?quality=70"
-    },
-    {
-      "titulo": "Como o Irã usa o estreito de Hormuz com arma de guerrilha econômica global",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/como-o-ira-usa-o-estreito-de-ormuz-com-arma-de-guerrilha-economica-global.shtml",
-      "data": "27/03/2026",
+      "titulo": "Escravidão explica PIB per capita persistentemente baixo na história do Brasil, aponta estudo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/escravidao-explica-pib-per-capita-persistentemente-baixo-na-historia-do-brasil-aponta-estudo.shtml",
+      "data": "28/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/27/177463798169c6d39d89318_1774637981_3x2_lg.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/20/177402627869bd7e2671e84_1774026278_3x2_xl.jpg"
     },
     {
-      "titulo": "Argentina permite mistura de até 15% de etanol na gasolina após choque do petróleo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/argentina-permite-mistura-de-ate-15-de-etanol-na-gasolina-apos-choque-do-petroleo.shtml",
-      "data": "27/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/27/177463333069c6c17216ce9_1774633330_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Brasil registra déficit em conta corrente de US$ 5,6 bi em fevereiro, diz BC",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/brasil-registra-deficit-em-conta-corrente-de-us-56-bi-em-fevereiro-diz-bc.shtml",
-      "data": "27/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/27/177462754569c6aad9a3caf_1774627545_3x2_rt.jpg"
-    },
-    {
-      "titulo": "ANP cria trava para proteger Petrobras em programa de subsídio ao diesel",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/anp-cria-trava-para-proteger-petrobras-em-programa-de-subsidio-ao-diesel.shtml",
-      "data": "27/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2025/09/25/175884549768d5da39c8f9b_1758845497_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Prio abre segundo poço produtor do campo de Wahoo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/03/01/6441-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450465",
-      "data": "27/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
-    },
-    {
-      "titulo": "Alta do diesel desacelera, mas preço do sobe quase 24% desde o início da guerra, diz ANP",
-      "link": "https://g1.globo.com/carros/noticia/2026/03/27/alta-do-diesel-desacelera-guerra.ghtml",
-      "data": "27/03/2026",
+      "titulo": "Governo zera imposto de importação de insumos para canetas emagrecedoras da EMS",
+      "link": "https://g1.globo.com/saude/noticia/2026/03/28/governo-zera-imposto-de-importacao-de-insumos-ems.ghtml",
+      "data": "28/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/NbK4BRlTP7tEocnhCHt6kcydVik=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/L/vosTrgSBWGxqRKECnhQA/globo-canal-4-20260320-2000-frame-94655.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/nkOmRA7kAwmfi8h4idNtIQTyGMU=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/Q/SAhbF3Q2eufpyH4SdA7Q/caneta-emagrecedora.jpg"
     },
     {
-      "titulo": "Além do petróleo: os outros produtos de exportação afetados pelo fechamento do estreito de Ormuz pelo Irã",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/27/alem-do-petroleo-os-outros-produtos-de-exportacao-afetados-pelo-fechamento-do-estreito-de-ormuz-pelo-ira.ghtml",
-      "data": "27/03/2026",
+      "titulo": "O outro estreito crucial para a economia global que o Irã ameaça bloquear",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/28/o-outro-estreito-crucial-para-a-economia-global-que-o-ira-ameaca-bloquear.ghtml",
+      "data": "28/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
+      "imagem": "https://s2-g1.glbimg.com/HiEfauh4UOUbGMufvDr-fsWil8A=/1280x0/filters:format(jpeg)/https://s02.video.glbimg.com/x720/13697105.jpg"
     },
     {
-      "titulo": "Mercosul e Canadá se aproximam de acordo de livre comércio com negociações em abril",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/27/mercosul-e-canada-se-aproximam-de-acordo-de-livre-comercio-com-negociacoes-em-abril.ghtml",
-      "data": "27/03/2026",
+      "titulo": "Café que fica no Brasil é ruim? Entenda de onde vem essa ideia e se ela é verdadeira",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/03/28/cafe-que-fica-no-brasil-e-ruim-entenda-de-onde-vem-essa-ideia-e-se-ela-e-verdadeira.ghtml",
+      "data": "28/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/zQ4gKkx8uZ79wghzkiX4FRQOibM=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/v/ckFJEZRSAwqwSqOJfV4w/exportacoes-agosto.jpg"
+      "imagem": "https://s2-g1.glbimg.com/6-esy_txg3oCzI5A91DbmjLjNnI=/4889x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/c/x/vSXmKvQvOXdDeW4eNxcA/mike-kenneally-td4dbagg2we-unsplash.jpg"
     },
     {
-      "titulo": "Governador do DF, Ibaneis pede empréstimo de R$ 4 bilhões ao FGC para capitalizar o BRB",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/03/27/ibaneis-rocha-pede-emprestimo-de-r-4-milhoes-ao-fgc.ghtml",
-      "data": "27/03/2026",
+      "titulo": "Guerra no Oriente Médio agrava crise dos combustíveis, já afeta inflação e abastecimento no Brasil",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/28/guerra-no-oriente-medio-agrava-crise-dos-combustiveis-ja-afeta-inflacao-e-abastecimento-no-brasil.ghtml",
+      "data": "28/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/oIzLI8BcTMSwOz-Fneyc07QfSeg=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/L/LonDwZSMyRzR8mF5TqnQ/av-ibaneis-rocha-df1-frame-0.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/WK0aV25zfTSaC4IxQsPbHlBnqr0=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/i/VzYDFHRXyIqG3FVKrj4A/globo-canal-4-20260312-2000-frame-75789.jpeg"
     },
     {
-      "titulo": "Seis vezes em que mercados se movimentaram de maneira suspeita antes de anúncios de Trump",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/27/mercados-se-movimentaram-de-maneira-suspeita-antes-de-anuncios-de-trump.ghtml",
-      "data": "27/03/2026",
+      "titulo": "Mais candidatos, mais etapas e pouco retorno: por que parece que buscar um emprego ficou tão difícil",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/28/por-que-parece-que-buscar-um-emprego-ficou-tao-dificil.ghtml",
+      "data": "28/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/DEUUYpWZhGhio7vZAVWoOCioq1s=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/0/mLGXHFRRiGvHQXg6Bi9Q/72197291-1004.webp"
+      "imagem": "https://s2-g1.glbimg.com/thQCQKCLevoD3Jg4wG3091vb0bE=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/s/DNd1bIS3AxiFuAmBYTFA/1768845509604-1-3-.jpg"
     },
     {
-      "titulo": "Operação Vem Diesel: se o valor do combustível não é tabelado, o que define um preço abusivo? Entenda",
-      "link": "https://g1.globo.com/politica/noticia/2026/03/27/operacao-vem-diesel-se-o-valor-do-combustivel-nao-e-tabelado-o-que-define-um-preco-abusivo-entenda.ghtml",
-      "data": "27/03/2026",
+      "titulo": "Leilão da Receita tem iPhone 17, MacBook Air, videogames e vinhos; veja lances a partir de R$ 100",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/28/leilao-da-receita-tem-iphone-17-macbook-air-videogames-e-vinhos-veja-lances-a-partir-de-r-100.ghtml",
+      "data": "28/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/FR3jJMUtaAtwXER960YiYDLswSs=/4200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/u/emsHkMTmqv0UYhDcLLzA/fta20260317036.jpg"
+      "imagem": "https://s2-g1.glbimg.com/ctOsCU-ZDv2AFX1XuVgqIuc7sp8=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/h/Bq2ZS3Qc2IYH5u9zdDSQ/afp-20250909-73xq3dm-v1-midres-appleexpectedtounveilanewiphonemodelataneventstr.jpg"
     },
     {
-      "titulo": "Ouro sobe mais de 2% de olho no Oriente Médio, mas acumula perdas na semana",
-      "link": "https://www.moneytimes.com.br/ouro-sobe-mais-de-2-de-olho-no-oriente-medio-mas-tem-perdas-na-semana-apsa/",
-      "data": "27/03/2026",
+      "titulo": "MBRF (MBRF3) lidera os ganhos do Ibovespa e Braskem (BRKM5) é ação com pior desempenho; veja os destaques da semana",
+      "link": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-13-lils/",
+      "data": "28/03/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/06/ouro-mercados.png"
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/10/acoes-carteira-recomendada-mercados-1-1.jpg"
     },
     {
-      "titulo": "Braskem (BRKM5) vê alta de spreads com continuação de guerra no Oriente Médio",
-      "link": "https://www.moneytimes.com.br/braskem-brkm5-ve-alta-de-spreads-com-continuacao-de-guerra-no-oriente-medio-kda/",
-      "data": "27/03/2026",
+      "titulo": "Localiza (RENT3) anuncia novo valor de JCP; veja quem tem direito",
+      "link": "https://www.moneytimes.com.br/localiza-rent3-anuncia-novo-valor-de-jcp-pagamento-sera-em-maio-igdl/",
+      "data": "28/03/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2024/03/braskem.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2024/11/localiza-rent3-jcp.png"
     },
     {
-      "titulo": "Trump recua, desemprego sobe e empresas decepcionam: o combo que mexe com o mercado hoje (27)",
-      "link": "https://www.moneytimes.com.br/trump-recua-desemprego-sobe-e-empresas-decepcionam-o-combo-que-mexe-com-o-mercado-hoje-27-ceci/",
+      "titulo": "Investimento social privado equivale a 2 horas do orçamento federal",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/laura-machado/2026/03/investimento-social-privado-equivale-a-2-horas-do-orcamento-federal.shtml",
       "data": "27/03/2026",
-      "fonte": "Money Times",
+      "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2026/03/novo-layout-giro-23-1.png"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/13/177343873369b4870dac360_1773438733_3x2_xl.jpg"
     },
     {
-      "titulo": "Os 10 custos invisíveis na hora de comprar um imóvel",
-      "link": "https://exame.com/mercado-imobiliario/os-10-custos-invisiveis-na-hora-de-comprar-um-imovel/",
-      "data": "2026-03-27",
-      "fonte": "Exame",
+      "titulo": "Relatório compara golpes online a remédio vencido e defende responsabilizar plataformas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/03/relatorio-compara-golpes-online-a-remedio-vencido-e-defende-responsabilizar-plataformas.shtml",
+      "data": "27/03/2026",
+      "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_chave-casa5.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/26/177455051169c57deff41d4_1774550511_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Proposta do governo para baixar preço do diesel foi aceita por número 'relevante' de estados, diz secretário da Fazenda",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/27/proposta-do-governo-diesel.ghtml",
+      "data": "27/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/xOXHdHEPc9ozQqXk6aRE2a9pgFw=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/k/xzLny9QEunFjNDwk5ifg/informe-g1-2026-03-26t145731.329.png"
     }
   ],
-  "noticias_em": "27/03/2026 19:31 UTC",
-  "noticias_em_br": "27/03/2026 16:31",
+  "noticias_em": "28/03/2026 17:59 UTC",
+  "noticias_em_br": "28/03/2026 14:59",
   "indicadores_em": "24/03/2026 11:51 UTC",
   "indicadores_em_br": "24/03/2026 08:51"
 }
