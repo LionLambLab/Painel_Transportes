@@ -356,60 +356,124 @@
   },
   "noticias": [
     {
+      "titulo": "Como a China passou anos se preparando para uma crise mundial do petróleo e qual é o seu ponto fraco",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/29/como-a-china-passou-anos-se-preparando-para-uma-crise-mundial-do-petroleo-e-qual-e-o-seu-ponto-fraco.ghtml",
+      "data": "29/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/Nph1WE027cIzwv_b12KL8o5i_XY=/1400x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/B/ANOAzeS86HUXZGOCZOlQ/fotos-g1-19-.png"
+    },
+    {
+      "titulo": "Produtores de leite enfrentam queda no preço e aumento de custos no interior de SP",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/03/29/produtores-de-leite-enfrentam-queda-no-preco-e-aumento-de-custos-no-interior-de-sp.ghtml",
+      "data": "29/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/ZHwh_R1l7kKacRRaZhSvN2kDojo=/1440x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/A/ZBPmKQSWO80FaZcvR2Nw/bau-leite-estrategia-180326-frame-415.jpeg"
+    },
+    {
+      "titulo": "Guerra no Oriente Médio eleva custos dos insumos agrícolas e preocupa produtores do interior de SP",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/03/29/guerra-no-oriente-medio-eleva-custos-dos-insumos-agricolas-e-preocupa-produtores-do-interior-de-sp.ghtml",
+      "data": "29/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/WO34IGLvPIcJEBrb1RwibEGovB4=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/S/0FEE7XTcSQrYV2te5CvA/design-sem-nome-69-.png"
+    },
+    {
+      "titulo": "Material comum em cozinhas vira alvo de batalha judicial após casos de doença pulmonar em trabalhadores",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/29/material-comum-em-cozinhas-vira-alvo-de-batalha-judicial-apos-casos-de-doenca-pulmonar-em-trabalhadores.ghtml",
+      "data": "29/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/siTpinDDtOyTDyJYlOiynIJrwk8=/1500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/gkT5RASJemWPaJfCqMtQ/2150886714.jpg"
+    },
+    {
+      "titulo": "As entregadoras de probiótico que combatem a solidão no Japão",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/29/as-entregadoras-de-probiotico-que-combatem-a-solidao-no-japao.ghtml",
+      "data": "29/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
+    },
+    {
+      "titulo": "Crise política no Rio: entenda por que o estado terá eleição para mandato-tampão e o impasse no STF",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/03/29/crise-politica-no-rio-entenda-por-que-o-estado-tera-eleicao-para-mandato-tampao-e-o-impasse-no-stf.ghtml",
+      "data": "29/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/3wGSOw3WirYKKX9JZmgQI7-4LHg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/14474555.jpg"
+    },
+    {
+      "titulo": "Empresas acreditam que Fazenda abre caminho para mudar marco regulatório do transporte interestadual",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/03/empresas-acreditam-que-fazenda-abre-caminho-para-mudar-marco-regulatorio-do-transporte-interestadual.shtml",
+      "data": "29/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2023/12/28/1703814622658e25de32d0c_1703814622_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Escola não é clínica, mas não pode piorar fatores que impactam saúde mental de alunos, diz especialista",
+      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/educacao/2026/03/escola-nao-e-clinica-mas-nao-pode-piorar-fatores-que-impactam-saude-mental-de-alunos-diz-especialista.shtml",
+      "data": "29/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/27/177466002169c729b52226f_1774660021_3x2_xl.jpg"
+    },
+    {
+      "titulo": "Plano econômico de Zema prevê jornada por hora, ampliação do Simples e reforma da Previdência permanente",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/03/plano-economico-de-zema-preve-jornada-sem-limite-ampliacao-do-simples-e-reforma-da-previdencia-permanente.shtml",
+      "data": "29/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/12/12/1765548624693c2250ad1f1_1765548624_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Dois navios com destino a Índia carregados com GLP passam pelo Estreito de Ormuz",
+      "link": "https://www.infomoney.com.br/mundo/dois-navios-com-destino-a-india-carregados-com-glp-passam-pelo-estreito-de-ormuz/",
+      "data": "29/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/450989933.jpg?fit=2200%2C1466&quality=70&strip=all"
+    },
+    {
+      "titulo": "Políticas de Donald Trump levam multidão às ruas nos EUA",
+      "link": "https://www.moneytimes.com.br/politicas-de-donald-trump-levam-multidao-as-ruas-nos-eua-jcav/",
+      "data": "29/03/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/03/manifestacoes-donald-trump-eua.jpg"
+    },
+    {
+      "titulo": "Governo quer liberar R$ 7 bilhões para frear tarifas de energia",
+      "link": "https://www.moneytimes.com.br/governo-quer-liberar-r-7-bilhoes-para-frear-tarifas-de-energia-jcav/",
+      "data": "29/03/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/10/mp-de-energia-congresso.jpg"
+    },
+    {
+      "titulo": "Produtor de conteúdo é assassinado por idoso após invadir casa do ex",
+      "link": "https://www.metropoles.com/celebridades/produtor-de-conteudo-e-assassinado-por-idoso-apos-invadir-casa-do-ex",
+      "data": "29/03/2026",
+      "fonte": "Metrópoles",
+      "prioridade": 1,
+      "imagem": "https://i.metroimg.com/cCWMzuuwU2HyC6O8h3nmRBRUCDJIaFM_wN98J3fYYyk/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/apolo-dos-santos4.jpg"
+    },
+    {
+      "titulo": "Família cobra justiça em ato pela morte de jovem agredido por Turra",
+      "link": "https://www.metropoles.com/distrito-federal/familia-cobra-justica-em-ato-pela-morte-de-jovem-agredido-por-turra",
+      "data": "29/03/2026",
+      "fonte": "Metrópoles",
+      "prioridade": 1,
+      "imagem": "https://i.metroimg.com/CKTAfNrk5P1pQswqjkBsCx26H0f8rOv1T-zFx_FEeMA/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/ato-justica-rodrigo-castanheira-2.jpeg"
+    },
+    {
       "titulo": "Bank of America fecha acordo de US$ 72,5 milhões com vítimas de Epstein",
       "link": "https://g1.globo.com/economia/noticia/2026/03/28/bank-of-america-acordo-epstein.ghtml",
       "data": "28/03/2026",
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/d7Yuw9JJE0YFk2KKEBSg3q-2FHo=/3200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/H/5/up0YN1QkeRQpTH65FxUg/063-1154615743.jpg"
-    },
-    {
-      "titulo": "O outro estreito crucial para a economia global que o Irã ameaça bloquear",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/28/o-outro-estreito-crucial-para-a-economia-global-que-o-ira-ameaca-bloquear.ghtml",
-      "data": "28/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/HiEfauh4UOUbGMufvDr-fsWil8A=/1280x0/filters:format(jpeg)/https://s02.video.glbimg.com/x720/13697105.jpg"
-    },
-    {
-      "titulo": "'Meu corpo me foi roubado durante anos': atriz alemã denuncia ex-marido após sofrer violência sexual digital",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/28/meu-corpo-me-foi-roubado-durante-anos-atriz-alema-denuncia-ex-marido-apos-sofrer-violencia-sexual-digital.ghtml",
-      "data": "28/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/0TbBxLZmP1L8x0cwcwbkCPJtO-8=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/l/OJkMhnTHSnvhbYINES8Q/76483700-1004.webp"
-    },
-    {
-      "titulo": "Café que fica no Brasil é ruim? Entenda de onde vem essa ideia e se ela é verdadeira",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/03/28/cafe-que-fica-no-brasil-e-ruim-entenda-de-onde-vem-essa-ideia-e-se-ela-e-verdadeira.ghtml",
-      "data": "28/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/6-esy_txg3oCzI5A91DbmjLjNnI=/4889x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/c/x/vSXmKvQvOXdDeW4eNxcA/mike-kenneally-td4dbagg2we-unsplash.jpg"
-    },
-    {
-      "titulo": "Guerra no Oriente Médio agrava crise dos combustíveis, já afeta inflação e abastecimento no Brasil",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/28/guerra-no-oriente-medio-agrava-crise-dos-combustiveis-ja-afeta-inflacao-e-abastecimento-no-brasil.ghtml",
-      "data": "28/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/WK0aV25zfTSaC4IxQsPbHlBnqr0=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/i/VzYDFHRXyIqG3FVKrj4A/globo-canal-4-20260312-2000-frame-75789.jpeg"
-    },
-    {
-      "titulo": "Mais candidatos, mais etapas e pouco retorno: por que parece que buscar um emprego ficou tão difícil",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/28/por-que-parece-que-buscar-um-emprego-ficou-tao-dificil.ghtml",
-      "data": "28/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/thQCQKCLevoD3Jg4wG3091vb0bE=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/s/DNd1bIS3AxiFuAmBYTFA/1768845509604-1-3-.jpg"
-    },
-    {
-      "titulo": "Leilão da Receita tem iPhone 17, MacBook Air, videogames e vinhos; veja lances a partir de R$ 100",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/28/leilao-da-receita-tem-iphone-17-macbook-air-videogames-e-vinhos-veja-lances-a-partir-de-r-100.ghtml",
-      "data": "28/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/ctOsCU-ZDv2AFX1XuVgqIuc7sp8=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/h/Bq2ZS3Qc2IYH5u9zdDSQ/afp-20250909-73xq3dm-v1-midres-appleexpectedtounveilanewiphonemodelataneventstr.jpg"
     },
     {
       "titulo": "Fachin rejeita pedido de CPI do Crime Organizado para manter quebra de sigilo de empresa de Toffoli",
@@ -426,62 +490,6 @@
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/JwSFSS5VtX1aSzatAxfaKhWmJ7U=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/R/QVaBUPQVCQuTyOUSowAw/53879254269-b9edf2b19e-k.jpg"
-    },
-    {
-      "titulo": "Advogado é morto a tiros durante penhora de caminhões para pagamento de dívida trabalhista em São Vicente (SP)",
-      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/03/advogado-e-morto-a-tiros-durante-penhora-de-caminhoes-para-pagamento-de-divida-trabalhista-em-sao-vicente-sp.shtml",
-      "data": "28/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/28/177470756669c7e36e05aa3_1774707566_3x2_lg.jpg"
-    },
-    {
-      "titulo": "BBB 26: castigo do Monstro é suspenso após acusações de tortura",
-      "link": "https://www.metropoles.com/entretenimento/televisao/bbb-26-castigo-do-monstro-e-suspenso-apos-acusacoes-de-tortura",
-      "data": "28/03/2026",
-      "fonte": "Metrópoles",
-      "prioridade": 1,
-      "imagem": "https://i.metroimg.com/iahwlnB1SCMkVrIg38Qb2zpBii6me2fpVhSBWwMVW4A/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/ana-paula-e-milena-no-castigo-do-monstro.jpg"
-    },
-    {
-      "titulo": "Conta de luz: Aneel mantém bandeira tarifária verde em abril",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/27/conta-de-luz-aneel-mantem-bandeira-tarifaria-verde-em-abril.ghtml",
-      "data": "27/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/7DgfbmTUFAvaTQ6FKWcDLgkNXro=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/4/h/d9pBtqSbOlRQTpuwqSBA/cesp-uhe-porto-primavera-27.02.24.jpg"
-    },
-    {
-      "titulo": "Proposta do governo para baixar preço do diesel foi aceita por número 'relevante' de estados, diz secretário da Fazenda",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/27/proposta-do-governo-diesel.ghtml",
-      "data": "27/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/xOXHdHEPc9ozQqXk6aRE2a9pgFw=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/k/xzLny9QEunFjNDwk5ifg/informe-g1-2026-03-26t145731.329.png"
-    },
-    {
-      "titulo": "Alta do diesel desacelera, mas preço do sobe quase 24% desde o início da guerra, diz ANP",
-      "link": "https://g1.globo.com/carros/noticia/2026/03/27/alta-do-diesel-desacelera-guerra.ghtml",
-      "data": "27/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/NbK4BRlTP7tEocnhCHt6kcydVik=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/L/vosTrgSBWGxqRKECnhQA/globo-canal-4-20260320-2000-frame-94655.jpeg"
-    },
-    {
-      "titulo": "Além do petróleo: os outros produtos de exportação afetados pelo fechamento do estreito de Ormuz pelo Irã",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/27/alem-do-petroleo-os-outros-produtos-de-exportacao-afetados-pelo-fechamento-do-estreito-de-ormuz-pelo-ira.ghtml",
-      "data": "27/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
-    },
-    {
-      "titulo": "Mercosul e Canadá se aproximam de acordo de livre comércio com negociações em abril",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/27/mercosul-e-canada-se-aproximam-de-acordo-de-livre-comercio-com-negociacoes-em-abril.ghtml",
-      "data": "27/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/zQ4gKkx8uZ79wghzkiX4FRQOibM=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/v/ckFJEZRSAwqwSqOJfV4w/exportacoes-agosto.jpg"
     },
     {
       "titulo": "Quem é Rafael Góis, CEO da Fictor e alvo de operação da PF por fraudes bancárias",
@@ -524,22 +532,6 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/0b-Portfolio-Foton-Eletricos.jpg"
     },
     {
-      "titulo": "Filas na segurança em aeroportos dos EUA elevam demanda por 1ª classe",
-      "link": "https://exame.com/invest/mercados/filas-na-seguranca-em-aeroportos-dos-eua-elevam-demanda-por-1a-classe/",
-      "data": "2026-03-28",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2025/03/GettyImages-2185393663.jpg"
-    },
-    {
-      "titulo": "Sony aumenta preços do Playstation 5 no Brasil; veja os novos valores",
-      "link": "https://exame.com/tecnologia/sony-aumenta-precos-do-playstation-5-no-brasil-veja-os-novos-valores/",
-      "data": "2026-03-28",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2026/03/imagem-2023-10-10-130952860_ecqn.png"
-    },
-    {
       "titulo": "Caminhões Hyundai Xcient movidos a célula de combustível chegam ao Uruguai",
       "link": "https://www.transportabrasil.com.br/2026/03/caminhoes-hyundai-xcient-movidos-a-celula-de-combustivel-chegam-ao-uruguai/",
       "data": "20/03/2026",
@@ -564,146 +556,114 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/vw-amaggi-b100-1.jpg"
     },
     {
-      "titulo": "Vice-governador de SP, Felício Ramuth troca PSD pelo MDB e cita alinhamento com Tarcísio",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/03/28/vice-governador-de-sp-felicio-ramuth-troca-psd-pelo-mdb-e-cita-alinhamento-com-tarcisio.ghtml",
-      "data": "28/03/2026",
+      "titulo": "Um abacaxi pode ter até 200 frutas fundidas; veja como isso acontece",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/03/29/um-abacaxi-pode-ter-ate-200-frutas-fundidas-veja-como-isso-acontece.ghtml",
+      "data": "29/03/2026",
       "fonte": "G1",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/8D_PSKJ4Zl2W-SyIO04S5LIThCo=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/B/YbQKENTdCVQqFDcYbokw/design-sem-nome.jpg"
+      "imagem": "https://s2-g1.glbimg.com/2H-DvyYvuFfQVYc6b76w_p870mg=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/M/E43FiUTB2VaMjCDi8c7Q/florada-abacaxi.jpg"
     },
     {
-      "titulo": "Edilson Damião destaca fé, origem humilde e união entre poderes em discurso de posse como governador de Roraima",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/03/28/edilson-damiao-destaca-fe-origem-humilde-e-uniao-entre-poderes-em-discurso-de-posse-como-governador-de-roraima.ghtml",
-      "data": "28/03/2026",
-      "fonte": "G1",
+      "titulo": "Ano eleitoral aumenta a volatilidade do mercado; veja como isso afeta os investimentos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/ano-eleitoral-aumenta-a-volatilidade-do-mercado-veja-como-isso-afeta-os-investimentos.shtml",
+      "data": "29/03/2026",
+      "fonte": "Folha SP",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/RRSgEpjTa7Fxk_yU8JqLYkdoUTk=/4032x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/U/nmRx4aSsyNtcmBzEOD4w/img-6708.jpg.jpeg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/08/20/175569774068a5d24c3b484_1755697740_3x2_rt.jpg"
     },
     {
-      "titulo": "CPMI do INSS rejeita relatório que pedia indiciamento de 'Lulinha' e ex-ministros de Lula e Bolsonaro",
-      "link": "https://g1.globo.com/politica/noticia/2026/03/28/cpmi-do-inss-relatorio.ghtml",
-      "data": "28/03/2026",
-      "fonte": "G1",
+      "titulo": "Pista do aeroporto de Guarulhos fica em reforma até o fim de abril",
+      "link": "https://www.infomoney.com.br/mercados/pista-do-aeroporto-de-guarulhos-fica-em-reforma-ate-o-fim-de-abril/",
+      "data": "29/03/2026",
+      "fonte": "InfoMoney",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/xWVatz2XBx-zkN7m9SPKhdFOZp0=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/B/mftWOmRQ2U75mMyAwHBQ/imagem-1-.png"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Aeroporto-de-Guarulhos.jpg?quality=70"
     },
     {
-      "titulo": "Edilson Damião toma posse como governador de Roraima após renúncia de Denarium",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/03/27/edilson-damiao-toma-posse-como-governador-de-roraima-apos-renuncia-de-denarium.ghtml",
-      "data": "28/03/2026",
-      "fonte": "G1",
+      "titulo": "Isa Energia (ISAE3;ISAE4), Itaú Unibanco (ITUB3;ITUB4) e mais 12 empresas pagam dividendos nesta semana; veja o calendário",
+      "link": "https://www.moneytimes.com.br/dividendos-da-semana-27-3-26-apsa/",
+      "data": "29/03/2026",
+      "fonte": "Money Times",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/RRSgEpjTa7Fxk_yU8JqLYkdoUTk=/4032x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/U/nmRx4aSsyNtcmBzEOD4w/img-6708.jpg.jpeg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/01/dinheiro-dividendos-imagem-emerson-barreto-istockphoto.png"
+    },
+    {
+      "titulo": "Inflação sobe e corta o ritmo da Selic: o que mudou no cenário, segundo o Inter",
+      "link": "https://www.moneytimes.com.br/inflacao-sobe-e-corta-o-ritmo-da-selic-o-que-mudou-no-cenario-segundo-o-inter-jcav/",
+      "data": "29/03/2026",
+      "fonte": "Money Times",
+      "prioridade": 2,
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/08/juros-selic-banco-central-copom.png"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "Estudo liga escravidão à estagnação do PIB per capita no Brasil",
-      "link": "https://www.infomoney.com.br/politica/estudo-liga-escravidao-a-estagnacao-do-pib-per-capita-no-brasil/",
-      "data": "28/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/12/pib_09.webp?quality=70"
-    },
-    {
-      "titulo": "Escravidão explica PIB per capita persistentemente baixo na história do Brasil, aponta estudo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/escravidao-explica-pib-per-capita-persistentemente-baixo-na-historia-do-brasil-aponta-estudo.shtml",
-      "data": "28/03/2026",
+      "titulo": "Ano eleitoral aumenta a volatilidade do mercado; veja como isso afeta os investimentos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/ano-eleitoral-aumenta-a-volatilidade-do-mercado-veja-como-isso-afeta-os-investimentos.shtml",
+      "data": "29/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/20/177402627869bd7e2671e84_1774026278_3x2_xl.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/08/20/175569774068a5d24c3b484_1755697740_3x2_rt.jpg"
     },
     {
-      "titulo": "Governo zera imposto de importação de insumos para canetas emagrecedoras da EMS",
-      "link": "https://g1.globo.com/saude/noticia/2026/03/28/governo-zera-imposto-de-importacao-de-insumos-ems.ghtml",
-      "data": "28/03/2026",
+      "titulo": "Como a China passou anos se preparando para uma crise mundial do petróleo e qual é o seu ponto fraco",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/como-a-china-passou-anos-se-preparando-para-uma-crise-mundial-do-petroleo-e-qual-e-o-seu-ponto-fraco.shtml",
+      "data": "29/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/29/177478948569c9236da524c_1774789485_3x2_lg.jpg"
+    },
+    {
+      "titulo": "Material comum em cozinhas vira alvo de batalha judicial após casos de doença pulmonar em trabalhadores",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/29/material-comum-em-cozinhas-vira-alvo-de-batalha-judicial-apos-casos-de-doenca-pulmonar-em-trabalhadores.ghtml",
+      "data": "29/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/nkOmRA7kAwmfi8h4idNtIQTyGMU=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/Q/SAhbF3Q2eufpyH4SdA7Q/caneta-emagrecedora.jpg"
+      "imagem": "https://s2-g1.glbimg.com/siTpinDDtOyTDyJYlOiynIJrwk8=/1500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/gkT5RASJemWPaJfCqMtQ/2150886714.jpg"
     },
     {
-      "titulo": "O outro estreito crucial para a economia global que o Irã ameaça bloquear",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/28/o-outro-estreito-crucial-para-a-economia-global-que-o-ira-ameaca-bloquear.ghtml",
-      "data": "28/03/2026",
+      "titulo": "As entregadoras de probiótico que combatem a solidão no Japão",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/29/as-entregadoras-de-probiotico-que-combatem-a-solidao-no-japao.ghtml",
+      "data": "29/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/HiEfauh4UOUbGMufvDr-fsWil8A=/1280x0/filters:format(jpeg)/https://s02.video.glbimg.com/x720/13697105.jpg"
+      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
     },
     {
-      "titulo": "Café que fica no Brasil é ruim? Entenda de onde vem essa ideia e se ela é verdadeira",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/03/28/cafe-que-fica-no-brasil-e-ruim-entenda-de-onde-vem-essa-ideia-e-se-ela-e-verdadeira.ghtml",
-      "data": "28/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/6-esy_txg3oCzI5A91DbmjLjNnI=/4889x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/c/x/vSXmKvQvOXdDeW4eNxcA/mike-kenneally-td4dbagg2we-unsplash.jpg"
-    },
-    {
-      "titulo": "Guerra no Oriente Médio agrava crise dos combustíveis, já afeta inflação e abastecimento no Brasil",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/28/guerra-no-oriente-medio-agrava-crise-dos-combustiveis-ja-afeta-inflacao-e-abastecimento-no-brasil.ghtml",
-      "data": "28/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/WK0aV25zfTSaC4IxQsPbHlBnqr0=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/i/VzYDFHRXyIqG3FVKrj4A/globo-canal-4-20260312-2000-frame-75789.jpeg"
-    },
-    {
-      "titulo": "Mais candidatos, mais etapas e pouco retorno: por que parece que buscar um emprego ficou tão difícil",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/28/por-que-parece-que-buscar-um-emprego-ficou-tao-dificil.ghtml",
-      "data": "28/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/thQCQKCLevoD3Jg4wG3091vb0bE=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/s/DNd1bIS3AxiFuAmBYTFA/1768845509604-1-3-.jpg"
-    },
-    {
-      "titulo": "Leilão da Receita tem iPhone 17, MacBook Air, videogames e vinhos; veja lances a partir de R$ 100",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/28/leilao-da-receita-tem-iphone-17-macbook-air-videogames-e-vinhos-veja-lances-a-partir-de-r-100.ghtml",
-      "data": "28/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/ctOsCU-ZDv2AFX1XuVgqIuc7sp8=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/h/Bq2ZS3Qc2IYH5u9zdDSQ/afp-20250909-73xq3dm-v1-midres-appleexpectedtounveilanewiphonemodelataneventstr.jpg"
-    },
-    {
-      "titulo": "MBRF (MBRF3) lidera os ganhos do Ibovespa e Braskem (BRKM5) é ação com pior desempenho; veja os destaques da semana",
-      "link": "https://www.moneytimes.com.br/ibovespa-destaques-da-semana-13-lils/",
-      "data": "28/03/2026",
+      "titulo": "Isa Energia (ISAE3;ISAE4), Itaú Unibanco (ITUB3;ITUB4) e mais 12 empresas pagam dividendos nesta semana; veja o calendário",
+      "link": "https://www.moneytimes.com.br/dividendos-da-semana-27-3-26-apsa/",
+      "data": "29/03/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/10/acoes-carteira-recomendada-mercados-1-1.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/01/dinheiro-dividendos-imagem-emerson-barreto-istockphoto.png"
     },
     {
-      "titulo": "Localiza (RENT3) anuncia novo valor de JCP; veja quem tem direito",
-      "link": "https://www.moneytimes.com.br/localiza-rent3-anuncia-novo-valor-de-jcp-pagamento-sera-em-maio-igdl/",
-      "data": "28/03/2026",
+      "titulo": "Agenda: Payroll nos EUA, inflação na Europa e dados do Brasil; confira os indicadores desta semana",
+      "link": "https://www.moneytimes.com.br/agenda-confira-os-indicadores-desta-semana-jals/",
+      "data": "29/03/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2024/11/localiza-rent3-jcp.png"
+      "imagem": "https://www.moneytimes.com.br/uploads/2024/08/ipca-15-agosto-inflacao-1.jpg"
     },
     {
-      "titulo": "Investimento social privado equivale a 2 horas do orçamento federal",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/laura-machado/2026/03/investimento-social-privado-equivale-a-2-horas-do-orcamento-federal.shtml",
-      "data": "27/03/2026",
-      "fonte": "Folha SP",
+      "titulo": "Inflação sobe e corta o ritmo da Selic: o que mudou no cenário, segundo o Inter",
+      "link": "https://www.moneytimes.com.br/inflacao-sobe-e-corta-o-ritmo-da-selic-o-que-mudou-no-cenario-segundo-o-inter-jcav/",
+      "data": "29/03/2026",
+      "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/13/177343873369b4870dac360_1773438733_3x2_xl.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/08/juros-selic-banco-central-copom.png"
     },
     {
-      "titulo": "Relatório compara golpes online a remédio vencido e defende responsabilizar plataformas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/03/relatorio-compara-golpes-online-a-remedio-vencido-e-defende-responsabilizar-plataformas.shtml",
-      "data": "27/03/2026",
-      "fonte": "Folha SP",
+      "titulo": "Não vai ter ovo de Páscoa? Crise do cacau encarece chocolate e muda o feriado em 2026",
+      "link": "https://www.moneytimes.com.br/pascoa-cacau-chocolate-precos-rsgp/",
+      "data": "29/03/2026",
+      "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/26/177455051169c57deff41d4_1774550511_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Proposta do governo para baixar preço do diesel foi aceita por número 'relevante' de estados, diz secretário da Fazenda",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/27/proposta-do-governo-diesel.ghtml",
-      "data": "27/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/xOXHdHEPc9ozQqXk6aRE2a9pgFw=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/k/xzLny9QEunFjNDwk5ifg/informe-g1-2026-03-26t145731.329.png"
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/03/designer20289529-1200x675-1.jpg"
     }
   ],
-  "noticias_em": "28/03/2026 17:59 UTC",
-  "noticias_em_br": "28/03/2026 14:59",
+  "noticias_em": "29/03/2026 18:03 UTC",
+  "noticias_em_br": "29/03/2026 15:03",
   "indicadores_em": "24/03/2026 11:51 UTC",
   "indicadores_em_br": "24/03/2026 08:51"
 }
