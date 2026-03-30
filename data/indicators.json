@@ -1,6 +1,6 @@
 {
-  "gerado_em": "30/03/2026 19:20 UTC",
-  "gerado_em_br": "30/03/2026 16:20",
+  "gerado_em": "30/03/2026 19:59 UTC",
+  "gerado_em_br": "30/03/2026 16:59",
   "anp": {
     "semana_referencia": "23/03/2026 a 29/03/2026",
     "preco_atual": 7.57,
@@ -356,6 +356,14 @@
   },
   "noticias": [
     {
+      "titulo": "Bacalhau é peixe ou modo de preparo? Conheça curiosidades sobre o prato 'queridinho' da Páscoa",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/03/30/entenda-se-bacalhau-e-peixe-ou-modo-de-preparo.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/MeDgJvvpQmfnBB-Ai8Zmsrzi_7g=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/q/W/P7pTtkTM6jUB5LfJoY1w/enq20240326026.jpg"
+    },
+    {
       "titulo": "México negocia com empresas para vender petróleo a Cuba",
       "link": "https://g1.globo.com/economia/noticia/2026/03/30/mexico-negocia-com-empresas-privadas-para-vender-petroleo-a-cuba.ghtml",
       "data": "30/03/2026",
@@ -377,7 +385,7 @@
       "data": "30/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/g8Owxw_CcoLyGi7tZTBS-Vn9ivA=/5459x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/0/70QgJpS6eDxjJt4dZXdg/2026-02-19t175411z-1993501849-rc25pjagwg8k-rtrmadp-3-argentina-politics-labor-reform-1-.jpg"
+      "imagem": "https://s2-g1.glbimg.com/pizreLrBmMY05nyZIjalZ9plP-I=/3919x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/n/3aZNPFQWK50DpXyvI6TA/2026-02-27t190152z-562421693-rc2jujaiycxp-rtrmadp-3-argentina-politics-labor-reform.jpg"
     },
     {
       "titulo": "Guerra no Oriente Médio: alta do petróleo deve elevar inflação e frear economia, diz Galípolo",
@@ -460,20 +468,28 @@
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/10/Captura-de-tela-2024-10-03-175402.png?quality=70"
     },
     {
-      "titulo": "Zé Felipe se manifesta sobre polêmica envolvendo flores para Virginia",
-      "link": "https://www.metropoles.com/colunas/fabia-oliveira/ze-felipe-se-manifesta-sobre-polemica-envolvendo-flores-para-virginia",
+      "titulo": "Alckmin diz ter confiança de que os Estados participem de medidas de combustíveis",
+      "link": "https://www.moneytimes.com.br/alckmin-diz-ter-confianca-de-que-os-estados-participem-de-medidas-de-combustiveis/",
       "data": "30/03/2026",
-      "fonte": "Metrópoles",
+      "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://i.metroimg.com/MsFOmfaZ1-MVtruRjzJUqH2KK8HzenjT-tTAqV-QwVU/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/detalhe-em-fala-de-ze-felipe-sobre-virginia-da-o-que-falar.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2022/12/alckmin.jpg"
     },
     {
-      "titulo": "Tarcísio diz que SP deve aderir à proposta de Lula para reduzir diesel",
-      "link": "https://www.metropoles.com/sao-paulo/tarcisio-diz-que-sp-deve-aderir-a-proposta-de-lula-para-reduzir-diesel",
+      "titulo": "Jacaré invade quintal e entra em piscina de plástico no Amazonas",
+      "link": "https://www.metropoles.com/brasil/jacare-invade-quintal-e-entra-em-piscina-de-plastico-no-amazonas",
       "data": "30/03/2026",
       "fonte": "Metrópoles",
       "prioridade": 1,
-      "imagem": "https://i.metroimg.com/8ctnrbKtnLI4kINcRwWdrcmuh-Td_D-0eMD7vgLRS6o/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/tarcisio_pablo_jacob_govsp-e1773776557907.jpg"
+      "imagem": "https://i.metroimg.com/IrSzyFyNO3hc0004MGCwbnTMgPkO0bXn2_YtLbcMgeg/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/jacare-resgatado.jpg"
+    },
+    {
+      "titulo": "Celina assinará reajuste de diretores, vice e secretários de escolas",
+      "link": "https://www.metropoles.com/colunas/grande-angular/celina-assinara-reajuste-de-diretores-vice-e-secretarios-de-escolas",
+      "data": "30/03/2026",
+      "fonte": "Metrópoles",
+      "prioridade": 1,
+      "imagem": "https://i.metroimg.com/Ca8CiNQ-mzz_ej8pmZy6FtkHUg-zci4HLsgMQR34GCI/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/a-recem-empossada-governadora-do-df-celina-leao-visita-obras-no-itapoa-metropoles-3-scaled.jpg"
     },
     {
       "titulo": "Governo vai discutir \"soluções\" se subvenção do diesel for recusada",
@@ -492,6 +508,14 @@
       "imagem": "https://i.metroimg.com/jb67AeCEEYnwQhF_iljtHNK0jf3eMJDnGUUIVaysLCk/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/tio-e-preso-apos-abuso-sexual-contra-sobrinha.jpg"
     },
     {
+      "titulo": "Bangladesh Seeks U.S. Waiver for Russian Diesel as IMF Warns of Energy Shock",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Bangladesh-Seeks-US-Waiver-for-Russian-Diesel-as-IMF-Warns-of-Energy-Shock.html",
+      "data": "30/03/2026",
+      "fonte": "OilPrice",
+      "prioridade": 1,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-03-30_befrmihixm.jpg"
+    },
+    {
       "titulo": "Ecuador Loses $100 Million a Year to Fuel Theft, and It's Getting Worse",
       "link": "https://oilprice.com/Energy/Crude-Oil/Ecuador-Loses-100-Million-a-Year-to-Fuel-Theft-and-Its-Getting-Worse.html",
       "data": "30/03/2026",
@@ -506,14 +530,6 @@
       "fonte": "OilPrice",
       "prioridade": 1,
       "imagem": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-03-30_ncizen4fvd.jpg"
-    },
-    {
-      "titulo": "Australia Cuts Fuel Tax in Half as Middle East War Squeezes Supply",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Cuts-Fuel-Tax-in-Half-as-Middle-East-War-Squeezes-Supply.html",
-      "data": "30/03/2026",
-      "fonte": "OilPrice",
-      "prioridade": 1,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-03-30_fj42hpxzeg.jpg"
     },
     {
       "titulo": "Quem é Rafael Góis, CEO da Fictor e alvo de operação da PF por fraudes bancárias",
@@ -578,25 +594,17 @@
       "fonte": "Transporta Brasil",
       "prioridade": 1,
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/vw-amaggi-b100-1.jpg"
-    },
-    {
-      "titulo": "Por que CEOs de tecnologia de repente estão culpando a IA por demissões em massa?",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/30/por-que-ceos-de-tecnologia-de-repente-estao-culpando-a-ia-por-demissoes-em-massa.ghtml",
-      "data": "30/03/2026",
-      "fonte": "G1",
-      "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
-    },
-    {
-      "titulo": "Com pelo menos 16 trocas, governo Lula deve bater recorde de saídas de ministros para disputar eleições",
-      "link": "https://g1.globo.com/politica/noticia/2026/03/30/com-pelo-menos-16-trocas-governo-lula-deve-bater-recorde-de-saidas-de-ministros-para-disputar-eleicoes.ghtml",
-      "data": "30/03/2026",
-      "fonte": "G1",
-      "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/Rx4WbSs_MmNG7vBRXjS5tn63TVY=/3600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/8/G0skDgQ8WNBn0rvzOQaQ/54746286083-129f674cc9-o.jpg"
     }
   ],
   "econ_noticias": [
+    {
+      "titulo": "Setor de fertilizantes brasileiro teme impacto da guerra, mas também do PIS/Cofins",
+      "link": "https://www.infomoney.com.br/business/setor-de-fertilizantes-brasileiro-teme-impacto-da-guerra-mas-tambem-do-pis-cofins/",
+      "data": "30/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/07/FERTILIZANTES-copy.jpg?quality=70"
+    },
     {
       "titulo": "Petróleo fecha em alta com tensões no Oriente Médio apesar de relatos de negociações",
       "link": "https://www.infomoney.com.br/mercados/petroleo-fecha-em-alta-com-tensoes-no-oriente-medio-apesar-de-relatos-de-negociacoes/",
@@ -604,6 +612,14 @@
       "fonte": "InfoMoney",
       "prioridade": 1,
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-16T221448Z_1_LYNXMPEM0F18J_RTROPTP_4_USA-OIL-PRODUCTION.jpg?quality=70"
+    },
+    {
+      "titulo": "Lula pediu estudos para reduzir custo de crédito rotativo, diz Gleisi",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/lula-pediu-estudos-para-reduzir-custo-de-credito-rotativo-diz-gleisi.shtml",
+      "data": "30/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/23/177430568369c1c19342917_1774305683_3x2_rt.jpg"
     },
     {
       "titulo": "Secretário do Tesouro dos EUA diz que reabertura de Hormuz é questão de tempo",
@@ -662,14 +678,6 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2026/01/09/17679670906961097292035_1767967090_3x2_xl.jpg"
     },
     {
-      "titulo": "Preço do petróleo sobe nesta segunda com novos ataques no Oriente Médio",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/preco-do-petroleo-sobe-nesta-segunda-com-novos-ataques-no-oriente-medio.shtml",
-      "data": "30/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/11/177323438169b168cd699ec_1773234381_3x2_rt.jpg"
-    },
-    {
       "titulo": "Plano de demissão dos Correios tem adesão de 2,3 mil funcionários; número abaixo da meta",
       "link": "https://g1.globo.com/economia/noticia/2026/03/30/plano-de-demissao-dos-correios-tem-adesao-de-23-mil-funcionarios-numero-abaixo-da-meta.ghtml",
       "data": "30/03/2026",
@@ -699,7 +707,7 @@
       "data": "30/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/g8Owxw_CcoLyGi7tZTBS-Vn9ivA=/5459x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/0/70QgJpS6eDxjJt4dZXdg/2026-02-19t175411z-1993501849-rc25pjagwg8k-rtrmadp-3-argentina-politics-labor-reform-1-.jpg"
+      "imagem": "https://s2-g1.glbimg.com/pizreLrBmMY05nyZIjalZ9plP-I=/3919x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/n/3aZNPFQWK50DpXyvI6TA/2026-02-27t190152z-562421693-rc2jujaiycxp-rtrmadp-3-argentina-politics-labor-reform.jpg"
     },
     {
       "titulo": "Guerra no Oriente Médio: alta do petróleo deve elevar inflação e frear economia, diz Galípolo",
@@ -726,20 +734,12 @@
       "imagem": "https://s2-g1.glbimg.com/JA4_emBEJvEHN77zglxWDaE_06w=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/H/amJCukTUqsBvvpPcI9bA/informe-g1-2026-03-26t150304.741.png"
     },
     {
-      "titulo": "Dólar e Ibovespa avançam com petróleo em alta e tensão no Oriente Médio",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/30/dolar-ibovespa.ghtml",
+      "titulo": "Flávio Dino convoca audiência pública sobre taxa de fiscalização da CVM",
+      "link": "https://www.moneytimes.com.br/flavio-dino-convoca-audiencia-publica-sobre-taxa-de-fiscalizacao-da-cvm/",
       "data": "30/03/2026",
-      "fonte": "G1",
+      "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/tUPsGgoO28BJRkjplvlDrkQiy74=/6016x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/A/W/pNqFkwSSG90RoeSZ80Pg/drf20241217001.jpg"
-    },
-    {
-      "titulo": "Juro do cartão de crédito soma 436% ao ano em fevereiro; mais de 40 milhões de pessoas estão no rotativo",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/30/juro-do-cartao-de-credito-soma-436percent-ao-ano-em-fevereiro-mais-de-40-milhoes-de-pessoas-estao-no-rotativo.ghtml",
-      "data": "30/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/_p78LDUVdRuTMp9ez07VPD_8Ja8=/1498x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/D/x/ClHAOhRaendj6QXice2g/cartao.png"
+      "imagem": "https://www.moneytimes.com.br/uploads/2023/10/flavio-dino.jpg"
     },
     {
       "titulo": "Não são só os gringos: Brasil é destaque entre emergentes e investidor local retoma alocação, diz BBA",
@@ -758,8 +758,8 @@
       "imagem": "https://www.moneytimes.com.br/uploads/2026/03/selic-juros-inflacao-.jpg"
     }
   ],
-  "noticias_em": "30/03/2026 19:20 UTC",
-  "noticias_em_br": "30/03/2026 16:20",
-  "indicadores_em": "30/03/2026 19:20 UTC",
-  "indicadores_em_br": "30/03/2026 16:20"
+  "noticias_em": "30/03/2026 19:59 UTC",
+  "noticias_em_br": "30/03/2026 16:59",
+  "indicadores_em": "30/03/2026 19:59 UTC",
+  "indicadores_em_br": "30/03/2026 16:59"
 }
