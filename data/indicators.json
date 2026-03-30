@@ -1,6 +1,6 @@
 {
-  "gerado_em": "24/03/2026 11:51 UTC",
-  "gerado_em_br": "24/03/2026 08:51",
+  "gerado_em": "30/03/2026 12:15 UTC",
+  "gerado_em_br": "30/03/2026 09:15",
   "anp": {
     "semana_referencia": "16/03/2026 a 22/03/2026",
     "preco_atual": 7.35,
@@ -297,7 +297,7 @@
   },
   "usd_brl": {
     "series": [],
-    "atual": 5.2585
+    "atual": 5.2428
   },
   "inctl": {
     "ultimo": 0.22,
@@ -352,9 +352,105 @@
       }
     ],
     "fonte": "CNT",
-    "atualizado": "24/03/2026"
+    "atualizado": "30/03/2026"
   },
   "noticias": [
+    {
+      "titulo": "Dólar abre com petróleo em alta e tensão no Oriente Médio",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/30/dolar-ibovespa.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/tUPsGgoO28BJRkjplvlDrkQiy74=/6016x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/A/W/pNqFkwSSG90RoeSZ80Pg/drf20241217001.jpg"
+    },
+    {
+      "titulo": "Com Guerra no Oriente Médio, mercado financeiro eleva novamente sua estimativa de inflação neste ano",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/30/com-guerra-no-oriente-medio-mercado-financeiro-eleva-novamente-sua-estimativa-de-inflacao-neste-ano.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/paFt3F6KraHjEpVbEh1hbWaPpyc=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/o/HLBW06Rj6USdvyej9Obg/globo-canal-4-20260325-2000-frame-71476.jpeg"
+    },
+    {
+      "titulo": "Cacau é afrodisíaco e ajuda a prevenir doenças: veja curiosidades sobre a fruta do chocolate",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/03/30/cacau-e-afrodisiaco-e-ajuda-a-prevenir-doencas-veja-curiosidades-sobre-a-fruta-do-chocolate.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/FL7HKhyTOyYUNcXv0x2JU6o1L94=/3333x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/z/D/eG4SMdTCA60RiBITDjsw/tetiana-bykovets-7lkpstdoad0-unsplash.jpg"
+    },
+    {
+      "titulo": "Imposto de Renda 2026: MEI precisa declarar? Veja quem é obrigado",
+      "link": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/03/30/imposto-de-renda-2026-mei-precisa-declarar-veja-quem-e-obrigado.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/n5IojvIsn-noBz7FvvZyxnNUs9A=/8736x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/9/Ave0x2TEGUfyNq7zMmaw/declaracao-do-mei.jpg"
+    },
+    {
+      "titulo": "Irã segue com disparos em meio a ataques de Israel a Teerã e drones lançados do Iêmen",
+      "link": "https://www.infomoney.com.br/mundo/ira-segue-com-disparos-em-meio-a-ataques-de-israel-a-teera-e-drones-lancados-do-iemen/",
+      "data": "30/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/451681399.jpg?quality=70"
+    },
+    {
+      "titulo": "Austrália reduz impostos sobre combustíveis em meio ao salto das cotações do petróleo",
+      "link": "https://www.infomoney.com.br/mundo/australia-reduz-impostos-sobre-combustiveis-em-meio-ao-salto-das-cotacoes-do-petroleo/",
+      "data": "30/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-07T174123Z_1_LYNXMPEL7610R_RTROPTP_4_MACRO-IGP10-MAIO.jpg?quality=70"
+    },
+    {
+      "titulo": "Minério de ferro oscila em meio a custos de combustível e estoques portuários em alta",
+      "link": "https://www.infomoney.com.br/mercados/minerio-de-ferro-oscila-em-meio-a-custos-de-combustivel-e-estoques-portuarios-em-alta/",
+      "data": "30/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-18T112645Z_1_LYNXMPEL7H0GR_RTROPTP_4_AUSTRALIA-RESOURCES-FORECAST.jpg?quality=70"
+    },
+    {
+      "titulo": "Focus, conflito no Irã, propostas para diesel e mais destaques desta 2ª",
+      "link": "https://www.infomoney.com.br/mercados/focus-conflito-no-ira-propostas-para-diesel-e-mais-destaques-desta-2a/",
+      "data": "30/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-25T111552Z_1_LYNXNPEL8O0JV_RTROPTP_4_BRAZIL-ECONOMY-RATES.jpg?quality=70"
+    },
+    {
+      "titulo": "Governo negocia com estados mudança no ICMS para baratear diesel",
+      "link": "https://www.metropoles.com/brasil/governo-negocia-com-estados-mudanca-no-icms-para-baratear-diesel",
+      "data": "30/03/2026",
+      "fonte": "Metrópoles",
+      "prioridade": 1,
+      "imagem": "https://i.metroimg.com/7yrSc7KpYDyOW3rooPBrqqbtpYbPdU8X_4iYCi54Fs8/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/postos-de-etanol-gasolina-e-diesel-combustiveis-ficarao-mais-caros-a-partir-de-1o-de-fevereiro-de-2025-metropoles-2-scaled-1.jpeg"
+    },
+    {
+      "titulo": "China Sends Fuel to Struggling Southeast Asia Despite Export Ban",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Sends-Fuel-to-Struggling-Southeast-Asia-Despite-Export-Ban.html",
+      "data": "30/03/2026",
+      "fonte": "OilPrice",
+      "prioridade": 1,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-03-30_ve2hul5exc.jpg"
+    },
+    {
+      "titulo": "Global Fuel Prices Are Surging as the Middle East War Hits Consumers",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Global-Fuel-Prices-Are-Surging-as-the-Middle-East-War-Hits-Consumers.html",
+      "data": "30/03/2026",
+      "fonte": "OilPrice",
+      "prioridade": 1,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-03-30_hiqzfzr08x.jpg"
+    },
+    {
+      "titulo": "Preço de petróleo bate US$ 115 por barril",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/29/preco-de-petroleo-bate-us-115-por-barril.ghtml",
+      "data": "29/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/jtsaGJHO8cGNUDHGVVQe1Hpv2z0=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/11/98/14469811"
+    },
     {
       "titulo": "Como a China passou anos se preparando para uma crise mundial do petróleo e qual é o seu ponto fraco",
       "link": "https://g1.globo.com/economia/noticia/2026/03/29/como-a-china-passou-anos-se-preparando-para-uma-crise-mundial-do-petroleo-e-qual-e-o-seu-ponto-fraco.ghtml",
@@ -362,38 +458,6 @@
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/Nph1WE027cIzwv_b12KL8o5i_XY=/1400x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/B/ANOAzeS86HUXZGOCZOlQ/fotos-g1-19-.png"
-    },
-    {
-      "titulo": "Produtores de leite enfrentam queda no preço e aumento de custos no interior de SP",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/03/29/produtores-de-leite-enfrentam-queda-no-preco-e-aumento-de-custos-no-interior-de-sp.ghtml",
-      "data": "29/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/ZHwh_R1l7kKacRRaZhSvN2kDojo=/1440x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/A/ZBPmKQSWO80FaZcvR2Nw/bau-leite-estrategia-180326-frame-415.jpeg"
-    },
-    {
-      "titulo": "Guerra no Oriente Médio eleva custos dos insumos agrícolas e preocupa produtores do interior de SP",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/03/29/guerra-no-oriente-medio-eleva-custos-dos-insumos-agricolas-e-preocupa-produtores-do-interior-de-sp.ghtml",
-      "data": "29/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/WO34IGLvPIcJEBrb1RwibEGovB4=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/S/0FEE7XTcSQrYV2te5CvA/design-sem-nome-69-.png"
-    },
-    {
-      "titulo": "Material comum em cozinhas vira alvo de batalha judicial após casos de doença pulmonar em trabalhadores",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/29/material-comum-em-cozinhas-vira-alvo-de-batalha-judicial-apos-casos-de-doenca-pulmonar-em-trabalhadores.ghtml",
-      "data": "29/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/siTpinDDtOyTDyJYlOiynIJrwk8=/1500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/gkT5RASJemWPaJfCqMtQ/2150886714.jpg"
-    },
-    {
-      "titulo": "As entregadoras de probiótico que combatem a solidão no Japão",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/29/as-entregadoras-de-probiotico-que-combatem-a-solidao-no-japao.ghtml",
-      "data": "29/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
     },
     {
       "titulo": "Crise política no Rio: entenda por que o estado terá eleição para mandato-tampão e o impasse no STF",
@@ -404,76 +468,12 @@
       "imagem": "https://s2-g1.glbimg.com/3wGSOw3WirYKKX9JZmgQI7-4LHg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/14474555.jpg"
     },
     {
-      "titulo": "Empresas acreditam que Fazenda abre caminho para mudar marco regulatório do transporte interestadual",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/03/empresas-acreditam-que-fazenda-abre-caminho-para-mudar-marco-regulatorio-do-transporte-interestadual.shtml",
-      "data": "29/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2023/12/28/1703814622658e25de32d0c_1703814622_3x2_rt.jpg"
-    },
-    {
       "titulo": "Escola não é clínica, mas não pode piorar fatores que impactam saúde mental de alunos, diz especialista",
       "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/educacao/2026/03/escola-nao-e-clinica-mas-nao-pode-piorar-fatores-que-impactam-saude-mental-de-alunos-diz-especialista.shtml",
       "data": "29/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
       "imagem": "https://f.i.uol.com.br/fotografia/2026/03/27/177466002169c729b52226f_1774660021_3x2_xl.jpg"
-    },
-    {
-      "titulo": "Plano econômico de Zema prevê jornada por hora, ampliação do Simples e reforma da Previdência permanente",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/03/plano-economico-de-zema-preve-jornada-sem-limite-ampliacao-do-simples-e-reforma-da-previdencia-permanente.shtml",
-      "data": "29/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2025/12/12/1765548624693c2250ad1f1_1765548624_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Dois navios com destino a Índia carregados com GLP passam pelo Estreito de Ormuz",
-      "link": "https://www.infomoney.com.br/mundo/dois-navios-com-destino-a-india-carregados-com-glp-passam-pelo-estreito-de-ormuz/",
-      "data": "29/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/450989933.jpg?fit=2200%2C1466&quality=70&strip=all"
-    },
-    {
-      "titulo": "Políticas de Donald Trump levam multidão às ruas nos EUA",
-      "link": "https://www.moneytimes.com.br/politicas-de-donald-trump-levam-multidao-as-ruas-nos-eua-jcav/",
-      "data": "29/03/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2026/03/manifestacoes-donald-trump-eua.jpg"
-    },
-    {
-      "titulo": "Governo quer liberar R$ 7 bilhões para frear tarifas de energia",
-      "link": "https://www.moneytimes.com.br/governo-quer-liberar-r-7-bilhoes-para-frear-tarifas-de-energia-jcav/",
-      "data": "29/03/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/10/mp-de-energia-congresso.jpg"
-    },
-    {
-      "titulo": "Produtor de conteúdo é assassinado por idoso após invadir casa do ex",
-      "link": "https://www.metropoles.com/celebridades/produtor-de-conteudo-e-assassinado-por-idoso-apos-invadir-casa-do-ex",
-      "data": "29/03/2026",
-      "fonte": "Metrópoles",
-      "prioridade": 1,
-      "imagem": "https://i.metroimg.com/cCWMzuuwU2HyC6O8h3nmRBRUCDJIaFM_wN98J3fYYyk/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/apolo-dos-santos4.jpg"
-    },
-    {
-      "titulo": "Família cobra justiça em ato pela morte de jovem agredido por Turra",
-      "link": "https://www.metropoles.com/distrito-federal/familia-cobra-justica-em-ato-pela-morte-de-jovem-agredido-por-turra",
-      "data": "29/03/2026",
-      "fonte": "Metrópoles",
-      "prioridade": 1,
-      "imagem": "https://i.metroimg.com/CKTAfNrk5P1pQswqjkBsCx26H0f8rOv1T-zFx_FEeMA/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/ato-justica-rodrigo-castanheira-2.jpeg"
-    },
-    {
-      "titulo": "Bank of America fecha acordo de US$ 72,5 milhões com vítimas de Epstein",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/28/bank-of-america-acordo-epstein.ghtml",
-      "data": "28/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/d7Yuw9JJE0YFk2KKEBSg3q-2FHo=/3200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/H/5/up0YN1QkeRQpTH65FxUg/063-1154615743.jpg"
     },
     {
       "titulo": "Fachin rejeita pedido de CPI do Crime Organizado para manter quebra de sigilo de empresa de Toffoli",
@@ -556,114 +556,226 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/vw-amaggi-b100-1.jpg"
     },
     {
-      "titulo": "Um abacaxi pode ter até 200 frutas fundidas; veja como isso acontece",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/03/29/um-abacaxi-pode-ter-ate-200-frutas-fundidas-veja-como-isso-acontece.ghtml",
-      "data": "29/03/2026",
+      "titulo": "Por que CEOs de tecnologia de repente estão culpando a IA por demissões em massa?",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/30/por-que-ceos-de-tecnologia-de-repente-estao-culpando-a-ia-por-demissoes-em-massa.ghtml",
+      "data": "30/03/2026",
       "fonte": "G1",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/2H-DvyYvuFfQVYc6b76w_p870mg=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/M/E43FiUTB2VaMjCDi8c7Q/florada-abacaxi.jpg"
+      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
     },
     {
-      "titulo": "Ano eleitoral aumenta a volatilidade do mercado; veja como isso afeta os investimentos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/ano-eleitoral-aumenta-a-volatilidade-do-mercado-veja-como-isso-afeta-os-investimentos.shtml",
-      "data": "29/03/2026",
-      "fonte": "Folha SP",
+      "titulo": "Ações europeias permanecem estáveis antes de dados de inflação",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/30/acoes-europeias-estaveis.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
       "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2025/08/20/175569774068a5d24c3b484_1755697740_3x2_rt.jpg"
+      "imagem": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
     },
     {
-      "titulo": "Pista do aeroporto de Guarulhos fica em reforma até o fim de abril",
-      "link": "https://www.infomoney.com.br/mercados/pista-do-aeroporto-de-guarulhos-fica-em-reforma-ate-o-fim-de-abril/",
-      "data": "29/03/2026",
-      "fonte": "InfoMoney",
+      "titulo": "Ações asiáticas recuam com disparada dos preços do petróleo e incertezas sobre fim da guerra no Oriente Médio",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/30/acoes-disparada-dos-precos-do-petroleo-e-incertezas-sobre-fim-da-guerra-no-oriente-medio.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
       "prioridade": 2,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Aeroporto-de-Guarulhos.jpg?quality=70"
+      "imagem": "https://s2-g1.glbimg.com/cmQ93B3K7hgPnDoYLVNOvAdQ61E=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/8/5tXsbJSdW1ANW1LA4BQw/ap26089059505052.jpg"
     },
     {
-      "titulo": "Isa Energia (ISAE3;ISAE4), Itaú Unibanco (ITUB3;ITUB4) e mais 12 empresas pagam dividendos nesta semana; veja o calendário",
-      "link": "https://www.moneytimes.com.br/dividendos-da-semana-27-3-26-apsa/",
-      "data": "29/03/2026",
-      "fonte": "Money Times",
+      "titulo": "Leilão do Aeroporto do Galeão ocorre nesta segunda e pode atrair investimento de R$ 932 milhões",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/30/leilao-do-aeroporto-do-galeao-ocorre-nesta-segunda-e-pode-atrair-investimento-de-r-932-milhoes.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
       "prioridade": 2,
-      "imagem": "https://www.moneytimes.com.br/uploads/2026/01/dinheiro-dividendos-imagem-emerson-barreto-istockphoto.png"
+      "imagem": "https://s2-g1.glbimg.com/OuihwBShuK2JNVDn3avlamsKs24=/1400x0/filters:format(jpeg)/http://s.glbimg.com/jo/g1/f/original/2014/08/28/galeao_maio2014-0034.jpg"
     },
     {
-      "titulo": "Inflação sobe e corta o ritmo da Selic: o que mudou no cenário, segundo o Inter",
-      "link": "https://www.moneytimes.com.br/inflacao-sobe-e-corta-o-ritmo-da-selic-o-que-mudou-no-cenario-segundo-o-inter-jcav/",
-      "data": "29/03/2026",
-      "fonte": "Money Times",
+      "titulo": "Com pelo menos 16 trocas, governo Lula deve bater recorde de saídas de ministros para disputar eleições",
+      "link": "https://g1.globo.com/politica/noticia/2026/03/30/com-pelo-menos-16-trocas-governo-lula-deve-bater-recorde-de-saidas-de-ministros-para-disputar-eleicoes.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
       "prioridade": 2,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/08/juros-selic-banco-central-copom.png"
+      "imagem": "https://s2-g1.glbimg.com/Rx4WbSs_MmNG7vBRXjS5tn63TVY=/3600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/8/G0skDgQ8WNBn0rvzOQaQ/54746286083-129f674cc9-o.jpg"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "Ano eleitoral aumenta a volatilidade do mercado; veja como isso afeta os investimentos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/ano-eleitoral-aumenta-a-volatilidade-do-mercado-veja-como-isso-afeta-os-investimentos.shtml",
+      "titulo": "Austrália reduz impostos sobre combustíveis em meio ao salto das cotações do petróleo",
+      "link": "https://www.infomoney.com.br/mundo/australia-reduz-impostos-sobre-combustiveis-em-meio-ao-salto-das-cotacoes-do-petroleo/",
+      "data": "30/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-07T174123Z_1_LYNXMPEL7610R_RTROPTP_4_MACRO-IGP10-MAIO.jpg?quality=70"
+    },
+    {
+      "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta segunda",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-30032026/",
+      "data": "30/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-6.png?quality=70"
+    },
+    {
+      "titulo": "Reforma tributária pode mudar preços em prateleiras e sites no Brasil",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/03/reforma-tributaria-pode-mudar-precos-em-prateleiras-e-sites-no-brasil.shtml",
+      "data": "30/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/06/06/1749229621684320358934b_1749229621_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Supercalculadora mostra desconto atual do Imposto de Renda nas aposentadorias do INSS",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/supercalculadora-mostra-desconto-atual-do-imposto-de-renda-nas-aposentadorias-do-inss.shtml",
+      "data": "30/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2024/10/22/17296092896717be49cee5b_1729609289_3x2_xl.jpg"
+    },
+    {
+      "titulo": "Dólar abre com petróleo em alta e tensão no Oriente Médio",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/30/dolar-ibovespa.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/tUPsGgoO28BJRkjplvlDrkQiy74=/6016x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/A/W/pNqFkwSSG90RoeSZ80Pg/drf20241217001.jpg"
+    },
+    {
+      "titulo": "Juro do cartão de crédito soma 436% ao ano em fevereiro; mais de 40 milhões de pessoas estão no rotativo",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/30/juro-do-cartao-de-credito-soma-436percent-ao-ano-em-fevereiro-mais-de-40-milhoes-de-pessoas-estao-no-rotativo.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/_p78LDUVdRuTMp9ez07VPD_8Ja8=/1498x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/D/x/ClHAOhRaendj6QXice2g/cartao.png"
+    },
+    {
+      "titulo": "Com Guerra no Oriente Médio, mercado financeiro eleva novamente sua estimativa de inflação neste ano",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/30/com-guerra-no-oriente-medio-mercado-financeiro-eleva-novamente-sua-estimativa-de-inflacao-neste-ano.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/paFt3F6KraHjEpVbEh1hbWaPpyc=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/o/HLBW06Rj6USdvyej9Obg/globo-canal-4-20260325-2000-frame-71476.jpeg"
+    },
+    {
+      "titulo": "Negociações na OMC terminam em impasse após Brasil bloquear acordo sobre tarifas de comércio eletrônico",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/30/negociacoes-na-omc-terminam-em-impasse-apos-brasil-bloquear-acordo-sobre-tarifas-de-comercio-eletronico.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/9X_shIpMmLBKumpksRrAbpM-_5o=/5106x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/0/M/yV6nwvTw2rmJYHX44Kww/2018-11-26t121425z-1-lynxnpeeap0yg-rtroptp-4-usa-trade-wto-china.jpg"
+    },
+    {
+      "titulo": "Ações europeias permanecem estáveis antes de dados de inflação",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/30/acoes-europeias-estaveis.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
+    },
+    {
+      "titulo": "Cacau é afrodisíaco e ajuda a prevenir doenças: veja curiosidades sobre a fruta do chocolate",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/03/30/cacau-e-afrodisiaco-e-ajuda-a-prevenir-doencas-veja-curiosidades-sobre-a-fruta-do-chocolate.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/FL7HKhyTOyYUNcXv0x2JU6o1L94=/3333x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/z/D/eG4SMdTCA60RiBITDjsw/tetiana-bykovets-7lkpstdoad0-unsplash.jpg"
+    },
+    {
+      "titulo": "Pesquisa mostra que chatbots dão péssimos conselhos e bajulam usuário; saiba os riscos e como evitar",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/30/pesquisa-mostra-que-chatbots-dao-pessimos-conselhos-e-bajulam-usuario-saiba-os-riscos-e-como-evitar.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/2UMRlc1CMoCdtz2il-yewmJkIZ8=/2861x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/k/PB9QROTtSHX65hRBf8RQ/chatgpt-gemini.jpg"
+    },
+    {
+      "titulo": "Ações asiáticas recuam com disparada dos preços do petróleo e incertezas sobre fim da guerra no Oriente Médio",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/30/acoes-disparada-dos-precos-do-petroleo-e-incertezas-sobre-fim-da-guerra-no-oriente-medio.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/cmQ93B3K7hgPnDoYLVNOvAdQ61E=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/8/5tXsbJSdW1ANW1LA4BQw/ap26089059505052.jpg"
+    },
+    {
+      "titulo": "Imposto de Renda 2026: MEI precisa declarar? Veja quem é obrigado",
+      "link": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/03/30/imposto-de-renda-2026-mei-precisa-declarar-veja-quem-e-obrigado.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/n5IojvIsn-noBz7FvvZyxnNUs9A=/8736x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/9/Ave0x2TEGUfyNq7zMmaw/declaracao-do-mei.jpg"
+    },
+    {
+      "titulo": "Economistas ajustam quase todas as projeções para a inflação; veja o Focus desta segunda-feira (30)",
+      "link": "https://www.moneytimes.com.br/economistas-ajustam-quase-todas-as-projecoes-para-a-inflacao-veja-o-focus-desta-segunda-feira-30-jcav/",
+      "data": "30/03/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/03/bc-banco-central.jpg"
+    },
+    {
+      "titulo": "IGP-M sobe 0,52% em março com sinais de impacto da guerra contra o Irã no petróleo, aponta FGV",
+      "link": "https://www.moneytimes.com.br/igp-m-sobe-052-em-marco-afirma-fgv-apos-cair-073-em-fevereiro/",
+      "data": "30/03/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/10/inflacao-ipca-15-2.jpg"
+    },
+    {
+      "titulo": "Investimento via PJ é opção para sócio de empresa atingido por imposto mínimo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/investimento-via-pj-e-opcao-para-socio-de-empresa-atingido-por-imposto-minimo.shtml",
       "data": "29/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2025/08/20/175569774068a5d24c3b484_1755697740_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/10/13/176039160268ed71b2ecd16_1760391602_3x2_rt.jpg"
     },
     {
-      "titulo": "Como a China passou anos se preparando para uma crise mundial do petróleo e qual é o seu ponto fraco",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/como-a-china-passou-anos-se-preparando-para-uma-crise-mundial-do-petroleo-e-qual-e-o-seu-ponto-fraco.shtml",
+      "titulo": "O Brasil não é um país de descontrolados",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2026/03/o-brasil-nao-e-um-pais-de-descontrolados.shtml",
       "data": "29/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/29/177478948569c9236da524c_1774789485_3x2_lg.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/23/177430472269c1bdd232073_1774304722_3x2_rt.jpg"
     },
     {
-      "titulo": "Material comum em cozinhas vira alvo de batalha judicial após casos de doença pulmonar em trabalhadores",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/29/material-comum-em-cozinhas-vira-alvo-de-batalha-judicial-apos-casos-de-doenca-pulmonar-em-trabalhadores.ghtml",
+      "titulo": "Trump diz que negociações com Irã vão bem, mas que prefere 'tomar o petróleo' do rival",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mundo/2026/03/trump-diz-que-negociacoes-com-ira-vao-bem-mas-que-prefere-tomar-o-petroleo-do-rival.shtml",
+      "data": "29/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/29/177483220469c9ca4cab842_1774832204_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Petróleo já subiu cerca de 50% desde o início da guerra no Irã, há um mês",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/petroleo-ja-subiu-quase-50-desde-o-inicio-da-guerra-no-ira-ha-um-mes.shtml",
+      "data": "29/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/24/177440183669c3392c7d39d_1774401836_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Preço de petróleo bate US$ 115 por barril",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/29/preco-de-petroleo-bate-us-115-por-barril.ghtml",
       "data": "29/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/siTpinDDtOyTDyJYlOiynIJrwk8=/1500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/gkT5RASJemWPaJfCqMtQ/2150886714.jpg"
+      "imagem": "https://s2-g1.glbimg.com/jtsaGJHO8cGNUDHGVVQe1Hpv2z0=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/11/98/14469811"
     },
     {
-      "titulo": "As entregadoras de probiótico que combatem a solidão no Japão",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/29/as-entregadoras-de-probiotico-que-combatem-a-solidao-no-japao.ghtml",
-      "data": "29/03/2026",
-      "fonte": "G1",
+      "titulo": "Boletim Focus: mercado eleva projeção do IPCA de 4,17% para 4,31%",
+      "link": "https://exame.com/economia/boletim-focus-mercado-eleva-projecao-do-ipca-de-417-para-431/",
+      "data": "2026-03-30",
+      "fonte": "Exame",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
+      "imagem": "https://classic.exame.com/wp-content/uploads/2026/02/EX1284_ONDEINVESTIR_1_3.jpg"
     },
     {
-      "titulo": "Isa Energia (ISAE3;ISAE4), Itaú Unibanco (ITUB3;ITUB4) e mais 12 empresas pagam dividendos nesta semana; veja o calendário",
-      "link": "https://www.moneytimes.com.br/dividendos-da-semana-27-3-26-apsa/",
-      "data": "29/03/2026",
-      "fonte": "Money Times",
+      "titulo": "Mercado ignora risco de desaceleração econômica com guerra no Irã",
+      "link": "https://exame.com/invest/mercados/mercado-ignora-risco-de-desaceleracao-economica-com-guerra-no-ira/",
+      "data": "2026-03-30",
+      "fonte": "Exame",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2026/01/dinheiro-dividendos-imagem-emerson-barreto-istockphoto.png"
-    },
-    {
-      "titulo": "Agenda: Payroll nos EUA, inflação na Europa e dados do Brasil; confira os indicadores desta semana",
-      "link": "https://www.moneytimes.com.br/agenda-confira-os-indicadores-desta-semana-jals/",
-      "data": "29/03/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2024/08/ipca-15-agosto-inflacao-1.jpg"
-    },
-    {
-      "titulo": "Inflação sobe e corta o ritmo da Selic: o que mudou no cenário, segundo o Inter",
-      "link": "https://www.moneytimes.com.br/inflacao-sobe-e-corta-o-ritmo-da-selic-o-que-mudou-no-cenario-segundo-o-inter-jcav/",
-      "data": "29/03/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/08/juros-selic-banco-central-copom.png"
-    },
-    {
-      "titulo": "Não vai ter ovo de Páscoa? Crise do cacau encarece chocolate e muda o feriado em 2026",
-      "link": "https://www.moneytimes.com.br/pascoa-cacau-chocolate-precos-rsgp/",
-      "data": "29/03/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2026/03/designer20289529-1200x675-1.jpg"
+      "imagem": "https://classic.exame.com/wp-content/uploads/2024/04/GettyImages-1179448862.jpg"
     }
   ],
-  "noticias_em": "29/03/2026 18:03 UTC",
-  "noticias_em_br": "29/03/2026 15:03",
-  "indicadores_em": "24/03/2026 11:51 UTC",
-  "indicadores_em_br": "24/03/2026 08:51"
+  "noticias_em": "30/03/2026 12:15 UTC",
+  "noticias_em_br": "30/03/2026 09:15",
+  "indicadores_em": "30/03/2026 12:15 UTC",
+  "indicadores_em_br": "30/03/2026 09:15"
 }
