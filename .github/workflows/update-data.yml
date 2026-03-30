@@ -1,14 +1,4 @@
-```yaml
 name: Atualizar Dados ANP + Indicadores
-
-# ┌─────────────────────────────────────────────────────────────┐
-# │  3 modos automáticos:                                       │
-# │  • Todo dia 17h UTC (14h BRT) → só notícias                │
-# │  • Domingo 06h BRT          → ANP xlsx (todos combustíveis) │
-# │  • Segunda 08h BRT          → ANP + BCB + notícias         │
-# │  • Dia 1 e dia 15 do mês    → BCB completo + notícias      │
-# │  • Manual (workflow_dispatch) → sempre full                 │
-# └─────────────────────────────────────────────────────────────┘
 
 on:
   schedule:
@@ -19,7 +9,7 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: 'Modo de execução'
+        description: 'Modo de execucao'
         required: false
         default: 'full'
         type: choice
@@ -30,54 +20,36 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
-      - name: Checkout repositório
+      - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Configurar Python 3.11
+      - name: Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
-      - name: Instalar dependências
+      - name: Dependencias
         run: pip install requests pandas openpyxl xlrd
-
-      - name: Detectar modo e executar coleta
+      - name: Coletar dados
         run: |
-          WEEKDAY=$(date -u +%u)   # 1=seg ... 7=dom
-          DAY=$(date -u +%d)        # dia do mês (01–31)
+          WEEKDAY=$(date -u +%u)
+          DAY=$(date -u +%d)
           EVENT="${{ github.event_name }}"
           MANUAL_MODE="${{ github.event.inputs.mode }}"
-
-          # Manual dispatch: usa o modo selecionado
           if [ "$EVENT" = "workflow_dispatch" ]; then
             MODE="${MANUAL_MODE:-full}"
-
-          # Dia 1 ou 15: atualiza indicadores BCB + notícias
           elif [ "$DAY" = "01" ] || [ "$DAY" = "15" ]; then
             MODE="full"
-            echo "📊 Dia $DAY — Modo INDICADORES + ANP + Notícias"
-
-          # Domingo ou Segunda: ANP xlsx + BCB + notícias
           elif [ "$WEEKDAY" = "0" ] || [ "$WEEKDAY" = "1" ]; then
             MODE="full"
-            echo "🔄 Dom/Seg — Modo COMPLETO (ANP xlsx)"
-
-          # Demais dias: só notícias
           else
             MODE="news"
-            echo "📰 Modo NOTÍCIAS apenas"
           fi
-
-          echo "▶ Executando modo: $MODE"
+          echo "Modo: $MODE"
           python scripts/fetch_data.py --mode=$MODE
-
-      - name: Commitar dados atualizados
+      - name: Commit
         run: |
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/indicators.json
-          git diff --cached --quiet || git commit -m "🔄 $(date -u '+%d/%m/%Y %H:%M UTC')"
+          git diff --cached --quiet || git commit -m "$(date -u '+%d/%m/%Y %H:%M UTC')"
           git push
-```
