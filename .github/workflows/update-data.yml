@@ -1,9 +1,21 @@
+```yaml
 name: Atualizar Dados ANP + Indicadores
+
+# ┌─────────────────────────────────────────────────────────────┐
+# │  3 modos automáticos:                                       │
+# │  • Todo dia 17h UTC (14h BRT) → só notícias                │
+# │  • Domingo 06h BRT          → ANP xlsx (todos combustíveis) │
+# │  • Segunda 08h BRT          → ANP + BCB + notícias         │
+# │  • Dia 1 e dia 15 do mês    → BCB completo + notícias      │
+# │  • Manual (workflow_dispatch) → sempre full                 │
+# └─────────────────────────────────────────────────────────────┘
 
 on:
   schedule:
     - cron: '0 17 * * *'      # Todo dia 14h BRT (notícias)
-    - cron: '0 12 1,15 * *'   # Dia 1 e 15 de cada mês, 9h BRT (indicadores)
+    - cron: '0 9  * * 0'      # Domingo 06h BRT / 09h UTC (ANP xlsx semanal)
+    - cron: '0 11 * * 1'      # Segunda 08h BRT / 11h UTC (ANP + BCB + indicadores)
+    - cron: '0 12 1,15 * *'   # Dia 1 e 15, 9h BRT (indicadores BCB)
   workflow_dispatch:
     inputs:
       mode:
@@ -29,23 +41,33 @@ jobs:
           python-version: '3.11'
 
       - name: Instalar dependências
-        run: pip install requests pandas
+        run: pip install requests pandas openpyxl xlrd
 
       - name: Detectar modo e executar coleta
         run: |
-          WEEKDAY=$(date -u +%u)
-          DAY=$(date -u +%d)
+          WEEKDAY=$(date -u +%u)   # 1=seg ... 7=dom
+          DAY=$(date -u +%d)        # dia do mês (01–31)
           EVENT="${{ github.event_name }}"
           MANUAL_MODE="${{ github.event.inputs.mode }}"
 
+          # Manual dispatch: usa o modo selecionado
           if [ "$EVENT" = "workflow_dispatch" ]; then
             MODE="${MANUAL_MODE:-full}"
+
+          # Dia 1 ou 15: atualiza indicadores BCB + notícias
           elif [ "$DAY" = "01" ] || [ "$DAY" = "15" ]; then
             MODE="full"
-          elif [ "$WEEKDAY" = "1" ]; then
+            echo "📊 Dia $DAY — Modo INDICADORES + ANP + Notícias"
+
+          # Domingo ou Segunda: ANP xlsx + BCB + notícias
+          elif [ "$WEEKDAY" = "0" ] || [ "$WEEKDAY" = "1" ]; then
             MODE="full"
+            echo "🔄 Dom/Seg — Modo COMPLETO (ANP xlsx)"
+
+          # Demais dias: só notícias
           else
             MODE="news"
+            echo "📰 Modo NOTÍCIAS apenas"
           fi
 
           echo "▶ Executando modo: $MODE"
@@ -58,3 +80,4 @@ jobs:
           git add data/indicators.json
           git diff --cached --quiet || git commit -m "🔄 $(date -u '+%d/%m/%Y %H:%M UTC')"
           git push
+```
