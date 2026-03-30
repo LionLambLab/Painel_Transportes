@@ -1,6 +1,6 @@
 {
-  "gerado_em": "30/03/2026 13:00 UTC",
-  "gerado_em_br": "30/03/2026 10:00",
+  "gerado_em": "30/03/2026 13:31 UTC",
+  "gerado_em_br": "30/03/2026 10:31",
   "anp": {
     "semana_referencia": "23/03/2026 a 29/03/2026",
     "preco_atual": 7.57,
@@ -404,12 +404,12 @@
       "imagem": "https://s2-g1.glbimg.com/n5IojvIsn-noBz7FvvZyxnNUs9A=/8736x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/9/Ave0x2TEGUfyNq7zMmaw/declaracao-do-mei.jpg"
     },
     {
-      "titulo": "Irã segue com disparos em meio a ataques de Israel a Teerã e drones lançados do Iêmen",
-      "link": "https://www.infomoney.com.br/mundo/ira-segue-com-disparos-em-meio-a-ataques-de-israel-a-teera-e-drones-lancados-do-iemen/",
+      "titulo": "Impasse sobre remuneração mínima para entregadores trava proposta na Câmara",
+      "link": "https://www.infomoney.com.br/politica/impasse-sobre-remuneracao-minima-para-entregadores-trava-proposta-na-camara/",
       "data": "30/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/451681399.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/03/ifood-entregadores-agencia-brasil.webp?quality=70"
     },
     {
       "titulo": "Minério de ferro oscila em meio a custos de combustível e estoques portuários em alta",
@@ -417,7 +417,7 @@
       "data": "30/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": ""
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-18T112645Z_1_LYNXMPEL7H0GR_RTROPTP_4_AUSTRALIA-RESOURCES-FORECAST.jpg?quality=70"
     },
     {
       "titulo": "Focus, conflito no Irã, propostas para diesel e mais destaques desta 2ª",
@@ -457,7 +457,7 @@
       "data": "30/03/2026",
       "fonte": "OilPrice",
       "prioridade": 1,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-03-30_fj42hpxzeg.jpg"
+      "imagem": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png"
     },
     {
       "titulo": "China Sends Fuel to Struggling Southeast Asia Despite Export Ban",
@@ -490,22 +490,6 @@
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/3wGSOw3WirYKKX9JZmgQI7-4LHg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/14474555.jpg"
-    },
-    {
-      "titulo": "Escola não é clínica, mas não pode piorar fatores que impactam saúde mental de alunos, diz especialista",
-      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/educacao/2026/03/escola-nao-e-clinica-mas-nao-pode-piorar-fatores-que-impactam-saude-mental-de-alunos-diz-especialista.shtml",
-      "data": "29/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/27/177466002169c729b52226f_1774660021_3x2_xl.jpg"
-    },
-    {
-      "titulo": "Fachin rejeita pedido de CPI do Crime Organizado para manter quebra de sigilo de empresa de Toffoli",
-      "link": "https://g1.globo.com/politica/politico/noticia/2026/03/28/fachin-rejeita-pedido-de-cpi-do-crime-organizado-para-manter-quebra-de-sigilo-de-empresa-ligada-a-toffoli.ghtml",
-      "data": "28/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/Y9BKlo0TdSUgcBG78tlkVDf8UOY=/1170x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/W/ztBxYCQrKKG23xLGszzA/captura-de-tela-2026-03-25-153010.png"
     },
     {
       "titulo": "Quem é Rafael Góis, CEO da Fictor e alvo de operação da PF por fraudes bancárias",
@@ -546,6 +530,14 @@
       "fonte": "Transporta Brasil",
       "prioridade": 1,
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/0b-Portfolio-Foton-Eletricos.jpg"
+    },
+    {
+      "titulo": "Combustível caro pressiona aéreas e desafia modelo 'low cost'",
+      "link": "https://exame.com/invest/mercados/combustivel-caro-pressiona-aereas-e-desafia-modelo-low-cost/",
+      "data": "2026-03-30",
+      "fonte": "Exame",
+      "prioridade": 1,
+      "imagem": "https://classic.exame.com/wp-content/uploads/2019/12/sky-airlines-a320neo-1.jpg"
     },
     {
       "titulo": "Caminhões Hyundai Xcient movidos a célula de combustível chegam ao Uruguai",
@@ -594,6 +586,14 @@
       "fonte": "G1",
       "prioridade": 2,
       "imagem": "https://s2-g1.glbimg.com/cmQ93B3K7hgPnDoYLVNOvAdQ61E=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/8/5tXsbJSdW1ANW1LA4BQw/ap26089059505052.jpg"
+    },
+    {
+      "titulo": "Leilão do Aeroporto do Galeão ocorre nesta segunda e pode atrair investimento de R$ 932 milhões",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/30/leilao-do-aeroporto-do-galeao-ocorre-nesta-segunda-e-pode-atrair-investimento-de-r-932-milhoes.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/OuihwBShuK2JNVDn3avlamsKs24=/1400x0/filters:format(jpeg)/http://s.glbimg.com/jo/g1/f/original/2014/08/28/galeao_maio2014-0034.jpg"
     }
   ],
   "econ_noticias": [
@@ -603,7 +603,7 @@
       "data": "30/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/12/real_moeda_020120a84t47475213.webp?quality=70"
+      "imagem": ""
     },
     {
       "titulo": "Ibovespa Futuro sobe, seguindo exterior, antes de falas de Galípolo e de olho no Irã",
@@ -620,6 +620,30 @@
       "fonte": "InfoMoney",
       "prioridade": 1,
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-27T215425Z_1_LYNXMPEL9Q0VS_RTROPTP_4_BRAZIL-ECONOMY.jpg?quality=70"
+    },
+    {
+      "titulo": "Governo Central registra déficit primário de R$ 30,05 bi em fevereiro, diz Tesouro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/governo-central-registra-deficit-primario-de-r-3005-bi-em-fevereiro-diz-tesouro.shtml",
+      "data": "30/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2020/10/13/16026151985f85f79e7f1a7_1602615198_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Acompanhe a cotação do dólar nesta segunda-feira (30)",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/acompanhe-a-cotacao-do-dolar-nesta-segunda-feira-30.shtml",
+      "data": "30/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/27/177461529569c67affee713_1774615295_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Master pediu ao TCU para reverter liquidação determinada pelo Banco Central",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/master-pediu-ao-tcu-para-reverter-liquidacao-determinada-pelo-banco-central.shtml",
+      "data": "30/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/12/177331941969b2b4fbaf779_1773319419_3x2_rt.jpg"
     },
     {
       "titulo": "Economistas sobem previsão da inflação pela terceira semana seguida",
@@ -742,40 +766,32 @@
       "imagem": "https://s2-g1.glbimg.com/cmQ93B3K7hgPnDoYLVNOvAdQ61E=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/8/5tXsbJSdW1ANW1LA4BQw/ap26089059505052.jpg"
     },
     {
-      "titulo": "Economistas ajustam quase todas as projeções para a inflação; veja o Focus desta segunda-feira (30)",
-      "link": "https://www.moneytimes.com.br/economistas-ajustam-quase-todas-as-projecoes-para-a-inflacao-veja-o-focus-desta-segunda-feira-30-jcav/",
+      "titulo": "Ibovespa avança quase 1% com melhora do apetite externo e Galípolo no radar; 5 coisas para saber antes de investir hoje (30)",
+      "link": "https://www.moneytimes.com.br/ibovespa-5-coisas-30-3-26-lils/",
       "data": "30/03/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/03/bc-banco-central.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/02/ibovespa-5-coisas-11-1.jpg"
     },
     {
-      "titulo": "Investimento via PJ é opção para sócio de empresa atingido por imposto mínimo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/investimento-via-pj-e-opcao-para-socio-de-empresa-atingido-por-imposto-minimo.shtml",
-      "data": "29/03/2026",
-      "fonte": "Folha SP",
+      "titulo": "Concessões de empréstimos recuam no Brasil e inadimplência atinge maior nível desde 2017",
+      "link": "https://www.moneytimes.com.br/concessoes-de-emprestimos-recuam-no-brasil-e-inadimplencia-atinge-maior-nivel-desde-2017-igdl/",
+      "data": "30/03/2026",
+      "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2025/10/13/176039160268ed71b2ecd16_1760391602_3x2_rt.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/04/notas-de-50-reais.png"
     },
     {
-      "titulo": "O Brasil não é um país de descontrolados",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/marcos-de-vasconcellos/2026/03/o-brasil-nao-e-um-pais-de-descontrolados.shtml",
-      "data": "29/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/23/177430472269c1bdd232073_1774304722_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Boletim Focus: mercado eleva projeção do IPCA de 4,17% para 4,31%",
-      "link": "https://exame.com/economia/boletim-focus-mercado-eleva-projecao-do-ipca-de-417-para-431/",
+      "titulo": "Ibovespa sobe mais de 1% com Vale, Petrobras e bancos; dólar recua",
+      "link": "https://exame.com/invest/mercados/ibovespa-sobe-mais-de-1-com-vale-petrobras-e-bancos-dolar-recua/",
       "data": "2026-03-30",
       "fonte": "Exame",
       "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2026/02/EX1284_ONDEINVESTIR_1_3.jpg"
+      "imagem": "https://classic.exame.com/wp-content/uploads/2020/12/size_960_16_9_painel_bovespa6.jpg"
     }
   ],
-  "noticias_em": "30/03/2026 13:00 UTC",
-  "noticias_em_br": "30/03/2026 10:00",
-  "indicadores_em": "30/03/2026 13:00 UTC",
-  "indicadores_em_br": "30/03/2026 10:00"
+  "noticias_em": "30/03/2026 13:31 UTC",
+  "noticias_em_br": "30/03/2026 10:31",
+  "indicadores_em": "30/03/2026 13:31 UTC",
+  "indicadores_em_br": "30/03/2026 10:31"
 }
