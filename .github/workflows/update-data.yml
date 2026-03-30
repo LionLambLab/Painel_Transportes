@@ -12,10 +12,10 @@ name: Atualizar Dados ANP + Indicadores
 
 on:
   schedule:
-    - cron: '0 17 * * *'      # Todo dia 14h BRT (notícias)
-    - cron: '0 9  * * 0'      # Domingo 06h BRT / 09h UTC (ANP xlsx semanal)
-    - cron: '0 11 * * 1'      # Segunda 08h BRT / 11h UTC (ANP + BCB + indicadores)
-    - cron: '0 12 1,15 * *'   # Dia 1 e 15, 9h BRT (indicadores BCB)
+    - cron: '0 17 * * *'
+    - cron: '0 9 * * 0'
+    - cron: '0 11 * * 1'
+    - cron: '0 12 1,15 * *'
   workflow_dispatch:
     inputs:
       mode:
