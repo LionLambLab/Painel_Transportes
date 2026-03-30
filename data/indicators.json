@@ -1,6 +1,6 @@
 {
-  "gerado_em": "30/03/2026 19:11 UTC",
-  "gerado_em_br": "30/03/2026 16:11",
+  "gerado_em": "30/03/2026 19:20 UTC",
+  "gerado_em_br": "30/03/2026 16:20",
   "anp": {
     "semana_referencia": "23/03/2026 a 29/03/2026",
     "preco_atual": 7.57,
@@ -444,22 +444,6 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2026/03/30/177489038069caad8c2d903_1774890380_3x2_rt.jpg"
     },
     {
-      "titulo": "Gasolina tem alta de 3,78% em março, mas etanol só é mais vantajoso em 3 estados",
-      "link": "https://www.infomoney.com.br/economia/gasolina-tem-alta-de-378-em-marco-mas-etanol-so-e-mais-vantajoso-em-3-estados/",
-      "data": "30/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": ""
-    },
-    {
-      "titulo": "Efeitos da guerra: preço diesel dispara em março, com alta média de 9,26%",
-      "link": "https://www.infomoney.com.br/economia/efeitos-da-guerra-preco-diesel-dispara-em-marco-com-alta-media-de-926/",
-      "data": "30/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-18T173828Z_1972852522_RC217KAN9OFO_RTRMADP_3_BRAZIL-FUEL.jpg?quality=70"
-    },
-    {
       "titulo": "PRIO subiu demais? Morgan rebaixa ação e cita Petrobras para ganhar com petróleo alto",
       "link": "https://www.infomoney.com.br/mercados/prio-subiu-demais-morgan-rebaixa-acao-e-cita-petrobras-para-ganhar-com-petroleo-alto/",
       "data": "30/03/2026",
@@ -594,9 +578,33 @@
       "fonte": "Transporta Brasil",
       "prioridade": 1,
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/vw-amaggi-b100-1.jpg"
+    },
+    {
+      "titulo": "Por que CEOs de tecnologia de repente estão culpando a IA por demissões em massa?",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/30/por-que-ceos-de-tecnologia-de-repente-estao-culpando-a-ia-por-demissoes-em-massa.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
+    },
+    {
+      "titulo": "Com pelo menos 16 trocas, governo Lula deve bater recorde de saídas de ministros para disputar eleições",
+      "link": "https://g1.globo.com/politica/noticia/2026/03/30/com-pelo-menos-16-trocas-governo-lula-deve-bater-recorde-de-saidas-de-ministros-para-disputar-eleicoes.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/Rx4WbSs_MmNG7vBRXjS5tn63TVY=/3600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/8/G0skDgQ8WNBn0rvzOQaQ/54746286083-129f674cc9-o.jpg"
     }
   ],
   "econ_noticias": [
+    {
+      "titulo": "Petróleo fecha em alta com tensões no Oriente Médio apesar de relatos de negociações",
+      "link": "https://www.infomoney.com.br/mercados/petroleo-fecha-em-alta-com-tensoes-no-oriente-medio-apesar-de-relatos-de-negociacoes/",
+      "data": "30/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-16T221448Z_1_LYNXMPEM0F18J_RTROPTP_4_USA-OIL-PRODUCTION.jpg?quality=70"
+    },
     {
       "titulo": "Secretário do Tesouro dos EUA diz que reabertura de Hormuz é questão de tempo",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/secretario-do-tesouro-dos-eua-diz-que-reabertura-de-hormuz-e-questao-de-tempo.shtml",
@@ -630,7 +638,7 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2020/10/13/16026151985f85f79e7f1a7_1602615198_3x2_rt.jpg"
     },
     {
-      "titulo": "Dólar oscila e Bolsa tem forte alta com investidores de olho em Galípolo e exterior",
+      "titulo": "Dólar e Bolsa sobem com investidores de olho em Galípolo e exterior",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/acompanhe-a-cotacao-do-dolar-nesta-segunda-feira-30.shtml",
       "data": "30/03/2026",
       "fonte": "Folha SP",
@@ -734,6 +742,14 @@
       "imagem": "https://s2-g1.glbimg.com/_p78LDUVdRuTMp9ez07VPD_8Ja8=/1498x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/D/x/ClHAOhRaendj6QXice2g/cartao.png"
     },
     {
+      "titulo": "Não são só os gringos: Brasil é destaque entre emergentes e investidor local retoma alocação, diz BBA",
+      "link": "https://www.moneytimes.com.br/nao-sao-so-os-gringos-b3-b3sa3-e-destaque-entre-emergentes-e-investidor-local-retoma-alocacao-diz-bba-apsa/",
+      "data": "30/03/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/12/day-trade-4-1-1-2-1-1-2-1-1-1-2-1-2-2-2-1.jpg"
+    },
+    {
       "titulo": "Ciclo de corte de juros deve terminar contracionista, avalia Itaú",
       "link": "https://www.moneytimes.com.br/ciclo-de-corte-de-juros-deve-terminar-contracionista-avalia-itau-jcav/",
       "data": "30/03/2026",
@@ -742,8 +758,8 @@
       "imagem": "https://www.moneytimes.com.br/uploads/2026/03/selic-juros-inflacao-.jpg"
     }
   ],
-  "noticias_em": "30/03/2026 19:11 UTC",
-  "noticias_em_br": "30/03/2026 16:11",
-  "indicadores_em": "30/03/2026 19:11 UTC",
-  "indicadores_em_br": "30/03/2026 16:11"
+  "noticias_em": "30/03/2026 19:20 UTC",
+  "noticias_em_br": "30/03/2026 16:20",
+  "indicadores_em": "30/03/2026 19:20 UTC",
+  "indicadores_em_br": "30/03/2026 16:20"
 }
