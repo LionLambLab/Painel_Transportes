@@ -1,6 +1,6 @@
 {
-  "gerado_em": "30/03/2026 13:31 UTC",
-  "gerado_em_br": "30/03/2026 10:31",
+  "gerado_em": "30/03/2026 13:43 UTC",
+  "gerado_em_br": "30/03/2026 10:43",
   "anp": {
     "semana_referencia": "23/03/2026 a 29/03/2026",
     "preco_atual": 7.57,
@@ -372,7 +372,7 @@
       "imagem": "https://s2-g1.glbimg.com/JA4_emBEJvEHN77zglxWDaE_06w=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/H/amJCukTUqsBvvpPcI9bA/informe-g1-2026-03-26t150304.741.png"
     },
     {
-      "titulo": "Dólar abre com petróleo em alta e tensão no Oriente Médio",
+      "titulo": "Dólar recua com petróleo em alta e tensão no Oriente Médio; Ibovespa sobe",
       "link": "https://g1.globo.com/economia/noticia/2026/03/30/dolar-ibovespa.ghtml",
       "data": "30/03/2026",
       "fonte": "G1",
@@ -420,30 +420,6 @@
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-18T112645Z_1_LYNXMPEL7H0GR_RTROPTP_4_AUSTRALIA-RESOURCES-FORECAST.jpg?quality=70"
     },
     {
-      "titulo": "Focus, conflito no Irã, propostas para diesel e mais destaques desta 2ª",
-      "link": "https://www.infomoney.com.br/mercados/focus-conflito-no-ira-propostas-para-diesel-e-mais-destaques-desta-2a/",
-      "data": "30/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-25T111552Z_1_LYNXNPEL8O0JV_RTROPTP_4_BRAZIL-ECONOMY-RATES.jpg?quality=70"
-    },
-    {
-      "titulo": "Day trade: Compre Petrobras (PETR4) e venda Minerva (BEEF3) para ganhar até 1,48% hoje (30), segundo a Ágora",
-      "link": "https://www.moneytimes.com.br/day-trade-30-3-26-apsa/",
-      "data": "30/03/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2026/01/toro-day-trade.jpg"
-    },
-    {
-      "titulo": "Etanol: Preço avança no Brasil e perde competitividade frente à gasolina",
-      "link": "https://www.moneytimes.com.br/etanol-preco-avanca-no-brasil-e-perde-competitividade-frente-a-gasolina-igdl/",
-      "data": "30/03/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/02/etanol-combustiveis-gasolina.jpg"
-    },
-    {
       "titulo": "Caminhoneiro morre esmagado ao transportar pá carregadeira",
       "link": "https://www.metropoles.com/brasil/caminhoneiro-morre-esmagado-ao-transportar-pa-carregadeira",
       "data": "30/03/2026",
@@ -457,7 +433,7 @@
       "data": "30/03/2026",
       "fonte": "OilPrice",
       "prioridade": 1,
-      "imagem": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png"
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-03-30_fj42hpxzeg.jpg"
     },
     {
       "titulo": "China Sends Fuel to Struggling Southeast Asia Despite Export Ban",
@@ -532,6 +508,14 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/0b-Portfolio-Foton-Eletricos.jpg"
     },
     {
+      "titulo": "Ibovespa sobe mais de 1% com Vale, Petrobras e bancos; dólar recua",
+      "link": "https://exame.com/invest/mercados/ibovespa-sobe-mais-de-1-com-vale-petrobras-e-bancos-dolar-recua/",
+      "data": "2026-03-30",
+      "fonte": "Exame",
+      "prioridade": 1,
+      "imagem": "https://classic.exame.com/wp-content/uploads/2020/12/size_960_16_9_painel_bovespa6.jpg"
+    },
+    {
       "titulo": "Combustível caro pressiona aéreas e desafia modelo 'low cost'",
       "link": "https://exame.com/invest/mercados/combustivel-caro-pressiona-aereas-e-desafia-modelo-low-cost/",
       "data": "2026-03-30",
@@ -594,32 +578,64 @@
       "fonte": "G1",
       "prioridade": 2,
       "imagem": "https://s2-g1.glbimg.com/OuihwBShuK2JNVDn3avlamsKs24=/1400x0/filters:format(jpeg)/http://s.glbimg.com/jo/g1/f/original/2014/08/28/galeao_maio2014-0034.jpg"
+    },
+    {
+      "titulo": "Com pelo menos 16 trocas, governo Lula deve bater recorde de saídas de ministros para disputar eleições",
+      "link": "https://g1.globo.com/politica/noticia/2026/03/30/com-pelo-menos-16-trocas-governo-lula-deve-bater-recorde-de-saidas-de-ministros-para-disputar-eleicoes.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/Rx4WbSs_MmNG7vBRXjS5tn63TVY=/3600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/8/G0skDgQ8WNBn0rvzOQaQ/54746286083-129f674cc9-o.jpg"
+    },
+    {
+      "titulo": "Inflação do aluguel dispara 0,52% em março, maior alta em mais de um ano",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/inflacao-do-aluguel-dispara-052-em-marco-maior-alta-em-mais-de-um-ano.shtml",
+      "data": "30/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 2,
+      "imagem": "https://f.i.uol.com.br/fotografia/2023/09/19/16951449046509dbc84d244_1695144904_3x2_rt.jpg"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "Governo Central registra déficit primário de R$ 30,046 bi em fevereiro, diz Tesouro",
-      "link": "https://www.infomoney.com.br/economia/governo-central-registra-deficit-primario-de-r-30046-bi-em-fevereiro-diz-tesouro/",
+      "titulo": "Japão intensifica ameaças de intervenção no iene e sinaliza aumento dos juros",
+      "link": "https://www.infomoney.com.br/mundo/japao-intensifica-ameacas-de-intervencao-no-iene-e-sinaliza-aumento-dos-juros/",
       "data": "30/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": ""
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-19T091434Z_1_LYNXMPELBI0IF_RTROPTP_4_JAPAN-ECONOMY-BOJ.jpg?quality=70"
     },
     {
-      "titulo": "Ibovespa Futuro sobe, seguindo exterior, antes de falas de Galípolo e de olho no Irã",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-futuro-sobe-seguindo-exterior-antes-de-falas-de-galipolo-e-de-olho-no-ira/",
+      "titulo": "Bessent: mercado de petróleo está abastecido, controle de Ormuz deve mudar com tempo",
+      "link": "https://www.infomoney.com.br/mundo/bessent-mercado-de-petroleo-esta-abastecido-controle-de-ormuz-deve-mudar-com-tempo/",
       "data": "30/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2021/06/stocks-vs-market-md.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-05-07T160312Z_1_LYNXMPEL460UG_RTROPTP_4_MACRO-EUA-BESSENT-CHINA.jpg?quality=70"
     },
     {
-      "titulo": "Dólar hoje oscila próximo de R$ 5,24, com investidores monitorando de conflito no Irã",
-      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-30032026/",
+      "titulo": "Irã chama propostas de paz de “irrealistas” e petróleo sobe com ataques com mísseis",
+      "link": "https://www.infomoney.com.br/mercados/ira-chama-propostas-de-paz-de-irrealistas-e-petroleo-sobe-com-ataques-com-misseis/",
       "data": "30/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-27T215425Z_1_LYNXMPEL9Q0VS_RTROPTP_4_BRAZIL-ECONOMY.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Captura-de-tela-2026-03-30-103519.png"
+    },
+    {
+      "titulo": "LFTX11, LTBX11: XP Asset lança ETFs de renda fixa com foco em baixa volatilidade",
+      "link": "https://www.infomoney.com.br/onde-investir/lftx11-ltbx11-xp-asset-lanca-etfs-de-renda-fixa-com-foco-em-baixa-volatilidade/",
+      "data": "30/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/xp-asset-expert.png?quality=70"
+    },
+    {
+      "titulo": "Inflação do aluguel dispara 0,52% em março, maior alta em mais de um ano",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/inflacao-do-aluguel-dispara-052-em-marco-maior-alta-em-mais-de-um-ano.shtml",
+      "data": "30/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2023/09/19/16951449046509dbc84d244_1695144904_3x2_rt.jpg"
     },
     {
       "titulo": "Governo Central registra déficit primário de R$ 30,05 bi em fevereiro, diz Tesouro",
@@ -702,7 +718,7 @@
       "imagem": "https://s2-g1.glbimg.com/JA4_emBEJvEHN77zglxWDaE_06w=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/H/amJCukTUqsBvvpPcI9bA/informe-g1-2026-03-26t150304.741.png"
     },
     {
-      "titulo": "Dólar abre com petróleo em alta e tensão no Oriente Médio",
+      "titulo": "Dólar recua com petróleo em alta e tensão no Oriente Médio; Ibovespa sobe",
       "link": "https://g1.globo.com/economia/noticia/2026/03/30/dolar-ibovespa.ghtml",
       "data": "30/03/2026",
       "fonte": "G1",
@@ -766,20 +782,12 @@
       "imagem": "https://s2-g1.glbimg.com/cmQ93B3K7hgPnDoYLVNOvAdQ61E=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/8/5tXsbJSdW1ANW1LA4BQw/ap26089059505052.jpg"
     },
     {
-      "titulo": "Ibovespa avança quase 1% com melhora do apetite externo e Galípolo no radar; 5 coisas para saber antes de investir hoje (30)",
-      "link": "https://www.moneytimes.com.br/ibovespa-5-coisas-30-3-26-lils/",
-      "data": "30/03/2026",
-      "fonte": "Money Times",
+      "titulo": "Brasil tem 2 vantagens para lidar com choques da Guerra do Irã, diz Galípolo",
+      "link": "https://exame.com/economia/brasil-tem-2-vantagens-para-lidar-com-choques-da-guerra-do-ira-diz-galipolo/",
+      "data": "2026-03-30",
+      "fonte": "Exame",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/02/ibovespa-5-coisas-11-1.jpg"
-    },
-    {
-      "titulo": "Concessões de empréstimos recuam no Brasil e inadimplência atinge maior nível desde 2017",
-      "link": "https://www.moneytimes.com.br/concessoes-de-emprestimos-recuam-no-brasil-e-inadimplencia-atinge-maior-nivel-desde-2017-igdl/",
-      "data": "30/03/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/04/notas-de-50-reais.png"
+      "imagem": "https://classic.exame.com/wp-content/uploads/2025/08/galipolo-2.jpg"
     },
     {
       "titulo": "Ibovespa sobe mais de 1% com Vale, Petrobras e bancos; dólar recua",
@@ -790,8 +798,8 @@
       "imagem": "https://classic.exame.com/wp-content/uploads/2020/12/size_960_16_9_painel_bovespa6.jpg"
     }
   ],
-  "noticias_em": "30/03/2026 13:31 UTC",
-  "noticias_em_br": "30/03/2026 10:31",
-  "indicadores_em": "30/03/2026 13:31 UTC",
-  "indicadores_em_br": "30/03/2026 10:31"
+  "noticias_em": "30/03/2026 13:43 UTC",
+  "noticias_em_br": "30/03/2026 10:43",
+  "indicadores_em": "30/03/2026 13:43 UTC",
+  "indicadores_em_br": "30/03/2026 10:43"
 }
