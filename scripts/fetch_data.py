@@ -482,12 +482,17 @@ def _anp_process_xlsx(content):
         s10 = fuels_result.get('diesel-s10', list(fuels_result.values())[0])
         ult  = s10[-1]
 
+        # Busca preços regionais reais
+        regioes_reais = fetch_anp_regioes()
+        if not regioes_reais:
+            regioes_reais = _anp_regioes_xlsx(content, ult['preco'])
+
         return {
             'semana_referencia': f'{ult["ini_br"]} a {ult["fim_br"]}',
             'preco_atual':       ult['preco'],
             'semanas':           s10,
-            'semanas_por_combustivel': fuels_result,   # todos os combustíveis
-            'regioes':           _anp_regioes_xlsx(content, ult['preco']),
+            'semanas_por_combustivel': fuels_result,
+            'regioes':           regioes_reais,
             'atualizado':        datetime.utcnow().strftime('%d/%m/%Y %H:%M UTC')
         }
 
@@ -542,32 +547,147 @@ def _anp_process_xlsx_positional(df):
         return _anp_fallback()
 
 
-def _anp_regioes_xlsx(content, preco_nacional):
-    """Extrai preços regionais do xlsx ANP."""
+def fetch_anp_regioes():
+    """Baixa e processa o xlsx regional da ANP."""
+    XLSX_REGIOES = (
+        'https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia'
+        '/precos/precos-revenda-e-de-distribuicao-combustiveis/shlp/semanal'
+        '/semanal-regioes-desde-2013.xlsx'
+    )
+    try:
+        r = requests.get(XLSX_REGIOES, headers=HEADERS, timeout=60)
+        if r.ok and len(r.content) > 5000:
+            print(f'  ✅ xlsx regiões: {len(r.content)//1024}KB')
+            return _anp_regioes_process(r.content)
+        else:
+            print(f'  ⚠️  xlsx regiões status: {r.status_code}')
+    except Exception as e:
+        print(f'  ⚠️  xlsx regiões: {e}')
+    return []
+
+
+def _anp_regioes_process(content):
+    """Processa o xlsx regional da ANP — extrai última semana por região."""
     try:
         import io as _io
-        mapa = {'NORTE':('Norte','🟢'), 'NORDESTE':('Nordeste','🟡'),
-                'CENTRO':('Centro-Oeste','🟠'), 'SUDESTE':('Sudeste','🔵'), 'SUL':('Sul','⚪')}
-        # Tenta ler com regiões — se falhar retorna lista vazia
+        MAPA = {
+            'NORTE':        ('Norte',        '🟢'),
+            'NORDESTE':     ('Nordeste',      '🟡'),
+            'CENTRO-OESTE': ('Centro-Oeste',  '🟠'),
+            'CENTRO OESTE': ('Centro-Oeste',  '🟠'),
+            'SUDESTE':      ('Sudeste',       '🔵'),
+            'SUL':          ('Sul',           '⚪'),
+        }
+
         xf = pd.ExcelFile(_io.BytesIO(content))
+        print(f'  📋 Abas regiões: {xf.sheet_names[:8]}')
+
+        # Procura aba com dados de revenda / diesel
+        target = None
         for sh in xf.sheet_names:
-            if 'REGIAO' in sh.upper() or 'REGIÃO' in sh.upper() or 'REGION' in sh.upper():
-                df = pd.read_excel(_io.BytesIO(content), sheet_name=sh)
-                # processamento simplificado
-                break
-    except Exception:
-        pass
-    # Fallback: retorna regiões estimadas baseadas no preço nacional
-    diffs = {'Norte': 0.31, 'Nordeste': 0.18, 'Centro-Oeste': -0.04,
-             'Sudeste': -0.13, 'Sul': -0.22}
+            su = sh.upper()
+            if any(k in su for k in ['DIESEL', 'S10', 'REVENDA', 'SEMANAL']):
+                target = sh; break
+        if target is None:
+            target = xf.sheet_names[0]
+        print(f'  📄 Aba regiões: {target}')
+
+        df_raw = pd.read_excel(_io.BytesIO(content), sheet_name=target, header=None)
+
+        # Detecta linha de cabeçalho
+        header_row = 0
+        for i, row in df_raw.iterrows():
+            vals = [str(v).upper() for v in row.values if pd.notna(v)]
+            if sum(1 for v in vals if any(k in v for k in ['DATA','PREÇO','PRECO','REGIAO','REGIÃO'])) >= 2:
+                header_row = i; break
+
+        df_raw.columns = [str(c).strip().upper() if pd.notna(c) else f'_C{i}'
+                          for i, c in enumerate(df_raw.iloc[header_row])]
+        df = df_raw.iloc[header_row+1:].reset_index(drop=True)
+        print(f'  🔑 Colunas regiões: {list(df.columns[:10])}')
+
+        # Detecta colunas
+        col_ini  = next((c for c in df.columns if 'INIC' in c and 'DATA' in c), None) or                    next((c for c in df.columns if 'DATA' in c), None)
+        col_prec = next((c for c in df.columns if 'MÉDIO' in c or 'MEDIO' in c), None) or                    next((c for c in df.columns if 'PREÇO' in c or 'PRECO' in c), None)
+        col_reg  = next((c for c in df.columns if 'REGIAO' in c or 'REGIÃO' in c or 'REGION' in c), None)
+        col_prod = next((c for c in df.columns if 'PRODUTO' in c), None)
+
+        print(f'  🔍 ini={col_ini} | prec={col_prec} | reg={col_reg} | prod={col_prod}')
+        if not col_ini or not col_prec or not col_reg:
+            print('  ⚠️  colunas insuficientes para regiões')
+            return []
+
+        df[col_prec] = pd.to_numeric(df[col_prec], errors='coerce')
+        df[col_ini]  = pd.to_datetime(df[col_ini], dayfirst=True, errors='coerce')
+        df = df.dropna(subset=[col_prec, col_ini])
+        df = df[df[col_prec] > 3]
+
+        # Filtra Diesel S10
+        if col_prod:
+            mask_s10 = df[col_prod].astype(str).str.upper().str.contains('S10|S-10', na=False)
+            df_s10 = df[mask_s10] if not df[mask_s10].empty else df
+        else:
+            df_s10 = df
+
+        # Exclui semana corrente
+        today      = pd.Timestamp.utcnow().normalize()
+        week_start = today - pd.Timedelta(days=today.dayofweek)
+        df_s10 = df_s10[df_s10[col_ini] < week_start]
+
+        # Pega última semana disponível
+        ultima_data = df_s10[col_ini].max()
+        df_ult = df_s10[df_s10[col_ini] == ultima_data]
+        print(f'  📅 Última semana regiões: {ultima_data.strftime("%d/%m/%Y")} | {len(df_ult)} regiões')
+
+        # Oct/25 reference
+        oct_data = pd.Timestamp('2025-10-06')
+        df_oct = df_s10[df_s10[col_ini] <= oct_data].sort_values(col_ini)
+        df_oct_ref = df_s10[abs((df_s10[col_ini] - oct_data).dt.days) <= 14]
+
+        regioes = []
+        for reg_key, (reg_nome, emoji) in MAPA.items():
+            mask = df_ult[col_reg].astype(str).str.upper().str.contains(reg_key, na=False)
+            linhas = df_ult[mask]
+            if linhas.empty:
+                continue
+            preco = round(float(linhas[col_prec].mean()), 3)
+
+            # Oct/25 reference for this region
+            mask_oct = df_oct_ref[col_reg].astype(str).str.upper().str.contains(reg_key, na=False)
+            preco_out = round(float(df_oct_ref[mask_oct][col_prec].mean()), 3) if not df_oct_ref[mask_oct].empty else preco * 0.878
+
+            # Distribuição: ~92.1% of revenda
+            dist = round(preco * 0.921, 3)
+
+            regioes.append({
+                'nome':               reg_nome,
+                'emoji':              emoji,
+                'revenda_media':      preco,
+                'revenda_variacao':   round(preco - preco_out, 3),
+                'revenda_outubro':    preco_out,
+                'distribuicao_media': dist,
+            })
+
+        print(f'  ✅ {len(regioes)} regiões extraídas')
+        return regioes
+
+    except Exception as e:
+        print(f'  ⚠️  regiões process: {e}')
+        import traceback; traceback.print_exc()
+        return []
+
+
+def _anp_regioes_xlsx(content, preco_nacional):
+    """Legacy — estimativa por diferencial quando xlsx regional não disponível."""
+    diffs  = {'Norte':0.31,'Nordeste':0.18,'Centro-Oeste':-0.04,'Sudeste':-0.13,'Sul':-0.22}
     emojis = {'Norte':'🟢','Nordeste':'🟡','Centro-Oeste':'🟠','Sudeste':'🔵','Sul':'⚪'}
     s10ref = 6.165
-    ratio = preco_nacional / s10ref if s10ref > 0 else 1
-    return [{'nome': n, 'emoji': emojis[n],
-             'revenda_media': round(preco_nacional + d * ratio, 3),
-             'revenda_variacao': 0, 'revenda_outubro': round(6.165 + d, 3),
-             'distribuicao_media': round((preco_nacional + d * ratio) * 0.921, 3)}
-            for n, d in diffs.items()]
+    return [{'nome':n,'emoji':emojis[n],
+             'revenda_media':     round(preco_nacional + d * (preco_nacional/s10ref), 3),
+             'revenda_variacao':  round(preco_nacional + d * (preco_nacional/s10ref) - (6.165 + d), 3),
+             'revenda_outubro':   round(6.165 + d, 3),
+             'distribuicao_media':round((preco_nacional + d*(preco_nacional/s10ref))*0.921, 3)}
+            for n,d in diffs.items()]
 
 
 def _anp_fallback():
