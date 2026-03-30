@@ -1,6 +1,6 @@
 {
-  "gerado_em": "30/03/2026 13:43 UTC",
-  "gerado_em_br": "30/03/2026 10:43",
+  "gerado_em": "30/03/2026 14:07 UTC",
+  "gerado_em_br": "30/03/2026 11:07",
   "anp": {
     "semana_referencia": "23/03/2026 a 29/03/2026",
     "preco_atual": 7.57,
@@ -177,10 +177,6 @@
   "igpm": {
     "series": [
       {
-        "label": "Dez/24",
-        "valor": 0.94
-      },
-      {
         "label": "Jan/25",
         "valor": 0.27
       },
@@ -235,11 +231,15 @@
       {
         "label": "Fev/26",
         "valor": -0.73
+      },
+      {
+        "label": "Mar/26",
+        "valor": 0.52
       }
     ],
-    "ultimo": -0.73,
-    "ultimo_label": "Fev/26",
-    "acum12": -2.67
+    "ultimo": 0.52,
+    "ultimo_label": "Mar/26",
+    "acum12": -1.81
   },
   "selic": {
     "series": [
@@ -404,12 +404,28 @@
       "imagem": "https://s2-g1.glbimg.com/n5IojvIsn-noBz7FvvZyxnNUs9A=/8736x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/9/Ave0x2TEGUfyNq7zMmaw/declaracao-do-mei.jpg"
     },
     {
-      "titulo": "Impasse sobre remuneração mínima para entregadores trava proposta na Câmara",
-      "link": "https://www.infomoney.com.br/politica/impasse-sobre-remuneracao-minima-para-entregadores-trava-proposta-na-camara/",
+      "titulo": "Leite não cita Caiado, diz estar desencantado e que a escolha do PSD mantém a radicalização polarizada no Brasil",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/03/30/leite-caiado-presidencia-psd.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/W7kX-BuNw7fPJwAHbQTqC46Ww58=/4000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/U/ZBmBELTs2Z2kaAwwXsPw/tn220260306124.jpg"
+    },
+    {
+      "titulo": "'Exemplo de compromisso com a democracia', diz Ratinho Junior sobre escolha de Caiado como presidenciável pelo PSD",
+      "link": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/03/30/manifestacao-ratinho-psd-escolha-caiado.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/x6y2WmWL5AfdPxantFwDqcJe918=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/I/A/3Oq664QluC7apAnAC0gg/emplacamento-digital-foto-rdziura-7091-0.jpg"
+    },
+    {
+      "titulo": "Zelensky: aliados enviaram “sinais” à Ucrânia sobre redução de ataques ao petróleo",
+      "link": "https://www.infomoney.com.br/mundo/zelensky-aliados-enviaram-sinais-a-ucrania-sobre-reducao-de-ataques-ao-petroleo/",
       "data": "30/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/03/ifood-entregadores-agencia-brasil.webp?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/02/Zelensky.jpg?quality=70"
     },
     {
       "titulo": "Minério de ferro oscila em meio a custos de combustível e estoques portuários em alta",
@@ -417,7 +433,23 @@
       "data": "30/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-18T112645Z_1_LYNXMPEL7H0GR_RTROPTP_4_AUSTRALIA-RESOURCES-FORECAST.jpg?quality=70"
+      "imagem": ""
+    },
+    {
+      "titulo": "IGP-M: \"inflação do aluguel\" avança em março e tem maior alta em 1 ano",
+      "link": "https://www.metropoles.com/negocios/igp-m-inflacao-do-aluguel-avanca-em-marco-e-tem-maior-alta-em-1-ano",
+      "data": "30/03/2026",
+      "fonte": "Metrópoles",
+      "prioridade": 1,
+      "imagem": "https://i.metroimg.com/vqMI3Ow6yQxPLuZvfgb3V2nAcHYjokN8rxQCVHUQPoE/w:1200/q:90/f:webp/plain/https://images.metroimg.com/9c06467e-sair-do-aluguel-300x200-1.jpg"
+    },
+    {
+      "titulo": "Partido se manifesta sobre confusão de deputado com garota de programa. Veja vídeo",
+      "link": "https://www.metropoles.com/colunas/mirelle-pinheiro/partido-se-manifesta-sobre-confusao-de-deputado-com-garota-de-programa",
+      "data": "30/03/2026",
+      "fonte": "Metrópoles",
+      "prioridade": 1,
+      "imagem": "https://i.metroimg.com/zb9-w-HRVyhxp0pgB07f35fBM6QrTwPkkL05niHSfXs/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/deputado.jpg"
     },
     {
       "titulo": "Caminhoneiro morre esmagado ao transportar pá carregadeira",
@@ -562,41 +594,49 @@
       "fonte": "G1",
       "prioridade": 2,
       "imagem": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
-    },
-    {
-      "titulo": "Ações asiáticas recuam com disparada dos preços do petróleo e incertezas sobre fim da guerra no Oriente Médio",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/30/acoes-disparada-dos-precos-do-petroleo-e-incertezas-sobre-fim-da-guerra-no-oriente-medio.ghtml",
-      "data": "30/03/2026",
-      "fonte": "G1",
-      "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/cmQ93B3K7hgPnDoYLVNOvAdQ61E=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/8/5tXsbJSdW1ANW1LA4BQw/ap26089059505052.jpg"
-    },
-    {
-      "titulo": "Leilão do Aeroporto do Galeão ocorre nesta segunda e pode atrair investimento de R$ 932 milhões",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/30/leilao-do-aeroporto-do-galeao-ocorre-nesta-segunda-e-pode-atrair-investimento-de-r-932-milhoes.ghtml",
-      "data": "30/03/2026",
-      "fonte": "G1",
-      "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/OuihwBShuK2JNVDn3avlamsKs24=/1400x0/filters:format(jpeg)/http://s.glbimg.com/jo/g1/f/original/2014/08/28/galeao_maio2014-0034.jpg"
-    },
-    {
-      "titulo": "Com pelo menos 16 trocas, governo Lula deve bater recorde de saídas de ministros para disputar eleições",
-      "link": "https://g1.globo.com/politica/noticia/2026/03/30/com-pelo-menos-16-trocas-governo-lula-deve-bater-recorde-de-saidas-de-ministros-para-disputar-eleicoes.ghtml",
-      "data": "30/03/2026",
-      "fonte": "G1",
-      "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/Rx4WbSs_MmNG7vBRXjS5tn63TVY=/3600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/8/G0skDgQ8WNBn0rvzOQaQ/54746286083-129f674cc9-o.jpg"
-    },
-    {
-      "titulo": "Inflação do aluguel dispara 0,52% em março, maior alta em mais de um ano",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/inflacao-do-aluguel-dispara-052-em-marco-maior-alta-em-mais-de-um-ano.shtml",
-      "data": "30/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2023/09/19/16951449046509dbc84d244_1695144904_3x2_rt.jpg"
     }
   ],
   "econ_noticias": [
+    {
+      "titulo": "Galípolo: choque do petróleo pressiona inflação, mas BC incorpora impacto com cautela",
+      "link": "https://www.infomoney.com.br/economia/galipolo-choque-do-petroleo-pressiona-inflacao-mas-bc-incorpora-impacto-com-cautela/",
+      "data": "30/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": ""
+    },
+    {
+      "titulo": "Na onda dos ETFs de renda fixa, Galapagos capta R$ 5 milhões por dia com novo produto",
+      "link": "https://www.infomoney.com.br/onde-investir/na-onda-dos-etfs-de-renda-fixa-galapagos-capta-r-5-milhoes-por-dia-com-novo-produto/",
+      "data": "30/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Fachada-Galapagos-1-1.jpg?fit=3024%2C2268&quality=70&strip=all"
+    },
+    {
+      "titulo": "Zelensky: aliados enviaram “sinais” à Ucrânia sobre redução de ataques ao petróleo",
+      "link": "https://www.infomoney.com.br/mundo/zelensky-aliados-enviaram-sinais-a-ucrania-sobre-reducao-de-ataques-ao-petroleo/",
+      "data": "30/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/02/Zelensky.jpg?quality=70"
+    },
+    {
+      "titulo": "Renda Fixa Hoje: veja taxas de CDB, LCI e LCA na XP com projeção de IPCA subindo",
+      "link": "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-30032026/",
+      "data": "30/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/05/renda-fixa-hoje-010.jpg?quality=70"
+    },
+    {
+      "titulo": "BC: juros do cartão sobem e crédito perde ritmo, causando aperto às famílias",
+      "link": "https://www.infomoney.com.br/economia/bc-juros-do-cartao-sobem-e-credito-perde-ritmo-causando-aperto-as-familias/",
+      "data": "30/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/06/AdobeStock_292590771.jpg?quality=70"
+    },
     {
       "titulo": "Japão intensifica ameaças de intervenção no iene e sinaliza aumento dos juros",
       "link": "https://www.infomoney.com.br/mundo/japao-intensifica-ameacas-de-intervencao-no-iene-e-sinaliza-aumento-dos-juros/",
@@ -612,22 +652,6 @@
       "fonte": "InfoMoney",
       "prioridade": 1,
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-05-07T160312Z_1_LYNXMPEL460UG_RTROPTP_4_MACRO-EUA-BESSENT-CHINA.jpg?quality=70"
-    },
-    {
-      "titulo": "Irã chama propostas de paz de “irrealistas” e petróleo sobe com ataques com mísseis",
-      "link": "https://www.infomoney.com.br/mercados/ira-chama-propostas-de-paz-de-irrealistas-e-petroleo-sobe-com-ataques-com-misseis/",
-      "data": "30/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Captura-de-tela-2026-03-30-103519.png"
-    },
-    {
-      "titulo": "LFTX11, LTBX11: XP Asset lança ETFs de renda fixa com foco em baixa volatilidade",
-      "link": "https://www.infomoney.com.br/onde-investir/lftx11-ltbx11-xp-asset-lanca-etfs-de-renda-fixa-com-foco-em-baixa-volatilidade/",
-      "data": "30/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/xp-asset-expert.png?quality=70"
     },
     {
       "titulo": "Inflação do aluguel dispara 0,52% em março, maior alta em mais de um ano",
@@ -772,34 +796,10 @@
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/2UMRlc1CMoCdtz2il-yewmJkIZ8=/2861x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/k/PB9QROTtSHX65hRBf8RQ/chatgpt-gemini.jpg"
-    },
-    {
-      "titulo": "Ações asiáticas recuam com disparada dos preços do petróleo e incertezas sobre fim da guerra no Oriente Médio",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/30/acoes-disparada-dos-precos-do-petroleo-e-incertezas-sobre-fim-da-guerra-no-oriente-medio.ghtml",
-      "data": "30/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/cmQ93B3K7hgPnDoYLVNOvAdQ61E=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/8/5tXsbJSdW1ANW1LA4BQw/ap26089059505052.jpg"
-    },
-    {
-      "titulo": "Brasil tem 2 vantagens para lidar com choques da Guerra do Irã, diz Galípolo",
-      "link": "https://exame.com/economia/brasil-tem-2-vantagens-para-lidar-com-choques-da-guerra-do-ira-diz-galipolo/",
-      "data": "2026-03-30",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2025/08/galipolo-2.jpg"
-    },
-    {
-      "titulo": "Ibovespa sobe mais de 1% com Vale, Petrobras e bancos; dólar recua",
-      "link": "https://exame.com/invest/mercados/ibovespa-sobe-mais-de-1-com-vale-petrobras-e-bancos-dolar-recua/",
-      "data": "2026-03-30",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2020/12/size_960_16_9_painel_bovespa6.jpg"
     }
   ],
-  "noticias_em": "30/03/2026 13:43 UTC",
-  "noticias_em_br": "30/03/2026 10:43",
-  "indicadores_em": "30/03/2026 13:43 UTC",
-  "indicadores_em_br": "30/03/2026 10:43"
+  "noticias_em": "30/03/2026 14:07 UTC",
+  "noticias_em_br": "30/03/2026 11:07",
+  "indicadores_em": "30/03/2026 14:07 UTC",
+  "indicadores_em_br": "30/03/2026 11:07"
 }
