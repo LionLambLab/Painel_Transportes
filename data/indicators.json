@@ -1,6 +1,6 @@
 {
-  "gerado_em": "30/03/2026 14:07 UTC",
-  "gerado_em_br": "30/03/2026 11:07",
+  "gerado_em": "30/03/2026 14:20 UTC",
+  "gerado_em_br": "30/03/2026 11:20",
   "anp": {
     "semana_referencia": "23/03/2026 a 29/03/2026",
     "preco_atual": 7.57,
@@ -433,7 +433,15 @@
       "data": "30/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": ""
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-18T112645Z_1_LYNXMPEL7H0GR_RTROPTP_4_AUSTRALIA-RESOURCES-FORECAST.jpg?quality=70"
+    },
+    {
+      "titulo": "Eduardo Leite se manifesta após PSD decidir lançar Caiado ao Planalto",
+      "link": "https://www.metropoles.com/brasil/eduardo-leite-se-manifesta-apos-psd-decidir-lancar-caiado-ao-planalto",
+      "data": "30/03/2026",
+      "fonte": "Metrópoles",
+      "prioridade": 1,
+      "imagem": "https://i.metroimg.com/ZKz8IaeMMe9GptDL6uSS78sqLQZl7g0UsJ2YgchbhVs/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/02/governador-do-Rio-Grande-do-Sul-Eduardo-Leite-durante-entrevista-para-o-Metropoles-5.jpg"
     },
     {
       "titulo": "IGP-M: \"inflação do aluguel\" avança em março e tem maior alta em 1 ano",
@@ -442,14 +450,6 @@
       "fonte": "Metrópoles",
       "prioridade": 1,
       "imagem": "https://i.metroimg.com/vqMI3Ow6yQxPLuZvfgb3V2nAcHYjokN8rxQCVHUQPoE/w:1200/q:90/f:webp/plain/https://images.metroimg.com/9c06467e-sair-do-aluguel-300x200-1.jpg"
-    },
-    {
-      "titulo": "Partido se manifesta sobre confusão de deputado com garota de programa. Veja vídeo",
-      "link": "https://www.metropoles.com/colunas/mirelle-pinheiro/partido-se-manifesta-sobre-confusao-de-deputado-com-garota-de-programa",
-      "data": "30/03/2026",
-      "fonte": "Metrópoles",
-      "prioridade": 1,
-      "imagem": "https://i.metroimg.com/zb9-w-HRVyhxp0pgB07f35fBM6QrTwPkkL05niHSfXs/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/deputado.jpg"
     },
     {
       "titulo": "Caminhoneiro morre esmagado ao transportar pá carregadeira",
@@ -548,14 +548,6 @@
       "imagem": "https://classic.exame.com/wp-content/uploads/2020/12/size_960_16_9_painel_bovespa6.jpg"
     },
     {
-      "titulo": "Combustível caro pressiona aéreas e desafia modelo 'low cost'",
-      "link": "https://exame.com/invest/mercados/combustivel-caro-pressiona-aereas-e-desafia-modelo-low-cost/",
-      "data": "2026-03-30",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2019/12/sky-airlines-a320neo-1.jpg"
-    },
-    {
       "titulo": "Caminhões Hyundai Xcient movidos a célula de combustível chegam ao Uruguai",
       "link": "https://www.transportabrasil.com.br/2026/03/caminhoes-hyundai-xcient-movidos-a-celula-de-combustivel-chegam-ao-uruguai/",
       "data": "20/03/2026",
@@ -578,6 +570,14 @@
       "fonte": "Transporta Brasil",
       "prioridade": 1,
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/vw-amaggi-b100-1.jpg"
+    },
+    {
+      "titulo": "Guerra no Oriente Médio: alta do petróleo deve elevar inflação e frear economia, diz presidente do BC",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/30/banco-central-galipolo-safra-macro-day.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/qQJxuXrVintngTe9sip2xFwxLAs=/1205x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/B/kigmsVSYAZCbZG7vtrtA/whatsapp-image-2026-03-30-at-10.59.20.jpeg"
     },
     {
       "titulo": "Por que CEOs de tecnologia de repente estão culpando a IA por demissões em massa?",
@@ -603,7 +603,7 @@
       "data": "30/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": ""
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/03/2025-03-27T162534Z_1101861601_RC2QLDACIVJN_RTRMADP_3_BRAZIL-ECONOMY.jpg?quality=70"
     },
     {
       "titulo": "Na onda dos ETFs de renda fixa, Galapagos capta R$ 5 milhões por dia com novo produto",
@@ -636,22 +636,6 @@
       "fonte": "InfoMoney",
       "prioridade": 1,
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/06/AdobeStock_292590771.jpg?quality=70"
-    },
-    {
-      "titulo": "Japão intensifica ameaças de intervenção no iene e sinaliza aumento dos juros",
-      "link": "https://www.infomoney.com.br/mundo/japao-intensifica-ameacas-de-intervencao-no-iene-e-sinaliza-aumento-dos-juros/",
-      "data": "30/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-19T091434Z_1_LYNXMPELBI0IF_RTROPTP_4_JAPAN-ECONOMY-BOJ.jpg?quality=70"
-    },
-    {
-      "titulo": "Bessent: mercado de petróleo está abastecido, controle de Ormuz deve mudar com tempo",
-      "link": "https://www.infomoney.com.br/mundo/bessent-mercado-de-petroleo-esta-abastecido-controle-de-ormuz-deve-mudar-com-tempo/",
-      "data": "30/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-05-07T160312Z_1_LYNXMPEL460UG_RTROPTP_4_MACRO-EUA-BESSENT-CHINA.jpg?quality=70"
     },
     {
       "titulo": "Inflação do aluguel dispara 0,52% em março, maior alta em mais de um ano",
@@ -726,6 +710,14 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2024/10/22/17296092896717be49cee5b_1729609289_3x2_xl.jpg"
     },
     {
+      "titulo": "Guerra no Oriente Médio: alta do petróleo deve elevar inflação e frear economia, diz presidente do BC",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/30/banco-central-galipolo-safra-macro-day.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/qQJxuXrVintngTe9sip2xFwxLAs=/1205x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/B/kigmsVSYAZCbZG7vtrtA/whatsapp-image-2026-03-30-at-10.59.20.jpeg"
+    },
+    {
       "titulo": "Contas do governo têm déficit de R$ 30 bilhões em fevereiro",
       "link": "https://g1.globo.com/economia/noticia/2026/03/30/contas-do-governo-tem-deficit-de-r-30-bilhoes-em-fevereiro.ghtml",
       "data": "30/03/2026",
@@ -796,10 +788,18 @@
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/2UMRlc1CMoCdtz2il-yewmJkIZ8=/2861x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/k/PB9QROTtSHX65hRBf8RQ/chatgpt-gemini.jpg"
+    },
+    {
+      "titulo": "Ações asiáticas recuam com disparada dos preços do petróleo e incertezas sobre fim da guerra no Oriente Médio",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/30/acoes-disparada-dos-precos-do-petroleo-e-incertezas-sobre-fim-da-guerra-no-oriente-medio.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/cmQ93B3K7hgPnDoYLVNOvAdQ61E=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/8/5tXsbJSdW1ANW1LA4BQw/ap26089059505052.jpg"
     }
   ],
-  "noticias_em": "30/03/2026 14:07 UTC",
-  "noticias_em_br": "30/03/2026 11:07",
-  "indicadores_em": "30/03/2026 14:07 UTC",
-  "indicadores_em_br": "30/03/2026 11:07"
+  "noticias_em": "30/03/2026 14:20 UTC",
+  "noticias_em_br": "30/03/2026 11:20",
+  "indicadores_em": "30/03/2026 14:20 UTC",
+  "indicadores_em_br": "30/03/2026 11:20"
 }
