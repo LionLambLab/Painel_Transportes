@@ -1,6 +1,6 @@
 {
-  "gerado_em": "30/03/2026 14:20 UTC",
-  "gerado_em_br": "30/03/2026 11:20",
+  "gerado_em": "30/03/2026 14:31 UTC",
+  "gerado_em_br": "30/03/2026 11:31",
   "anp": {
     "semana_referencia": "23/03/2026 a 29/03/2026",
     "preco_atual": 7.57,
@@ -356,6 +356,14 @@
   },
   "noticias": [
     {
+      "titulo": "Guerra no Oriente Médio: alta do petróleo deve elevar inflação e frear economia, diz presidente do BC",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/30/banco-central-galipolo-safra-macro-day.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/qQJxuXrVintngTe9sip2xFwxLAs=/1205x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/B/kigmsVSYAZCbZG7vtrtA/whatsapp-image-2026-03-30-at-10.59.20.jpeg"
+    },
+    {
       "titulo": "Contas do governo têm déficit de R$ 30 bilhões em fevereiro",
       "link": "https://g1.globo.com/economia/noticia/2026/03/30/contas-do-governo-tem-deficit-de-r-30-bilhoes-em-fevereiro.ghtml",
       "data": "30/03/2026",
@@ -442,14 +450,6 @@
       "fonte": "Metrópoles",
       "prioridade": 1,
       "imagem": "https://i.metroimg.com/ZKz8IaeMMe9GptDL6uSS78sqLQZl7g0UsJ2YgchbhVs/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/02/governador-do-Rio-Grande-do-Sul-Eduardo-Leite-durante-entrevista-para-o-Metropoles-5.jpg"
-    },
-    {
-      "titulo": "IGP-M: \"inflação do aluguel\" avança em março e tem maior alta em 1 ano",
-      "link": "https://www.metropoles.com/negocios/igp-m-inflacao-do-aluguel-avanca-em-marco-e-tem-maior-alta-em-1-ano",
-      "data": "30/03/2026",
-      "fonte": "Metrópoles",
-      "prioridade": 1,
-      "imagem": "https://i.metroimg.com/vqMI3Ow6yQxPLuZvfgb3V2nAcHYjokN8rxQCVHUQPoE/w:1200/q:90/f:webp/plain/https://images.metroimg.com/9c06467e-sair-do-aluguel-300x200-1.jpg"
     },
     {
       "titulo": "Caminhoneiro morre esmagado ao transportar pá carregadeira",
@@ -540,14 +540,6 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/0b-Portfolio-Foton-Eletricos.jpg"
     },
     {
-      "titulo": "Ibovespa sobe mais de 1% com Vale, Petrobras e bancos; dólar recua",
-      "link": "https://exame.com/invest/mercados/ibovespa-sobe-mais-de-1-com-vale-petrobras-e-bancos-dolar-recua/",
-      "data": "2026-03-30",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2020/12/size_960_16_9_painel_bovespa6.jpg"
-    },
-    {
       "titulo": "Caminhões Hyundai Xcient movidos a célula de combustível chegam ao Uruguai",
       "link": "https://www.transportabrasil.com.br/2026/03/caminhoes-hyundai-xcient-movidos-a-celula-de-combustivel-chegam-ao-uruguai/",
       "data": "20/03/2026",
@@ -572,14 +564,6 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/vw-amaggi-b100-1.jpg"
     },
     {
-      "titulo": "Guerra no Oriente Médio: alta do petróleo deve elevar inflação e frear economia, diz presidente do BC",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/30/banco-central-galipolo-safra-macro-day.ghtml",
-      "data": "30/03/2026",
-      "fonte": "G1",
-      "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/qQJxuXrVintngTe9sip2xFwxLAs=/1205x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/B/kigmsVSYAZCbZG7vtrtA/whatsapp-image-2026-03-30-at-10.59.20.jpeg"
-    },
-    {
       "titulo": "Por que CEOs de tecnologia de repente estão culpando a IA por demissões em massa?",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/03/30/por-que-ceos-de-tecnologia-de-repente-estao-culpando-a-ia-por-demissoes-em-massa.ghtml",
       "data": "30/03/2026",
@@ -594,9 +578,33 @@
       "fonte": "G1",
       "prioridade": 2,
       "imagem": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
+    },
+    {
+      "titulo": "Ações asiáticas recuam com disparada dos preços do petróleo e incertezas sobre fim da guerra no Oriente Médio",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/30/acoes-disparada-dos-precos-do-petroleo-e-incertezas-sobre-fim-da-guerra-no-oriente-medio.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/cmQ93B3K7hgPnDoYLVNOvAdQ61E=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/8/5tXsbJSdW1ANW1LA4BQw/ap26089059505052.jpg"
+    },
+    {
+      "titulo": "Leilão do Aeroporto do Galeão ocorre nesta segunda e pode atrair investimento de R$ 932 milhões",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/30/leilao-do-aeroporto-do-galeao-ocorre-nesta-segunda-e-pode-atrair-investimento-de-r-932-milhoes.ghtml",
+      "data": "30/03/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/OuihwBShuK2JNVDn3avlamsKs24=/1400x0/filters:format(jpeg)/http://s.glbimg.com/jo/g1/f/original/2014/08/28/galeao_maio2014-0034.jpg"
     }
   ],
   "econ_noticias": [
+    {
+      "titulo": "Trump ameaça destruir poços de petróleo e Ilha Kharg se Irã não reabrir Ormuz",
+      "link": "https://www.infomoney.com.br/mundo/trump-ameaca-destruir-pocos-de-petroleo-e-ilha-kharg-se-ira-nao-reabrir-ormuz/",
+      "data": "30/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-27T000338Z_1710964373_RC211KA24G4G_RTRMADP_3_IRAN-CRISIS-KHARGISLAND-RISKS.jpg?quality=70"
+    },
     {
       "titulo": "Galípolo: choque do petróleo pressiona inflação, mas BC incorpora impacto com cautela",
       "link": "https://www.infomoney.com.br/economia/galipolo-choque-do-petroleo-pressiona-inflacao-mas-bc-incorpora-impacto-com-cautela/",
@@ -620,22 +628,6 @@
       "fonte": "InfoMoney",
       "prioridade": 1,
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/02/Zelensky.jpg?quality=70"
-    },
-    {
-      "titulo": "Renda Fixa Hoje: veja taxas de CDB, LCI e LCA na XP com projeção de IPCA subindo",
-      "link": "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-30032026/",
-      "data": "30/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/05/renda-fixa-hoje-010.jpg?quality=70"
-    },
-    {
-      "titulo": "BC: juros do cartão sobem e crédito perde ritmo, causando aperto às famílias",
-      "link": "https://www.infomoney.com.br/economia/bc-juros-do-cartao-sobem-e-credito-perde-ritmo-causando-aperto-as-familias/",
-      "data": "30/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/06/AdobeStock_292590771.jpg?quality=70"
     },
     {
       "titulo": "Inflação do aluguel dispara 0,52% em março, maior alta em mais de um ano",
@@ -796,10 +788,18 @@
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/cmQ93B3K7hgPnDoYLVNOvAdQ61E=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/8/5tXsbJSdW1ANW1LA4BQw/ap26089059505052.jpg"
+    },
+    {
+      "titulo": "Corte menor na Selic foi para ‘ganhar tempo’, diz Galípolo",
+      "link": "https://www.moneytimes.com.br/corte-menor-na-selic-foi-para-ganhar-tempo-diz-galipolo/",
+      "data": "30/03/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2024/10/sabatina-presidente-banco-central-gabriel-galipolo.jpg"
     }
   ],
-  "noticias_em": "30/03/2026 14:20 UTC",
-  "noticias_em_br": "30/03/2026 11:20",
-  "indicadores_em": "30/03/2026 14:20 UTC",
-  "indicadores_em_br": "30/03/2026 11:20"
+  "noticias_em": "30/03/2026 14:31 UTC",
+  "noticias_em_br": "30/03/2026 11:31",
+  "indicadores_em": "30/03/2026 14:31 UTC",
+  "indicadores_em_br": "30/03/2026 11:31"
 }
