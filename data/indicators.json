@@ -356,180 +356,196 @@
   },
   "noticias": [
     {
-      "titulo": "Bacalhau é peixe ou modo de preparo? Conheça curiosidades sobre o prato 'queridinho' da Páscoa",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/03/30/entenda-se-bacalhau-e-peixe-ou-modo-de-preparo.ghtml",
-      "data": "30/03/2026",
+      "titulo": "Fertilizantes comprados pelo Brasil 'não terão problemas em ser exportados', diz embaixador do Irã",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/03/31/fertilizantes-comprados-pelo-brasil-nao-terao-problemas-em-ser-exportados-diz-embaixador-do-ira.ghtml",
+      "data": "31/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/MeDgJvvpQmfnBB-Ai8Zmsrzi_7g=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/q/W/P7pTtkTM6jUB5LfJoY1w/enq20240326026.jpg"
+      "imagem": "https://s2-g1.glbimg.com/TSeXlHeKxlUFx3rMao-7EhY7I9o=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/t/m/Z8AiNcR2eCu3t3NDDzrw/ureia.jpg"
     },
     {
-      "titulo": "México negocia com empresas para vender petróleo a Cuba",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/30/mexico-negocia-com-empresas-privadas-para-vender-petroleo-a-cuba.ghtml",
-      "data": "30/03/2026",
+      "titulo": "O que foi a crise do petróleo dos anos 1970 - situação atual pode ser pior?",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/31/o-que-foi-a-crise-do-petroleo-dos-anos-1970-situacao-atual-pode-ser-pior.ghtml",
+      "data": "31/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/l7j314OjAh1KnLGpBWphQLmbtuI=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/L/P/miWnNWSuOUnsep0jtAOw/2016-12-22t060507z-1221063415-rc173f9ea9c0-rtrmadp-3-mexico-usa-oil.jpg"
+      "imagem": "https://s2-g1.glbimg.com/5YIxw2hbuoMffVIs9bAUutasR44=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/R/bdkLKnRbWBAK5DhAxPYw/befaf650-2c2b-11f1-b8c9-f5058c0aec9a.jpg"
     },
     {
-      "titulo": "Como as criptomoedas estão movimentando a guerra na Rússia e no Irã?",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/30/como-as-criptomoedas-estao-movimentando-a-guerra-na-russia-e-no-ira.ghtml",
-      "data": "30/03/2026",
+      "titulo": "Natura dispara após acordo com Advent e renovação do conselho",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/31/natura-dispara-apos-acordo-com-advent-e-renovacao-do-conselho.ghtml",
+      "data": "31/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/K3jJnhL2nH7_0sK0fVqV_aK4tOs=/2200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/d/jkzpyuTNmbBMVRK9PrVg/2025-12-27t094415z-379257662-rc2uoiaebrxz-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg"
+      "imagem": "https://s2-g1.glbimg.com/2J94FuYKyCTEhWprTE7Xv4t1hvA=/2880x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/V/f/EjnubmRhaW9jJRzXzVEw/g1-festival-negritudes-salvador-19.png"
     },
     {
-      "titulo": "Juiz suspende parte da reforma trabalhista de Milei; jornada de 12h e regras sobre greves são afetadas",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/30/reforma-trabalhista-de-milei.ghtml",
-      "data": "30/03/2026",
+      "titulo": "Diesel: 17 estados aderem a proposta do governo para conter alta de preços",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/31/diesel-estados-proposta-governo.ghtml",
+      "data": "31/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/pizreLrBmMY05nyZIjalZ9plP-I=/3919x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/n/3aZNPFQWK50DpXyvI6TA/2026-02-27t190152z-562421693-rc2jujaiycxp-rtrmadp-3-argentina-politics-labor-reform.jpg"
+      "imagem": ""
     },
     {
-      "titulo": "Guerra no Oriente Médio: alta do petróleo deve elevar inflação e frear economia, diz Galípolo",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/30/banco-central-galipolo-safra-macro-day.ghtml",
-      "data": "30/03/2026",
+      "titulo": "Dona da Gol diz que Petrobras elevará preços do querosene de aviação em 55%",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/31/dona-da-gol-diz-que-petrobras-elevara-precos-do-querosene-de-aviacao-em-55percent.ghtml",
+      "data": "31/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/qQJxuXrVintngTe9sip2xFwxLAs=/1205x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/B/kigmsVSYAZCbZG7vtrtA/whatsapp-image-2026-03-30-at-10.59.20.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/L2L1BZ-NTRJ708s6KvHALoU0Oug=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/e/o/gpy9VUR5C9WRfH5joZ8w/globo-canal-4-20240515-1712-frame-302533.jpeg"
     },
     {
-      "titulo": "Contas do governo têm déficit de R$ 30 bilhões em fevereiro",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/30/contas-do-governo-tem-deficit-de-r-30-bilhoes-em-fevereiro.ghtml",
-      "data": "30/03/2026",
+      "titulo": "Com acordo encaminhado com maior parte dos governadores, ministro diz que proposta sobre diesel será viabilizada",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/31/ministro-diz-que-governo-esta-proximo-de-ter-unanimidade-nos-estados-sobre-acordo-sobre-subsidio-para-icms.ghtml",
+      "data": "31/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/9GIDuJ-rW2QuntsUgwbDSh_izyU=/2500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/q/fPaCmgTEi4xmzB5vKcuw/g20-coletiva-de-imprensa-53560230261-o.jpg"
+      "imagem": "https://s2-g1.glbimg.com/XWfYmvms_RH0Xke1dEdrd5xWzY0=/1280x0/filters:format(jpeg)/https://s02.video.glbimg.com/x720/14481329.jpg"
     },
     {
-      "titulo": "Petróleo se aproxima dos US$ 115 e caminha para maior alta mensal em décadas",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/30/cotacao-petroleo.ghtml",
-      "data": "30/03/2026",
+      "titulo": "Manifestantes se mobilizam na Alemanha em apoio à atriz vítima de 'deepfake'",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/31/manifestantes-se-mobilizam-na-alemanha-em-apoio-a-atriz-vitima-de-deepfake.ghtml",
+      "data": "31/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/JA4_emBEJvEHN77zglxWDaE_06w=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/H/amJCukTUqsBvvpPcI9bA/informe-g1-2026-03-26t150304.741.png"
+      "imagem": "https://s2-g1.glbimg.com/pjbnn983v6aRwUAqVxhATuIgaOo=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/5/saGihKTrqsYQo9i1w59Q/2026-03-26t120134z-2070341757-rc2r9kapitj8-rtrmadp-3-germany-politics-women.jpg"
     },
     {
-      "titulo": "Dólar e Ibovespa avançam com petróleo em alta e tensão no Oriente Médio",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/30/dolar-ibovespa.ghtml",
-      "data": "30/03/2026",
+      "titulo": "Natura redesenha comando, retira fundadores do conselho e negocia entrada de investidor externo",
+      "link": "https://g1.globo.com/economia/negocios/noticia/2026/03/31/natura-redesenha-comando-retira-fundadores-do-conselho-e-negocia-entrada-de-investidor-externo.ghtml",
+      "data": "31/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/tUPsGgoO28BJRkjplvlDrkQiy74=/6016x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/A/W/pNqFkwSSG90RoeSZ80Pg/drf20241217001.jpg"
+      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
     },
     {
-      "titulo": "Com Guerra no Oriente Médio, mercado financeiro eleva novamente sua estimativa de inflação neste ano",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/30/com-guerra-no-oriente-medio-mercado-financeiro-eleva-novamente-sua-estimativa-de-inflacao-neste-ano.ghtml",
-      "data": "30/03/2026",
+      "titulo": "Lula confirma que Geraldo Alckmin será candidato a vice na chapa que disputará reeleição",
+      "link": "https://g1.globo.com/politica/noticia/2026/03/31/lula-confirma-alckmin-como-candidato-a-vice-presidente.ghtml",
+      "data": "31/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/paFt3F6KraHjEpVbEh1hbWaPpyc=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/o/HLBW06Rj6USdvyej9Obg/globo-canal-4-20260325-2000-frame-71476.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/LAYWKt9_Ch6Iis0WAA5xsB148W4=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/g/3MaMfnQsOM17tTp3uVjg/55086544102-a382fe342d-k.jpg"
     },
     {
-      "titulo": "Leite não cita Caiado, diz estar desencantado e que a escolha do PSD mantém a 'radicalização polarizada' no Brasil",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/03/30/leite-caiado-presidencia-psd.ghtml",
-      "data": "30/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/W7kX-BuNw7fPJwAHbQTqC46Ww58=/4000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/U/ZBmBELTs2Z2kaAwwXsPw/tn220260306124.jpg"
-    },
-    {
-      "titulo": "'Exemplo de compromisso com a democracia', diz Ratinho Junior sobre escolha de Caiado como presidenciável pelo PSD",
-      "link": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/03/30/manifestacao-ratinho-psd-escolha-caiado.ghtml",
-      "data": "30/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/x6y2WmWL5AfdPxantFwDqcJe918=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/I/A/3Oq664QluC7apAnAC0gg/emplacamento-digital-foto-rdziura-7091-0.jpg"
-    },
-    {
-      "titulo": "Juiz argentino aceita pedido de sindicatos e freia parte da reforma trabalhista de Milei",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/juiz-argentino-aceita-pedido-de-sindicatos-e-freia-parte-da-reforma-trabalhista-de-milei.shtml",
-      "data": "30/03/2026",
+      "titulo": "Gás de cozinha importado fica 60% mais caro com guerra e pressiona Petrobras",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/gas-de-cozinha-importado-fica-60-mais-caro-com-guerra-e-pressiona-petrobras.shtml",
+      "data": "31/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/30/177489038069caad8c2d903_1774890380_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2019/08/12/15655788175d50d6415ca24_1565578817_3x2_rt.jpg"
     },
     {
-      "titulo": "PRIO subiu demais? Morgan rebaixa ação e cita Petrobras para ganhar com petróleo alto",
-      "link": "https://www.infomoney.com.br/mercados/prio-subiu-demais-morgan-rebaixa-acao-e-cita-petrobras-para-ganhar-com-petroleo-alto/",
-      "data": "30/03/2026",
+      "titulo": "Petrobras e Eneva pedem que Aneel rejeite recurso da J&F contra leilão de capacidade",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/petrobras-e-eneva-pedem-que-aneel-rejeite-recurso-da-jf-contra-leilao-de-capacidade.shtml",
+      "data": "31/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2024/05/16/171588783566465edb6a28c_1715887835_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Medicamentos podem ficar até 3,81% mais caros a partir desta terça-feira (31)",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/medicamentos-podem-ficar-ate-381-mais-caros-a-partir-desta-terca-feira-31.shtml",
+      "data": "31/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/31/177497242969cbee0dee64f_1774972429_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Durigan diz que adesão de estados ao subsídio do diesel está próxima da unanimidade",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/durigan-diz-que-adesao-de-estados-ao-subsidio-do-diesel-esta-proxima-da-unanimidade.shtml",
+      "data": "31/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/11/177324269069b18942c984f_1773242690_3x2_xl.jpg"
+    },
+    {
+      "titulo": "Petrobras retoma perfuração na Foz do Amazonas e prevê conclusão no segundo trimestre",
+      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/ambiente/2026/03/petrobras-retoma-perfuracao-na-foz-do-amazonas-e-preve-conclusao-no-segundo-trimestre.shtml",
+      "data": "31/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/05/21/1747828595682dbf731f083_1747828595_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Funcionários da USP fazem paralisação contra proposta de gratificação a professores",
+      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/educacao/2026/03/funcionarios-da-usp-fazem-paralisacao-contra-proposta-de-gratificacao-a-professores.shtml",
+      "data": "31/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/11/18/1763510439691d08a7830b3_1763510439_3x2_rt.jpg"
+    },
+    {
+      "titulo": "O que a The Economist viu e o que ficou faltando",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/03/o-que-a-the-economist-viu-e-o-que-ficou-faltando.shtml",
+      "data": "31/03/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/26/177455455269c58db87203e_1774554552_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Petrobras elevará preços do querosene de aviação em 55%, diz controladora da Gol",
+      "link": "https://www.infomoney.com.br/mercados/petrobras-elevara-precos-do-querosene-de-aviacao-em-55-diz-controladora-da-gol/",
+      "data": "31/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Frade.jpeg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Foto-de-Iuri-Santos.jpg?quality=70"
     },
     {
-      "titulo": "Ibovespa sobe forte e chega a 184 mil pontos puxado por Vale e Petrobras",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-sobe-forte-e-chega-a-184-mil-pontos-puxado-por-vale-e-petrobras/",
-      "data": "30/03/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/10/Captura-de-tela-2024-10-03-175402.png?quality=70"
-    },
-    {
-      "titulo": "Alckmin diz ter confiança de que os Estados participem de medidas de combustíveis",
-      "link": "https://www.moneytimes.com.br/alckmin-diz-ter-confianca-de-que-os-estados-participem-de-medidas-de-combustiveis/",
-      "data": "30/03/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2022/12/alckmin.jpg"
-    },
-    {
-      "titulo": "Jacaré invade quintal e entra em piscina de plástico no Amazonas",
-      "link": "https://www.metropoles.com/brasil/jacare-invade-quintal-e-entra-em-piscina-de-plastico-no-amazonas",
-      "data": "30/03/2026",
+      "titulo": "Cristiana Oliveira se manifesta após vídeo ser ligado a Ana Paula",
+      "link": "https://www.metropoles.com/colunas/fabia-oliveira/cristiana-oliveira-se-manifesta-apos-video-ser-ligado-a-ana-paula",
+      "data": "31/03/2026",
       "fonte": "Metrópoles",
       "prioridade": 1,
-      "imagem": "https://i.metroimg.com/IrSzyFyNO3hc0004MGCwbnTMgPkO0bXn2_YtLbcMgeg/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/jacare-resgatado.jpg"
+      "imagem": "https://i.metroimg.com/DEskAPWNziQFoM-cKuWnn54rn3qDLacq3fxhud7bWZc/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/cristiana-oliveira-se-manifesta-apos-video-ser-ligado-a-ana-paula.jpg"
     },
     {
-      "titulo": "Celina assinará reajuste de diretores, vice e secretários de escolas",
-      "link": "https://www.metropoles.com/colunas/grande-angular/celina-assinara-reajuste-de-diretores-vice-e-secretarios-de-escolas",
-      "data": "30/03/2026",
+      "titulo": "Astronauta da missão à Lua diz que preparou filhas para possível morte",
+      "link": "https://www.metropoles.com/mundo/astronauta-da-missao-a-lua-diz-que-preparou-filhas-para-possivel-morte",
+      "data": "31/03/2026",
       "fonte": "Metrópoles",
       "prioridade": 1,
-      "imagem": "https://i.metroimg.com/Ca8CiNQ-mzz_ej8pmZy6FtkHUg-zci4HLsgMQR34GCI/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/a-recem-empossada-governadora-do-df-celina-leao-visita-obras-no-itapoa-metropoles-3-scaled.jpg"
+      "imagem": "https://i.metroimg.com/ue3ku3J_24-6VQ3r_j8eRZzHLwKIKDzu33PdiNE1bXI/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/astronauta-que-ira-a-lua-diz-ter-preparado-filhas-para-possivel-morte.jpg"
     },
     {
-      "titulo": "Governo vai discutir \"soluções\" se subvenção do diesel for recusada",
-      "link": "https://www.metropoles.com/brasil/diesel-governo-vai-discutir-solucoes-se-subvencao-for-recusada",
-      "data": "30/03/2026",
+      "titulo": "Moraes manda PGR se manifestar sobre fala de Eduardo Bolsonaro nos EUA",
+      "link": "https://www.metropoles.com/brasil/moraes-manda-pgr-se-manifestar-sobre-fala-de-eduardo-bolsonaro",
+      "data": "31/03/2026",
       "fonte": "Metrópoles",
       "prioridade": 1,
-      "imagem": "https://i.metroimg.com/WU8xYAVnRjvJsPzLGPNKysJxDKdve2xiOm-l1cNc1l0/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/daniel-cardoso-leal.jpg"
+      "imagem": "https://i.metroimg.com/M-kQ1u3He5hQlg4Dh6RGEva_KGQzcLp7WAKsgKfpReU/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/eduardo-bolsonaro-cpac.jpg"
     },
     {
-      "titulo": "Familiares de criança estuprada pelo tio vão responder por omissão",
-      "link": "https://www.metropoles.com/brasil/familiares-de-crianca-estuprada-pelo-tio-vao-responder-por-omissao",
-      "data": "30/03/2026",
+      "titulo": "Eduardo diz não ser responsável por ações de Moraes sobre Bolsonaro",
+      "link": "https://www.metropoles.com/brasil/eduardo-diz-nao-ser-responsavel-por-acoes-de-moraes-sobre-bolsonaro",
+      "data": "31/03/2026",
       "fonte": "Metrópoles",
       "prioridade": 1,
-      "imagem": "https://i.metroimg.com/jb67AeCEEYnwQhF_iljtHNK0jf3eMJDnGUUIVaysLCk/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/tio-e-preso-apos-abuso-sexual-contra-sobrinha.jpg"
+      "imagem": "https://i.metroimg.com/M-kQ1u3He5hQlg4Dh6RGEva_KGQzcLp7WAKsgKfpReU/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/eduardo-bolsonaro-cpac.jpg"
     },
     {
-      "titulo": "Bangladesh Seeks U.S. Waiver for Russian Diesel as IMF Warns of Energy Shock",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Bangladesh-Seeks-US-Waiver-for-Russian-Diesel-as-IMF-Warns-of-Energy-Shock.html",
-      "data": "30/03/2026",
+      "titulo": "Volvo apresenta caminhões FH com melhorias aerodinâmicas",
+      "link": "https://www.transportabrasil.com.br/2026/03/volvo-apresenta-caminhoes-fh-com-melhorias-aerodinamicas/",
+      "data": "31/03/2026",
+      "fonte": "Transporta Brasil",
+      "prioridade": 1,
+      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/volvo-fh-aerodinamica-2026-01.jpg"
+    },
+    {
+      "titulo": "India Boosts Diesel Exports to Southeast Asia to 7-Year High",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Boosts-Diesel-Exports-to-Southeast-Asia-to-7-Year-High.html",
+      "data": "31/03/2026",
       "fonte": "OilPrice",
       "prioridade": 1,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-03-30_befrmihixm.jpg"
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-03-31_pys7iguzl1.jpg"
     },
     {
-      "titulo": "Ecuador Loses $100 Million a Year to Fuel Theft, and It's Getting Worse",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Ecuador-Loses-100-Million-a-Year-to-Fuel-Theft-and-Its-Getting-Worse.html",
-      "data": "30/03/2026",
+      "titulo": "Oil Prices Post Biggest Monthly Surge in History",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Post-Biggest-Monthly-Surge-in-History.html",
+      "data": "31/03/2026",
       "fonte": "OilPrice",
       "prioridade": 1,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-30_ormsfjm61t.jpg"
-    },
-    {
-      "titulo": "Nigeria Pays 65% More for Gasoline as Dangote Battles Crude Import Costs",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Nigeria-Pays-65-More-for-Gasoline-as-Dangote-Battles-Crude-Import-Costs.html",
-      "data": "30/03/2026",
-      "fonte": "OilPrice",
-      "prioridade": 1,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-03-30_ncizen4fvd.jpg"
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-03-31_5zjnqpwfhj.jpg"
     },
     {
       "titulo": "Quem é Rafael Góis, CEO da Fictor e alvo de operação da PF por fraudes bancárias",
@@ -578,188 +594,164 @@
       "fonte": "Transporta Brasil",
       "prioridade": 1,
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/xcient-uruguai00.jpg"
-    },
-    {
-      "titulo": "Petrobras compra fatia da Petronas em Tartaruga Verde e Espadarte por US$ 450 milhões",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/16/petrobras-compra-fatia-da-petronas-em-tartaruga-verde-e-espadarte-por-us-450-milhoes.ghtml",
-      "data": "17/03/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/OtowCRweQWa1NIh79OMXOXjfDZs=/5472x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/wCR8ddTkWlDT6bfcazyg/mg-1446-0.jpg"
-    },
-    {
-      "titulo": "VW vai testar biodiesel puro em seus caminhões na soja e nas rodovias",
-      "link": "https://www.transportabrasil.com.br/2026/03/vw-vai-testar-biodiesel-puro-em-seus-caminhoes-na-soja-e-nas-rodovias/",
-      "data": "17/03/2026",
-      "fonte": "Transporta Brasil",
-      "prioridade": 1,
-      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/vw-amaggi-b100-1.jpg"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "Setor de fertilizantes brasileiro teme impacto da guerra, mas também do PIS/Cofins",
-      "link": "https://www.infomoney.com.br/business/setor-de-fertilizantes-brasileiro-teme-impacto-da-guerra-mas-tambem-do-pis-cofins/",
-      "data": "30/03/2026",
+      "titulo": "Por que petróleo brent de junho caiu enquanto o de maio teve forte alta nesta terça?",
+      "link": "https://www.infomoney.com.br/mercados/por-que-petroleo-brent-de-junho-caiu-enquanto-o-de-maio-teve-forte-alta-nesta-terca/",
+      "data": "31/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/07/FERTILIZANTES-copy.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/07/2025-07-03T195305Z_1_LYNXMPEL6215N_RTROPTP_4_USA-OIL-PERMIAN.jpg?quality=70"
     },
     {
-      "titulo": "Petróleo fecha em alta com tensões no Oriente Médio apesar de relatos de negociações",
-      "link": "https://www.infomoney.com.br/mercados/petroleo-fecha-em-alta-com-tensoes-no-oriente-medio-apesar-de-relatos-de-negociacoes/",
-      "data": "30/03/2026",
+      "titulo": "Ouro encerra mês em queda de 12,5%; no dia, metal sobe com otimismo por acordo no Irã",
+      "link": "https://www.infomoney.com.br/mercados/ouro-encerra-mes-em-queda-de-125-no-dia-metal-sobe-com-otimismo-por-acordo-no-ira/",
+      "data": "31/03/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-16T221448Z_1_LYNXMPEM0F18J_RTROPTP_4_USA-OIL-PRODUCTION.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Imposto-que-incide-sobre-o-ouro.jpg?quality=70"
     },
     {
-      "titulo": "Lula pediu estudos para reduzir custo de crédito rotativo, diz Gleisi",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/lula-pediu-estudos-para-reduzir-custo-de-credito-rotativo-diz-gleisi.shtml",
-      "data": "30/03/2026",
+      "titulo": "Caged: Economistas apontam sinais de ‘ritmo modesto’ na expansão de vagas de trabalho",
+      "link": "https://www.infomoney.com.br/economia/geracao-empregos-fevereiro-2026-caged/",
+      "data": "31/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/03/carteira-de-trabalho-digital_mcamgo_abr_240620211818-7.jpg?quality=70"
+    },
+    {
+      "titulo": "Petróleo brent sobe a US$ 118 e salta 63% em março, maior alta mensal desde 1988",
+      "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-31032026-desempenho-marco/",
+      "data": "31/03/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-11T111734Z_1_LYNXMPEM2A0PZ_RTROPTP_4_IRAN-CRISIS-OIL.jpg?quality=70"
+    },
+    {
+      "titulo": "BC já trabalha com cenário de atraso do BRB na divulgação do balanço e cobrará explicações",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/bc-ja-trabalha-com-cenario-de-atraso-do-brb-na-divulgacao-do-balanco-e-cobrara-explicacoes.shtml",
+      "data": "31/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/23/177430568369c1c19342917_1774305683_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/04/06/174396970367f2dda70d7e6_1743969703_3x2_rt.jpg"
     },
     {
-      "titulo": "Secretário do Tesouro dos EUA diz que reabertura de Hormuz é questão de tempo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/secretario-do-tesouro-dos-eua-diz-que-reabertura-de-hormuz-e-questao-de-tempo.shtml",
-      "data": "30/03/2026",
+      "titulo": "Brasil abre 255,3 mil vagas formais de emprego em fevereiro, indica Caged",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/brasil-abre-2553-mil-vagas-formais-de-emprego-em-fevereiro-indica-caged.shtml",
+      "data": "31/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/30/177488986469caab886984b_1774889864_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/31/177498202769cc138be26a5_1774982027_3x2_rt.jpg"
     },
     {
-      "titulo": "Dono do Mounjaro fecha acordo de US$ 2 bi por medicamento para diabetes de empresa que usa IA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/03/01/6441-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450466",
-      "data": "30/03/2026",
+      "titulo": "Governo vai adotar medidas temporárias para conter alta do gás de cozinha",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/governo-vai-adotar-medidas-temporarias-para-conter-alta-do-gas-de-cozinha.shtml",
+      "data": "31/03/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2021/04/17/1618701673607b6d69c2e25_1618701673_3x2_rt.jpg"
     },
     {
-      "titulo": "Inflação do aluguel dispara 0,52% em março, maior alta em mais de um ano",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/inflacao-do-aluguel-dispara-052-em-marco-maior-alta-em-mais-de-um-ano.shtml",
-      "data": "30/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2023/09/19/16951449046509dbc84d244_1695144904_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Déficit primário do governo central recua 8,4% em fevereiro e vai a R$ 30 bi, diz Tesouro",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/governo-central-registra-deficit-primario-de-r-3005-bi-em-fevereiro-diz-tesouro.shtml",
-      "data": "30/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2020/10/13/16026151985f85f79e7f1a7_1602615198_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Dólar e Bolsa sobem com investidores de olho em Galípolo e exterior",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/acompanhe-a-cotacao-do-dolar-nesta-segunda-feira-30.shtml",
-      "data": "30/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/27/177461529569c67affee713_1774615295_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Master pediu ao TCU para reverter liquidação determinada pelo Banco Central",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/master-pediu-ao-tcu-para-reverter-liquidacao-determinada-pelo-banco-central.shtml",
-      "data": "30/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/12/177331941969b2b4fbaf779_1773319419_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Economistas sobem previsão da inflação pela terceira semana seguida",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/03/economistas-sobem-previsao-da-inflacao-pela-terceira-semana-seguida.shtml",
-      "data": "30/03/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/01/09/17679670906961097292035_1767967090_3x2_xl.jpg"
-    },
-    {
-      "titulo": "Plano de demissão dos Correios tem adesão de 2,3 mil funcionários; número abaixo da meta",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/30/plano-de-demissao-dos-correios-tem-adesao-de-23-mil-funcionarios-numero-abaixo-da-meta.ghtml",
-      "data": "30/03/2026",
+      "titulo": "Argentina: pobreza recua para 8,5 milhões de pessoas e afeta 28,2% da população",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/31/pobreza-argentina.ghtml",
+      "data": "31/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/wrldMX6DkL_YXKJ85LWM2UvdfGE=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/2/42KqCnTjKmhDAUwBgauA/correio-corrigido-vale.01-frame-2002.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/eUuEU4eRF5MuSlGn20l9_lX7l9Q=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/A/ICRB1gT7Ad6pSSrqaCJA/2025-09-08t020858z-715463578-rc2dngaobz2f-rtrmadp-3-argentina-election.jpg"
     },
     {
-      "titulo": "México negocia com empresas para vender petróleo a Cuba",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/30/mexico-negocia-com-empresas-privadas-para-vender-petroleo-a-cuba.ghtml",
-      "data": "30/03/2026",
+      "titulo": "Fertilizantes comprados pelo Brasil 'não terão problemas em ser exportados', diz embaixador do Irã",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/03/31/fertilizantes-comprados-pelo-brasil-nao-terao-problemas-em-ser-exportados-diz-embaixador-do-ira.ghtml",
+      "data": "31/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/l7j314OjAh1KnLGpBWphQLmbtuI=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/L/P/miWnNWSuOUnsep0jtAOw/2016-12-22t060507z-1221063415-rc173f9ea9c0-rtrmadp-3-mexico-usa-oil.jpg"
+      "imagem": "https://s2-g1.glbimg.com/TSeXlHeKxlUFx3rMao-7EhY7I9o=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/t/m/Z8AiNcR2eCu3t3NDDzrw/ureia.jpg"
     },
     {
-      "titulo": "Como as criptomoedas estão movimentando a guerra na Rússia e no Irã?",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/30/como-as-criptomoedas-estao-movimentando-a-guerra-na-russia-e-no-ira.ghtml",
-      "data": "30/03/2026",
+      "titulo": "O que foi a crise do petróleo dos anos 1970 - situação atual pode ser pior?",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/31/o-que-foi-a-crise-do-petroleo-dos-anos-1970-situacao-atual-pode-ser-pior.ghtml",
+      "data": "31/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/K3jJnhL2nH7_0sK0fVqV_aK4tOs=/2200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/d/jkzpyuTNmbBMVRK9PrVg/2025-12-27t094415z-379257662-rc2uoiaebrxz-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg"
+      "imagem": "https://s2-g1.glbimg.com/5YIxw2hbuoMffVIs9bAUutasR44=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/R/bdkLKnRbWBAK5DhAxPYw/befaf650-2c2b-11f1-b8c9-f5058c0aec9a.jpg"
     },
     {
-      "titulo": "Juiz suspende parte da reforma trabalhista de Milei; jornada de 12h e regras sobre greves são afetadas",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/30/reforma-trabalhista-de-milei.ghtml",
-      "data": "30/03/2026",
+      "titulo": "TikTok busca autorização do Banco Central para oferecer empréstimos no Brasil, diz agência",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/31/tiktok-busca-licenca-como-fintech-para-oferecer-emprestimos-no-brasil-diz-agencia.ghtml",
+      "data": "31/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/pizreLrBmMY05nyZIjalZ9plP-I=/3919x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/n/3aZNPFQWK50DpXyvI6TA/2026-02-27t190152z-562421693-rc2jujaiycxp-rtrmadp-3-argentina-politics-labor-reform.jpg"
+      "imagem": "https://s2-g1.glbimg.com/17Fqg9mIhVRLhtT4s9Dey12Gi9E=/2335x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/y/B/vYUV7FQXCixwqSmzocSQ/tiktok-reuters-dadoruvic.jpg"
     },
     {
-      "titulo": "Guerra no Oriente Médio: alta do petróleo deve elevar inflação e frear economia, diz Galípolo",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/30/banco-central-galipolo-safra-macro-day.ghtml",
-      "data": "30/03/2026",
+      "titulo": "Brasil criou 255,3 mil empregos com carteira assinada em fevereiro, diz Caged",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/31/brasil-cria-2553-mil-empregos-com-carteira-assinada-em-fevereiro.ghtml",
+      "data": "31/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/qQJxuXrVintngTe9sip2xFwxLAs=/1205x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/B/kigmsVSYAZCbZG7vtrtA/whatsapp-image-2026-03-30-at-10.59.20.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/P1d7o7wI2gIKE8a96uf93L-rKiQ=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/b/8bGwPCRxe0Ct1qYTAiOw/edicao-imagens-g1-29-.png"
     },
     {
-      "titulo": "Contas do governo têm déficit de R$ 30 bilhões em fevereiro",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/30/contas-do-governo-tem-deficit-de-r-30-bilhoes-em-fevereiro.ghtml",
-      "data": "30/03/2026",
+      "titulo": "Diesel: 17 estados aderem a proposta do governo para conter alta de preços",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/31/diesel-estados-proposta-governo.ghtml",
+      "data": "31/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/9GIDuJ-rW2QuntsUgwbDSh_izyU=/2500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/q/fPaCmgTEi4xmzB5vKcuw/g20-coletiva-de-imprensa-53560230261-o.jpg"
+      "imagem": ""
     },
     {
-      "titulo": "Petróleo se aproxima dos US$ 115 e caminha para maior alta mensal em décadas",
-      "link": "https://g1.globo.com/economia/noticia/2026/03/30/cotacao-petroleo.ghtml",
-      "data": "30/03/2026",
+      "titulo": "Dona da Gol diz que Petrobras elevará preços do querosene de aviação em 55%",
+      "link": "https://g1.globo.com/economia/noticia/2026/03/31/dona-da-gol-diz-que-petrobras-elevara-precos-do-querosene-de-aviacao-em-55percent.ghtml",
+      "data": "31/03/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/JA4_emBEJvEHN77zglxWDaE_06w=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/H/amJCukTUqsBvvpPcI9bA/informe-g1-2026-03-26t150304.741.png"
+      "imagem": "https://s2-g1.glbimg.com/L2L1BZ-NTRJ708s6KvHALoU0Oug=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/e/o/gpy9VUR5C9WRfH5joZ8w/globo-canal-4-20240515-1712-frame-302533.jpeg"
     },
     {
-      "titulo": "Flávio Dino convoca audiência pública sobre taxa de fiscalização da CVM",
-      "link": "https://www.moneytimes.com.br/flavio-dino-convoca-audiencia-publica-sobre-taxa-de-fiscalizacao-da-cvm/",
-      "data": "30/03/2026",
+      "titulo": "Licença-paternidade ampliada: veja o que muda e os próximos passos após sanção de Lula",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/03/31/licenca-paternidade-veja-o-que-muda-e-os-proximos-passos.ghtml",
+      "data": "31/03/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/koITuC3pJ9NEVcS7gUffjTnhldk=/4870x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/B/h/7p1ro2T1GBiFSYswebmA/pexels-josh-willink-69096.jpg"
+    },
+    {
+      "titulo": "TikTok busca aval do Banco Central para atuar como fintech de pagamentos e crédito",
+      "link": "https://www.moneytimes.com.br/tiktok-busca-aval-do-banco-central-para-atuar-como-fintech-de-pagamentos-e-credito-apsa/",
+      "data": "31/03/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2023/10/flavio-dino.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/01/logotipo-do-tiktok-16012025-reutersdado-ruvicfoto-ilustrativa.jpg"
     },
     {
-      "titulo": "Não são só os gringos: Brasil é destaque entre emergentes e investidor local retoma alocação, diz BBA",
-      "link": "https://www.moneytimes.com.br/nao-sao-so-os-gringos-b3-b3sa3-e-destaque-entre-emergentes-e-investidor-local-retoma-alocacao-diz-bba-apsa/",
-      "data": "30/03/2026",
+      "titulo": "Mercado brasileiro abre 255,3 mil postos de trabalho em fevereiro, abaixo das expectativas",
+      "link": "https://www.moneytimes.com.br/mercado-brasileiro-abre-2553-mil-postos-de-trabalho-em-fevereiro-abaixo-das-expectativas-jcav/",
+      "data": "31/03/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/12/day-trade-4-1-1-2-1-1-2-1-1-1-2-1-2-2-2-1.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2023/12/desemprego-trabalho-ibge-brasil-emprego.jpg"
     },
     {
-      "titulo": "Ciclo de corte de juros deve terminar contracionista, avalia Itaú",
-      "link": "https://www.moneytimes.com.br/ciclo-de-corte-de-juros-deve-terminar-contracionista-avalia-itau-jcav/",
-      "data": "30/03/2026",
+      "titulo": "Por que Itaú BBA, Santander e XP revisaram suas projeções para a inflação deste ano",
+      "link": "https://www.moneytimes.com.br/por-que-itau-bba-santander-e-xp-revisaram-suas-projecoes-para-a-inflacao-deste-ano/",
+      "data": "31/03/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2026/03/selic-juros-inflacao-.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/02/inflacao.jpg"
+    },
+    {
+      "titulo": "Pobreza na Argentina recua 3,4% e atinge 28,2% da população no 2º semestre de 2025",
+      "link": "https://exame.com/economia/pobreza-na-argentina-recua-34-e-atinge-282-da-populacao-no-2o-semestre-de-2025/",
+      "data": "2026-03-31",
+      "fonte": "Exame",
+      "prioridade": 1,
+      "imagem": "https://classic.exame.com/wp-content/uploads/2025/10/AFP__20251027__823Z2AA__v1__HighRes__ArgentinaLegislativeElectionVote.jpg"
     }
   ],
-  "noticias_em": "30/03/2026 19:59 UTC",
-  "noticias_em_br": "30/03/2026 16:59",
+  "noticias_em": "31/03/2026 19:58 UTC",
+  "noticias_em_br": "31/03/2026 16:58",
   "indicadores_em": "30/03/2026 19:59 UTC",
   "indicadores_em_br": "30/03/2026 16:59"
 }
