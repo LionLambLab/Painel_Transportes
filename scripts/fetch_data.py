@@ -471,8 +471,18 @@ def _anp_process_xlsx(content):
         col_prec = next((c for c in df.columns if 'MÉDIO' in c or 'MEDIO' in c), None) or                    next((c for c in df.columns if 'PREÇO' in c or 'PRECO' in c), None) or                    next((c for c in df.columns if 'REVENDA' in c), None)
         col_prod = next((c for c in df.columns if 'PRODUTO' in c), None)
         col_reg  = next((c for c in df.columns if 'REGIAO' in c or 'REGIÃO' in c), None)
-        col_min  = next((c for c in df.columns if 'MÍNIMO' in c or 'MINIMO' in c or 'MÍN' in c), None) or                    next((c for c in df.columns if 'MIN' in c and ('PRECO' in c or 'PREÇO' in c or 'REVENDA' in c)), None)
-        col_max  = next((c for c in df.columns if 'MÁXIMO' in c or 'MAXIMO' in c or 'MÁX' in c), None) or                    next((c for c in df.columns if 'MAX' in c and ('PRECO' in c or 'PREÇO' in c or 'REVENDA' in c)), None)
+        # ANP columns: "PREÇO MÍNIMO REVENDA", "PREÇO MÁXIMO REVENDA"
+        # or "PRECO MINIMO REVENDA", "PRECO MAXIMO REVENDA"
+        col_min = None
+        col_max = None
+        for c in df.columns:
+            cu = c.upper()
+            if col_min is None and ('MIN' in cu or 'MÍN' in cu):
+                col_min = c
+            if col_max is None and ('MAX' in cu or 'MÁX' in cu):
+                col_max = c
+        # Also log all columns for debugging
+        print(f'  📊 Todas as colunas: {list(df.columns[:15])}')
 
         print(f'  🔍 ini={col_ini} | prec={col_prec} | min={col_min} | max={col_max} | prod={col_prod} | reg={col_reg}')
         if not col_ini or not col_prec:
