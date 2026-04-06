@@ -471,8 +471,10 @@ def _anp_process_xlsx(content):
         col_prec = next((c for c in df.columns if 'MÉDIO' in c or 'MEDIO' in c), None) or                    next((c for c in df.columns if 'PREÇO' in c or 'PRECO' in c), None) or                    next((c for c in df.columns if 'REVENDA' in c), None)
         col_prod = next((c for c in df.columns if 'PRODUTO' in c), None)
         col_reg  = next((c for c in df.columns if 'REGIAO' in c or 'REGIÃO' in c), None)
+        col_min  = next((c for c in df.columns if 'MÍNIMO' in c or 'MINIMO' in c or 'MÍN' in c), None) or                    next((c for c in df.columns if 'MIN' in c and ('PRECO' in c or 'PREÇO' in c or 'REVENDA' in c)), None)
+        col_max  = next((c for c in df.columns if 'MÁXIMO' in c or 'MAXIMO' in c or 'MÁX' in c), None) or                    next((c for c in df.columns if 'MAX' in c and ('PRECO' in c or 'PREÇO' in c or 'REVENDA' in c)), None)
 
-        print(f'  🔍 ini={col_ini} | prec={col_prec} | prod={col_prod} | reg={col_reg}')
+        print(f'  🔍 ini={col_ini} | prec={col_prec} | min={col_min} | max={col_max} | prod={col_prod} | reg={col_reg}')
         if not col_ini or not col_prec:
             return _anp_process_xlsx_positional(df)
 
@@ -494,19 +496,35 @@ def _anp_process_xlsx(content):
             df_nac = df
 
         def build_semanas(df_fuel, n=20):
-            """Constrói lista de semanas para um combustível filtrado."""
-            grp = df_fuel.groupby(col_ini)[col_prec].mean().reset_index().sort_values(col_ini).tail(n)
+            """Constrói lista de semanas — inclui min/max reais da ANP."""
+            # Agrupa: média, min e max por semana
+            agg = {col_prec: 'mean'}
+            if col_min: agg[col_min] = 'min'
+            if col_max: agg[col_max] = 'max'
+            grp = df_fuel.groupby(col_ini).agg(agg).reset_index().sort_values(col_ini).tail(n)
             semanas = []
             for _, row in grp.iterrows():
                 dt  = row[col_ini]
                 dt2 = dt + pd.Timedelta(days=6)
+                avg = round(float(row[col_prec]), 3)
+                # Usa min/max reais se disponíveis, senão estima
+                if col_min and col_min in row.index and not pd.isna(row[col_min]):
+                    vmin = round(float(row[col_min]), 3)
+                else:
+                    vmin = round(avg - 0.34, 3)
+                if col_max and col_max in row.index and not pd.isna(row[col_max]):
+                    vmax = round(float(row[col_max]), 3)
+                else:
+                    vmax = round(avg + 0.34, 3)
                 semanas.append({
                     'ini':    dt.strftime('%Y-%m-%d'),
                     'fim':    dt2.strftime('%Y-%m-%d'),
                     'ini_br': dt.strftime('%d/%m'),
                     'fim_br': dt2.strftime('%d/%m/%Y'),
                     'label':  dt.strftime('%d/%m/%y'),
-                    'preco':  round(float(row[col_prec]), 3)
+                    'preco':  avg,
+                    'preco_min': vmin,
+                    'preco_max': vmax
                 })
             return semanas
 
