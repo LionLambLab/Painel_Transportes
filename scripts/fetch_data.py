@@ -316,11 +316,73 @@ def fetch_econ_news():
 # ANP — DIESEL S10
 # ─────────────────────────────────────────────
 
-def fetch_anp():
-    print('📥 ANP (xlsx consolidado desde 2013)...')
+def _anp_fetch_latest_weekly():
+    """
+    Tenta obter o xlsx da semana mais recente direto da página de
+    últimas semanas da ANP — publicado no mesmo dia da coleta.
+    URL da página: .../levantamento-de-precos-de-combustiveis-ultimas-semanas-pesquisadas
+    """
+    PAGE_URL = (
+        'https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia'
+        '/precos/levantamento-de-precos-de-combustiveis-ultimas-semanas-pesquisadas'
+    )
+    try:
+        resp = requests.get(PAGE_URL, headers=HEADERS, timeout=30)
+        if not resp.ok:
+            print(f'  ⚠️  Página ANP retornou {resp.status_code}')
+            return None
 
-    # ── Fonte primária: arquivo xlsx semanal consolidado da ANP ───────
-    # Atualizado toda sexta, contém todas as semanas desde 2013
+        # Procura links para xlsx de "Preços médios semanais: Brasil..."
+        import re
+        # Padrão: href com .xlsx contendo "brasil" ou "semana" ou "precos"
+        links = [m.split('href="')[1].rstrip('"').split('"')[0] for m in re.findall('href="[^"]*\.xlsx[^"]*"', resp.text, re.IGNORECASE)]
+        if not links:
+            # Tenta links sem extensão mas com padrão ANP
+            links = [m.split('href="')[1].rstrip('"').split('"')[0] for m in re.findall('href="[^"]*precos-medios[^"]*"', resp.text, re.IGNORECASE)]
+
+        print(f'  📋 Links xlsx encontrados na página: {len(links)}')
+        for lnk in links[:5]:
+            print(f'    {lnk}')
+
+        if not links:
+            return None
+
+        # Pega o primeiro link (mais recente, página lista do mais novo ao mais antigo)
+        url = links[0]
+        if url.startswith('/'):
+            url = 'https://www.gov.br' + url
+        elif not url.startswith('http'):
+            url = 'https://www.gov.br/anp/' + url.lstrip('/')
+
+        print(f'  📥 Baixando xlsx mais recente: {url}')
+        r2 = requests.get(url, headers=HEADERS, timeout=60)
+        if r2.ok and len(r2.content) > 5000:
+            print(f'  ✅ xlsx semanal recente: {len(r2.content)//1024}KB')
+            return r2.content
+        else:
+            print(f'  ⚠️  Download falhou: {r2.status_code}')
+            return None
+
+    except Exception as e:
+        print(f'  ⚠️  _anp_fetch_latest_weekly: {e}')
+        return None
+
+
+def fetch_anp():
+    print('📥 ANP — tentando semana mais recente primeiro...')
+
+    # ── Fonte 1: xlsx da semana atual (página de últimas semanas) ─────
+    # Publicado no mesmo dia da coleta — mais atualizado
+    weekly_content = _anp_fetch_latest_weekly()
+    if weekly_content:
+        result = _anp_process_xlsx(weekly_content)
+        if result and result.get('semanas'):
+            print(f'  ✅ Dados da semana atual carregados')
+            return result
+
+    print('  ↩️  Fallback: xlsx consolidado desde 2013')
+
+    # ── Fonte 2: xlsx consolidado (semanal-brasil-desde-2013.xlsx) ────
     XLSX_URL = (
         'https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia'
         '/precos/precos-revenda-e-de-distribuicao-combustiveis/shlp/semanal'
@@ -330,12 +392,12 @@ def fetch_anp():
     try:
         r = requests.get(XLSX_URL, headers=HEADERS, timeout=60)
         if r.ok and len(r.content) > 10000:
-            print(f'  ✅ xlsx baixado: {len(r.content)//1024}KB')
+            print(f'  ✅ xlsx consolidado: {len(r.content)//1024}KB')
             return _anp_process_xlsx(r.content)
         else:
-            print(f'  ⚠️  xlsx status: {r.status_code}')
+            print(f'  ⚠️  xlsx consolidado status: {r.status_code}')
     except Exception as e:
-        print(f'  ⚠️  xlsx: {e}')
+        print(f'  ⚠️  xlsx consolidado: {e}')
 
     # ── Fallback: CSVs anuais ──────────────────────────────────────────
     csv_urls = [
@@ -487,13 +549,17 @@ def _anp_process_xlsx(content):
         if not regioes_reais:
             regioes_reais = _anp_regioes_xlsx(content, ult['preco'])
 
+        # Busca preços por UF reais
+        estados_reais = fetch_anp_estados()
+
         return {
-            'semana_referencia': f'{ult["ini_br"]} a {ult["fim_br"]}',
-            'preco_atual':       ult['preco'],
-            'semanas':           s10,
+            'semana_referencia':     f'{ult["ini_br"]} a {ult["fim_br"]}',
+            'preco_atual':           ult['preco'],
+            'semanas':               s10,
             'semanas_por_combustivel': fuels_result,
-            'regioes':           regioes_reais,
-            'atualizado':        datetime.utcnow().strftime('%d/%m/%Y %H:%M UTC')
+            'regioes':               regioes_reais,
+            'estados':               estados_reais,
+            'atualizado':            datetime.utcnow().strftime('%d/%m/%Y %H:%M UTC')
         }
 
     except Exception as e:
@@ -549,15 +615,23 @@ def _anp_process_xlsx_positional(df):
 
 def fetch_anp_regioes():
     """Baixa e processa o xlsx regional da ANP."""
+    # Tenta o xlsx mais recente da semana via scraping da página
     XLSX_REGIOES = (
         'https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia'
         '/precos/precos-revenda-e-de-distribuicao-combustiveis/shlp/semanal'
         '/semanal-regioes-desde-2013.xlsx'
     )
+    # Primeira tentativa: scraping de última semana
+    weekly = _anp_fetch_latest_weekly()
+    if weekly:
+        result = _anp_regioes_process(weekly)
+        if result:
+            return result
+    # Fallback: consolidado
     try:
         r = requests.get(XLSX_REGIOES, headers=HEADERS, timeout=60)
         if r.ok and len(r.content) > 5000:
-            print(f'  ✅ xlsx regiões: {len(r.content)//1024}KB')
+            print(f'  ✅ xlsx regiões consolidado: {len(r.content)//1024}KB')
             return _anp_regioes_process(r.content)
         else:
             print(f'  ⚠️  xlsx regiões status: {r.status_code}')
@@ -688,6 +762,149 @@ def _anp_regioes_xlsx(content, preco_nacional):
              'revenda_outubro':   round(6.165 + d, 3),
              'distribuicao_media':round((preco_nacional + d*(preco_nacional/s10ref))*0.921, 3)}
             for n,d in diffs.items()]
+
+
+
+def fetch_anp_estados():
+    """Baixa e processa o xlsx por UF da ANP (estados desde 2013)."""
+    XLSX_ESTADOS = (
+        'https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia'
+        '/precos/precos-revenda-e-de-distribuicao-combustiveis/shlp/semanal'
+        '/semanal-estados-desde-2013.xlsx'
+    )
+    # Tenta scraping da semana mais recente primeiro
+    weekly = _anp_fetch_latest_weekly()
+    if weekly:
+        result = _anp_estados_process(weekly)
+        if result:
+            return result
+    # Fallback: consolidado
+    try:
+        r = requests.get(XLSX_ESTADOS, headers=HEADERS, timeout=60)
+        if r.ok and len(r.content) > 5000:
+            print(f'  ✅ xlsx estados consolidado: {len(r.content)//1024}KB')
+            return _anp_estados_process(r.content)
+        else:
+            print(f'  ⚠️  xlsx estados status: {r.status_code}')
+    except Exception as e:
+        print(f'  ⚠️  xlsx estados: {e}')
+    return {}
+
+
+def _anp_estados_process(content):
+    """Processa xlsx de estados — retorna dict {UF: {preco, preco_outubro, distribucao}}."""
+    try:
+        import io as _io
+
+        # Mapeamento UF → sigla (o xlsx pode usar nome completo)
+        UF_SIGLA = {
+            'ACRE':'AC','ALAGOAS':'AL','AMAPÁ':'AP','AMAZONAS':'AM','BAHIA':'BA',
+            'CEARÁ':'CE','DISTRITO FEDERAL':'DF','ESPÍRITO SANTO':'ES','GOIÁS':'GO',
+            'MARANHÃO':'MA','MATO GROSSO':'MT','MATO GROSSO DO SUL':'MS',
+            'MINAS GERAIS':'MG','PARÁ':'PA','PARAÍBA':'PB','PARANÁ':'PR',
+            'PERNAMBUCO':'PE','PIAUÍ':'PI','RIO DE JANEIRO':'RJ',
+            'RIO GRANDE DO NORTE':'RN','RIO GRANDE DO SUL':'RS','RONDÔNIA':'RO',
+            'RORAIMA':'RR','SANTA CATARINA':'SC','SÃO PAULO':'SP',
+            'SERGIPE':'SE','TOCANTINS':'TO',
+            # Também aceita direto a sigla
+            'AC':'AC','AL':'AL','AP':'AP','AM':'AM','BA':'BA','CE':'CE',
+            'DF':'DF','ES':'ES','GO':'GO','MA':'MA','MT':'MT','MS':'MS',
+            'MG':'MG','PA':'PA','PB':'PB','PR':'PR','PE':'PE','PI':'PI',
+            'RJ':'RJ','RN':'RN','RS':'RS','RO':'RO','RR':'RR','SC':'SC',
+            'SP':'SP','SE':'SE','TO':'TO',
+        }
+
+        xf = pd.ExcelFile(_io.BytesIO(content))
+        print(f'  📋 Abas estados: {xf.sheet_names[:8]}')
+
+        # Procura aba Diesel S10
+        target = None
+        for sh in xf.sheet_names:
+            su = sh.upper()
+            if any(k in su for k in ['DIESEL','S10','REVENDA','SEMANAL']):
+                target = sh; break
+        if target is None:
+            target = xf.sheet_names[0]
+        print(f'  📄 Aba estados: {target}')
+
+        df_raw = pd.read_excel(_io.BytesIO(content), sheet_name=target, header=None)
+
+        # Detecta cabeçalho
+        header_row = 0
+        for i, row in df_raw.iterrows():
+            vals = [str(v).upper() for v in row.values if pd.notna(v)]
+            if sum(1 for v in vals if any(k in v for k in ['DATA','PREÇO','PRECO','ESTADO','UF','SIGLA'])) >= 2:
+                header_row = i; break
+
+        df_raw.columns = [str(c).strip().upper() if pd.notna(c) else f'_C{i}'
+                          for i, c in enumerate(df_raw.iloc[header_row])]
+        df = df_raw.iloc[header_row+1:].reset_index(drop=True)
+        print(f'  🔑 Colunas estados: {list(df.columns[:12])}')
+
+        # Detecta colunas
+        col_ini  = next((c for c in df.columns if 'INIC' in c and 'DATA' in c), None) or                    next((c for c in df.columns if 'DATA' in c), None)
+        col_prec = next((c for c in df.columns if 'MÉDIO' in c or 'MEDIO' in c), None) or                    next((c for c in df.columns if 'PREÇO' in c or 'PRECO' in c), None)
+        col_uf   = next((c for c in df.columns if c in ['UF','SIGLA','ESTADO','ESTADOS']), None) or                    next((c for c in df.columns if 'UF' in c or 'ESTADO' in c), None)
+        col_prod = next((c for c in df.columns if 'PRODUTO' in c), None)
+
+        print(f'  🔍 ini={col_ini} | prec={col_prec} | uf={col_uf} | prod={col_prod}')
+        if not col_ini or not col_prec or not col_uf:
+            print('  ⚠️  colunas insuficientes para estados')
+            return {}
+
+        df[col_prec] = pd.to_numeric(df[col_prec], errors='coerce')
+        df[col_ini]  = pd.to_datetime(df[col_ini], dayfirst=True, errors='coerce')
+        df = df.dropna(subset=[col_prec, col_ini])
+        df = df[df[col_prec] > 3]
+
+        # Filtra Diesel S10
+        if col_prod:
+            mask_s10 = df[col_prod].astype(str).str.upper().str.contains('S10|S-10', na=False)
+            df_s10 = df[mask_s10] if not df[mask_s10].empty else df
+        else:
+            df_s10 = df
+
+        # Exclui semana corrente
+        today      = pd.Timestamp.utcnow().normalize()
+        week_start = today - pd.Timedelta(days=today.dayofweek)
+        df_s10 = df_s10[df_s10[col_ini] < week_start]
+
+        # Última semana
+        ultima_data = df_s10[col_ini].max()
+        df_ult = df_s10[df_s10[col_ini] == ultima_data]
+        print(f'  📅 Última semana estados: {ultima_data.strftime("%d/%m/%Y")} | {len(df_ult)} UFs')
+
+        # Out/25 reference
+        df_oct = df_s10[
+            (df_s10[col_ini] >= pd.Timestamp('2025-10-01')) &
+            (df_s10[col_ini] <= pd.Timestamp('2025-10-12'))
+        ]
+
+        result = {}
+        for _, row in df_ult.iterrows():
+            uf_raw = str(row[col_uf]).strip().upper()
+            sigla  = UF_SIGLA.get(uf_raw, uf_raw[:2] if len(uf_raw) >= 2 else '')
+            if not sigla or len(sigla) != 2:
+                continue
+            preco = round(float(row[col_prec]), 3)
+
+            # Out/25 ref for this UF
+            df_oct_uf = df_oct[df_oct[col_uf].astype(str).str.upper().str.contains(uf_raw[:4], na=False)]
+            preco_out = round(float(df_oct_uf[col_prec].mean()), 3) if not df_oct_uf.empty else round(preco * 0.878, 3)
+
+            result[sigla] = {
+                'preco':       preco,
+                'preco_out':   preco_out,
+                'variacao_pct': round((preco - preco_out) / preco_out * 100, 2) if preco_out > 0 else 0,
+            }
+
+        print(f'  ✅ {len(result)} UFs extraídas')
+        return result
+
+    except Exception as e:
+        print(f'  ⚠️  estados process: {e}')
+        import traceback; traceback.print_exc()
+        return {}
 
 
 def _anp_fallback():
