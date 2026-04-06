@@ -1,6 +1,6 @@
 {
-  "gerado_em": "06/04/2026 20:09 UTC",
-  "gerado_em_br": "06/04/2026 17:09",
+  "gerado_em": "06/04/2026 20:15 UTC",
+  "gerado_em_br": "06/04/2026 17:15",
   "anp": {
     "semana_referencia": "29/03/2026 a 04/04/2026",
     "preco_atual": 7.58,
@@ -545,7 +545,7 @@
       "data": "06/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/23/177429911569c1a7eb0727b_1774299115_3x2_rt.jpg"
+      "imagem": ""
     },
     {
       "titulo": "Guilherme Mello assumirá secretaria-executiva do Planejamento e ficará fora do BC",
@@ -580,20 +580,20 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2023/01/08/167321897863bb4ba217d12_1673218978_3x2_rt.jpg"
     },
     {
+      "titulo": "Silveira: empresários serão punidos no CPF por infração no setor de combustíveis",
+      "link": "https://www.infomoney.com.br/politica/silveira-empresarios-serao-punidos-no-cpf-por-infracao-no-setor-de-combustiveis/",
+      "data": "06/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/10/1000004898.webp?quality=70"
+    },
+    {
       "titulo": "Novo aponta ‘inércia’ da AGU e do MJ em investigação contra ‘Careca do INSS’",
       "link": "https://www.infomoney.com.br/politica/novo-aponta-inercia-da-agu-e-do-mj-em-investigacao-contra-careca-do-inss/",
       "data": "06/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/09/careca-inss.jpeg?quality=70"
-    },
-    {
-      "titulo": "Entre metas, mitos e carros elétricos: Por que você ainda não abastece com etanol?",
-      "link": "https://www.moneytimes.com.br/entre-metas-mitos-e-carros-eletricos-por-que-voce-ainda-nao-abastece-com-etanol-pads/",
-      "data": "06/04/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2026/04/etanol-milho-cana-de-acucar-1.jpg"
     }
   ],
   "econ_noticias": [
@@ -644,14 +644,6 @@
       "fonte": "InfoMoney",
       "prioridade": 1,
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/ozempic-mounjaro-canetas-emagrecedoras.jpg?quality=70"
-    },
-    {
-      "titulo": "Sociedade brasileira não tolera inflação e isso é positivo para o BC, diz Galípolo",
-      "link": "https://www.infomoney.com.br/economia/sociedade-brasileira-nao-tolera-inflacao-e-isso-e-positivo-para-o-bc-diz-galipolo/",
-      "data": "06/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-11T125358Z_1_LYNXMPEM1A0RU_RTROPTP_3_BRAZIL-ECONOMY.jpg?quality=70"
     },
     {
       "titulo": "Preço dos combustíveis para de subir nos postos brasileiros, diz ANP",
@@ -750,6 +742,22 @@
       "imagem": "https://s2-g1.glbimg.com/34LEaemLYtSmc5bGynyEYPinkGM=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/y/v4eXoARxiA847sml1jZw/r.33-3448.jpg"
     },
     {
+      "titulo": "INSS devolve R$ 3 bilhões a aposentados; prazo para pedir reembolso é ampliado",
+      "link": "https://www.moneytimes.com.br/inss-devolve-r-3-bilhoes-a-aposentados-prazo-para-pedir-reembolso-e-ampliado-gaep/",
+      "data": "06/04/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/01/prova-de-vida-automatica-do-inss-divulgacao.jpg"
+    },
+    {
+      "titulo": "Dólar recua e fecha a R$ 5,14 mesmo com ameaças renovadas de Trump ao Irã",
+      "link": "https://www.moneytimes.com.br/dolar-6-4-26-apsa/",
+      "data": "06/04/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/02/dolar.jpg"
+    },
+    {
       "titulo": "Petróleo fecha em leve alta com redução das expectativas de cessar-fogo no Oriente Médio após novas ameaças de Trump",
       "link": "https://www.moneytimes.com.br/petroleo-6-4-26-lils/",
       "data": "06/04/2026",
@@ -766,8 +774,8 @@
       "imagem": "https://www.moneytimes.com.br/uploads/2024/10/sabatina-presidente-banco-central-gabriel-galipolo.jpg"
     }
   ],
-  "noticias_em": "06/04/2026 20:09 UTC",
-  "noticias_em_br": "06/04/2026 17:09",
-  "indicadores_em": "06/04/2026 20:09 UTC",
-  "indicadores_em_br": "06/04/2026 17:09"
+  "noticias_em": "06/04/2026 20:15 UTC",
+  "noticias_em_br": "06/04/2026 17:15",
+  "indicadores_em": "06/04/2026 20:15 UTC",
+  "indicadores_em_br": "06/04/2026 17:15"
 }
