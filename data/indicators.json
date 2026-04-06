@@ -1,6 +1,6 @@
 {
-  "gerado_em": "06/04/2026 20:15 UTC",
-  "gerado_em_br": "06/04/2026 17:15",
+  "gerado_em": "06/04/2026 20:32 UTC",
+  "gerado_em_br": "06/04/2026 17:32",
   "anp": {
     "semana_referencia": "29/03/2026 a 04/04/2026",
     "preco_atual": 7.58,
@@ -541,11 +541,11 @@
     },
     {
       "titulo": "Guerra no Irã pressiona insumos e construção civil pede reajuste mensal de contratos ao governo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/guerra-no-ira-pressiona-insumos-e-construcao-civil-pede-reajuste-mensal-de-contratos-ao-governo.shtml",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/04/guerra-no-ira-pressiona-insumos-e-construcao-civil-pede-reajuste-mensal-de-contratos-ao-governo.shtml",
       "data": "06/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": ""
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/23/177429911569c1a7eb0727b_1774299115_3x2_rt.jpg"
     },
     {
       "titulo": "Guilherme Mello assumirá secretaria-executiva do Planejamento e ficará fora do BC",
@@ -580,23 +580,31 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2023/01/08/167321897863bb4ba217d12_1673218978_3x2_rt.jpg"
     },
     {
+      "titulo": "Ibovespa fecha em leve alta, com exterior e Petrobras; Vale recua",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06042026/",
+      "data": "06/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Ibovespa-ao-vivo-12.png?quality=70"
+    },
+    {
       "titulo": "Silveira: empresários serão punidos no CPF por infração no setor de combustíveis",
       "link": "https://www.infomoney.com.br/politica/silveira-empresarios-serao-punidos-no-cpf-por-infracao-no-setor-de-combustiveis/",
       "data": "06/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/10/1000004898.webp?quality=70"
-    },
-    {
-      "titulo": "Novo aponta ‘inércia’ da AGU e do MJ em investigação contra ‘Careca do INSS’",
-      "link": "https://www.infomoney.com.br/politica/novo-aponta-inercia-da-agu-e-do-mj-em-investigacao-contra-careca-do-inss/",
-      "data": "06/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/09/careca-inss.jpeg?quality=70"
     }
   ],
   "econ_noticias": [
+    {
+      "titulo": "Ibovespa fecha estável e dólar cai para menor nível desde fevereiro",
+      "link": "https://exame.com/invest/mercados/ibovespa-fecha-estavel-e-dolar-cai-para-menor-nivel-desde-fevereiro/",
+      "data": "2026-04-06",
+      "fonte": "Exame",
+      "prioridade": 1,
+      "imagem": "https://classic.exame.com/wp-content/uploads/2020/12/DSC8075baixa.jpg"
+    },
     {
       "titulo": "Governo Lula anuncia nova subvenção para baratear preço do diesel",
       "link": "https://exame.com/economia/governo-lula-anuncia-nova-subvencao-para-baratear-preco-do-diesel/",
@@ -620,6 +628,22 @@
       "fonte": "Exame",
       "prioridade": 1,
       "imagem": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_20151019-14270-17p14a5.jpg"
+    },
+    {
+      "titulo": "Dólar hoje vai a R$ 5,14, menor valor ante real desde antes da guerra",
+      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-06042026/",
+      "data": "06/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/blogging-guide-K5DY18hy5JQ-unsplash_red.jpg?quality=70"
+    },
+    {
+      "titulo": "Taxas curtas sobem em dia de ajustes e longas caem com guerra no Irã no foco",
+      "link": "https://www.infomoney.com.br/mercados/taxas-curtas-sobem-em-dia-de-ajustes-e-longas-caem-com-guerra-no-ira-no-foco/",
+      "data": "06/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-28T173512Z_1_LYNXMPEL7R0VU_RTROPTP_4_BRAZIL.jpg?quality=70"
     },
     {
       "titulo": "Mais de 7 milhões já entregaram a declaração do IRPF 2026",
@@ -742,6 +766,14 @@
       "imagem": "https://s2-g1.glbimg.com/34LEaemLYtSmc5bGynyEYPinkGM=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/y/v4eXoARxiA847sml1jZw/r.33-3448.jpg"
     },
     {
+      "titulo": "Ibovespa fecha estável após ameaças de Trump ao Irã; dólar recua a R$ 5,14",
+      "link": "https://www.moneytimes.com.br/ibovespa-6-4-26-apsa/",
+      "data": "06/04/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/12/day-trade-4-1-1-2-1-1-2-1-1-1-2-1-2-2-2.jpg"
+    },
+    {
       "titulo": "INSS devolve R$ 3 bilhões a aposentados; prazo para pedir reembolso é ampliado",
       "link": "https://www.moneytimes.com.br/inss-devolve-r-3-bilhoes-a-aposentados-prazo-para-pedir-reembolso-e-ampliado-gaep/",
       "data": "06/04/2026",
@@ -764,18 +796,10 @@
       "fonte": "Money Times",
       "prioridade": 1,
       "imagem": "https://www.moneytimes.com.br/uploads/2024/10/petroleo.jpg"
-    },
-    {
-      "titulo": "“Sociedade não tolera mais inflação alta”, diz Galípolo; custo de vida desafia BC e expõe limites da política monetária",
-      "link": "https://www.moneytimes.com.br/sociedade-nao-tolera-mais-inflacao-alta-diz-galipolo-custo-de-vida-desafia-bc-e-expoe-limites-da-politica-monetaria-jcav/",
-      "data": "06/04/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2024/10/sabatina-presidente-banco-central-gabriel-galipolo.jpg"
     }
   ],
-  "noticias_em": "06/04/2026 20:15 UTC",
-  "noticias_em_br": "06/04/2026 17:15",
-  "indicadores_em": "06/04/2026 20:15 UTC",
-  "indicadores_em_br": "06/04/2026 17:15"
+  "noticias_em": "06/04/2026 20:32 UTC",
+  "noticias_em_br": "06/04/2026 17:32",
+  "indicadores_em": "06/04/2026 20:32 UTC",
+  "indicadores_em_br": "06/04/2026 17:32"
 }
