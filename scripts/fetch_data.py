@@ -318,54 +318,46 @@ def fetch_econ_news():
 
 def _anp_fetch_latest_weekly():
     """
-    Tenta obter o xlsx da semana mais recente direto da página de
-    últimas semanas da ANP — publicado no mesmo dia da coleta.
-    URL da página: .../levantamento-de-precos-de-combustiveis-ultimas-semanas-pesquisadas
+    Constrói a URL do xlsx semanal da ANP baseada nas datas.
+    Padrão confirmado: /arquivos-lpc/{ano}/resumo_semanal_lpc_{YYYY-MM-DD}_{YYYY-MM-DD}.xlsx
+    Semana ANP: domingo a sábado. Publicado na semana seguinte.
+    Tenta as últimas 3 semanas para garantir disponibilidade.
     """
-    PAGE_URL = (
+    from datetime import datetime, timedelta
+
+    today    = datetime.utcnow()
+    weekday  = today.weekday()                    # Mon=0 ... Sun=6
+    # Último domingo (início de semana ANP)
+    days_since_sun = (weekday + 1) % 7
+    last_sun = today - timedelta(days=days_since_sun)
+
+    BASE = (
         'https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia'
-        '/precos/levantamento-de-precos-de-combustiveis-ultimas-semanas-pesquisadas'
+        '/precos/arquivos-lpc/{year}/resumo_semanal_lpc_{start}_{end}.xlsx'
     )
-    try:
-        resp = requests.get(PAGE_URL, headers=HEADERS, timeout=30)
-        if not resp.ok:
-            print(f'  ⚠️  Página ANP retornou {resp.status_code}')
-            return None
 
-        # Procura links para xlsx de "Preços médios semanais: Brasil..."
-        import re
-        # Padrão: href com .xlsx contendo "brasil" ou "semana" ou "precos"
-        links = [m.split('href="')[1].rstrip('"').split('"')[0] for m in re.findall('href="[^"]*\.xlsx[^"]*"', resp.text, re.IGNORECASE)]
-        if not links:
-            # Tenta links sem extensão mas com padrão ANP
-            links = [m.split('href="')[1].rstrip('"').split('"')[0] for m in re.findall('href="[^"]*precos-medios[^"]*"', resp.text, re.IGNORECASE)]
+    # Tenta as últimas 3 semanas publicadas (mais recente primeiro)
+    for weeks_back in range(1, 4):
+        sun = last_sun - timedelta(weeks=weeks_back)
+        sat = sun + timedelta(days=6)
+        url = BASE.format(
+            year  = sun.year,
+            start = sun.strftime('%Y-%m-%d'),
+            end   = sat.strftime('%Y-%m-%d'),
+        )
+        print(f'  📅 Tentando semana {sun.strftime("%d/%m")} a {sat.strftime("%d/%m/%Y")}: {url[-60:]}')
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=60)
+            if r.ok and len(r.content) > 5000 and r.content[:2] == b'PK':
+                print(f'  ✅ xlsx semanal baixado: {len(r.content)//1024}KB')
+                return r.content
+            else:
+                print(f'  ↩️  {r.status_code} — tentando semana anterior')
+        except Exception as e:
+            print(f'  ⚠️  {e}')
 
-        print(f'  📋 Links xlsx encontrados na página: {len(links)}')
-        for lnk in links[:5]:
-            print(f'    {lnk}')
-
-        if not links:
-            return None
-
-        # Pega o primeiro link (mais recente, página lista do mais novo ao mais antigo)
-        url = links[0]
-        if url.startswith('/'):
-            url = 'https://www.gov.br' + url
-        elif not url.startswith('http'):
-            url = 'https://www.gov.br/anp/' + url.lstrip('/')
-
-        print(f'  📥 Baixando xlsx mais recente: {url}')
-        r2 = requests.get(url, headers=HEADERS, timeout=60)
-        if r2.ok and len(r2.content) > 5000:
-            print(f'  ✅ xlsx semanal recente: {len(r2.content)//1024}KB')
-            return r2.content
-        else:
-            print(f'  ⚠️  Download falhou: {r2.status_code}')
-            return None
-
-    except Exception as e:
-        print(f'  ⚠️  _anp_fetch_latest_weekly: {e}')
-        return None
+    print('  ℹ️  Nenhuma semana recente disponível via URL direta')
+    return None
 
 
 def fetch_anp():
@@ -908,7 +900,7 @@ def _anp_estados_process(content):
 
 
 def _anp_fallback():
-    return {'semana_referencia':'23/03/2026 a 29/03/2026','preco_atual':7.570,
+    return {'semana_referencia':'30/03/2026 a 05/04/2026','preco_atual':7.580,
             'semanas':[
                 {'ini':'2026-01-05','fim':'2026-01-11','ini_br':'05/01','fim_br':'11/01/2026','label':'Jan/26','preco':6.080},
                 {'ini':'2026-01-12','fim':'2026-01-18','ini_br':'12/01','fim_br':'18/01/2026','label':'Jan/26','preco':6.082},
