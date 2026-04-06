@@ -1,6 +1,6 @@
 {
-  "gerado_em": "06/04/2026 20:32 UTC",
-  "gerado_em_br": "06/04/2026 17:32",
+  "gerado_em": "06/04/2026 20:47 UTC",
+  "gerado_em_br": "06/04/2026 17:47",
   "anp": {
     "semana_referencia": "29/03/2026 a 04/04/2026",
     "preco_atual": 7.58,
@@ -428,6 +428,22 @@
       "imagem": "https://classic.exame.com/wp-content/uploads/2022/03/GettyImages-1220801204.jpg"
     },
     {
+      "titulo": "Governo zera imposto sobre querosene de aviação para tentar conter alta das passagens aéreas",
+      "link": "https://g1.globo.com/politica/politico/ao-vivo/coletiva-governo-medidas-combustiveis.ghtml",
+      "data": "06/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/VTyOT1WsbgKYNo65-GMwgBKdoLA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/k/xzLny9QEunFjNDwk5ifg/informe-g1-2026-03-26t145731.329.png"
+    },
+    {
+      "titulo": "Governo anuncia subvenção à importação de gás liquefeito para reduzir impacto da guerra sobre o preço do botijão",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/06/governo-anuncia-subvencao-a-importacao-de-gas-liquefeito-para-reduzir-impacto-sobre-o-preco-do-botijao.ghtml",
+      "data": "06/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/OQ7EDWVb9TnZ5ICZnsULgJrDXqE=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Y/y/pKFAwdQXG1uMJA10FyIg/globo-canal-5-20250904-1800-frame-232855.jpeg"
+    },
+    {
       "titulo": "Governo zera PIS e Cofins sobre o combustível de aviação para conter alta do preço das passagens aéreas",
       "link": "https://g1.globo.com/economia/noticia/2026/04/06/governo-lanca-medidas-para-conter-aumento-do-querosene-de-aviacao-alta-deve-elevar-preco-de-passagens-aereas.ghtml",
       "data": "06/04/2026",
@@ -484,14 +500,6 @@
       "imagem": "https://s2-g1.glbimg.com/o6YV043bg81OM71h4mYbNvdOC28=/4608x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/U/i/NqrtyVSkGWwLDrtEfzpg/close-up-view-economy-money-concept.jpg"
     },
     {
-      "titulo": "Em meio a guerra, analistas do mercado sobem estimativa de inflação pela 4ª semana seguida",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/06/com-guerra-no-oriente-medio-analistas-do-mercado-sobem-estimativa-de-inflacao-pela-4a-semana-seguida.ghtml",
-      "data": "06/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/6at0OrRje0oRdMAS2BrKVYIE_GE=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/o/nGVtEzSYAdAWJ3uo5t4g/globo-canal-4-20260325-2000-frame-65212.jpeg"
-    },
-    {
       "titulo": "Quem são os pré-candidatos à Presidência da República em 2026",
       "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidente-2026.ghtml",
       "data": "06/04/2026",
@@ -524,12 +532,12 @@
       "imagem": "https://s2-g1.glbimg.com/FAdEaIBLLs6RCwOA5HsOSrRupl4=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/87/77/14497787"
     },
     {
-      "titulo": "Governo amplia subsídio ao diesel e gás de cozinha e zera tributos sobre querosene de aviação",
+      "titulo": "Governo amplia subsídio ao diesel e gás de cozinha e zera taxa de querosene de aviação para conter alta nas passagens",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/governo-amplia-subsidio-ao-diesel-e-gas-de-cozinha-e-zera-tributos-sobre-querosene-de-aviacao.shtml",
       "data": "06/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/11/177324269069b18942c984f_1773242690_3x2_xl.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/06/177550774769d419230c80f_1775507747_3x2_rt.jpg"
     },
     {
       "titulo": "Preço dos combustíveis para de subir nos postos brasileiros, diz ANP",
@@ -564,14 +572,6 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2024/03/30/17118347816608869d152c3_1711834781_3x2_rt.jpg"
     },
     {
-      "titulo": "Estudante esfaqueada 15 vezes convoca manifestação por justiça no Rio",
-      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/estudante-esfaqueada-15-vezes-convoca-manifestacao-por-justica-no-rio.shtml",
-      "data": "06/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/02/09/17706427346989dd2eae428_1770642734_3x2_lg.jpg"
-    },
-    {
       "titulo": "STF condena a 14 anos de prisão empresário que doou R$ 500 para levar manifestante ao 8/1",
       "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/stf-condena-a-14-anos-de-prisao-empresario-que-doou-r-500-para-levar-manifestante-ao-8-de-janeiro.shtml",
       "data": "06/04/2026",
@@ -580,20 +580,20 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2023/01/08/167321897863bb4ba217d12_1673218978_3x2_rt.jpg"
     },
     {
+      "titulo": "Ministro da Fazenda anuncia novas subvenções sobre diesel e GLP e apoio a aéreas",
+      "link": "https://www.infomoney.com.br/politica/ministro-da-fazenda-anuncia-novas-subvencoes-sobre-diesel-e-glp-e-apoio-a-aereas/",
+      "data": "06/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/04/coletiva-reforma-tributaria_mcamgo_abr_25042024-4.webp?quality=70"
+    },
+    {
       "titulo": "Ibovespa fecha em leve alta, com exterior e Petrobras; Vale recua",
       "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06042026/",
       "data": "06/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Ibovespa-ao-vivo-12.png?quality=70"
-    },
-    {
-      "titulo": "Silveira: empresários serão punidos no CPF por infração no setor de combustíveis",
-      "link": "https://www.infomoney.com.br/politica/silveira-empresarios-serao-punidos-no-cpf-por-infracao-no-setor-de-combustiveis/",
-      "data": "06/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/10/1000004898.webp?quality=70"
     }
   ],
   "econ_noticias": [
@@ -662,14 +662,6 @@
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/01/447247335.jpg?quality=70"
     },
     {
-      "titulo": "Anvisa endurece fiscalização sobre canetas emagrecedoras e mira irregularidades",
-      "link": "https://www.infomoney.com.br/saude/anvisa-endurece-fiscalizacao-sobre-canetas-emagrecedoras-e-mira-irregularidades/",
-      "data": "06/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/ozempic-mounjaro-canetas-emagrecedoras.jpg?quality=70"
-    },
-    {
       "titulo": "Preço dos combustíveis para de subir nos postos brasileiros, diz ANP",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/preco-dos-combustiveis-para-de-subir-nos-postos-brasileiros-diz-anp.shtml",
       "data": "06/04/2026",
@@ -694,7 +686,7 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2026/03/26/177455361469c58a0ea0648_1774553614_3x2_rt.jpg"
     },
     {
-      "titulo": "Governo zera imposto sobre querosene de aviação para tentar conter alta das passagens aéreas; ASSISTA",
+      "titulo": "Governo zera imposto sobre querosene de aviação para tentar conter alta das passagens aéreas",
       "link": "https://g1.globo.com/politica/politico/ao-vivo/coletiva-governo-medidas-combustiveis.ghtml",
       "data": "06/04/2026",
       "fonte": "G1",
@@ -758,12 +750,12 @@
       "imagem": "https://s2-g1.glbimg.com/gMsITDoEaVeozWXuA_iDwqUXMLk=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/Q/WtMmccTiiahrS5Wr1o9A/petroleo.jpg"
     },
     {
-      "titulo": "BYD Dolphin ganha versão mais potente e maior para enfrentar rivais como a Chevrolet no Brasil",
-      "link": "https://g1.globo.com/carros/noticia/2026/04/06/byd-dolphin-2027-preco.ghtml",
+      "titulo": "Governo zera imposto sobre querosene de aviação para conter alta das passagens",
+      "link": "https://www.moneytimes.com.br/governo-zera-imposto-sobre-querosene-de-aviacao-para-conter-alta-das-passagens-kda/",
       "data": "06/04/2026",
-      "fonte": "G1",
+      "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/34LEaemLYtSmc5bGynyEYPinkGM=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/y/v4eXoARxiA847sml1jZw/r.33-3448.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2020/07/petrobras-aviacao-2.jpg"
     },
     {
       "titulo": "Ibovespa fecha estável após ameaças de Trump ao Irã; dólar recua a R$ 5,14",
@@ -782,7 +774,7 @@
       "imagem": "https://www.moneytimes.com.br/uploads/2026/01/prova-de-vida-automatica-do-inss-divulgacao.jpg"
     },
     {
-      "titulo": "Dólar recua e fecha a R$ 5,14 mesmo com ameaças renovadas de Trump ao Irã",
+      "titulo": "Dólar recua e fecha a R$ 5,14, no menor nível desde fevereiro, apesar de ameaças renovadas de Trump ao Irã",
       "link": "https://www.moneytimes.com.br/dolar-6-4-26-apsa/",
       "data": "06/04/2026",
       "fonte": "Money Times",
@@ -798,8 +790,8 @@
       "imagem": "https://www.moneytimes.com.br/uploads/2024/10/petroleo.jpg"
     }
   ],
-  "noticias_em": "06/04/2026 20:32 UTC",
-  "noticias_em_br": "06/04/2026 17:32",
-  "indicadores_em": "06/04/2026 20:32 UTC",
-  "indicadores_em_br": "06/04/2026 17:32"
+  "noticias_em": "06/04/2026 20:47 UTC",
+  "noticias_em_br": "06/04/2026 17:47",
+  "indicadores_em": "06/04/2026 20:47 UTC",
+  "indicadores_em_br": "06/04/2026 17:47"
 }
