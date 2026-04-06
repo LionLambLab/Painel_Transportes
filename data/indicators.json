@@ -1,8 +1,8 @@
 {
-  "gerado_em": "06/04/2026 20:01 UTC",
-  "gerado_em_br": "06/04/2026 17:01",
+  "gerado_em": "06/04/2026 20:09 UTC",
+  "gerado_em_br": "06/04/2026 17:09",
   "anp": {
-    "semana_referencia": "30/03/2026 a 05/04/2026",
+    "semana_referencia": "29/03/2026 a 04/04/2026",
     "preco_atual": 7.58,
     "semanas": [
       {
@@ -476,7 +476,7 @@
       "imagem": "https://s2-g1.glbimg.com/gMsITDoEaVeozWXuA_iDwqUXMLk=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/Q/WtMmccTiiahrS5Wr1o9A/petroleo.jpg"
     },
     {
-      "titulo": "Dólar cai e Ibovespa sobe com foco em possível cessar-fogo entre EUA e Irã",
+      "titulo": "Dólar cai e fecha a R$ 5,14 com foco em possível cessar-fogo entre EUA e Irã; Ibovespa sobe",
       "link": "https://g1.globo.com/economia/noticia/2026/04/06/dolar-ibovespa.ghtml",
       "data": "06/04/2026",
       "fonte": "G1",
@@ -522,6 +522,22 @@
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/FAdEaIBLLs6RCwOA5HsOSrRupl4=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/87/77/14497787"
+    },
+    {
+      "titulo": "Governo amplia subsídio ao diesel e gás de cozinha e zera tributos sobre querosene de aviação",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/governo-amplia-subsidio-ao-diesel-e-gas-de-cozinha-e-zera-tributos-sobre-querosene-de-aviacao.shtml",
+      "data": "06/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/11/177324269069b18942c984f_1773242690_3x2_xl.jpg"
+    },
+    {
+      "titulo": "Preço dos combustíveis para de subir nos postos brasileiros, diz ANP",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/preco-dos-combustiveis-para-de-subir-nos-postos-brasileiros-diz-anp.shtml",
+      "data": "06/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/08/26/175625056568ae41c56a536_1756250565_3x2_rt.jpg"
     },
     {
       "titulo": "Guerra no Irã pressiona insumos e construção civil pede reajuste mensal de contratos ao governo",
@@ -578,22 +594,6 @@
       "fonte": "Money Times",
       "prioridade": 1,
       "imagem": "https://www.moneytimes.com.br/uploads/2026/04/etanol-milho-cana-de-acucar-1.jpg"
-    },
-    {
-      "titulo": "Governo anuncia MP com subvenção no diesel para conter alta de preços",
-      "link": "https://www.metropoles.com/brasil/governo-anuncia-subvencao-de-no-diesel-para-conter-precos",
-      "data": "06/04/2026",
-      "fonte": "Metrópoles",
-      "prioridade": 1,
-      "imagem": "https://i.metroimg.com/URR0c-4-llrtBxs_2IXJ6uiJkX6G2eNVAR_wjtTrB7s/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/Postos-de-etanol-gasolina-e-diesel.-Combustiveis-ficarao-mais-caros-a-partir-de-1o-de-fevereiro-de-2025-Metropoles-5-1-scaled.jpeg"
-    },
-    {
-      "titulo": "GWM atinge 98% de disponibilidade de peças no Brasil e amplia operação logística em Cajamar",
-      "link": "https://revistalogistica.com.br/gwm-atinge-98-de-disponibilidade-de-pecas-no-brasil-e-amplia-operacao-logistica-em-cajamar/",
-      "data": "30/03/2026",
-      "fonte": "Rev. Logistica",
-      "prioridade": 2,
-      "imagem": "https://revistalogistica.imam.com.br/wp-content/uploads/2024/07/cropped-revistalogisticalogo.png"
     }
   ],
   "econ_noticias": [
@@ -622,6 +622,14 @@
       "imagem": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_20151019-14270-17p14a5.jpg"
     },
     {
+      "titulo": "Mais de 7 milhões já entregaram a declaração do IRPF 2026",
+      "link": "https://www.infomoney.com.br/mercados/mais-de-7-milhoes-ja-entregaram-a-declaracao-do-irpf-2026/",
+      "data": "06/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/mg_6811.webp?quality=70"
+    },
+    {
       "titulo": "Petróleo fecha em alta com ameaças de Trump contra o Irã e cessar-fogo em xeque",
       "link": "https://www.infomoney.com.br/mercados/petroleo-alta-queda-06042026/",
       "data": "06/04/2026",
@@ -646,6 +654,14 @@
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-11T125358Z_1_LYNXMPEM1A0RU_RTROPTP_3_BRAZIL-ECONOMY.jpg?quality=70"
     },
     {
+      "titulo": "Preço dos combustíveis para de subir nos postos brasileiros, diz ANP",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/preco-dos-combustiveis-para-de-subir-nos-postos-brasileiros-diz-anp.shtml",
+      "data": "06/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/08/26/175625056568ae41c56a536_1756250565_3x2_rt.jpg"
+    },
+    {
       "titulo": "Guilherme Mello assumirá secretaria-executiva do Planejamento e ficará fora do BC",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/guilherme-mello-assumira-secretaria-executiva-do-planejamento-e-ficara-fora-do-bc.shtml",
       "data": "06/04/2026",
@@ -660,14 +676,6 @@
       "fonte": "Folha SP",
       "prioridade": 1,
       "imagem": "https://f.i.uol.com.br/fotografia/2026/03/26/177455361469c58a0ea0648_1774553614_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Setor de serviços do Brasil fica estagnado em março com alta da pressão de preços, mostra PMI",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450488",
-      "data": "06/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
       "titulo": "Governo zera imposto sobre querosene de aviação para tentar conter alta das passagens aéreas; ASSISTA",
@@ -758,8 +766,8 @@
       "imagem": "https://www.moneytimes.com.br/uploads/2024/10/sabatina-presidente-banco-central-gabriel-galipolo.jpg"
     }
   ],
-  "noticias_em": "06/04/2026 20:01 UTC",
-  "noticias_em_br": "06/04/2026 17:01",
-  "indicadores_em": "06/04/2026 20:01 UTC",
-  "indicadores_em_br": "06/04/2026 17:01"
+  "noticias_em": "06/04/2026 20:09 UTC",
+  "noticias_em_br": "06/04/2026 17:09",
+  "indicadores_em": "06/04/2026 20:09 UTC",
+  "indicadores_em_br": "06/04/2026 17:09"
 }
