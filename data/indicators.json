@@ -1,111 +1,260 @@
 {
-  "gerado_em": "06/04/2026 20:53 UTC",
-  "gerado_em_br": "06/04/2026 17:53",
+  "gerado_em": "06/04/2026 20:59 UTC",
+  "gerado_em_br": "06/04/2026 17:59",
   "anp": {
-    "semana_referencia": "29/03/2026 a 04/04/2026",
+    "semana_referencia": "29/03 a 04/04/2026",
     "preco_atual": 7.58,
     "semanas": [
       {
-        "ini": "2026-01-05",
-        "fim": "2026-01-11",
-        "ini_br": "05/01",
-        "fim_br": "11/01/2026",
-        "label": "Jan/26",
-        "preco": 6.08
-      },
-      {
-        "ini": "2026-01-12",
-        "fim": "2026-01-18",
-        "ini_br": "12/01",
-        "fim_br": "18/01/2026",
-        "label": "Jan/26",
-        "preco": 6.082
-      },
-      {
-        "ini": "2026-01-19",
-        "fim": "2026-01-25",
-        "ini_br": "19/01",
-        "fim_br": "25/01/2026",
-        "label": "Jan/26",
-        "preco": 6.084
-      },
-      {
-        "ini": "2026-01-26",
-        "fim": "2026-02-01",
-        "ini_br": "26/01",
-        "fim_br": "01/02/2026",
-        "label": "Fev/26",
-        "preco": 6.086
-      },
-      {
-        "ini": "2026-02-02",
-        "fim": "2026-02-08",
-        "ini_br": "02/02",
-        "fim_br": "08/02/2026",
-        "label": "Fev/26",
-        "preco": 6.09
-      },
-      {
-        "ini": "2026-02-09",
-        "fim": "2026-02-15",
-        "ini_br": "09/02",
-        "fim_br": "15/02/2026",
-        "label": "Fev/26",
-        "preco": 6.095
-      },
-      {
-        "ini": "2026-02-16",
-        "fim": "2026-02-22",
-        "ini_br": "16/02",
-        "fim_br": "22/02/2026",
-        "label": "Fev/26",
-        "preco": 6.1
-      },
-      {
-        "ini": "2026-03-01",
-        "fim": "2026-03-07",
-        "ini_br": "01/03",
-        "fim_br": "07/03/2026",
-        "label": "Mar/26",
-        "preco": 6.15
-      },
-      {
-        "ini": "2026-03-08",
-        "fim": "2026-03-14",
-        "ini_br": "08/03",
-        "fim_br": "14/03/2026",
-        "label": "Mar/26",
-        "preco": 6.89
+        "ini": "2026-03-29",
+        "fim": "2026-04-04",
+        "ini_br": "29/03",
+        "fim_br": "04/04/2026",
+        "label": "29/03/26",
+        "preco": 7.58,
+        "preco_min": 5.69,
+        "preco_max": 9.69
       }
     ],
+    "semanas_por_combustivel": {
+      "diesel-s10": [
+        {
+          "ini": "2026-03-29",
+          "fim": "2026-04-04",
+          "ini_br": "29/03",
+          "fim_br": "04/04/2026",
+          "label": "29/03/26",
+          "preco": 7.58,
+          "preco_min": 5.69,
+          "preco_max": 9.69
+        }
+      ],
+      "diesel-s500": [
+        {
+          "ini": "2026-03-29",
+          "fim": "2026-04-04",
+          "ini_br": "29/03",
+          "fim_br": "04/04/2026",
+          "label": "29/03/26",
+          "preco": 7.515,
+          "preco_min": 5.69,
+          "preco_max": 9.69
+        }
+      ],
+      "gasolina": [
+        {
+          "ini": "2026-03-29",
+          "fim": "2026-04-04",
+          "ini_br": "29/03",
+          "fim_br": "04/04/2026",
+          "label": "29/03/26",
+          "preco": 6.78,
+          "preco_min": 5.69,
+          "preco_max": 9.54
+        }
+      ],
+      "gasolina-ad": [
+        {
+          "ini": "2026-03-29",
+          "fim": "2026-04-04",
+          "ini_br": "29/03",
+          "fim_br": "04/04/2026",
+          "label": "29/03/26",
+          "preco": 6.97,
+          "preco_min": 5.99,
+          "preco_max": 9.74
+        }
+      ],
+      "etanol": [
+        {
+          "ini": "2026-03-29",
+          "fim": "2026-04-04",
+          "ini_br": "29/03",
+          "fim_br": "04/04/2026",
+          "label": "29/03/26",
+          "preco": 4.7,
+          "preco_min": 3.69,
+          "preco_max": 6.6
+        }
+      ],
+      "gnv": [
+        {
+          "ini": "2026-03-29",
+          "fim": "2026-04-04",
+          "ini_br": "29/03",
+          "fim_br": "04/04/2026",
+          "label": "29/03/26",
+          "preco": 4.38,
+          "preco_min": 3.41,
+          "preco_max": 6.49
+        }
+      ]
+    },
     "regioes": [
       {
         "nome": "Norte",
         "emoji": "🟢",
-        "preco": 7.2
+        "revenda_media": 7.69,
+        "revenda_variacao": 1.467,
+        "revenda_outubro": 6.223,
+        "distribuicao_media": 7.082
       },
       {
         "nome": "Nordeste",
         "emoji": "🟡",
-        "preco": 7.07
+        "revenda_media": 7.56,
+        "revenda_variacao": 1.632,
+        "revenda_outubro": 5.928,
+        "distribuicao_media": 6.963
       },
       {
         "nome": "Centro-Oeste",
         "emoji": "🟠",
-        "preco": 6.85
+        "revenda_media": 7.55,
+        "revenda_variacao": 1.405,
+        "revenda_outubro": 6.145,
+        "distribuicao_media": 6.954
       },
       {
         "nome": "Sudeste",
         "emoji": "🔵",
-        "preco": 6.76
+        "revenda_media": 7.55,
+        "revenda_variacao": 1.507,
+        "revenda_outubro": 6.043,
+        "distribuicao_media": 6.954
       },
       {
         "nome": "Sul",
         "emoji": "⚪",
-        "preco": 6.668
+        "revenda_media": 7.63,
+        "revenda_variacao": 1.553,
+        "revenda_outubro": 6.077,
+        "distribuicao_media": 7.027
       }
     ],
-    "atualizado": "fallback — 14/03/2026"
+    "estados": {
+      "SE": {
+        "preco": 7.18,
+        "preco_out": 6.304,
+        "variacao_pct": 13.9
+      },
+      "PA": {
+        "preco": 6.99,
+        "preco_out": 6.137,
+        "variacao_pct": 13.9
+      },
+      "MG": {
+        "preco": 7.01,
+        "preco_out": 6.155,
+        "variacao_pct": 13.89
+      },
+      "RR": {
+        "preco": 7.89,
+        "preco_out": 6.927,
+        "variacao_pct": 13.9
+      },
+      "DF": {
+        "preco": 7.58,
+        "preco_out": 6.655,
+        "variacao_pct": 13.9
+      },
+      "MS": {
+        "preco": 7.34,
+        "preco_out": 6.445,
+        "variacao_pct": 13.89
+      },
+      "MT": {
+        "preco": 7.43,
+        "preco_out": 6.524,
+        "variacao_pct": 13.89
+      },
+      "SC": {
+        "preco": 7.76,
+        "preco_out": 6.813,
+        "variacao_pct": 13.9
+      },
+      "CE": {
+        "preco": 6.98,
+        "preco_out": 6.128,
+        "variacao_pct": 13.9
+      },
+      "GO": {
+        "preco": 7.53,
+        "preco_out": 6.611,
+        "variacao_pct": 13.9
+      },
+      "AM": {
+        "preco": 7.58,
+        "preco_out": 6.655,
+        "variacao_pct": 13.9
+      },
+      "AL": {
+        "preco": 6.89,
+        "preco_out": 6.049,
+        "variacao_pct": 13.9
+      },
+      "RN": {
+        "preco": 7.28,
+        "preco_out": 6.392,
+        "variacao_pct": 13.89
+      },
+      "TO": {
+        "preco": 7.84,
+        "preco_out": 6.884,
+        "variacao_pct": 13.89
+      },
+      "RS": {
+        "preco": 7.34,
+        "preco_out": 6.445,
+        "variacao_pct": 13.89
+      },
+      "RO": {
+        "preco": 7.41,
+        "preco_out": 6.506,
+        "variacao_pct": 13.89
+      },
+      "PE": {
+        "preco": 7.01,
+        "preco_out": 6.155,
+        "variacao_pct": 13.89
+      },
+      "AC": {
+        "preco": 8.02,
+        "preco_out": 7.042,
+        "variacao_pct": 13.89
+      },
+      "RJ": {
+        "preco": 7.3,
+        "preco_out": 6.409,
+        "variacao_pct": 13.9
+      },
+      "BA": {
+        "preco": 8.16,
+        "preco_out": 7.164,
+        "variacao_pct": 13.9
+      },
+      "MA": {
+        "preco": 7.31,
+        "preco_out": 6.418,
+        "variacao_pct": 13.9
+      },
+      "SA": {
+        "preco": 7.66,
+        "preco_out": 6.725,
+        "variacao_pct": 13.9
+      },
+      "PI": {
+        "preco": 7.7,
+        "preco_out": 6.761,
+        "variacao_pct": 13.89
+      },
+      "ES": {
+        "preco": 6.76,
+        "preco_out": 5.935,
+        "variacao_pct": 13.9
+      }
+    },
+    "atualizado": "06/04/2026 20:59 UTC"
   },
   "ipca": {
     "series": [
@@ -585,7 +734,7 @@
       "data": "06/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/04/coletiva-reforma-tributaria_mcamgo_abr_25042024-4.webp?quality=70"
+      "imagem": ""
     },
     {
       "titulo": "Ibovespa fecha em leve alta, com exterior e Petrobras; Vale recua",
@@ -790,8 +939,8 @@
       "imagem": "https://www.moneytimes.com.br/uploads/2024/10/petroleo.jpg"
     }
   ],
-  "noticias_em": "06/04/2026 20:53 UTC",
-  "noticias_em_br": "06/04/2026 17:53",
-  "indicadores_em": "06/04/2026 20:53 UTC",
-  "indicadores_em_br": "06/04/2026 17:53"
+  "noticias_em": "06/04/2026 20:59 UTC",
+  "noticias_em_br": "06/04/2026 17:59",
+  "indicadores_em": "06/04/2026 20:59 UTC",
+  "indicadores_em_br": "06/04/2026 17:59"
 }
