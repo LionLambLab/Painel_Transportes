@@ -1,9 +1,9 @@
 {
-  "gerado_em": "06/04/2026 19:42 UTC",
-  "gerado_em_br": "06/04/2026 16:42",
+  "gerado_em": "06/04/2026 19:55 UTC",
+  "gerado_em_br": "06/04/2026 16:55",
   "anp": {
-    "semana_referencia": "23/03/2026 a 29/03/2026",
-    "preco_atual": 7.57,
+    "semana_referencia": "30/03/2026 a 05/04/2026",
+    "preco_atual": 7.58,
     "semanas": [
       {
         "ini": "2026-01-05",
@@ -412,6 +412,14 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/0b-Portfolio-Foton-Eletricos.jpg"
     },
     {
+      "titulo": "Governo Lula anuncia nova subvenção para baratear preço do diesel",
+      "link": "https://exame.com/economia/governo-lula-anuncia-nova-subvencao-para-baratear-preco-do-diesel/",
+      "data": "2026-04-06",
+      "fonte": "Exame",
+      "prioridade": 1,
+      "imagem": "https://classic.exame.com/wp-content/uploads/2023/08/Gasolina.jpg"
+    },
+    {
       "titulo": "Preços de diesel e gasolina têm estabilidade no início de abril, diz ANP",
       "link": "https://exame.com/economia/precos-de-diesel-e-gasolina-tem-estabilidade-no-inicio-de-abril-diz-anp/",
       "data": "2026-04-06",
@@ -420,7 +428,7 @@
       "imagem": "https://classic.exame.com/wp-content/uploads/2022/03/GettyImages-1220801204.jpg"
     },
     {
-      "titulo": "Governo lança medidas para conter aumento do querosene de aviação; alta deve elevar preço de passagens aéreas",
+      "titulo": "Governo zera PIS e Cofins sobre o combustível de aviação para conter alta do preço das passagens aéreas",
       "link": "https://g1.globo.com/economia/noticia/2026/04/06/governo-lanca-medidas-para-conter-aumento-do-querosene-de-aviacao-alta-deve-elevar-preco-de-passagens-aereas.ghtml",
       "data": "06/04/2026",
       "fonte": "G1",
@@ -484,14 +492,6 @@
       "imagem": "https://s2-g1.glbimg.com/6at0OrRje0oRdMAS2BrKVYIE_GE=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/o/nGVtEzSYAdAWJ3uo5t4g/globo-canal-4-20260325-2000-frame-65212.jpeg"
     },
     {
-      "titulo": "Programas sociais turbinados e isenção do IR: os bilhões que Lula vai injetar na economia em ano eleitoral",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/06/programas-sociais-turbinados-e-isencao-do-ir-os-bilhoes-que-lula-vai-injetar-na-economia-em-ano-eleitoral.ghtml",
-      "data": "06/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
-    },
-    {
       "titulo": "Quem são os pré-candidatos à Presidência da República em 2026",
       "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidente-2026.ghtml",
       "data": "06/04/2026",
@@ -508,12 +508,28 @@
       "imagem": "https://s2-g1.glbimg.com/iCJfZ9m5YmQvgCABAcnHYBPtBhk=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/20/37/14483720"
     },
     {
+      "titulo": "Programas sociais turbinados e isenção do IR: os bilhões que Lula vai injetar na economia em ano eleitoral",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/06/programas-sociais-turbinados-e-isencao-do-ir-os-bilhoes-que-lula-vai-injetar-na-economia-em-ano-eleitoral.ghtml",
+      "data": "06/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
+    },
+    {
       "titulo": "Governo estuda zerar impostos sobre querosene de aviação para baratear passagens aéreas",
       "link": "https://g1.globo.com/economia/noticia/2026/04/06/governo-estuda-zerar-imposto-do-querosene-de-aviacao-para-baratear-passagens-aereas.ghtml",
       "data": "06/04/2026",
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/FAdEaIBLLs6RCwOA5HsOSrRupl4=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/87/77/14497787"
+    },
+    {
+      "titulo": "Guerra no Irã pressiona insumos e construção civil pede reajuste mensal de contratos ao governo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/guerra-no-ira-pressiona-insumos-e-construcao-civil-pede-reajuste-mensal-de-contratos-ao-governo.shtml",
+      "data": "06/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/23/177429911569c1a7eb0727b_1774299115_3x2_rt.jpg"
     },
     {
       "titulo": "Guilherme Mello assumirá secretaria-executiva do Planejamento e ficará fora do BC",
@@ -548,6 +564,14 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2023/01/08/167321897863bb4ba217d12_1673218978_3x2_rt.jpg"
     },
     {
+      "titulo": "Novo aponta ‘inércia’ da AGU e do MJ em investigação contra ‘Careca do INSS’",
+      "link": "https://www.infomoney.com.br/politica/novo-aponta-inercia-da-agu-e-do-mj-em-investigacao-contra-careca-do-inss/",
+      "data": "06/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/09/careca-inss.jpeg?quality=70"
+    },
+    {
       "titulo": "Entre metas, mitos e carros elétricos: Por que você ainda não abastece com etanol?",
       "link": "https://www.moneytimes.com.br/entre-metas-mitos-e-carros-eletricos-por-que-voce-ainda-nao-abastece-com-etanol-pads/",
       "data": "06/04/2026",
@@ -556,12 +580,12 @@
       "imagem": "https://www.moneytimes.com.br/uploads/2026/04/etanol-milho-cana-de-acucar-1.jpg"
     },
     {
-      "titulo": "Irmã de Ana Paula Renault se manifesta e detalha internação do pai",
-      "link": "https://www.metropoles.com/colunas/fabia-oliveira/irma-de-ana-paula-renault-se-manifesta-e-detalha-internacao-do-pai",
+      "titulo": "Governo anuncia MP com subvenção no diesel para conter alta de preços",
+      "link": "https://www.metropoles.com/brasil/governo-anuncia-subvencao-de-no-diesel-para-conter-precos",
       "data": "06/04/2026",
       "fonte": "Metrópoles",
       "prioridade": 1,
-      "imagem": "https://i.metroimg.com/oPqcqLWyHCVwkIVgCeWQkXqWbAXjRCayB3AobGnXQh8/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/02/ana-paula-e-o-pai.jpg"
+      "imagem": "https://i.metroimg.com/URR0c-4-llrtBxs_2IXJ6uiJkX6G2eNVAR_wjtTrB7s/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/Postos-de-etanol-gasolina-e-diesel.-Combustiveis-ficarao-mais-caros-a-partir-de-1o-de-fevereiro-de-2025-Metropoles-5-1-scaled.jpeg"
     },
     {
       "titulo": "GWM atinge 98% de disponibilidade de peças no Brasil e amplia operação logística em Cajamar",
@@ -570,33 +594,17 @@
       "fonte": "Rev. Logistica",
       "prioridade": 2,
       "imagem": "https://revistalogistica.imam.com.br/wp-content/uploads/2024/07/cropped-revistalogisticalogo.png"
-    },
-    {
-      "titulo": "GoodStorage amplia liderança em self storage enquanto categoria se consolida em São Paulo",
-      "link": "https://revistalogistica.com.br/goodstorage-amplia-lideranca-em-self-storage-enquanto-categoria-se-consolida-em-sao-paulo/",
-      "data": "30/03/2026",
-      "fonte": "Rev. Logistica",
-      "prioridade": 2,
-      "imagem": "https://revistalogistica.imam.com.br/wp-content/uploads/2024/07/cropped-revistalogisticalogo.png"
-    },
-    {
-      "titulo": "Demanda da inteligência artificial pode pressionar oferta de energia nos EUA, diz executiva do Google",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/23/demanda-da-inteligencia-artificial-pode-pressionar-oferta-de-energia-nos-eua-diz-executiva-do-google.ghtml",
-      "data": "23/03/2026",
-      "fonte": "G1",
-      "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/UPTaLUeOL0OQjUqzrHDkfRwPiqA=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/I/2WJ5v2TfKpWiNQD49W2g/75246399-1004.webp"
-    },
-    {
-      "titulo": "MRS Logística faz demonstração com maior locomotiva a baterias do mundo",
-      "link": "https://www.transportabrasil.com.br/2026/03/mrs-logistica-faz-demonstracao-com-maior-locomotiva-a-baterias-do-mundo/",
-      "data": "23/03/2026",
-      "fonte": "Transporta Brasil",
-      "prioridade": 2,
-      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/mrs-locomotiva-joule-2.jpg"
     }
   ],
   "econ_noticias": [
+    {
+      "titulo": "Governo Lula anuncia nova subvenção para baratear preço do diesel",
+      "link": "https://exame.com/economia/governo-lula-anuncia-nova-subvencao-para-baratear-preco-do-diesel/",
+      "data": "2026-04-06",
+      "fonte": "Exame",
+      "prioridade": 1,
+      "imagem": "https://classic.exame.com/wp-content/uploads/2023/08/Gasolina.jpg"
+    },
     {
       "titulo": "Galípolo reforça necessidade de 'cautela' na política de juros diante de incertezas sobre a guerra",
       "link": "https://exame.com/economia/galipolo-reforca-necessidade-de-cautela-na-politica-de-juros-diante-de-incertezas-sobre-a-guerra/",
@@ -614,12 +622,20 @@
       "imagem": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_20151019-14270-17p14a5.jpg"
     },
     {
+      "titulo": "Petróleo fecha em alta com ameaças de Trump contra o Irã e cessar-fogo em xeque",
+      "link": "https://www.infomoney.com.br/mercados/petroleo-alta-queda-06042026/",
+      "data": "06/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/01/447247335.jpg?quality=70"
+    },
+    {
       "titulo": "Anvisa endurece fiscalização sobre canetas emagrecedoras e mira irregularidades",
       "link": "https://www.infomoney.com.br/saude/anvisa-endurece-fiscalizacao-sobre-canetas-emagrecedoras-e-mira-irregularidades/",
       "data": "06/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": ""
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/ozempic-mounjaro-canetas-emagrecedoras.jpg?quality=70"
     },
     {
       "titulo": "Sociedade brasileira não tolera inflação e isso é positivo para o BC, diz Galípolo",
@@ -628,22 +644,6 @@
       "fonte": "InfoMoney",
       "prioridade": 1,
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-11T125358Z_1_LYNXMPEM1A0RU_RTROPTP_3_BRAZIL-ECONOMY.jpg?quality=70"
-    },
-    {
-      "titulo": "Trump diz que reabertura de Ormuz deve constar em acordo de cessar-fogo com o Irã",
-      "link": "https://www.infomoney.com.br/mercados/trump-diz-que-reabertura-de-ormuz-deve-constar-em-acordo-de-cessar-fogo-com-o-ira/",
-      "data": "06/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": ""
-    },
-    {
-      "titulo": "Galípolo reforça “cautela e serenidade” e denota BC mais contido nos cortes de juros",
-      "link": "https://www.infomoney.com.br/economia/galipolo-reforca-cautela-e-serenidade-e-denota-bc-mais-contido-nos-cortes-de-juros/",
-      "data": "06/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": ""
     },
     {
       "titulo": "Guilherme Mello assumirá secretaria-executiva do Planejamento e ficará fora do BC",
@@ -670,7 +670,15 @@
       "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
-      "titulo": "Governo anuncia medidas para enfrentar efeitos da guerra sobre combustíveis",
+      "titulo": "Carne de paca: post em que Janja prepara prato para Lula gera dúvidas sobre consumo; entenda regras",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/06/carne-paca-post-janja.ghtml",
+      "data": "06/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/BhI7e8nCq-_prP3V6-ekveT6SkY=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/W/KangA5RECoKMWBzMnnRA/fotojet-2-.jpg"
+    },
+    {
+      "titulo": "Governo zera imposto sobre querosene de aviação para tentar conter alta das passagens aéreas; ASSISTA",
       "link": "https://g1.globo.com/politica/politico/ao-vivo/coletiva-governo-medidas-combustiveis.ghtml",
       "data": "06/04/2026",
       "fonte": "G1",
@@ -678,7 +686,7 @@
       "imagem": "https://s2-g1.glbimg.com/VTyOT1WsbgKYNo65-GMwgBKdoLA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/k/xzLny9QEunFjNDwk5ifg/informe-g1-2026-03-26t145731.329.png"
     },
     {
-      "titulo": "Governo lança medidas para conter aumento do querosene de aviação; alta deve elevar preço de passagens aéreas",
+      "titulo": "Governo zera PIS e Cofins sobre o combustível de aviação para conter alta do preço das passagens aéreas",
       "link": "https://g1.globo.com/economia/noticia/2026/04/06/governo-lanca-medidas-para-conter-aumento-do-querosene-de-aviacao-alta-deve-elevar-preco-de-passagens-aereas.ghtml",
       "data": "06/04/2026",
       "fonte": "G1",
@@ -750,8 +758,8 @@
       "imagem": "https://www.moneytimes.com.br/uploads/2024/10/sabatina-presidente-banco-central-gabriel-galipolo.jpg"
     }
   ],
-  "noticias_em": "06/04/2026 19:42 UTC",
-  "noticias_em_br": "06/04/2026 16:42",
-  "indicadores_em": "06/04/2026 19:42 UTC",
-  "indicadores_em_br": "06/04/2026 16:42"
+  "noticias_em": "06/04/2026 19:55 UTC",
+  "noticias_em_br": "06/04/2026 16:55",
+  "indicadores_em": "06/04/2026 19:55 UTC",
+  "indicadores_em_br": "06/04/2026 16:55"
 }
