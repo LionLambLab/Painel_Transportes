@@ -900,7 +900,7 @@ def _anp_estados_process(content):
 
 
 def _anp_fallback():
-    return {'semana_referencia':'30/03/2026 a 05/04/2026','preco_atual':7.580,
+    return {'semana_referencia':'29/03/2026 a 04/04/2026','preco_atual':7.580,
             'semanas':[
                 {'ini':'2026-01-05','fim':'2026-01-11','ini_br':'05/01','fim_br':'11/01/2026','label':'Jan/26','preco':6.080},
                 {'ini':'2026-01-12','fim':'2026-01-18','ini_br':'12/01','fim_br':'18/01/2026','label':'Jan/26','preco':6.082},
