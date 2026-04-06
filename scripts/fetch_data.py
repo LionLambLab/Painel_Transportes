@@ -325,7 +325,7 @@ def _anp_fetch_latest_weekly():
     """
     from datetime import datetime, timedelta
 
-    today    = datetime.utcnow()
+    today    = datetime.now()
     weekday  = today.weekday()                    # Mon=0 ... Sun=6
     # Último domingo (início de semana ANP)
     days_since_sun = (weekday + 1) % 7
@@ -494,7 +494,7 @@ def _anp_process_xlsx(content):
         df = df[df[col_prec] > 0.5]
 
         # Exclui semana corrente
-        today      = pd.Timestamp.utcnow().normalize()
+        today      = pd.Timestamp.now().normalize()  # tz-naive to match xlsx dates
         week_start = today - pd.Timedelta(days=today.dayofweek)
         df = df[df[col_ini] < week_start]
 
@@ -724,7 +724,7 @@ def _anp_regioes_process(content):
             df_s10 = df
 
         # Exclui semana corrente
-        today      = pd.Timestamp.utcnow().normalize()
+        today      = pd.Timestamp.now().normalize()  # tz-naive to match xlsx dates
         week_start = today - pd.Timedelta(days=today.dayofweek)
         df_s10 = df_s10[df_s10[col_ini] < week_start]
 
@@ -885,7 +885,7 @@ def _anp_estados_process(content):
             df_s10 = df
 
         # Exclui semana corrente
-        today      = pd.Timestamp.utcnow().normalize()
+        today      = pd.Timestamp.now().normalize()  # tz-naive to match xlsx dates
         week_start = today - pd.Timedelta(days=today.dayofweek)
         df_s10 = df_s10[df_s10[col_ini] < week_start]
 
