@@ -1,6 +1,6 @@
 {
-  "gerado_em": "01/04/2026 20:01 UTC",
-  "gerado_em_br": "01/04/2026 17:01",
+  "gerado_em": "06/04/2026 09:37 UTC",
+  "gerado_em_br": "06/04/2026 06:37",
   "anp": {
     "semana_referencia": "23/03/2026 a 29/03/2026",
     "preco_atual": 7.57,
@@ -297,7 +297,7 @@
   },
   "usd_brl": {
     "series": [],
-    "atual": 5.2248
+    "atual": 5.1586
   },
   "inctl": {
     "ultimo": 0.22,
@@ -352,7 +352,7 @@
       }
     ],
     "fonte": "CNT",
-    "atualizado": "01/04/2026"
+    "atualizado": "06/04/2026"
   },
   "noticias": [
     {
@@ -412,12 +412,60 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/0b-Portfolio-Foton-Eletricos.jpg"
     },
     {
+      "titulo": "Como navios parados do outro lado do mundo atrapalham a sua vida aqui no Brasil? g1 explica",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/04/06/como-navios-parados-do-outro-lado-do-mundo-atrapalham-a-sua-vida-aqui-no-brasil-g1-explica.ghtml",
+      "data": "06/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/Hb88SUsq6LltFexKLvGiPambTLo=/4860x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/m/xUBf9YTLq9kBBWFl8DFQ/ap26078506843469.jpg"
+    },
+    {
+      "titulo": "Presidente da Colômbia defende PIX após críticas dos EUA: 'Peço ao Brasil que estenda o sistema'",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/06/presidente-da-colombia-defende-pix.ghtml",
+      "data": "06/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/8svlRlpPmU3mRehsEmeocMmmEJw=/2023x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/D/e/ATORLjQAKnJib6JDJDmQ/2025-10-23t173631z-859815302-rc2thham8a7w-rtrmadp-3-colombia-politics.jpg"
+    },
+    {
+      "titulo": "Quais são os próximos feriados de 2026? (Spoiler: restam oito)",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/06/quais-sao-os-proximos-feriados-de-2026-spoiler-restam-oito.ghtml",
+      "data": "06/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/GvoJ2dg82nmkfFVcQaXlwV49kh8=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/S/h/7vovrZT9KJgw4nYU0w2w/prainha.jpeg"
+    },
+    {
+      "titulo": "Estudante esfaqueada 15 vezes convoca manifestação por justiça no Rio",
+      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/estudante-esfaqueada-15-vezes-convoca-manifestacao-por-justica-no-rio.shtml",
+      "data": "06/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/02/09/17706427346989dd2eae428_1770642734_3x2_lg.jpg"
+    },
+    {
+      "titulo": "Sob pressão, governo promete editar MP de nova subvenção do diesel nos próximos dias",
+      "link": "https://www.infomoney.com.br/politica/sob-pressao-governo-promete-editar-mp-de-nova-subvencao-do-diesel-nos-proximos-dias/",
+      "data": "06/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-26T223328Z_1_LYNXMPEM1P1DX_RTROPTP_4_BRAZIL-ENERGY-FUEL.jpg?quality=70"
+    },
+    {
       "titulo": "Brasil amplia licença-paternidade, supera os EUA, mas segue longe de países referência; compare",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/05/brasil-amplia-licenca-paternidade-supera-os-eua-mas-segue-longe-de-paises-referencia-compare.ghtml",
       "data": "05/04/2026",
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/U-jqU6SdOxzZcmEvo7f7wuWfpfc=/1500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/E/XZDjYHRAWLdUuJ1uLyNA/2148354225.jpg"
+    },
+    {
+      "titulo": "Avante anuncia pré-candidatura do escritor Augusto Cury à Presidência da República",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/04/05/avante-anuncia-pre-candidatura-do-escritor-augusto-cury-a-presidencia-da-republica.ghtml",
+      "data": "05/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/-q14t6Le2viSBn37lFrXrhVOj04=/1299x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/c/Q/S2vSfOQ8GaUjvu1Q0IlA/imagem1.jpg"
     },
     {
       "titulo": "Trabalhadores da JBS em greve retornarão à fábrica no Colorado após promessa de negociações",
@@ -436,28 +484,12 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2026/04/05/177539840469d26e04dbcb9_1775398404_3x2_rt.jpg"
     },
     {
-      "titulo": "STF condena a 14 anos de prisão empresário que doou R$ 500 para ônibus fretado no 8/1",
-      "link": "https://www.infomoney.com.br/politica/stf-condena-a-14-anos-de-prisao-empresario-que-doou-r-500-para-onibus-fretado-no-8-1/",
-      "data": "05/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2023/01/FUP20230108205.jpg?quality=70"
-    },
-    {
-      "titulo": "ADNOC Gas diz que demanda doméstica ainda está sendo atendida após ataque de Habshan",
-      "link": "https://www.infomoney.com.br/mundo/adnoc-gas-diz-que-demanda-domestica-ainda-esta-sendo-atendida-apos-ataque-de-habshan/",
-      "data": "05/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2023/11/404572715.jpg?quality=70"
-    },
-    {
-      "titulo": "Sindicato dos roteiristas chega a novo acordo com estúdios de Hollywood",
-      "link": "https://www.metropoles.com/entretenimento/cinema/sindicato-dos-roteiristas-chega-a-novo-acordo-com-estudios-de-hollywood",
+      "titulo": "Jiboia dá bote em carro e assusta passageiros que tentavam tirar foto",
+      "link": "https://www.metropoles.com/brasil/jiboia-da-bote-em-carro-e-assusta-passageiros-que-tentavam-tirar-foto",
       "data": "05/04/2026",
       "fonte": "Metrópoles",
       "prioridade": 1,
-      "imagem": "https://i.metroimg.com/ee7_5M0WkQvarZAPJnSu2KCQ4jXzvkk4R9zrUM5yK7M/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/greve-roteiristas.jpg"
+      "imagem": "https://i.metroimg.com/62Jh1cluCSGFZjieu2Kf2m18lX8K9smZUr90xvle1PM/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2025/12/11155042/cobra-23.jpg"
     },
     {
       "titulo": "Nunes Marques viajou para Maceió em jato pago por advogada que atua para o Master",
@@ -466,54 +498,6 @@
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/gDczg7uErRbzq1_dipGw_TSpLXo=/799x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/i/X/LUJZrTS2WF20EhYISDOg/rosinei-coutinho-stf.jpg"
-    },
-    {
-      "titulo": "Inflação nos EUA deve disparar no primeiro levantamento desde a guerra com o Irã",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/inflacao-nos-eua-deve-disparar-no-primeiro-levantamento-desde-a-guerra-com-o-ira.shtml",
-      "data": "04/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2022/04/12/16498012556255f827a09e7_1649801255_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Por que guerra no Irã fez ações da Petrobras baterem recorde – e como isso impacta a empresa e o Brasil",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/03/por-que-guerra-no-ira-fez-acoes-da-petrobras-baterem-recorde-e-como-isso-impacta-a-empresa-e-o-brasil.ghtml",
-      "data": "03/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/OtowCRweQWa1NIh79OMXOXjfDZs=/5472x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/wCR8ddTkWlDT6bfcazyg/mg-1446-0.jpg"
-    },
-    {
-      "titulo": "Eleições 2026: janela partidária termina nesta sexta; pelo menos 37 deputados têm nova sigla",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/04/03/eleicoes-2026-janela-partidaria-termina-nesta-sexta-feira-saiba-o-que-esta-em-jogo.ghtml",
-      "data": "03/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/eDw4oHNXw4-vCdUWKrgP0gW-UEw=/1984x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/L/a/xnPxDwQpKNVzWyXNTg8A/img20251210175607308.jpg"
-    },
-    {
-      "titulo": "Petrobras reafirma política de preços de combustíveis em comunicado",
-      "link": "https://www.infomoney.com.br/mercados/petrobras-reafirma-politica-de-precos-de-combustiveis-em-comunicado/",
-      "data": "03/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-19T211424Z_1_LYNXMPEM2I1DP_RTROPTP_4_PETROBRAS-BRAZIL.jpg?quality=70"
-    },
-    {
-      "titulo": "Why Losing the Iran War May Be the Best Outcome for the Global Economy",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-Losing-the-Iran-War-May-Be-the-Best-Outcome-for-the-Global-Economy.html",
-      "data": "03/04/2026",
-      "fonte": "OilPrice",
-      "prioridade": 1,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-04-02_nht9s2ytms.jpg"
-    },
-    {
-      "titulo": "Presidente do STF rebate relatório de comitê dos EUA e diz que liberdade de expressão é direito fundamental no Brasil",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/02/presidente-do-stf-rebate-relatorio-de-comite-dos-eua-e-diz-que-liberdade-de-expressao-e-direito-fundamental-no-brasil.ghtml",
-      "data": "02/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/nGDpTy7OhrIEusMN9vVWa6dNVYU=/1321x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/c/tLfA1PQBSjsnsGGjX57Q/captura-de-tela-2026-03-25-181807.png"
     },
     {
       "titulo": "GWM atinge 98% de disponibilidade de peças no Brasil e amplia operação logística em Cajamar",
@@ -548,70 +532,190 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/mrs-locomotiva-joule-2.jpg"
     },
     {
-      "titulo": "Opep+ anuncia aumento simbólico na produção de petróleo sob sombra de guerra no Irã",
-      "link": "https://exame.com/invest/mercados/opep-anuncia-aumento-simbolico-na-producao-de-petroleo-sob-sombra-de-guerra-no-ira/",
-      "data": "2026-04-05",
-      "fonte": "Exame",
+      "titulo": "Coletiva de Trump, Boletim Focus e dados de atividade são destaques desta segunda",
+      "link": "https://www.infomoney.com.br/mercados/coletiva-trump-boletim-focus-dados-atividade-destaques-06042026/",
+      "data": "06/04/2026",
+      "fonte": "InfoMoney",
       "prioridade": 2,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2025/06/Oil_pumps_and_rig_over_sunset.jpg"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-02T011024Z_1173925250_RC2PGKAHNRPM_RTRMADP_3_IRAN-CRISIS-TRUMP-ADDRESS.jpg?quality=70"
     },
     {
-      "titulo": "Açaizais como infraestrutura urbana? Caminhos para Amazônia Urbana rever a relação com as águas",
-      "link": "https://exame.com/esg/acaizais-como-infraestrutura-urbana-caminhos-para-amazonia-urbana-rever-a-relacao-com-as-aguas/",
-      "data": "2026-04-05",
-      "fonte": "Exame",
+      "titulo": "Ibovespa sobe, Nasdaq reage e dólar oscila. O que esperar dos mercados?",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-sobe-nasdaq-reage-e-dolar-oscila-o-que-esperar-dos-mercados/",
+      "data": "06/04/2026",
+      "fonte": "InfoMoney",
       "prioridade": 2,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2026/04/GettyImages-2217721486.jpg"
+      "imagem": ""
     },
     {
-      "titulo": "Trump ameaça atacar usinas do Irã caso Ormuz siga fechado",
-      "link": "https://exame.com/mundo/trump-ameaca-atacar-usinas-do-ira-caso-ormuz-siga-fechado/",
-      "data": "2026-04-05",
-      "fonte": "Exame",
+      "titulo": "Minidólar (WDOK26): o que esperar com dólar volátil e cenário externo",
+      "link": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdok26-06042026/",
+      "data": "06/04/2026",
+      "fonte": "InfoMoney",
       "prioridade": 2,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2026/04/AFP__20260331__A6DJ2AG__v1__HighRes__UsPoliticsTrump.jpg"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/WDOK26-15-MINUTOS-06.04.2026.png?quality=70"
     },
     {
-      "titulo": "Colapso do turismo: lojas de luxo em Dubai sentem baque da guerra no Oriente Médio",
-      "link": "https://g1.globo.com/turismo-e-viagem/noticia/2026/04/05/colapso-do-turismo-lojas-de-luxo-em-dubai-sentem-baque-da-guerra-no-oriente-medio.ghtml",
-      "data": "05/04/2026",
-      "fonte": "G1",
+      "titulo": "Allos e mais quatro: as ações de dividendos mais indicadas para investir em abril",
+      "link": "https://www.infomoney.com.br/onde-investir/acoes-de-dividendos-mais-indicadas-para-abril/",
+      "data": "06/04/2026",
+      "fonte": "InfoMoney",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/h8jljYG_YMr7LZIqC4zVP7VlMdo=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/14393963.jpg"
+      "imagem": ""
     },
     {
-      "titulo": "11 governadores e 10 prefeitos de capitais renunciam para serem candidatos na eleição",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/04/05/governadores-e-prefeitos-de-capitais-renunciam-para-disputar-outros-cargos-nas-eleicoes-de-2026.ghtml",
-      "data": "05/04/2026",
-      "fonte": "G1",
+      "titulo": "Trump dá até terça para Irã abrir Estreito de Ormuz; Rússia diz que EUA devem abandonar “ultimatos”",
+      "link": "https://www.moneytimes.com.br/trump-da-ate-terca-para-ira-abrir-estreito-de-ormuz-russia-diz-que-eua-devem-abandonar-ultimatos-fets/",
+      "data": "06/04/2026",
+      "fonte": "Money Times",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/2qg5YTnO-iHoQ-uJuppawcG-3tA=/1300x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/o/mLryK3RlSVUZQtgABMRA/260403-info-situacao-dos-prefeitos.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/07/donald-trump-fed-juros-estados-unidos.jpg"
     },
     {
-      "titulo": "AIE faz alerta para que países não estoquem petróleo em meio à guerra no Oriente Médio",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/aie-faz-alerta-para-que-paises-nao-estoquem-petroleo-em-meio-a-guerra-no-oriente-medio.shtml",
-      "data": "05/04/2026",
-      "fonte": "Folha SP",
+      "titulo": "Poda de árvores deixa região do DF sem energia nesta segunda-feira",
+      "link": "https://www.metropoles.com/distrito-federal/poda-de-arvores-deixa-regiao-do-df-sem-energia-nesta-segunda-feira",
+      "data": "06/04/2026",
+      "fonte": "Metrópoles",
       "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/04/177531763069d1327e1193b_1775317630_3x2_xl.jpg"
+      "imagem": "https://i.metroimg.com/e9Vroa6-PuPNVmSl0VMPn6_2TJ0RoStT7kLf2pHjFu0/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2025/02/Linhas-de-transmissao-de-energia-eletrica-Metropoles17.jpg"
+    },
+    {
+      "titulo": "Saudi Arabia Sets Record Premium for Flagship Crude as Hormuz Crisis Deepens",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Sets-Record-Premium-for-Flagship-Crude-as-Hormuz-Crisis-Deepens.html",
+      "data": "06/04/2026",
+      "fonte": "OilPrice",
+      "prioridade": 2,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-04-06_rd8l6asdlp.jpg"
+    },
+    {
+      "titulo": "Nearly 50 Qatar LNG Tankers Sit Idle Across Asia",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Nearly-50-Qatar-LNG-Tankers-Sit-Idle-Across-Asia.html",
+      "data": "06/04/2026",
+      "fonte": "OilPrice",
+      "prioridade": 2,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-04-06_zp4tbhiexk.jpg"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "Trump ameaça atacar usinas do Irã caso Ormuz siga fechado",
-      "link": "https://exame.com/mundo/trump-ameaca-atacar-usinas-do-ira-caso-ormuz-siga-fechado/",
-      "data": "2026-04-05",
+      "titulo": "Pronunciamento de Trump e Boletim Focus: o que move os mercados hoje",
+      "link": "https://exame.com/invest/mercados/coletiva-de-trump-focus-e-ipca-na-semana-o-que-move-os-mercados/",
+      "data": "2026-04-06",
       "fonte": "Exame",
       "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2026/04/AFP__20260331__A6DJ2AG__v1__HighRes__UsPoliticsTrump.jpg"
+      "imagem": "https://classic.exame.com/wp-content/uploads/2020/12/DSC2572bx.jpg"
     },
     {
-      "titulo": "Projeto determina correção do saldo no FGTS pela variação da inflação; Veja proposta",
-      "link": "https://www.infomoney.com.br/minhas-financas/projeto-determina-correcao-do-saldo-no-fgts-pela-variacao-da-inflacao-veja-proposta/",
-      "data": "05/04/2026",
+      "titulo": "Futuros de NY sobem com otimismo por cessar-fogo no Irã",
+      "link": "https://www.infomoney.com.br/mercados/futuros-de-ny-sobem-com-otimismo-por-cessar-fogo-no-ira/",
+      "data": "06/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/07/mg_8465.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-01T084507Z_1985370783_RC27YFAI0042_RTRMADP_3_INDIA-STOCKS.jpg?quality=70"
+    },
+    {
+      "titulo": "Ibovespa sobe, Nasdaq reage e dólar oscila. O que esperar dos mercados?",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-sobe-nasdaq-reage-e-dolar-oscila-o-que-esperar-dos-mercados/",
+      "data": "06/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": ""
+    },
+    {
+      "titulo": "Minidólar (WDOK26): o que esperar com dólar volátil e cenário externo",
+      "link": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdok26-06042026/",
+      "data": "06/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/WDOK26-15-MINUTOS-06.04.2026.png?quality=70"
+    },
+    {
+      "titulo": "Day Trade hoje (06): Ibovespa mantém alta e traders monitoram os minicontratos",
+      "link": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-06042026/",
+      "data": "06/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/12/Daytrade-hoje.jpg?quality=70"
+    },
+    {
+      "titulo": "Allos e mais quatro: as ações de dividendos mais indicadas para investir em abril",
+      "link": "https://www.infomoney.com.br/onde-investir/acoes-de-dividendos-mais-indicadas-para-abril/",
+      "data": "06/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2149540081.jpg?fit=1500%2C1000&quality=70&strip=all"
+    },
+    {
+      "titulo": "Veja quais são os golpes mais comuns do Imposto de Renda e como evitá-los",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/veja-quais-sao-os-golpes-mais-comuns-do-imposto-de-renda-e-como-evita-los.shtml",
+      "data": "06/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/16/177366412669b7f77e3e7c8_1773664126_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Como navios parados do outro lado do mundo atrapalham a sua vida aqui no Brasil? g1 explica",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/04/06/como-navios-parados-do-outro-lado-do-mundo-atrapalham-a-sua-vida-aqui-no-brasil-g1-explica.ghtml",
+      "data": "06/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/Hb88SUsq6LltFexKLvGiPambTLo=/4860x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/m/xUBf9YTLq9kBBWFl8DFQ/ap26078506843469.jpg"
+    },
+    {
+      "titulo": "Presidente da Colômbia defende PIX após críticas dos EUA: 'Peço ao Brasil que estenda o sistema'",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/06/presidente-da-colombia-defende-pix.ghtml",
+      "data": "06/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/8svlRlpPmU3mRehsEmeocMmmEJw=/2023x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/D/e/ATORLjQAKnJib6JDJDmQ/2025-10-23t173631z-859815302-rc2thham8a7w-rtrmadp-3-colombia-politics.jpg"
+    },
+    {
+      "titulo": "Imposto de Renda 2026: veja como obter o informe de rendimentos no banco, empresa e INSS",
+      "link": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/04/06/imposto-de-renda-2026-veja-como-obter-o-informe-de-rendimentos-no-banco-empresa-e-inss.ghtml",
+      "data": "06/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
+    },
+    {
+      "titulo": "Estímulos à economia devem ultrapassar R$ 700 bi em 2026, ano eleitoral",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/estimulos-a-economia-devem-ultrapassar-r-700-bi-em-2026-ano-eleitoral.shtml",
+      "data": "05/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2023/02/27/167751994563fcec493a6d0_1677519945_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Errei o P da previdência. E agora?",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/04/errei-o-p-da-previdencia-e-agora.shtml",
+      "data": "05/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/29/177481515269c987b01ce42_1774815152_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Após ultimato de Trump, petróleo abre negociações em alta",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/apos-ultimato-de-trump-petroleo-abre-negociacoes-em-alta.shtml",
+      "data": "05/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/02/177512567869ce44ae336e9_1775125678_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Mercado de petróleo parece cada vez mais cético às declarações de Trump",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/mercado-de-petroleo-parece-cada-vez-mais-cetico-as-declaracoes-de-trump.shtml",
+      "data": "05/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/05/177542245569d2cbf7b7f05_1775422455_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Navio fretado pela Petronas carregando petróleo iraquiano passa por Hormuz",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450486",
+      "data": "05/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
       "titulo": "Vale a pena parcelar o IR ou tomar empréstimo para pagar?",
@@ -630,14 +734,6 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2026/04/04/177531763069d1327e1193b_1775317630_3x2_xl.jpg"
     },
     {
-      "titulo": "Opep+ planeja aumento simbólico de produção de petróleo em meio à guerra",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/opep-planeja-aumento-simbolico-de-producao-de-petroleo-em-meio-a-guerra.shtml",
-      "data": "05/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/04/177263175669a836ccab248_1772631756_3x2_rt.jpg"
-    },
-    {
       "titulo": "Fazenda que hospedou Dom Pedro II em Tietê abre para visitas",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/04/05/fazenda-que-hospedou-dom-pedro-ii-em-tiete-abre-para-visitas.ghtml",
       "data": "05/04/2026",
@@ -654,56 +750,16 @@
       "imagem": "https://s2-g1.glbimg.com/U-jqU6SdOxzZcmEvo7f7wuWfpfc=/1500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/E/XZDjYHRAWLdUuJ1uLyNA/2148354225.jpg"
     },
     {
-      "titulo": "Ambev (ABEV3), Rede D’Or (RDOR3) e mais 5 empresas pagam dividendos nesta semana; veja o calendário",
-      "link": "https://www.moneytimes.com.br/dividendos-da-semana-1-4-26-apsa/",
+      "titulo": "Durigan assume Fazenda sob pressão fiscal e herda desafios de Haddad",
+      "link": "https://www.moneytimes.com.br/durigan-assume-fazenda-sob-pressao-fiscal-e-herda-desafios-de-haddad/",
       "data": "05/04/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/09/dividendos.jpg"
-    },
-    {
-      "titulo": "Agenda: Inflação é destaque nos mercados; confira os indicadores desta semana",
-      "link": "https://www.moneytimes.com.br/agenda-inflacao-pesa-sob-mercados-confira-os-indicadores-desta-semana-jcav/",
-      "data": "05/04/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2026/04/inflacao-guerra-oriente-medio-agenda.jpg"
-    },
-    {
-      "titulo": "Juros altos não são destino do Brasil",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/roberto-campos-neto/2026/04/juros-altos-nao-sao-destino-do-brasil.shtml",
-      "data": "04/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/04/177534821469d1a9f6caf65_1775348214_3x2_xl.jpg"
-    },
-    {
-      "titulo": "Mudanças na licença-paternidade podem impactar contratação e carreira de mulheres; entenda",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/04/mudancas-na-licenca-paternidade-podem-impactar-contratacao-e-carreira-de-mulheres-entenda.ghtml",
-      "data": "04/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/L-dc-i9C8pWHs03MEyTB63JyW5E=/5472x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/d/M/Ot7huFSqC3RG15GLJABw/pexels-juanpphotoandvideo-1250452.jpg"
-    },
-    {
-      "titulo": "Como o tarifaço de Trump remodelou o comércio global",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/04/como-o-tarifaco-de-trump-remodelou-o-comercio-global.ghtml",
-      "data": "04/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/AYxV4FjJInXolDw4FC-jF8iOlsk=/5900x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Q/a/BDHWbVQsybWMup20rLOg/2025-05-29t001308z-2015437500-rc2xpdau1x0b-rtrmadp-3-usa-trump-tariffs-lawsuit.jpg"
-    },
-    {
-      "titulo": "Chocolate com mais cacau: entenda se nova lei deve melhorar a qualidade no Brasil",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/04/chocolate-com-mais-cacau-entenda-se-nova-lei-deve-melhorar-a-qualidade-no-brasil.ghtml",
-      "data": "04/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/AIw66bcXAkMYf2TceAXtEdULsRo=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/X/U/oCFep1Qly214njASVd9g/chocolate-cafe-jc.mp4-snapshot-06.30.063.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/04/screenshot-2026-04-05-154811.png"
     }
   ],
-  "noticias_em": "05/04/2026 18:02 UTC",
-  "noticias_em_br": "05/04/2026 15:02",
-  "indicadores_em": "01/04/2026 20:01 UTC",
-  "indicadores_em_br": "01/04/2026 17:01"
+  "noticias_em": "06/04/2026 09:37 UTC",
+  "noticias_em_br": "06/04/2026 06:37",
+  "indicadores_em": "06/04/2026 09:37 UTC",
+  "indicadores_em_br": "06/04/2026 06:37"
 }
