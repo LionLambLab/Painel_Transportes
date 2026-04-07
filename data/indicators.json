@@ -1,6 +1,6 @@
 {
-  "gerado_em": "06/04/2026 20:59 UTC",
-  "gerado_em_br": "06/04/2026 17:59",
+  "gerado_em": "07/04/2026 01:54 UTC",
+  "gerado_em_br": "06/04/2026 22:54",
   "anp": {
     "semana_referencia": "29/03 a 04/04/2026",
     "preco_atual": 7.58,
@@ -13,7 +13,7 @@
         "label": "29/03/26",
         "preco": 7.58,
         "preco_min": 5.69,
-        "preco_max": 9.69
+        "preco_max": 7.92
       }
     ],
     "semanas_por_combustivel": {
@@ -26,7 +26,7 @@
           "label": "29/03/26",
           "preco": 7.58,
           "preco_min": 5.69,
-          "preco_max": 9.69
+          "preco_max": 7.92
         }
       ],
       "diesel-s500": [
@@ -37,8 +37,8 @@
           "fim_br": "04/04/2026",
           "label": "29/03/26",
           "preco": 7.515,
-          "preco_min": 5.69,
-          "preco_max": 9.69
+          "preco_min": 6.09,
+          "preco_max": 9.45
         }
       ],
       "gasolina": [
@@ -50,7 +50,7 @@
           "label": "29/03/26",
           "preco": 6.78,
           "preco_min": 5.69,
-          "preco_max": 9.54
+          "preco_max": 7.12
         }
       ],
       "gasolina-ad": [
@@ -62,7 +62,7 @@
           "label": "29/03/26",
           "preco": 6.97,
           "preco_min": 5.99,
-          "preco_max": 9.74
+          "preco_max": 7.31
         }
       ],
       "etanol": [
@@ -86,7 +86,7 @@
           "label": "29/03/26",
           "preco": 4.38,
           "preco_min": 3.41,
-          "preco_max": 6.49
+          "preco_max": 4.72
         }
       ]
     },
@@ -254,7 +254,7 @@
         "variacao_pct": 13.9
       }
     },
-    "atualizado": "06/04/2026 20:59 UTC"
+    "atualizado": "07/04/2026 01:54 UTC"
   },
   "ipca": {
     "series": [
@@ -446,7 +446,7 @@
   },
   "usd_brl": {
     "series": [],
-    "atual": 5.1586
+    "atual": 5.1497
   },
   "inctl": {
     "ultimo": 0.22,
@@ -501,7 +501,7 @@
       }
     ],
     "fonte": "CNT",
-    "atualizado": "06/04/2026"
+    "atualizado": "07/04/2026"
   },
   "noticias": [
     {
@@ -545,36 +545,36 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/vw-biometano-loga.jpg"
     },
     {
-      "titulo": "Falha em versões antigas do iPhone pode permitir espionagem e roubo de dados",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/03/23/falha-em-versoes-antigas-do-iphone-pode-permitir-espionagem-e-roubo-de-dados.ghtml",
-      "data": "23/03/2026",
+      "titulo": "Petrobras demite diretor e elege novo presidente do Conselho de Administração",
+      "link": "https://www.infomoney.com.br/business/petrobras-demite-diretor-e-elege-novo-presidente-do-conselho-de-administracao/",
+      "data": "07/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-19T211424Z_1_LYNXMPEM2I1DP_RTROPTP_4_PETROBRAS-BRAZIL.jpg?quality=70"
+    },
+    {
+      "titulo": "Vereadores de Guanhães (MG) se manifestam após prisão do prefeito",
+      "link": "https://www.metropoles.com/minas-gerais/vereadores-de-guanhaes-mg-se-manifestam-apos-prisao-do-prefeito",
+      "data": "07/04/2026",
+      "fonte": "Metrópoles",
+      "prioridade": 1,
+      "imagem": "https://i.metroimg.com/CsuDaekI4MBpYN1AJQ2mj86A5ixsNF1bvq1l8tviucY/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/aaa-evandro-lott_3x2.jpg"
+    },
+    {
+      "titulo": "Petrobras anuncia Marcelo Weick como presidente do conselho de administração até escolha de nome definitivo",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/06/petrobras-anuncia-marcelo-weick-como-novo-presidente-do-conselho-de-administracao.ghtml",
+      "data": "06/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/ed10bo8p9XqOJVbdm1t76fvobtk=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/h/4/qECr9qTuSBmlmjBaz0Ag/afp-20250909-73xq6fg-v1-midres-appleexpectedtounveilanewiphonemodelataneventstr.jpg"
+      "imagem": "https://s2-g1.glbimg.com/OtowCRweQWa1NIh79OMXOXjfDZs=/5472x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/wCR8ddTkWlDT6bfcazyg/mg-1446-0.jpg"
     },
     {
-      "titulo": "Foton lança sete modelos elétricos para o transporte leve",
-      "link": "https://www.transportabrasil.com.br/2026/03/foton-lanca-sete-modelos-eletricos-para-o-transporte-leve/",
-      "data": "23/03/2026",
-      "fonte": "Transporta Brasil",
+      "titulo": "Medidas para frear alta dos combustíveis custarão R$ 30,5 bilhões; governo decide mexer na tributação dos cigarros para compensar parte dos gastos",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/06/medidas-para-frear-alta-dos-combustiveis-custarao-r-305-bilhoes-governo-decide-mexer-na-tributacao-dos-cigarros-para-compensar-parte-dos-gastos.ghtml",
+      "data": "06/04/2026",
+      "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/0b-Portfolio-Foton-Eletricos.jpg"
-    },
-    {
-      "titulo": "Governo Lula anuncia nova subvenção para baratear preço do diesel",
-      "link": "https://exame.com/economia/governo-lula-anuncia-nova-subvencao-para-baratear-preco-do-diesel/",
-      "data": "2026-04-06",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2023/08/Gasolina.jpg"
-    },
-    {
-      "titulo": "Preços de diesel e gasolina têm estabilidade no início de abril, diz ANP",
-      "link": "https://exame.com/economia/precos-de-diesel-e-gasolina-tem-estabilidade-no-inicio-de-abril-diz-anp/",
-      "data": "2026-04-06",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2022/03/GettyImages-1220801204.jpg"
+      "imagem": "https://s2-g1.glbimg.com/0ZllCUTVQGwICDFvsOElSNFntJ4=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/73/00/14500073"
     },
     {
       "titulo": "Governo zera imposto sobre querosene de aviação para tentar conter alta das passagens aéreas",
@@ -641,14 +641,6 @@
       "imagem": "https://s2-g1.glbimg.com/gMsITDoEaVeozWXuA_iDwqUXMLk=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/Q/WtMmccTiiahrS5Wr1o9A/petroleo.jpg"
     },
     {
-      "titulo": "Dólar cai e fecha a R$ 5,14 com foco em possível cessar-fogo entre EUA e Irã; Ibovespa sobe",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/06/dolar-ibovespa.ghtml",
-      "data": "06/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/o6YV043bg81OM71h4mYbNvdOC28=/4608x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/U/i/NqrtyVSkGWwLDrtEfzpg/close-up-view-economy-money-concept.jpg"
-    },
-    {
       "titulo": "Quem são os pré-candidatos à Presidência da República em 2026",
       "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidente-2026.ghtml",
       "data": "06/04/2026",
@@ -673,15 +665,23 @@
       "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
     },
     {
-      "titulo": "Governo estuda zerar impostos sobre querosene de aviação para baratear passagens aéreas",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/06/governo-estuda-zerar-imposto-do-querosene-de-aviacao-para-baratear-passagens-aereas.ghtml",
+      "titulo": "Petrobras demite diretor em meio a pressão de Lula contra alta do gás de cozinha",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/petrobras-demite-diretor-em-meio-a-pressao-de-lula-contra-alta-do-gas-de-cozinha.shtml",
       "data": "06/04/2026",
-      "fonte": "G1",
+      "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/FAdEaIBLLs6RCwOA5HsOSrRupl4=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/87/77/14497787"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/06/177552326069d455bc8557a_1775523260_3x2_rt.jpg"
     },
     {
-      "titulo": "Governo amplia subsídio ao diesel e gás de cozinha e zera taxa de querosene de aviação para conter alta nas passagens",
+      "titulo": "Governo aumenta imposto sobre cigarros para compensar ações sobre combustíveis",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/governo-aumenta-imposto-sobre-cigarros-para-compensar-acoes-sobre-combustiveis.shtml",
+      "data": "06/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2021/11/16/16370670776193a94578ddb_1637067077_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Governo amplia subvenção ao diesel e gás de cozinha e zera taxa de querosene de aviação",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/governo-amplia-subsidio-ao-diesel-e-gas-de-cozinha-e-zera-tributos-sobre-querosene-de-aviacao.shtml",
       "data": "06/04/2026",
       "fonte": "Folha SP",
@@ -713,6 +713,22 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2026/02/06/17703774246985d0d03b912_1770377424_3x2_xl.jpg"
     },
     {
+      "titulo": "Indígenas iniciam acampamento em Brasília com protesto contra empreendimentos em territórios",
+      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/indigenas-iniciam-acampamento-em-brasilia-com-protesto-contra-empreendimentos-em-territorios.shtml",
+      "data": "06/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/06/177551504369d435a3904b1_1775515043_3x2_rt.jpg"
+    },
+    {
+      "titulo": "PM iniciou agressão antes de atirar em mãe de 5 filhos na zona leste de SP, dizem testemunhas",
+      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/pm-iniciou-agressao-ante-de-atirar-em-mae-de-5-filhos-na-zona-leste-de-sp-dizem-testemunhas.shtml",
+      "data": "06/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/06/177551402569d431a98d304_1775514025_3x2_lg.jpg"
+    },
+    {
       "titulo": "Rodoviária da Luz marcou a história do centro de São Paulo",
       "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/blogs/andancas-na-metropole/2026/04/rodoviaria-da-luz-marcou-a-historia-do-centro-de-sao-paulo.shtml",
       "data": "06/04/2026",
@@ -727,112 +743,88 @@
       "fonte": "Folha SP",
       "prioridade": 1,
       "imagem": "https://f.i.uol.com.br/fotografia/2023/01/08/167321897863bb4ba217d12_1673218978_3x2_rt.jpg"
+    }
+  ],
+  "econ_noticias": [
+    {
+      "titulo": "Governo vai aumentar preço do cigarro para compensar redução tributária do querosene de aviação",
+      "link": "https://exame.com/economia/governo-vai-aumentar-preco-do-cigarro-para-compensar-reducao-tributaria-do-querosene-de-aviacao/",
+      "data": "2026-04-06",
+      "fonte": "Exame",
+      "prioridade": 1,
+      "imagem": "https://classic.exame.com/wp-content/uploads/2026/04/DarioDurigan_coletiva.jpg"
     },
     {
-      "titulo": "Ministro da Fazenda anuncia novas subvenções sobre diesel e GLP e apoio a aéreas",
-      "link": "https://www.infomoney.com.br/politica/ministro-da-fazenda-anuncia-novas-subvencoes-sobre-diesel-e-glp-e-apoio-a-aereas/",
-      "data": "06/04/2026",
+      "titulo": "Israel ataca complexo de gás crucial para o Irã pela segunda vez",
+      "link": "https://www.infomoney.com.br/mercados/israel-ataca-complexo-de-gas-crucial-para-o-ira-pela-segunda-vez/",
+      "data": "07/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/06/2025-06-14T173131Z_1535633552_RC2H2FA0V0GZ_RTRMADP_3_IRAN-NUCLEAR-ISRAEL-SOUTH-PARS.jpg?quality=70"
+    },
+    {
+      "titulo": "Quina hoje, concurso 6994: Confira o resultado sorteado nesta segunda (6)",
+      "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-6994-confira-o-resultado-sorteado-nesta-segunda-6/",
+      "data": "07/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
       "imagem": ""
     },
     {
-      "titulo": "Ibovespa fecha em leve alta, com exterior e Petrobras; Vale recua",
-      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-06042026/",
+      "titulo": "Inflação perto de 3% põe Fed em alerta “laranja”, dizem dirigentes do banco central",
+      "link": "https://www.infomoney.com.br/economia/inflacao-perto-de-3-poe-fed-em-alerta-laranja-dizem-dirigentes-do-banco-central/",
       "data": "06/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Ibovespa-ao-vivo-12.png?quality=70"
-    }
-  ],
-  "econ_noticias": [
-    {
-      "titulo": "Ibovespa fecha estável e dólar cai para menor nível desde fevereiro",
-      "link": "https://exame.com/invest/mercados/ibovespa-fecha-estavel-e-dolar-cai-para-menor-nivel-desde-fevereiro/",
-      "data": "2026-04-06",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2020/12/DSC8075baixa.jpg"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/11/2025-11-26T201009Z_1_LYNXMPELAP166_RTROPTP_3_USA-FED-BEIGEBOOK.jpg?quality=70"
     },
     {
-      "titulo": "Governo Lula anuncia nova subvenção para baratear preço do diesel",
-      "link": "https://exame.com/economia/governo-lula-anuncia-nova-subvencao-para-baratear-preco-do-diesel/",
-      "data": "2026-04-06",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2023/08/Gasolina.jpg"
-    },
-    {
-      "titulo": "Galípolo reforça necessidade de 'cautela' na política de juros diante de incertezas sobre a guerra",
-      "link": "https://exame.com/economia/galipolo-reforca-necessidade-de-cautela-na-politica-de-juros-diante-de-incertezas-sobre-a-guerra/",
-      "data": "2026-04-06",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2025/08/galipolo-2.jpg"
-    },
-    {
-      "titulo": "A 'inflamação do corpo' vira tendência no bem-estar — e levanta dúvidas médicas",
-      "link": "https://exame.com/casual/a-inflamacao-do-corpo-vira-tendencia-no-bem-estar-e-levanta-duvidas-medicas/",
-      "data": "2026-04-06",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_20151019-14270-17p14a5.jpg"
-    },
-    {
-      "titulo": "Dólar hoje vai a R$ 5,14, menor valor ante real desde antes da guerra",
-      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-06042026/",
-      "data": "06/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/blogging-guide-K5DY18hy5JQ-unsplash_red.jpg?quality=70"
-    },
-    {
-      "titulo": "Taxas curtas sobem em dia de ajustes e longas caem com guerra no Irã no foco",
-      "link": "https://www.infomoney.com.br/mercados/taxas-curtas-sobem-em-dia-de-ajustes-e-longas-caem-com-guerra-no-ira-no-foco/",
-      "data": "06/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-28T173512Z_1_LYNXMPEL7R0VU_RTROPTP_4_BRAZIL.jpg?quality=70"
-    },
-    {
-      "titulo": "Mais de 7 milhões já entregaram a declaração do IRPF 2026",
-      "link": "https://www.infomoney.com.br/minhas-financas/mais-de-7-milhoes-ja-entregaram-a-declaracao-do-irpf-2026/",
-      "data": "06/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/mg_6811.webp?quality=70"
-    },
-    {
-      "titulo": "Petróleo fecha em alta com ameaças de Trump contra o Irã e cessar-fogo em xeque",
-      "link": "https://www.infomoney.com.br/mercados/petroleo-alta-queda-06042026/",
-      "data": "06/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/01/447247335.jpg?quality=70"
-    },
-    {
-      "titulo": "Preço dos combustíveis para de subir nos postos brasileiros, diz ANP",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/preco-dos-combustiveis-para-de-subir-nos-postos-brasileiros-diz-anp.shtml",
+      "titulo": "B3 investe cerca de R$ 55 milhões em iniciativas sociais",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/04/b3-investe-cerca-de-r-55-milhoes-em-iniciativas-sociais.shtml",
       "data": "06/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2025/08/26/175625056568ae41c56a536_1756250565_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/12/11/1765472546693af922b90e7_1765472546_3x2_rt.jpg"
     },
     {
-      "titulo": "Guilherme Mello assumirá secretaria-executiva do Planejamento e ficará fora do BC",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/guilherme-mello-assumira-secretaria-executiva-do-planejamento-e-ficara-fora-do-bc.shtml",
+      "titulo": "BC classifica documentos da liquidação do Master como secretos até 2033",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/c-level-plano-brasilia/2026/04/bc-classifica-documentos-da-liquidacao-do-master-como-secretos-ate-2033.shtml",
       "data": "06/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/02/06/17703774246985d0d03b912_1770377424_3x2_xl.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2024/06/27/1719525876667de1f470dcb_1719525876_3x2_rt.jpg"
     },
     {
-      "titulo": "Galípolo defende cautela do BC em meio a incertezas da guerra no Irã e diz que sociedade não tolera inflação",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/galipolo-defende-cautela-do-bc-em-meio-a-incertezas-da-guerra-no-ira-e-diz-que-sociedade-nao-tolera-inflacao.shtml",
+      "titulo": "Governo aumenta imposto sobre cigarros para compensar ações sobre combustíveis",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/governo-aumenta-imposto-sobre-cigarros-para-compensar-acoes-sobre-combustiveis.shtml",
       "data": "06/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/26/177455361469c58a0ea0648_1774553614_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2021/11/16/16370670776193a94578ddb_1637067077_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Amazon fecha acordo com Correios dos EUA para manter 80% do volume de encomendas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450489",
+      "data": "06/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
+    },
+    {
+      "titulo": "Faz falta uma política fiscal que facilite a vida do Banco Central, diz Arminio Fraga",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/faz-falta-uma-politica-fiscal-que-facilite-a-vida-do-banco-central-diz-arminio-fraga.shtml",
+      "data": "06/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2022/08/11/166025053462f569a6cf7c5_1660250534_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Medidas para frear alta dos combustíveis custarão R$ 30,5 bilhões; governo decide mexer na tributação dos cigarros para compensar parte dos gastos",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/06/medidas-para-frear-alta-dos-combustiveis-custarao-r-305-bilhoes-governo-decide-mexer-na-tributacao-dos-cigarros-para-compensar-parte-dos-gastos.ghtml",
+      "data": "06/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/0ZllCUTVQGwICDFvsOElSNFntJ4=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/73/00/14500073"
     },
     {
       "titulo": "Governo zera imposto sobre querosene de aviação para tentar conter alta das passagens aéreas",
@@ -883,64 +875,32 @@
       "imagem": "https://s2-g1.glbimg.com/luvjMCEbXxxJ-SVlkP84r2S3bJc=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/9/k/mqyoCxR8ShWLsZ7cuZ1g/afp-20251013-78hk4wd-v1-midres-ustradesoychina.jpg"
     },
     {
-      "titulo": "Volkswagen lança T-Cross Seleção por R$ 129.990; veja tudo da edição limitada do SUV",
-      "link": "https://g1.globo.com/carros/noticia/2026/04/06/volkswagen-lanca-t-cross-selecao-por-r-129990-veja-tudo-da-edicao-limitada-do-suv.ghtml",
-      "data": "06/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/Vy_0P2G-HigrBGRkPqGtDjx9yIc=/7008x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/h/OxjWS8RuarXS5T3hp7Ag/copia-de-fra05224.jpg"
-    },
-    {
-      "titulo": "Petróleo sobe após Irã e EUA rejeitarem proposta de cessar-fogo",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/06/cotacao-petroleo.ghtml",
-      "data": "06/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/gMsITDoEaVeozWXuA_iDwqUXMLk=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/Q/WtMmccTiiahrS5Wr1o9A/petroleo.jpg"
-    },
-    {
-      "titulo": "Governo zera imposto sobre querosene de aviação para conter alta das passagens",
-      "link": "https://www.moneytimes.com.br/governo-zera-imposto-sobre-querosene-de-aviacao-para-conter-alta-das-passagens-kda/",
+      "titulo": "Inflação mais alta com guerra e combustíveis pode levar BC a subir juros, diz MB Associados",
+      "link": "https://www.moneytimes.com.br/inflacao-mais-alta-com-guerra-e-combustiveis-pode-levar-bc-a-subir-juros-diz-mb-associados/",
       "data": "06/04/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2020/07/petrobras-aviacao-2.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/04/gabriel-galipolo-economia.jpg"
     },
     {
-      "titulo": "Ibovespa fecha estável após ameaças de Trump ao Irã; dólar recua a R$ 5,14",
-      "link": "https://www.moneytimes.com.br/ibovespa-6-4-26-apsa/",
+      "titulo": "A conta do governo para conter alta dos combustíveis",
+      "link": "https://www.moneytimes.com.br/moretti-impacto-anualizado-de-medidas-para-conter-alta-dos-combustiveis-pode-chegar-a-r-31-bi/",
       "data": "06/04/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/12/day-trade-4-1-1-2-1-1-2-1-1-1-2-1-2-2-2.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/07/lula-1.jpg"
     },
     {
-      "titulo": "INSS devolve R$ 3 bilhões a aposentados; prazo para pedir reembolso é ampliado",
-      "link": "https://www.moneytimes.com.br/inss-devolve-r-3-bilhoes-a-aposentados-prazo-para-pedir-reembolso-e-ampliado-gaep/",
+      "titulo": "Juros futuros fecham em alta com escalada das tensões no Oriente Médio",
+      "link": "https://www.moneytimes.com.br/juros-futuros-6-4-26-lils/",
       "data": "06/04/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2026/01/prova-de-vida-automatica-do-inss-divulgacao.jpg"
-    },
-    {
-      "titulo": "Dólar recua e fecha a R$ 5,14, no menor nível desde fevereiro, apesar de ameaças renovadas de Trump ao Irã",
-      "link": "https://www.moneytimes.com.br/dolar-6-4-26-apsa/",
-      "data": "06/04/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2026/02/dolar.jpg"
-    },
-    {
-      "titulo": "Petróleo fecha em leve alta com redução das expectativas de cessar-fogo no Oriente Médio após novas ameaças de Trump",
-      "link": "https://www.moneytimes.com.br/petroleo-6-4-26-lils/",
-      "data": "06/04/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2024/10/petroleo.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2023/10/juros-futuros.jpg"
     }
   ],
-  "noticias_em": "06/04/2026 20:59 UTC",
-  "noticias_em_br": "06/04/2026 17:59",
-  "indicadores_em": "06/04/2026 20:59 UTC",
-  "indicadores_em_br": "06/04/2026 17:59"
+  "noticias_em": "07/04/2026 01:54 UTC",
+  "noticias_em_br": "06/04/2026 22:54",
+  "indicadores_em": "07/04/2026 01:54 UTC",
+  "indicadores_em_br": "06/04/2026 22:54"
 }
