@@ -507,34 +507,44 @@ def _anp_process_xlsx(content):
 
         def build_semanas(df_fuel, n=20):
             """Constrói lista de semanas — inclui min/max reais da ANP."""
-            # Agrupa: média, min e max por semana
-            agg = {col_prec: 'mean'}
-            if col_min: agg[col_min] = 'min'
-            if col_max: agg[col_max] = 'max'
-            grp = df_fuel.groupby(col_ini).agg(agg).reset_index().sort_values(col_ini).tail(n)
+            # Aba BRASIL: cada linha já é o agregado semanal nacional
+            # Não re-agregar min/max pois isso pegaria extremos históricos
+            # Pega a média por semana (caso haja duplicatas por produto)
+            grp = df_fuel.groupby(col_ini).first().reset_index().sort_values(col_ini).tail(n)
+            # Recalcula coluna de preço médio corretamente
+            grp_avg = df_fuel.groupby(col_ini)[col_prec].mean().reset_index()
+            grp_avg.columns = [col_ini, '_avg']
+            grp = grp.merge(grp_avg, on=col_ini, how='left')
+
             semanas = []
             for _, row in grp.iterrows():
                 dt  = row[col_ini]
                 dt2 = dt + pd.Timedelta(days=6)
-                avg = round(float(row[col_prec]), 3)
-                # Usa min/max reais se disponíveis, senão estima
-                if col_min and col_min in row.index and not pd.isna(row[col_min]):
-                    vmin = round(float(row[col_min]), 3)
-                else:
-                    vmin = round(avg - 0.34, 3)
-                if col_max and col_max in row.index and not pd.isna(row[col_max]):
-                    vmax = round(float(row[col_max]), 3)
-                else:
-                    vmax = round(avg + 0.34, 3)
+                avg = round(float(row['_avg']), 3)
+
+                # Usa min/max da MESMA linha (já são valores da semana)
+                vmin = avg - 0.34  # fallback
+                vmax = avg + 0.34  # fallback
+                if col_min and col_min in row.index:
+                    v = pd.to_numeric(row[col_min], errors='coerce')
+                    # Validação: min deve estar entre avg-2 e avg
+                    if not pd.isna(v) and avg - 2.0 <= v <= avg:
+                        vmin = round(float(v), 3)
+                if col_max and col_max in row.index:
+                    v = pd.to_numeric(row[col_max], errors='coerce')
+                    # Validação: max deve estar entre avg e avg+2
+                    if not pd.isna(v) and avg <= v <= avg + 2.0:
+                        vmax = round(float(v), 3)
+
                 semanas.append({
-                    'ini':    dt.strftime('%Y-%m-%d'),
-                    'fim':    dt2.strftime('%Y-%m-%d'),
-                    'ini_br': dt.strftime('%d/%m'),
-                    'fim_br': dt2.strftime('%d/%m/%Y'),
-                    'label':  dt.strftime('%d/%m/%y'),
-                    'preco':  avg,
-                    'preco_min': vmin,
-                    'preco_max': vmax
+                    'ini':       dt.strftime('%Y-%m-%d'),
+                    'fim':       dt2.strftime('%Y-%m-%d'),
+                    'ini_br':    dt.strftime('%d/%m'),
+                    'fim_br':    dt2.strftime('%d/%m/%Y'),
+                    'label':     dt.strftime('%d/%m/%y'),
+                    'preco':     avg,
+                    'preco_min': round(vmin, 3),
+                    'preco_max': round(vmax, 3)
                 })
             return semanas
 
