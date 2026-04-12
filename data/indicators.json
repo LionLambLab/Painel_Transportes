@@ -513,22 +513,6 @@
       "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
     },
     {
-      "titulo": "Ela lidera uma indústria invisível — e agora quer levar o negócio para fora do Brasil",
-      "link": "https://exame.com/negocios/ela-lidera-uma-industria-invisivel-e-agora-quer-levar-o-negocio-para-fora-do-brasil/",
-      "data": "2026-04-12",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2026/04/metal-chek.jpg"
-    },
-    {
-      "titulo": "Diesel sobe 14,7% e diferença entre estados chega a R$ 1,11 por litro",
-      "link": "https://exame.com/economia/diesel-sobe-147-e-diferenca-entre-estados-chega-a-r-111-por-litro/",
-      "data": "2026-04-12",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2023/10/diesel1.jpg"
-    },
-    {
       "titulo": "Alta do diesel preocupa produtores de cana no início da safra no interior de SP",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/04/12/alta-do-diesel-preocupa-produtores-de-cana-no-inicio-da-safra-no-interior-de-sp.ghtml",
       "data": "12/04/2026",
@@ -545,12 +529,52 @@
       "imagem": "https://s2-g1.glbimg.com/BIA-82J4HN1VPzxsxA8CRkRbO9E=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/z/b/wMwAzGRQOfR1awSB2hQw/966e833c-798d-47c6-a155-915871df4fb6.jfif"
     },
     {
-      "titulo": "Alta do combustível: inflação das passagens aéreas sobe 17% em 2 meses",
-      "link": "https://www.metropoles.com/brasil/alta-passagens-sobe-em-2-meses",
+      "titulo": "Preço do petróleo deve subir com fracasso da negociação para encerrar guerra no Irã",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/preco-do-petroleo-deve-subir-com-fracasso-da-negociacao-para-encerrar-guerra-no-ira.shtml",
       "data": "12/04/2026",
-      "fonte": "Metrópoles",
+      "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://i.metroimg.com/N9YVncm8aJSPyBVUMB9zHR7G6E2IpbusZNWgompvV-4/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/aeroportobrasilia-1.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/12/177601930269dbe766cb7c6_1776019302_3x2_rt.jpg"
+    },
+    {
+      "titulo": "A inteligência artificial que expôs fragilidades na internet",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/ronaldolemos/2026/04/a-inteligencia-artificial-que-expos-fragilidades-na-internet.shtml",
+      "data": "12/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/08/177566494869d67f348bc9e_1775664948_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Conflito EUA-Irã cria temor em Fernando de Noronha sobre abastecimento de energia e água",
+      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/conflito-eua-ira-cria-temor-em-fernando-de-noronha-sobre-abastecimento-de-energia-e-agua.shtml",
+      "data": "12/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/09/177574705969d7bff3e91dd_1775747059_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Flotilha de ajuda a Gaza pretende romper bloqueio israelense",
+      "link": "https://www.infomoney.com.br/mundo/flotilha-de-ajuda-a-gaza-pretende-romper-bloqueio-israelense/",
+      "data": "12/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-06T184828Z_1_LYNXMPEM350RP_RTROPTP_4_ISRAEL-PALESTINIANS-GAZA.jpg?quality=70"
+    },
+    {
+      "titulo": "Oposição húngara Tisza pode vencer as eleições, dizem pesquisas",
+      "link": "https://www.infomoney.com.br/mundo/oposicao-hungara-tisza-pode-vencer-as-eleicoes-dizem-pesquisas/",
+      "data": "12/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-12T172521Z_1_LYNXMPEM3B0CC_RTROPTP_4_HUNGARY-ELECTION.jpg?fit=4432%2C2960&quality=70&strip=all"
+    },
+    {
+      "titulo": "Donald Trump afirma que os Estados Unidos vão bloquear Estreito de Ormuz",
+      "link": "https://www.moneytimes.com.br/donald-trump-afirma-que-estados-unidos-vao-bloquear-estreito-de-ormuz-lmrs/",
+      "data": "12/04/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/01/trump.png"
     },
     {
       "titulo": "Eleições no Peru: como crises políticas levaram país a ter uma 'economia zumbi'",
@@ -569,22 +593,6 @@
       "imagem": "https://s2-g1.glbimg.com/NbK4BRlTP7tEocnhCHt6kcydVik=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/L/vosTrgSBWGxqRKECnhQA/globo-canal-4-20260320-2000-frame-94655.jpeg"
     },
     {
-      "titulo": "Lufthansa enfrenta mais greves com a possibilidade de paralisação dos pilotos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450508",
-      "data": "11/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
-    },
-    {
-      "titulo": "Foragido do 8/1 que pediu socorro a Eduardo Bolsonaro é preso nos EUA",
-      "link": "https://www.metropoles.com/brasil/foragido-do-8-1-que-pediu-socorro-a-eduardo-bolsonaro-e-preso-nos-eua",
-      "data": "11/04/2026",
-      "fonte": "Metrópoles",
-      "prioridade": 1,
-      "imagem": "https://i.metroimg.com/GxUXiZV7-l3oMfLVUrYe6JgChEt5g7IVwYp07ncwksM/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2025/05/26123913/capa-2820.jpg"
-    },
-    {
       "titulo": "Ancine publica norma que amplia atuação da agência no combate à pirataria na internet",
       "link": "https://g1.globo.com/politica/noticia/2026/04/10/ancine-publica-norma-que-amplia-atuacao-da-agencia-no-combate-a-pirataria-na-internet.ghtml",
       "data": "10/04/2026",
@@ -599,14 +607,6 @@
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/4ZdjjbcSFZ2QSTd__qlqHUnBqKE=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/r/d/qLf9ppQoCgPRfYpZ7dwA/54880379716-8dbc544fe0-k.jpg"
-    },
-    {
-      "titulo": "VÍDEO: 'Foi o dia em que eu mais me senti violada', diz ex-funcionária do STJ sobre assédio do ministro Buzzi",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/04/10/video-foi-o-dia-que-eu-mais-me-senti-violada-diz-ex-funcionaria-sobre-assedio-de-buzzi-no-stj.ghtml",
-      "data": "10/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/Omtz-0PVNbZRJhaonylIIT1VT00=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/4/Nk6QsGRyyufrGDFEJ9Vw/ministro-buzzi.jpg"
     },
     {
       "titulo": "Fundo de Bill Ackman propõe aquisição da Universal Music por US$ 64 bilhões",
@@ -633,12 +633,52 @@
       "imagem": "https://revistalogistica.imam.com.br/wp-content/uploads/2024/07/cropped-revistalogisticalogo.png"
     },
     {
+      "titulo": "Trump ameaça taxar China em 50% se o país enviar armas ao Irã",
+      "link": "https://exame.com/mundo/trump-ameaca-taxar-china-em-50-se-o-pais-enviar-armas-ao-ira/",
+      "data": "2026-04-12",
+      "fonte": "Exame",
+      "prioridade": 2,
+      "imagem": "https://classic.exame.com/wp-content/uploads/2026/04/AFP__20260406__A6W29VD__v1__HighRes__UsPresidentDonaldTrumpHoldsPresserAmidIranWar.jpg"
+    },
+    {
       "titulo": "Leapmotor B10 se inspira em Tesla para enfrentar rivais no mercado de SUVs elétricos; vale a pena?",
       "link": "https://g1.globo.com/carros/noticia/2026/04/12/leapmotor-b10-teste.ghtml",
       "data": "12/04/2026",
       "fonte": "G1",
       "prioridade": 2,
       "imagem": "https://s2-g1.glbimg.com/w-fpOj3sFJbM-LxXkuClyWC_WxA=/6000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/k/ufVKjJQ1uSqDYhWFYowA/leapmotor-b10-2-.jpg"
+    },
+    {
+      "titulo": "Rússia está pronta para fornecer gás à UE se tiver excedente, informa agência estatal",
+      "link": "https://www.infomoney.com.br/mundo/russia-esta-pronta-para-fornecer-gas-a-ue-se-tiver-excedente-informa-agencia-estatal/",
+      "data": "12/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 2,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/02/2025-02-10T105742Z_1_LYNXMPEL190DN_RTROPTP_4_UE-TRUMP-TARIFAS.jpg?quality=70"
+    },
+    {
+      "titulo": "Irã teve iniciativa para demonstrar boa vontade com os EUA, diz negociador",
+      "link": "https://www.infomoney.com.br/mundo/ira-teve-iniciativa-para-demonstrar-boa-vontade-com-os-eua-diz-negociador/",
+      "data": "12/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 2,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/sina-drakhshani-9S96Rqy9Q1U-unsplash.jpg?quality=70"
+    },
+    {
+      "titulo": "Guerra contra o Irã custou a Israel US$11,5 bilhões, diz ministério",
+      "link": "https://www.infomoney.com.br/mundo/guerra-contra-o-ira-custou-a-israel-us115-bilhoes-diz-ministerio/",
+      "data": "12/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 2,
+      "imagem": ""
+    },
+    {
+      "titulo": "Sinner vence Alcaraz, é campeão em Monte Carlo e assume liderança do ranking",
+      "link": "https://www.infomoney.com.br/esportes/sinner-vence-alcaraz-e-campeao-em-monte-carlo-e-assume-lideranca-do-ranking/",
+      "data": "12/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 2,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/06/2025-06-02T203758Z_100096738_UP1EL621LB9P8_RTRMADP_3_TENNIS-FRENCHOPEN.jpg?quality=70"
     },
     {
       "titulo": "Escassez de petróleo cria uma corrida desesperada e prêmios recordes no mercado",
@@ -649,28 +689,44 @@
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/453696110.jpg?quality=70"
     },
     {
+      "titulo": "Agenda: Prévia do PIB, Livro Bege e inflação na Europa; confira os indicadores desta semana",
+      "link": "https://www.moneytimes.com.br/agenda-previa-do-pib-livro-bege-e-inflacao-na-europa-confira-os-indicadores-desta-semana-jcav/",
+      "data": "12/04/2026",
+      "fonte": "Money Times",
+      "prioridade": 2,
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/10/brasil.jpg"
+    },
+    {
+      "titulo": "Is China the World’s Best Prepared Nation for an Energy Crisis?",
+      "link": "https://oilprice.com/Energy/Energy-General/Is-China-the-Worlds-Best-Prepared-Nation-for-an-Energy-Crisis.html",
+      "data": "12/04/2026",
+      "fonte": "OilPrice",
+      "prioridade": 2,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-04-10_j0c34reoyc.jpg"
+    },
+    {
+      "titulo": "Colombia’s Energy Crisis Deepens as Oil Output Falls and Imports Rise",
+      "link": "https://oilprice.com/Energy/Energy-General/Colombias-Energy-Crisis-Deepens-as-Oil-Output-Falls-and-Imports-Rise.html",
+      "data": "12/04/2026",
+      "fonte": "OilPrice",
+      "prioridade": 2,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-04-10_d2voadhquq.jpg"
+    },
+    {
+      "titulo": "How the Strait of Hormuz Blockade Handed China a Clean Energy Windfall",
+      "link": "https://oilprice.com/Energy/Energy-General/How-the-Strait-of-Hormuz-Blockade-Handed-China-a-Clean-Energy-Windfall.html",
+      "data": "12/04/2026",
+      "fonte": "OilPrice",
+      "prioridade": 2,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-04-10_5jbcfuhtid.jpg"
+    },
+    {
       "titulo": "OpenAI, dona do ChatGPT, vê ameaça da IA ao emprego e defende semana de 4 dias",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/04/11/openai-dona-do-chatgpt-ve-ameaca-da-ia-ao-emprego-e-defende-semana-de-4-dias.ghtml",
       "data": "11/04/2026",
       "fonte": "G1",
       "prioridade": 2,
       "imagem": "https://s2-g1.glbimg.com/6XxEdWKYlZtm1f7twUBA-fIDCEE=/8011x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/O/6/wLLEZWQS2WzCuyY0EB9g/afp-20251002-77jn29e-v1-highres-filesustechnologyaiinvestments.jpg"
-    },
-    {
-      "titulo": "Pacote de combate ao endividamento pode virar arma eleitoral para estimular consumo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/04/pacote-de-combate-ao-endividamento-pode-virar-arma-eleitoral-para-estimular-consumo.shtml",
-      "data": "11/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/23/177430472269c1bdd232073_1774304722_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Mercado de petróleo está dominado por uma corrida desesperada por barris",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/mercado-de-petroleo-esta-dominado-por-uma-corrida-desesperada-por-barris.shtml",
-      "data": "11/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/09/177573550669d792d2450c9_1775735506_3x2_xl.jpg"
     },
     {
       "titulo": "Haddad foi um bom ministro",
@@ -687,128 +743,24 @@
       "fonte": "Folha SP",
       "prioridade": 2,
       "imagem": "https://f.i.uol.com.br/fotografia/2026/04/11/177593929769daaee1b7118_1775939297_3x2_lg.jpg"
-    },
-    {
-      "titulo": "Estreito de Ormuz segue sendo ponto de “sérias divergências” nas negociações em Islamabad, diz agência iraniana",
-      "link": "https://www.moneytimes.com.br/estreito-de-ormuz-segue-sendo-ponto-de-serias-divergencias-nas-negociacoes-em-islamabad-diz-agencia-iraniana/",
-      "data": "11/04/2026",
-      "fonte": "Money Times",
-      "prioridade": 2,
-      "imagem": "https://www.moneytimes.com.br/uploads/2026/04/estreito-de-ormuz.jpg"
-    },
-    {
-      "titulo": "How Iran’s Dark Fleet Is Quietly Keeping Oil Markets Afloat",
-      "link": "https://oilprice.com/Energy/Crude-Oil/How-Irans-Dark-Fleet-Is-Quietly-Keeping-Oil-Markets-Afloat.html",
-      "data": "11/04/2026",
-      "fonte": "OilPrice",
-      "prioridade": 2,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-04-10_azbnglxuyl.jpg"
-    },
-    {
-      "titulo": "Three Energy Stories That Actually Matter Right Now",
-      "link": "https://oilprice.com/Energy/Energy-General/Three-Energy-Stories-That-Actually-Matter-Right-Now.html",
-      "data": "11/04/2026",
-      "fonte": "OilPrice",
-      "prioridade": 2,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-04-10_vl0gqtypon.jpg"
-    },
-    {
-      "titulo": "How the Iran War Could Reignite Global EV Demand",
-      "link": "https://oilprice.com/Energy/Energy-General/How-the-Iran-War-Could-Reignite-Global-EV-Demand.html",
-      "data": "11/04/2026",
-      "fonte": "OilPrice",
-      "prioridade": 2,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-04-10_74vfyrpqjw.jpg"
-    },
-    {
-      "titulo": "Global Energy Shortages Drive Renewed Reliance on Coal",
-      "link": "https://oilprice.com/Energy/Coal/Global-Energy-Shortages-Drive-Renewed-Reliance-on-Coal.html",
-      "data": "11/04/2026",
-      "fonte": "OilPrice",
-      "prioridade": 2,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-04-10_qseb0n9fwz.jpg"
-    },
-    {
-      "titulo": "Strait of Hormuz Constraints Keep Oil Prices Elevated",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Strait-of-Hormuz-Constraints-Keep-Oil-Prices-Elevated.html",
-      "data": "10/04/2026",
-      "fonte": "OilPrice",
-      "prioridade": 2,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-04-10_og4ayilnsz.jpg"
-    },
-    {
-      "titulo": "India’s Nuclear Bet Is Starting To Pay Off",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Indias-Nuclear-Bet-Is-Starting-To-Pay-Off.html",
-      "data": "10/04/2026",
-      "fonte": "OilPrice",
-      "prioridade": 2,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-04-10_d7oieagpyi.jpg"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "Quais são os maiores atacarejos de Santa Catarina? Veja quanto eles faturam",
-      "link": "https://exame.com/negocios/quais-sao-os-maiores-atacarejos-de-santa-catarina-veja-quanto-eles-faturam/",
-      "data": "2026-04-12",
-      "fonte": "Exame",
+      "titulo": "Preço do petróleo deve subir com fracasso da negociação para encerrar guerra no Irã",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/preco-do-petroleo-deve-subir-com-fracasso-da-negociacao-para-encerrar-guerra-no-ira.shtml",
+      "data": "12/04/2026",
+      "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2021/05/fort-atacadista.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/12/177601930269dbe766cb7c6_1776019302_3x2_rt.jpg"
     },
     {
-      "titulo": "Mega-Sena acumula e prêmio principal vai a R$ 45 milhões; veja números",
-      "link": "https://www.infomoney.com.br/consumo/mega-sena-acumula-e-premio-principal-vai-a-r-45-milhoes-veja-numeros/",
+      "titulo": "Ministério da Fazenda explica como será o imposto do pecado em 2027",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/04/ministerio-da-fazenda-explica-como-sera-o-imposto-do-pecado-em-2027.shtml",
       "data": "12/04/2026",
-      "fonte": "InfoMoney",
+      "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/09/cropped-Image-6-e1725979055362-1.jpg?quality=70"
-    },
-    {
-      "titulo": "Berkshire vende primeiro título atrelado ao iene desde renúncia de Buffett como CEO",
-      "link": "https://www.infomoney.com.br/onde-investir/berkshire-vende-primeiro-titulo-atrelado-ao-iene-desde-renuncia-de-buffett-como-ceo/",
-      "data": "12/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/06/2024-06-24T110256Z_1_LYNXMPEK5N0C4_RTROPTP_4_MACRO-JAPAO-JUROS-DEBATE.jpg?fit=5232%2C3742&quality=70&strip=all"
-    },
-    {
-      "titulo": "Recebe aposentadoria do exterior e tem mais de 65 anos? Saiba se há isenção no IR",
-      "link": "https://www.infomoney.com.br/minhas-financas/recebe-aposentadoria-do-exterior-e-tem-mais-de-65-anos-saiba-se-ha-isencao-imposto-de-renda/",
-      "data": "12/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/10/aposentadoria.jpg?fit=1000%2C667&quality=70&strip=all"
-    },
-    {
-      "titulo": "Aposentado e vive de aluguel: pode usar isenção de R$ 22.847,76 no Imposto de Renda?",
-      "link": "https://www.infomoney.com.br/minhas-financas/aposentado-e-vive-de-aluguel-pode-usar-isencao-de-r-22-84776-no-imposto-de-renda/",
-      "data": "12/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/05/img_4219.webp?fit=1024%2C768&quality=70&strip=all"
-    },
-    {
-      "titulo": "Coleção de relógios antigos vai a leilão e pode arrecadar mais de R$ 75 milhões",
-      "link": "https://www.infomoney.com.br/minhas-financas/colecao-de-relogios-antigos-vai-a-leilao-e-pode-arrecadar-mais-de-r-75-milhoes/",
-      "data": "12/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/cartier.jpg?fit=4000%2C2666&quality=70&strip=all"
-    },
-    {
-      "titulo": "Escassez de petróleo cria uma corrida desesperada e prêmios recordes no mercado",
-      "link": "https://www.infomoney.com.br/mercados/escassez-de-petroleo-cria-uma-corrida-desesperada-e-premios-recordes-no-mercado/",
-      "data": "12/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/453696110.jpg?quality=70"
-    },
-    {
-      "titulo": "Quina hoje, concurso 6999: Confira o resultado sorteado neste sábado (11)",
-      "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-6999-confira-o-resultado-sorteado-neste-sabado-11/",
-      "data": "12/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?quality=70"
+      "imagem": "https://f.i.uol.com.br/fotografia/2023/04/04/1680619978642c39ca9f595_1680619978_3x2_rt.jpg"
     },
     {
       "titulo": "Leapmotor B10 se inspira em Tesla para enfrentar rivais no mercado de SUVs elétricos; vale a pena?",
@@ -827,36 +779,20 @@
       "imagem": "https://s2-g1.glbimg.com/BIA-82J4HN1VPzxsxA8CRkRbO9E=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/z/b/wMwAzGRQOfR1awSB2hQw/966e833c-798d-47c6-a155-915871df4fb6.jfif"
     },
     {
-      "titulo": "Há saída para a economia brasileira",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/04/ha-saida-para-a-economia-brasileira.shtml",
-      "data": "11/04/2026",
-      "fonte": "Folha SP",
+      "titulo": "Lojas Renner (LREN3) e Telefônica Brasil (VIVT3)  pagam dividendos nesta semana; veja o calendário",
+      "link": "https://www.moneytimes.com.br/dividendos-da-semana-10-4-26-apsa/",
+      "data": "12/04/2026",
+      "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/13/177343873369b4870dac360_1773438733_3x2_xl.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/01/dinheiro-dividendos-imagem-andrzej-rostek-istockphoto.png"
     },
     {
-      "titulo": "Pacote de combate ao endividamento pode virar arma eleitoral para estimular consumo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/04/pacote-de-combate-ao-endividamento-pode-virar-arma-eleitoral-para-estimular-consumo.shtml",
-      "data": "11/04/2026",
-      "fonte": "Folha SP",
+      "titulo": "Agenda: Prévia do PIB, Livro Bege e inflação na Europa; confira os indicadores desta semana",
+      "link": "https://www.moneytimes.com.br/agenda-previa-do-pib-livro-bege-e-inflacao-na-europa-confira-os-indicadores-desta-semana-jcav/",
+      "data": "12/04/2026",
+      "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/23/177430472269c1bdd232073_1774304722_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Lufthansa enfrenta mais greves com a possibilidade de paralisação dos pilotos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450508",
-      "data": "11/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
-    },
-    {
-      "titulo": "Mercado de petróleo está dominado por uma corrida desesperada por barris",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/mercado-de-petroleo-esta-dominado-por-uma-corrida-desesperada-por-barris.shtml",
-      "data": "11/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/09/177573550669d792d2450c9_1775735506_3x2_xl.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/10/brasil.jpg"
     },
     {
       "titulo": "Eleições no Peru: como crises políticas levaram país a ter uma 'economia zumbi'",
@@ -873,18 +809,10 @@
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
-    },
-    {
-      "titulo": "Dividendo de 11,5% e proteção contra a inflação: Por que este fundo imobiliário é compra para a XP",
-      "link": "https://www.moneytimes.com.br/dividendo-de-115-e-protecao-contra-a-inflacao-por-que-este-fundo-imobiliario-e-compra-para-a-xp-igdl/",
-      "data": "11/04/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/04/fundos-imobiliarios-carteira-recomendada-.jpg"
     }
   ],
-  "noticias_em": "12/04/2026 11:05 UTC",
-  "noticias_em_br": "12/04/2026 08:05",
+  "noticias_em": "12/04/2026 19:28 UTC",
+  "noticias_em_br": "12/04/2026 16:28",
   "indicadores_em": "07/04/2026 01:54 UTC",
   "indicadores_em_br": "06/04/2026 22:54"
 }
