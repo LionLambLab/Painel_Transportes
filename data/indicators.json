@@ -1,6 +1,6 @@
 {
-  "gerado_em": "13/04/2026 16:00 UTC",
-  "gerado_em_br": "13/04/2026 13:00",
+  "gerado_em": "13/04/2026 17:44 UTC",
+  "gerado_em_br": "13/04/2026 14:44",
   "anp": {
     "semana_referencia": "29/03 a 04/04/2026",
     "preco_atual": 7.58,
@@ -254,7 +254,7 @@
         "variacao_pct": 13.9
       }
     },
-    "atualizado": "13/04/2026 16:01 UTC"
+    "atualizado": "13/04/2026 17:45 UTC"
   },
   "ipca": {
     "series": [
@@ -521,20 +521,12 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/volvo-fh-aerodinamica-2026-01.jpg"
     },
     {
-      "titulo": "Parceria testa rastreabilidade de combustível sustentável de aviação",
-      "link": "https://exame.com/bussola/parceria-testa-rastreabilidade-de-combustivel-sustentavel-de-aviacao-saf/",
+      "titulo": "'México me interessa, Venezuela é difícil', diz presidente da Petrobras",
+      "link": "https://exame.com/negocios/mexico-me-interessa-venezuela-e-dificil-diz-presidente-da-petrobras/",
       "data": "2026-04-13",
       "fonte": "Exame",
       "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2026/04/AR-laboratorio.jpg"
-    },
-    {
-      "titulo": "Prazo de Trump termina e bloqueio naval contra o Irã entra em vigor",
-      "link": "https://exame.com/mundo/prazo-de-trump-termina-e-bloqueio-naval-contra-o-ira-entra-em-vigor/",
-      "data": "2026-04-13",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2026/03/GettyImages-2265963203-1.jpg"
+      "imagem": "https://classic.exame.com/wp-content/uploads/2026/04/MG_4830.jpg"
     },
     {
       "titulo": "Fiat Toro tem recall no Brasil por risco de incêndio",
@@ -561,7 +553,7 @@
       "imagem": "https://s2-g1.glbimg.com/diNBdUwNqoy0xsiHvHISPI_ai08=/1270x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/g/L8qMQARaiovGknrVOgsA/whatsapp-image-2026-03-24-at-09.32.00-3-.jpg"
     },
     {
-      "titulo": "Petróleo sobe mais de 7% e supera US$ 102 antes de bloqueio dos EUA ao Irã",
+      "titulo": "Petróleo sobe mais de 5% após bloqueio do Estreito de Ormuz pelos EUA",
       "link": "https://g1.globo.com/economia/noticia/2026/04/13/petroleo-precos.ghtml",
       "data": "13/04/2026",
       "fonte": "G1",
@@ -585,7 +577,7 @@
       "imagem": "https://s2-g1.glbimg.com/Xjzo2Sebuuuh9xkmHexWkclHUIY=/5119x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/T/HoAx3tTLyT7ywQk3oC5A/ap26074858602889.jpg"
     },
     {
-      "titulo": "Ibovespa recua com petróleo em alta e ameaça de Trump sobre Ormuz; dólar sobe",
+      "titulo": "Dólar cai abaixo de R$ 5 e Ibovespa recua com ameaças de Trump ao Irã",
       "link": "https://g1.globo.com/economia/noticia/2026/04/13/dolar-ibovespa.ghtml",
       "data": "13/04/2026",
       "fonte": "G1",
@@ -625,12 +617,28 @@
       "imagem": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
     },
     {
-      "titulo": "Centrão rejeita Zema como vice de Flávio Bolsonaro e vê fala sobre Nordeste como 'bomba eleitoral'",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/04/13/centrao-rejeita-zema-como-vice-de-flavio-e-ve-fala-sobre-nordeste-como-bomba-eleitoral.ghtml",
+      "titulo": "CNBB emite nota em apoio ao papa Leão XIV após críticas de Trump",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/04/13/cnbb-emite-nota-em-apoio-ao-papa-leao-xiv-apos-criticas-de-trump.ghtml",
       "data": "13/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/OPBKqv5Qum18AaNznj3YsMxYdIY=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/O/S/a5h2LjQ2iC7nz8VbdK9g/fotojet-5-1-.jpg"
+      "imagem": "https://s2-g1.glbimg.com/uSvfGhCE5WWC9y8nsGiUTAGaYkQ=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/h/HR4QuBQxSQkwdgNz7UEA/fotojet-2025-05-09t080633.783.jpg"
+    },
+    {
+      "titulo": "Ramagem foi abordado na rua pelo ICE em Orlando, teve documentos analisados e acabou preso",
+      "link": "https://g1.globo.com/politica/politico/noticia/2026/04/13/ramagem-caminhava-na-rua-quando-foi-abordado-pelo-ice-teve-seus-documentos-recusados-e-acabou-preso.ghtml",
+      "data": "13/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/lJl_EP3kV25mM7ATdryqEYkje9M=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/2/z/jYds2ORoiJ7KGJVft8qA/globo-canal-4-20251121-2000-frame-108121.jpeg"
+    },
+    {
+      "titulo": "Ex-deputado Alexandre Ramagem é preso pelo ICE, serviço de imigração dos EUA",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/13/ice-prende-ramagem-nos-eua-diz-pf.ghtml",
+      "data": "13/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/MkLrjriQzmepw__KUtS4gxyBUV0=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/B/TGeBi7SbGy5FlUOyOd4Q/54578583475-c93dfee90f-k.jpg"
     },
     {
       "titulo": "Secretário responsável por lista suja do trabalho escravo é demitido em meio a crise em ministério",
@@ -649,36 +657,36 @@
       "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
-      "titulo": "GPA diz que Tribunal negou pedido da companhia para bloqueio das ações detidas",
-      "link": "https://www.infomoney.com.br/mercados/gpa-diz-que-tribunal-negou-pedido-da-companhia-para-bloqueio-das-acoes-detidas/",
+      "titulo": "Irã afirma estar em “alerta máximo de combate” após bloqueio e novas ameaças de Trump",
+      "link": "https://www.infomoney.com.br/mundo/ira-afirma-estar-em-alerta-maximo-de-combate-apos-bloqueio-e-novas-ameacas-de-trump/",
       "data": "13/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2019/11/Imagem-divulgação_Pão-de-Açúcar-2-1170x750.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/06/2025-06-22T210137Z_862008004_RC2W7FAWHFEG_RTRMADP_3_IRAN-NUCELAR-HORMUZ.jpg?quality=70"
     },
     {
-      "titulo": "PRIO, Petrobras e Brava: petroleiras sobem após fracasso nas negociações EUA-Irã",
-      "link": "https://www.infomoney.com.br/mercados/prio-petrobras-e-brava-petroleiras-sobem-apos-fracasso-nas-negociacoes-eua-ira/",
-      "data": "13/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/01/447247335.jpg?quality=70"
-    },
-    {
-      "titulo": "Trump anuncia bloqueio naval em Ormuz para pressionar economia do Irã",
-      "link": "https://www.metropoles.com/blog-do-noblat/trump-anuncia-bloqueio-naval-em-ormuz-para-pressionar-economia-do-ira",
+      "titulo": "Sóstenes se manifesta sobre prisão de Alexandre Ramagem pelo ICE",
+      "link": "https://www.metropoles.com/brasil/sostenes-se-manifesta-sobre-prisao-de-alexandre-ramagem-pelo-ice",
       "data": "13/04/2026",
       "fonte": "Metrópoles",
       "prioridade": 1,
-      "imagem": "https://i.metroimg.com/hA5DpggPbvExsUTQCZOI1YyCzP1XgCNAy-udLR6PMr8/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/trumpp.jpg"
+      "imagem": "https://i.metroimg.com/23XLHfqmnrbIMlJGteUpo7cprne5zb9wjtTZv-lZw3s/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2025/08/20162122/Deputado-Sostenes-Cavalcante-PL-RJ-lider-do-PL-na-Camara-Metropoles-14-1200x800.jpg"
     },
     {
-      "titulo": "Moradores protestam contra risco de destombamento da Escola Panamericana, em Higienópolis",
-      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/moradores-protestam-contra-risco-de-destombamento-da-escola-panamericana-em-higienopolis.shtml",
-      "data": "12/04/2026",
-      "fonte": "Folha SP",
+      "titulo": "\"Presidente do INSS foi sacrificado para conter dano\", diz líder do PL",
+      "link": "https://www.metropoles.com/brasil/presidente-do-inss-foi-sacrificado-para-conter-dano-diz-lider-do-pl",
+      "data": "13/04/2026",
+      "fonte": "Metrópoles",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/12/177602591969dc013f0e64d_1776025919_3x2_lg.jpg"
+      "imagem": "https://i.metroimg.com/qgCV5NXReMhQH-SxqUaruEq-5F3HiDZORgZ79BTzr-0/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2025/08/20162130/Deputado-Sostenes-Cavalcante-PL-RJ-lider-do-PL-na-Camara-Metropoles-15-1200x800.jpg"
+    },
+    {
+      "titulo": "Petrobras Strikes New Offshore Hydrocarbon Discovery In Brazil",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Petrobras-Strikes-New-Offshore-Hydrocarbon-Discovery-In-Brazil.html",
+      "data": "13/04/2026",
+      "fonte": "OilPrice",
+      "prioridade": 1,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-04-13_3jlcer76qs.jpg"
     },
     {
       "titulo": "Volvo inicia testes na Europa com caminhões movidos a hidrogênio combustível",
@@ -721,14 +729,6 @@
       "imagem": "https://revistalogistica.imam.com.br/wp-content/uploads/2024/07/cropped-revistalogisticalogo.png"
     },
     {
-      "titulo": "MBRF dobra aposta no mercado halal e amplia acordo com fundo saudita",
-      "link": "https://exame.com/agro/mbrf-dobra-aposta-no-mercado-halal-e-amplia-acordo-com-fundo-saudita/",
-      "data": "2026-04-13",
-      "fonte": "Exame",
-      "prioridade": 2,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2025/09/BRF_GermanoLuders.jpeg"
-    },
-    {
       "titulo": "Volta à Lua custa bilhões — mas o que os EUA ganham com isso?",
       "link": "https://g1.globo.com/economia/noticia/2026/04/13/quanto-custou-retorno-historico-a-lua-e-quem-ganha-com-isso.ghtml",
       "data": "13/04/2026",
@@ -747,12 +747,52 @@
   ],
   "econ_noticias": [
     {
-      "titulo": "Hungria: Bolsa sobe e moeda tem maior valor em 4 anos com vitória de candidato pró-UE",
-      "link": "https://www.infomoney.com.br/mercados/hungria-bolsa-sobe-e-moeda-tem-maior-valor-em-4-anos-com-vitoria-de-candidato-pro-ue/",
+      "titulo": "Ibovespa acompanha NY e reduz perdas; dólar volta a cair e fica abaixo de R$ 5",
+      "link": "https://exame.com/invest/mercados/ibovespa-acompanha-ny-e-reduz-perdas-dolar-volta-a-cair-e-fica-abaixo-de-r-5/",
+      "data": "2026-04-13",
+      "fonte": "Exame",
+      "prioridade": 1,
+      "imagem": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2685bx.jpg"
+    },
+    {
+      "titulo": "Bolsas da Europa fecham em queda após impasse EUA-Irã e com ameaça iminente em Ormuz",
+      "link": "https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-em-queda-apos-impasse-eua-ira-e-com-ameaca-iminente-em-ormuz/",
       "data": "13/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Captura-de-tela-2026-04-13-123414.png?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/04/2024-04-24T185107Z_1_LYNXNPEK3N0TK_RTROPTP_4_EUROPE-STOCKS.jpg?quality=70"
+    },
+    {
+      "titulo": "Dólar hoje cai a R$ 4,98 após Trump afirmar que Irã quer fazer acordo",
+      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-13042026/",
+      "data": "13/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/blogging-guide-K5DY18hy5JQ-unsplash_red.jpg?quality=70"
+    },
+    {
+      "titulo": "Ibovespa Hoje Ao Vivo: Bolsa oscila com Oriente Médio no radar; dólar cai a R$ 4,99",
+      "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-13042026/",
+      "data": "13/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-28.png?quality=70"
+    },
+    {
+      "titulo": "BC vê problema de superendividamento e aponta salto em empréstimos sem garantia",
+      "link": "https://www.infomoney.com.br/economia/bc-ve-problema-de-superendividamento-e-aponta-salto-em-emprestimos-sem-garantia/",
+      "data": "13/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/07/2025-07-24T004821Z_1_LYNXMPEL6N00L_RTROPTP_4_BRAZIL-ECONOMY-SURVEY-2.jpg?quality=70"
+    },
+    {
+      "titulo": "Alckmin diz que fim da escala 6x1 é tendência mundial e defende ajustes na Previdência em evento com sindicalistas",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/alckmin-diz-que-fim-da-escala-6x1-e-tendencia-mundial-e-defende-ajustes-na-previdencia-em-evento-com-sindicalistas.shtml",
+      "data": "13/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/13/177609823069dd1bb69e998_1776098230_3x2_xl.jpg"
     },
     {
       "titulo": "Opep+ sofre queda de 18% na produção de petróleo em março devido à guerra no Irã",
@@ -795,12 +835,12 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2019/10/07/15704910445d9bcaa4c5204_1570491044_3x2_rt.jpg"
     },
     {
-      "titulo": "Imposto Seletivo pode manter carga sobre cigarros e bebidas ou buscar metas mais ambiciosas de saúde, diz Fazenda",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/04/imposto-seletivo-pode-manter-carga-sobre-cigarros-e-bebidas-ou-buscar-metas-mais-ambiciosas-de-saude-diz-fazenda.shtml",
+      "titulo": "Governo diz que fila do INSS recuou em março, mas que está no mesmo tamanho de um ano atrás",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/13/governo-diz-que-fila-do-inss-recuou-em-marco-mas-que-esta-no-mesmo-tamanho-de-um-ano-atras.ghtml",
       "data": "13/04/2026",
-      "fonte": "Folha SP",
+      "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2025/03/19/174241930067db356466b1f_1742419300_3x2_rt.jpg"
+      "imagem": "https://s2-g1.glbimg.com/m0JKirRdoyYRPbbIFF1uv142n8E=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/z/9EKZqsR8S2TLH87oArtA/jornal-do-almoco-limpo-mais-ge-2401-frame-52934.jpg"
     },
     {
       "titulo": "117 milhões de pessoas têm débitos bancários, e BC vê superendividamento como 'problema crescente' no Brasil",
@@ -843,7 +883,7 @@
       "imagem": "https://s2-g1.glbimg.com/diNBdUwNqoy0xsiHvHISPI_ai08=/1270x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/g/L8qMQARaiovGknrVOgsA/whatsapp-image-2026-03-24-at-09.32.00-3-.jpg"
     },
     {
-      "titulo": "Petróleo sobe mais de 7% e supera US$ 102 antes de bloqueio dos EUA ao Irã",
+      "titulo": "Petróleo sobe mais de 5% após bloqueio do Estreito de Ormuz pelos EUA",
       "link": "https://g1.globo.com/economia/noticia/2026/04/13/petroleo-precos.ghtml",
       "data": "13/04/2026",
       "fonte": "G1",
@@ -859,7 +899,7 @@
       "imagem": "https://s2-g1.glbimg.com/Xjzo2Sebuuuh9xkmHexWkclHUIY=/5119x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/T/HoAx3tTLyT7ywQk3oC5A/ap26074858602889.jpg"
     },
     {
-      "titulo": "Ibovespa recua com petróleo em alta e ameaça de Trump sobre Ormuz; dólar sobe",
+      "titulo": "Dólar cai abaixo de R$ 5 e Ibovespa recua com ameaças de Trump ao Irã",
       "link": "https://g1.globo.com/economia/noticia/2026/04/13/dolar-ibovespa.ghtml",
       "data": "13/04/2026",
       "fonte": "G1",
@@ -875,16 +915,24 @@
       "imagem": "https://s2-g1.glbimg.com/D_GLApJi_6tyGoGf4eKpjL8neA8=/5899x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/t/q625aUTiay0FHHXdgDTg/2026-02-17t140354z-422355056-rc2knja6s9wt-rtrmadp-3-ukraine-crisis-russia-cucumbers.jpg"
     },
     {
-      "titulo": "Presidente do INSS é demitido após 11 meses do escândalo da Previdência; funcionária de carreira assume comando do órgão",
-      "link": "https://www.moneytimes.com.br/presidente-do-inss-e-demitido-apos-11-meses-do-escandalo-da-previdencia-funcionaria-de-carreira-assume-comando-do-orgao/",
+      "titulo": "Petróleo vira aliado e BTG eleva projeção da balança comercial do Brasil para US$ 90 bilhões",
+      "link": "https://www.moneytimes.com.br/petroleo-vira-aliado-e-btg-eleva-projecao-para-balanca-comercial-do-brasil-a-us-90-bilhoes-jcav/",
       "data": "13/04/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2026/02/gilberto-waller-junior-presidente-do-inss-imagem-antonio-cruz-agencia-brasil.png"
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/10/petroleo-eua-china-.jpg"
+    },
+    {
+      "titulo": "Banco Central mantém viés de corte de juros mesmo com IPCA mais alto, segundo Empiricus Research",
+      "link": "https://www.moneytimes.com.br/banco-central-mantem-vies-de-corte-mesmo-com-ipca-mais-alto-segundo-empiricus-research-ceci/",
+      "data": "13/04/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/04/novo-layout-giro-38.png"
     }
   ],
-  "noticias_em": "13/04/2026 16:00 UTC",
-  "noticias_em_br": "13/04/2026 13:00",
-  "indicadores_em": "13/04/2026 16:00 UTC",
-  "indicadores_em_br": "13/04/2026 13:00"
+  "noticias_em": "13/04/2026 17:44 UTC",
+  "noticias_em_br": "13/04/2026 14:44",
+  "indicadores_em": "13/04/2026 17:44 UTC",
+  "indicadores_em_br": "13/04/2026 14:44"
 }
