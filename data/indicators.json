@@ -1,6 +1,6 @@
 {
-  "gerado_em": "13/04/2026 20:14 UTC",
-  "gerado_em_br": "13/04/2026 17:14",
+  "gerado_em": "15/04/2026 15:54 UTC",
+  "gerado_em_br": "15/04/2026 12:54",
   "anp": {
     "semana_referencia": "29/03 a 04/04/2026",
     "preco_atual": 7.58,
@@ -254,7 +254,7 @@
         "variacao_pct": 13.9
       }
     },
-    "atualizado": "13/04/2026 20:14 UTC"
+    "atualizado": "15/04/2026 15:55 UTC"
   },
   "ipca": {
     "series": [
@@ -446,7 +446,7 @@
   },
   "usd_brl": {
     "series": [],
-    "atual": 5.0199
+    "atual": 4.9869
   },
   "inctl": {
     "ultimo": 0.22,
@@ -501,144 +501,112 @@
       }
     ],
     "fonte": "CNT",
-    "atualizado": "13/04/2026"
+    "atualizado": "15/04/2026"
   },
   "noticias": [
     {
-      "titulo": "Natura redesenha comando, retira fundadores do conselho e negocia entrada de investidor externo",
-      "link": "https://g1.globo.com/economia/negocios/noticia/2026/03/31/natura-redesenha-comando-retira-fundadores-do-conselho-e-negocia-entrada-de-investidor-externo.ghtml",
-      "data": "31/03/2026",
+      "titulo": "Fim da jornada 6x1: os argumentos de quem é contra e quem é a favor",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/15/fim-da-jornada-6x1-os-argumentos-de-que-e-contra-e-quem-e-a-favor.ghtml",
+      "data": "15/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
+      "imagem": "https://s2-g1.glbimg.com/iGpceIpFzCGrb5YUJD8VQABzgBo=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/4/xvKmtlSBW1k0THDCozAg/4aa95155-34cf-4e72-b83f-c8baf9ecc246.jpg"
     },
     {
-      "titulo": "Volvo apresenta caminhões FH com melhorias aerodinâmicas",
-      "link": "https://www.transportabrasil.com.br/2026/03/volvo-apresenta-caminhoes-fh-com-melhorias-aerodinamicas/",
-      "data": "31/03/2026",
-      "fonte": "Transporta Brasil",
-      "prioridade": 1,
-      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/03/volvo-fh-aerodinamica-2026-01.jpg"
-    },
-    {
-      "titulo": "‘Caso ela diga não’: trend brasileira que promove violência contra mulheres  escandaliza imprensa francesa",
-      "link": "https://g1.globo.com/mundo/noticia/2026/04/14/caso-ela-diga-nao-trend-brasileira-que-promove-violencia-contra-mulheres-escandaliza-imprensa-francesa.ghtml",
-      "data": "14/04/2026",
+      "titulo": "Ministros das Finanças de ao menos 11 países alertam para impacto prolongado do conflito no Oriente Médio",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/15/ministros-das-financas-alertam-para-impacto-prolongado-do-conflito-no-oriente-medio.ghtml",
+      "data": "15/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/gFNHjHsmAgVT_j1jAZ-Tf0ipQqw=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/S/FUGhRDRwqLA48UcS3G4A/capa-8-.png"
+      "imagem": "https://s2-g1.glbimg.com/6x7hvAXgNxW7HShcqrC5227911E=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/5/dVzbFpTDSmg7wlsBM4Cg/2026-04-12t135436z-1625689504-rc2gnkaezcwq-rtrmadp-3-iran-crisis-hormuz.jpg"
     },
     {
-      "titulo": "Governo amplia fiscalização sobre distribuidoras de combustíveis que tenham subsídios e muda valores do Gás do Povo",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/14/governo-aumenta-fiscalizacao-sobre-distribuidoras-de-combustiveis-que-tenham-subsidio-e-reajusta-precos-do-gas-do-povo.ghtml",
-      "data": "14/04/2026",
+      "titulo": "Por que o FMI prevê que Brasil crescerá mais por causa da guerra no Irã",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/15/por-que-o-fmi-preve-que-brasil-crescera-mais-por-causa-da-guerra-no-ira.ghtml",
+      "data": "15/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
+      "imagem": "https://s2-g1.glbimg.com/4CCXcAKYxQBBJO4ZPLfzc4af0qM=/3008x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/A/VyaB2OTeu3Ao8CuAMASw/refinaria-riograndense-credito-joao-paulo-ceglinski.jpg"
     },
     {
-      "titulo": "Falhas sistêmicas no INSS causaram prejuízo de R$ 233 milhões e travam análise de 1,7 milhão de processos",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/14/falhas-sistemicas-no-inss-causaram-prejuizo-de-r-233-milhoes-e-travam-analise-de-17-milhao-de-processos.ghtml",
-      "data": "14/04/2026",
+      "titulo": "Dólar oscila com foco na guerra entre EUA e Irã e possível acordo de paz; Ibovespa cai",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/15/dolar-ibovespa.ghtml",
+      "data": "15/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/ixnQc9a1zdttDHkG59BYnYBfniY=/1493x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/w/zwxtqrSLS9u7HCywtA8Q/prev.jpg"
+      "imagem": "https://s2-g1.glbimg.com/WWL1wnf2CLz_6TKD3nEVNgRPZas=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/L/9pGXOhQjWMbLFeAbXt6w/2025-01-22t173936z-1-lynxnpel0l0qj-rtroptp-4-fluxo-cambial-semanal.jpg"
     },
     {
-      "titulo": "Guerra leva FMI a reduzir projeção de crescimento global; Brasil deve ter alta de 1,9%",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/14/fmi-eleva-projecao-de-crescimento-do-brasil-em-2026-e-cita-impacto-positivo-da-guerra-no-oriente-medio.ghtml",
-      "data": "14/04/2026",
+      "titulo": "Raio-X do Minha Casa, Minha Vida: veja como ficam as novas regras do programa",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/15/minha-casa-minha-vida-como-ficam-as-novas-regras-do-programa.ghtml",
+      "data": "15/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/O_gm-wjHm_QtBFvCsCkB2uFPNXw=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/4/sdL2RrSO2QbV4jfIzq7Q/globo-canal-4-20260413-2000-frame-79216.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/Mie5j8gyu0glVdGcxEHjU10Xyzs=/1700x0/filters:format(jpeg)/http://s.glbimg.com/jo/g1/f/original/2017/05/30/centrosp-fabio-tito-g1.jpg"
     },
     {
-      "titulo": "Ministério do Trabalho demite secretário após inclusão da BYD na ‘lista suja’ e cita ‘ato administrativo’",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/14/ministerio-do-trabalho-demite-secretario-lista-suja.ghtml",
-      "data": "14/04/2026",
+      "titulo": "Em mensagem a católicos, Lula manifesta solidariedade ao Papa Leão XIV em episódio envolvendo Trump",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/15/lula-declara-solidariedade-ao-papa-leao-xiv-em-episodio-envolvendo-trump.ghtml",
+      "data": "15/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/tAmbYhNtcENmb_MOVoB4DfgPAEU=/1262x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/s/8/fuK0xAR5SA0mAVtfldYg/image-4-.png"
+      "imagem": "https://s2-g1.glbimg.com/OFctcnGgBd4jkcXAD6Inn_ZhPBI=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/8/b/WxdqtBRw2jJnIvAVYHUw/globo-canal-4-20251013-2000-frame-114585.jpeg"
     },
     {
-      "titulo": "Gilmar diz que CPI comete excessos que podem configurar crime de abuso de autoridade; Toffoli afirma que relatório tem fins eleitorais",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/14/no-stf-gilmar-diz-que-cpi-do-senado-comete-excessos-que-podem-configurar-crime-de-abuso-de-autoridade.ghtml",
-      "data": "14/04/2026",
+      "titulo": "Relator na CCJ lê parecer favorável a PECs que acabam com escala 6x1; pedido de vista da oposição adia votação",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/15/relator-le-parecer-favoravel-a-pecs-que-acabam-com-escala-6x1-pedido-de-vista-adia-votacao.ghtml",
+      "data": "15/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/2_cc_TRzjFQ_gksuFjVEVa-cnBs=/2000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/k/H/CpG6LpQAqEC6ipDLaNog/gilmar-mendes-ap-484805-.jpg"
+      "imagem": "https://s2-g1.glbimg.com/lTR42M12Ql2GfRWxSLjE_F3TYgI=/4256x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/n/t12ySiSbAE9l3UBYDsKA/img20251126125344986.jpg"
     },
     {
-      "titulo": "Eduardo Bolsonaro falta a interrogatório marcado pelo STF",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/14/eduardo-bolsonaro-falta-a-interrogatorio-marcado-pelo-stf.ghtml",
-      "data": "14/04/2026",
+      "titulo": "Moraes abre inquérito contra Flávio Bolsonaro por suposta calúnia contra Lula",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/15/moraes-abre-inquerito-contra-flavio-bolsonaro-por-suposta-calunia-contra-lula.ghtml",
+      "data": "15/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/_hX0p_UFO8OpjbvqCnSxwsdV8YM=/6000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/2/E/ejBQYBRiiBXYdDh2lM4g/2025-08-14t183031z-1600509127-rc227gaks9gd-rtrmadp-3-usa-trump-tariffs-bolsonaro.jpg"
+      "imagem": "https://s2-g1.glbimg.com/YPspx5cROoVabjnNwKXm7RU8qWM=/1280x0/filters:format(jpeg)/https://s01.video.glbimg.com/x720/14526576.jpg"
     },
     {
-      "titulo": "Brasil prepara relatório para tentar acelerar deportação de Ramagem, preso pelo ICE nos EUA",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/14/brasil-prepara-relatorio-para-tentar-acelerar-deportacao-de-ramagem-preso-pelo-ice-nos-eua.ghtml",
-      "data": "14/04/2026",
-      "fonte": "G1",
+      "titulo": "EUA dizem que interromperam completamente o comércio marítimo do Irã",
+      "link": "https://www.infomoney.com.br/mundo/eua-dizem-que-interromperam-completamente-o-comercio-maritimo-do-ira/",
+      "data": "15/04/2026",
+      "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/lVP5MwexM7mGU6wsRt_fj_bLUII=/1280x0/filters:format(jpeg)/https://s03.video.glbimg.com/x720/14524534.jpg"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-13T065550Z_1509234591_RC2B2KA1A9FJ_RTRMADP_3_IRAN-CRISIS-OIL-BLOCKADE.jpg?quality=70"
     },
     {
-      "titulo": "CPI do Crime Organizado tem troca de integrantes antes da votação de relatório",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/14/cpi-do-crime-organizado-tem-troca-de-integrantes-antes-da-votacao-de-relatorio.ghtml",
-      "data": "14/04/2026",
-      "fonte": "G1",
+      "titulo": "Marcopolo vence leilão do Caminho da Escola e mercado vê potencial de valorização",
+      "link": "https://www.infomoney.com.br/mercados/marcopolo-vence-leilao-do-caminho-da-escola-e-mercado-ve-potencial-de-valorizacao/",
+      "data": "15/04/2026",
+      "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/0Iibxgue9Tz7aric94wXlAxwSlc=/1376x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/R/gQUSbcQA66RIPB91EUHQ/cpi.png"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2021/03/Site-thumb-de-materia.png?fit=1280%2C720&quality=70&strip=all"
     },
     {
-      "titulo": "CPI do Crime Organizado: senador apresenta relatório final e pede o indiciamento de PGR, Toffoli, Moraes e Gilmar Mendes",
-      "link": "https://g1.globo.com/politica/ao-vivo/cpi-do-crime-organizado-no-senado.ghtml",
-      "data": "14/04/2026",
-      "fonte": "G1",
+      "titulo": "Sob protestos, pressão de big techs e disputa política, regulamentação do trabalho por aplicativos ‘anda e para’ na Câmara",
+      "link": "https://www.moneytimes.com.br/sob-protestos-pressao-de-big-techs-e-disputa-politica-regulamentacao-do-trabalho-por-aplicativos-anda-e-para-na-camara-gaep/",
+      "data": "15/04/2026",
+      "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/R8hPlG_cZR-U2I5XFp04whn1n_w=/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/p/U/NQo77ZQaOKcQ5j2QFVeQ/img-facebook.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2020/07/entregador.jpg"
     },
     {
-      "titulo": "Gilmar Mendes diz que CPI não tem 'base legal' para pedir indiciamento de ministros do STF",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/14/gilmar-mendes-diz-que-cpi-nao-tem-base-legal-para-pedir-indiciamento-de-ministros-do-stf.ghtml",
-      "data": "14/04/2026",
-      "fonte": "G1",
+      "titulo": "Flávio Bolsonaro se manifesta após Moraes mandar PF abrir inquérito contra ele",
+      "link": "https://www.metropoles.com/brasil/flavio-se-manifesta-apos-moraes-mandar-pf-abrir-inquerito-contra-ele",
+      "data": "15/04/2026",
+      "fonte": "Metrópoles",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/FaBobnI-aWxafHRTtWppSAJiZbM=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/K/J7D788R7yo6a1umWgcDQ/55116065841-5620129e17-k.jpg"
+      "imagem": "https://i.metroimg.com/NWjHjdoDksOng9vJvhgMsqgOAOSAlsKdmmbpx1SG6_c/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/o-senador-flavio-bolsonaro-conversa-com-a-imprensa-apos-solicitar-um-novo-pedido-de-prisao-domiciliar-para-o-pai-condenado-por-tentativa-de-golpe-de-estado-metropoles-3-scaled.jpg"
     },
     {
-      "titulo": "Polícia Federal arquiva notícia-crime da Refit contra diretores da ANP e afasta tese de perseguição",
-      "link": "https://g1.globo.com/politica/blog/octavio-guedes/post/2026/04/14/pf-arquiva-noticia-crime-da-refit-contra-diretores-da-anp.ghtml",
-      "data": "14/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/gzs-Wj9HaL2NV_pw4BpJWopKblk=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/B/9TXpNSTamBBJUZ9PfHOA/globo-canal-5-18-frame-822.jpeg"
-    },
-    {
-      "titulo": "Relator da CPI do Crime Organizado diz que ferramentas de investigação foram 'sabotadas' e rebate críticas de ministros do STF",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/04/14/alessandro-vieira-entrevista-globonews.ghtml",
-      "data": "14/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/VKcepr_K7JWHmnTXQAOhe9P-128=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/63/41/14524163"
-    },
-    {
-      "titulo": "Petrobras e parceiros investirão US$ 450 milhões para recuperar reservas de petróleo em Mero",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450516",
+      "titulo": "Relator de CPI diz que ministros do STF não são donos do país e prevê maturidade para investigar",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/relator-de-cpi-diz-que-ministros-do-stf-nao-sao-donos-do-pais-e-preve-maturidade-para-investigar.shtml",
       "data": "14/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
-    },
-    {
-      "titulo": "Petrobras começa a devolver ágio do gás de cozinha, mas impacto ao consumidor é limitado",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/petrobras-comeca-a-devolver-agio-do-gas-de-cozinha-mas-impacto-ao-consumidor-e-limitado.shtml",
-      "data": "14/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2025/09/04/175700388668b9c06e0d126_1757003886_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/14/177620774069dec77cace47_1776207740_3x2_rt.jpg"
     },
     {
       "titulo": "Transportadora mineira compra 50 caminhões VW Meteor",
@@ -673,202 +641,258 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2025/03/scania-560g.jpg"
     },
     {
-      "titulo": "MBRF avança em parceria com fundo saudita na Sadia Halal em preparação para oferta de ações",
-      "link": "https://g1.globo.com/economia/negocios/noticia/2026/04/14/mbrf-obtem-aprovacoes-para-joint-venture-com-fundo-soberano-da-arabia-saudita.ghtml",
-      "data": "14/04/2026",
+      "titulo": "Análise: Lula não reverte piora na avaliação, e preço dos alimentos e dívidas são os principais desafios",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/15/analise-quaest-abril.ghtml",
+      "data": "15/04/2026",
       "fonte": "G1",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/ckxDx7u2xaIHjiCiMggsRcw3QA0=/5106x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/I/K/Pcia2kSn6lID8eAHKk7Q/2021-08-03t201624z-1-lynxmpeh72187-rtroptp-4-brazil-brf-canada.jpg"
+      "imagem": "https://s2-g1.glbimg.com/jWqKmPupOmgY1VpCSmQfV9OiBUs=/1300x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/a/YHroVMSeSuFlhABcyyxg/260414-pesquisa-quaest-endividamento.png"
     },
     {
-      "titulo": "Associações empresariais lançam coalizão contra a desinformação no Brasil",
-      "link": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/04/14/coalizao-empresarial-contra-a-desinformacao-no-brasil.ghtml",
-      "data": "14/04/2026",
+      "titulo": "Cientista brasileira na lista da Time ajudou agricultores a economizar US$ 25 bilhões por ano",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/15/brasileira-entra-na-lista-das-100-pessoas-mais-influentes-do-mundo-do-time.ghtml",
+      "data": "15/04/2026",
       "fonte": "G1",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
+      "imagem": "https://s2-g1.glbimg.com/vSm3bp8SkQmCzrjmM1T2bfvz1Rw=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/U/WcZIt2RQGd8NYu2CkSkw/anp-8755-1-.jpg"
     },
     {
-      "titulo": "Secretário do Tesouro dos EUA minimiza previsões do FMI e do Banco Mundial",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450517",
-      "data": "14/04/2026",
+      "titulo": "Em tom de brincadeira, Lula diz que vai conversar com Galípolo e afirma que juros podem cair se BC 'olhar para pessoas como ele'",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/15/em-tom-de-brincadeira-lula-diz-vai-chamar-galipolo-e-que-se-bc-olhar-pessoas-como-ele-vai-baixar-taxa-de-juros.ghtml",
+      "data": "15/04/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/3sKQ2XNjyiqte8OMP5mkClWoyB0=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/D/FFWiiZSPysMQ1gUPsMDg/55195431064-941e634124-k.jpg"
+    },
+    {
+      "titulo": "Site da Booking.com é invadido e clientes têm dados de reservas vazados",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/tec/2026/04/site-da-bookingcom-e-invadido-e-clientes-tem-dados-de-reservas-vazados.shtml",
+      "data": "15/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 2,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/15/177626647869dfaceee24d9_1776266478_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Trump diz que IA é risco para sistema bancário, mas que também pode torná-lo melhor e mais seguro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450519",
+      "data": "15/04/2026",
       "fonte": "Folha SP",
       "prioridade": 2,
       "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
-      "titulo": "Europa está desesperada por mais energia. A Noruega pode vir ao resgate?",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/europa-esta-desesperada-por-mais-energia-a-noruega-pode-vir-ao-resgate.shtml",
-      "data": "14/04/2026",
+      "titulo": "Preço do petróleo oscila nesta quarta após ameaças do Irã de bloquear mar Vermelho",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/preco-do-petroleo-oscila-nesta-quarta-apos-ameacas-do-ira-de-bloquear-mar-vermelho.shtml",
+      "data": "15/04/2026",
       "fonte": "Folha SP",
       "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/14/177618691369de76219949a_1776186913_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/15/177626021769df947946510_1776260217_3x2_rt.jpg"
     },
     {
-      "titulo": "Governo federal prevê leilão da Rodovia do Aço em 2026",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/governo-federal-preve-leilao-da-rodovia-do-aco-em-2026.shtml",
-      "data": "14/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2024/12/02/1733163749674dfae5be4b0_1733163749_3x2_rt.jpg"
-    },
-    {
-      "titulo": "'Não vamos assinar o roteiro de que o mundo está prestes a acabar', diz chefe de agência ambiental dos EUA",
-      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/ambiente/2026/04/negacionismo-climatico-ressurge-na-washington-de-trump.shtml",
-      "data": "14/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/14/177618342069de687c2f3b4_1776183420_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Dólar fecha em queda e renova mínimas abaixo de R$ 5 com espera por acordo EUA-Irã",
-      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-14042026/",
-      "data": "14/04/2026",
+      "titulo": "Autoridades dizem que estão sendo feitos esforços para cessar-fogo no Líbano",
+      "link": "https://www.infomoney.com.br/mundo/autoridades-dizem-que-estao-sendo-feitos-esforcos-para-cessar-fogo-no-libano/",
+      "data": "15/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 2,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/blogging-guide-K5DY18hy5JQ-unsplash_red.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-14T173422Z_534392737_RC2ZOKAYU7O7_RTRMADP_3_IRAN-CRISIS-ISRAEL-LEBANON.jpg?quality=70"
     },
     {
-      "titulo": "Juros futuros caem no Brasil com expectativa de retomada de negociações de EUA-Irã",
-      "link": "https://www.infomoney.com.br/mercados/juros-futuros-caem-no-brasil-com-expectativa-de-retomada-de-negociacoes-de-eua-ira/",
-      "data": "14/04/2026",
+      "titulo": "EUA e Irã negociam extensão de cessar-fogo via Paquistão sob resistência de Trump",
+      "link": "https://www.infomoney.com.br/mundo/eua-e-ira-negociam-extensao-de-cessar-fogo-via-paquistao-sob-resistencia-de-trump/",
+      "data": "15/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 2,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/12/daniel-dan-ZbMuzk8iJAI-unsplash.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-02T011301Z_2081239045_RC2PGKAYL93I_RTRMADP_3_IRAN-CRISIS-TRUMP-ADDRESS.jpg?quality=70"
     },
     {
-      "titulo": "Petróleo fecha em queda e WTI perde mais de 7%, com andamento de negociações EUA-Irã",
-      "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-14042026/",
-      "data": "14/04/2026",
+      "titulo": "Ministros das Finanças de 11 países pedem cessar-fogo total na guerra do Irã",
+      "link": "https://www.infomoney.com.br/mundo/ministros-das-financas-de-11-paises-pedem-cessar-fogo-total-na-guerra-do-ira/",
+      "data": "15/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 2,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/10/9421.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-14T104748Z_1411909094_RC2WOKA2V3RE_RTRMADP_3_IRAN-CRISIS-AFTERMATH.jpg?quality=70"
+    },
+    {
+      "titulo": "Conversas entre EUA e Irã avançam rumo a acordo para acabar com a guerra, diz Axios",
+      "link": "https://www.infomoney.com.br/mundo/conversas-entre-eua-e-ira-avancam-rumo-a-acordo-para-acabar-com-a-guerra-diz-axios/",
+      "data": "15/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 2,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-07T154953Z_1990945261_RC2CKKA77KPK_RTRMADP_3_IRAN-CRISIS.jpg?quality=70"
+    },
+    {
+      "titulo": "Empresa de tênis muda negócio para infraestrutura de IA e ações decolam 373%",
+      "link": "https://www.infomoney.com.br/mercados/empresa-de-tenis-muda-negocio-para-infraestrutura-de-ia-e-acoes-decolam-373/",
+      "data": "15/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 2,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/453951826.jpg?quality=70"
+    },
+    {
+      "titulo": "EWZ, principal ETF americano de Brasil, tem maior captação diária desde 2017",
+      "link": "https://www.infomoney.com.br/mercados/ewz-maior-etf-americano-de-brasil-tem-maior-captacao-diaria-desde-2017/",
+      "data": "15/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 2,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/02/brasil-eua.jpg?quality=70"
+    },
+    {
+      "titulo": "Mesmo com queda na Selic, Caixa não prevê queda de juros no financiamento imobiliário",
+      "link": "https://www.infomoney.com.br/mercados/mesmo-com-queda-na-selic-caixa-nao-preve-queda-de-juros-no-financiamento-imobiliario/",
+      "data": "15/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 2,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/03/predio_da_caixa_economica_federal_170120182643.webp?quality=70"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "S&P 500 apaga perdas da guerra e passa a acumular ganhos no ano",
-      "link": "https://exame.com/invest/mercados/sp-500-apaga-perdas-da-guerra-e-passa-a-acumular-ganhos-no-ano/",
-      "data": "2026-04-14",
+      "titulo": "Guerra no Irã pressiona inflação e eleva risco de crise global, diz FMI",
+      "link": "https://exame.com/economia/guerra-no-ira-pressiona-inflacao-e-eleva-risco-de-crise-global-diz-fmi/",
+      "data": "2026-04-15",
       "fonte": "Exame",
       "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_1-zoetis29.jpg"
+      "imagem": "https://classic.exame.com/wp-content/uploads/2026/03/AFP__20260329__A64N4YC__v1__HighRes__UsIsraelIranWarDemonstration.jpg"
     },
     {
-      "titulo": "Dólar fecha em queda e renova mínimas abaixo de R$ 5 com espera por acordo EUA-Irã",
-      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-14042026/",
-      "data": "14/04/2026",
+      "titulo": "Dívida do Brasil pode chegar a 100% do PIB em 2027, diz FMI",
+      "link": "https://exame.com/economia/divida-do-brasil-pode-chegar-a-100-do-pib-em-2027-diz-fmi/",
+      "data": "2026-04-15",
+      "fonte": "Exame",
+      "prioridade": 1,
+      "imagem": "https://classic.exame.com/wp-content/uploads/2025/04/000_42NG2NV.jpg"
+    },
+    {
+      "titulo": "Os 3 erros mais comuns de quem usa IA para declarar o Imposto de Renda",
+      "link": "https://exame.com/invest/minhas-financas/os-3-erros-mais-comuns-de-quem-usa-ia-para-declarar-o-imposto-de-renda/",
+      "data": "2026-04-15",
+      "fonte": "Exame",
+      "prioridade": 1,
+      "imagem": "https://classic.exame.com/wp-content/uploads/2026/01/Yuliya-Taba.jpg"
+    },
+    {
+      "titulo": "Ibovespa cai e dólar fica estável, abaixo de R$ 5, com cautela em negociações EUA-Irã",
+      "link": "https://exame.com/invest/mercados/ibovespa-cai-e-dolar-fica-estavel-abaixo-de-r-5-com-cautela-em-negociacoes-eua-ira/",
+      "data": "2026-04-15",
+      "fonte": "Exame",
+      "prioridade": 1,
+      "imagem": "https://classic.exame.com/wp-content/uploads/2020/11/DSC2655bx.jpg"
+    },
+    {
+      "titulo": "Economistas melhoram projeções para déficit fiscal e dívida pública em 2026 e 2027",
+      "link": "https://www.infomoney.com.br/mercados/economistas-melhoram-projecoes-para-deficit-fiscal-e-divida-publica-em-2026-e-2027/",
+      "data": "15/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/blogging-guide-K5DY18hy5JQ-unsplash_red.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-22T213747Z_1_LYNXNPEL8L0X7_RTROPTP_4_MACRO-TRIBUTARIA-ALIQUOTA.jpg?quality=70"
     },
     {
-      "titulo": "Juros futuros caem no Brasil com expectativa de retomada de negociações de EUA-Irã",
-      "link": "https://www.infomoney.com.br/mercados/juros-futuros-caem-no-brasil-com-expectativa-de-retomada-de-negociacoes-de-eua-ira/",
-      "data": "14/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/12/daniel-dan-ZbMuzk8iJAI-unsplash.jpg?quality=70"
-    },
-    {
-      "titulo": "Petróleo fecha em queda e WTI perde mais de 7%, com andamento de negociações EUA-Irã",
-      "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-14042026/",
-      "data": "14/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/10/9421.jpg?quality=70"
-    },
-    {
-      "titulo": "Dívidas refinanciadas por novo programa do governo devem ter taxa de juros de até 1,99% ao mês",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/dividas-refinanciadas-por-novo-programa-do-governo-devem-ter-taxa-de-juros-de-ate-199-ao-mes.shtml",
-      "data": "14/04/2026",
+      "titulo": "Quase 880 mil declarações do Imposto de Renda 2026 caíram na malha fina; veja o que fazer",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/quase-880-mil-declaracoes-do-imposto-de-renda-2026-cairam-na-malha-fina-veja-o-que-fazer.shtml",
+      "data": "15/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/14/177618453769de6cd9a8085_1776184537_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/13/177342964369b4638b55526_1773429643_3x2_rt.jpg"
     },
     {
-      "titulo": "Secretário do Tesouro dos EUA minimiza previsões do FMI e do Banco Mundial",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450517",
-      "data": "14/04/2026",
+      "titulo": "Trump diz que IA é risco para sistema bancário, mas que também pode torná-lo melhor e mais seguro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450519",
+      "data": "15/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
       "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
-      "titulo": "Petrobras e parceiros investirão US$ 450 milhões para recuperar reservas de petróleo em Mero",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450516",
-      "data": "14/04/2026",
+      "titulo": "Vendas no varejo do Brasil renovam recorde em fevereiro, informa IBGE",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/vendas-no-varejo-do-brasil-renovam-recorde-em-fevereiro-informa-ibge.shtml",
+      "data": "15/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/15/177626136269df98f271aee_1776261362_3x2_rt.jpg"
     },
     {
-      "titulo": "Brasileiros têm mais de R$ 10,5 bi esquecidos em bancos e outras instituições",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/brasileiros-tem-mais-de-r-105-bi-esquecidos-em-bancos-e-outras-instituicoes.shtml",
-      "data": "14/04/2026",
+      "titulo": "Preço do petróleo oscila nesta quarta após ameaças do Irã de bloquear mar Vermelho",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/preco-do-petroleo-oscila-nesta-quarta-apos-ameacas-do-ira-de-bloquear-mar-vermelho.shtml",
+      "data": "15/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2022/09/30/16645334746336c3e29c74b_1664533474_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/15/177626021769df947946510_1776260217_3x2_rt.jpg"
     },
     {
-      "titulo": "Entenda como a USP apura, em Piracicaba, o principal indicador do preço comercial do café do Brasil",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/04/14/entenda-como-a-usp-apura-em-piracicaba-o-principal-indicador-do-preco-comercial-do-cafe-do-brasil.ghtml",
-      "data": "14/04/2026",
+      "titulo": "Reforma Casa Brasil: governo amplia crédito para reforma de moradias para quem tem renda até R$ 13 mil",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/15/reforma-casa-brasil-governo-amplia-credito-para-reforma-de-moradias-para-quem-tem-renda-ate-r-13-mil.ghtml",
+      "data": "15/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/LC5DMbKZBs5aGSXADVDJA6vZFhk=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/o/Yr86mRRWa7Ke0rNopJTA/30.jpg"
+      "imagem": "https://s2-g1.glbimg.com/lxGoo8iOCLNZDHZyVmiW_1CU0pk=/2047x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/n/m/lsuEsqTxW3yJrbBvWWhA/unidades-habitacionais-do-programa-minha-casa-minha-vida-mcmv-no-residencial-canto-da-serra.-residencial-canto-da-serra-imperatriz-ma-.jpg"
     },
     {
-      "titulo": "Governo amplia fiscalização sobre distribuidoras de combustíveis que tenham subsídios e muda valores do Gás do Povo",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/14/governo-aumenta-fiscalizacao-sobre-distribuidoras-de-combustiveis-que-tenham-subsidio-e-reajusta-precos-do-gas-do-povo.ghtml",
-      "data": "14/04/2026",
+      "titulo": "Análise: Lula não reverte piora na avaliação, e preço dos alimentos e dívidas são os principais desafios",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/15/analise-quaest-abril.ghtml",
+      "data": "15/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
+      "imagem": "https://s2-g1.glbimg.com/jWqKmPupOmgY1VpCSmQfV9OiBUs=/1300x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/a/YHroVMSeSuFlhABcyyxg/260414-pesquisa-quaest-endividamento.png"
     },
     {
-      "titulo": "Guerra leva FMI a reduzir projeção de crescimento global; Brasil deve ter alta de 1,9%",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/14/fmi-eleva-projecao-de-crescimento-do-brasil-em-2026-e-cita-impacto-positivo-da-guerra-no-oriente-medio.ghtml",
-      "data": "14/04/2026",
+      "titulo": "Ministros das Finanças de ao menos 11 países alertam para impacto prolongado do conflito no Oriente Médio",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/15/ministros-das-financas-alertam-para-impacto-prolongado-do-conflito-no-oriente-medio.ghtml",
+      "data": "15/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/O_gm-wjHm_QtBFvCsCkB2uFPNXw=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/4/sdL2RrSO2QbV4jfIzq7Q/globo-canal-4-20260413-2000-frame-79216.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/6x7hvAXgNxW7HShcqrC5227911E=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/5/dVzbFpTDSmg7wlsBM4Cg/2026-04-12t135436z-1625689504-rc2gnkaezcwq-rtrmadp-3-iran-crisis-hormuz.jpg"
     },
     {
-      "titulo": "CEO da United Airlines falou com Trump sobre fusão com a American, diz agência",
-      "link": "https://g1.globo.com/economia/negocios/noticia/2026/04/14/united-airlines-fusao-american-airlines-trump.ghtml",
-      "data": "14/04/2026",
+      "titulo": "Por que o FMI prevê que Brasil crescerá mais por causa da guerra no Irã",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/15/por-que-o-fmi-preve-que-brasil-crescera-mais-por-causa-da-guerra-no-ira.ghtml",
+      "data": "15/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/GBSZBp01em3ejVxyKaHqKDXtSEk=/4813x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/r/IoFaeeREelwUdXLtIEkQ/2026-04-14t084356z-851332601-rc2w5s9bap07-rtrmadp-3-united-arlns-m-a-american-airlines-stocks.jpg"
+      "imagem": "https://s2-g1.glbimg.com/4CCXcAKYxQBBJO4ZPLfzc4af0qM=/3008x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/A/VyaB2OTeu3Ao8CuAMASw/refinaria-riograndense-credito-joao-paulo-ceglinski.jpg"
     },
     {
-      "titulo": "Wall Street tem dia de fortes ganhos com segunda rodada de negociações entre EUA e Irã no radar",
-      "link": "https://www.moneytimes.com.br/wall-street-14-4-26-lil/",
-      "data": "14/04/2026",
+      "titulo": "Cientista brasileira na lista da Time ajudou agricultores a economizar US$ 25 bilhões por ano",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/15/brasileira-entra-na-lista-das-100-pessoas-mais-influentes-do-mundo-do-time.ghtml",
+      "data": "15/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/vSm3bp8SkQmCzrjmM1T2bfvz1Rw=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/U/WcZIt2RQGd8NYu2CkSkw/anp-8755-1-.jpg"
+    },
+    {
+      "titulo": "Dólar oscila com foco na guerra entre EUA e Irã e possível acordo de paz; Ibovespa cai",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/15/dolar-ibovespa.ghtml",
+      "data": "15/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/WWL1wnf2CLz_6TKD3nEVNgRPZas=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/L/9pGXOhQjWMbLFeAbXt6w/2025-01-22t173936z-1-lynxnpel0l0qj-rtroptp-4-fluxo-cambial-semanal.jpg"
+    },
+    {
+      "titulo": "'Se ele não sair, terei que demiti-lo', diz Trump sobre Jerome Powell, atual presidente do Banco Central dos EUA",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/15/declaracao-donald-trump-jerome-powell.ghtml",
+      "data": "15/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/d5xwupusAHBy4DJIed8GlG3Mzy0=/2062x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/H/G/Wy28NuTxyYIPkpR1kNMg/2025-03-22t084834z-1156610809-rc27idagf9gr-rtrmadp-3-ecb-fed-backstops.jpg"
+    },
+    {
+      "titulo": "Quaest: 72% dos brasileiros dizem ter poucas ou muitas dívidas para pagar",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/15/quaest-dividas-abril.ghtml",
+      "data": "15/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/hh2h5x00ahMZTS-3ypoXMpMiRRM=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/S/5eD3K7QpyOUYFLNoBR3w/ultimos-12-meses-economia-brasil-v2-1-.png"
+    },
+    {
+      "titulo": "FMI: Dívida do Brasil deve ultrapassar 100% do PIB em poucos anos – e conflitos globais só pioram a situação",
+      "link": "https://www.moneytimes.com.br/brasil-deve-ultrapassar-100-da-divida-pib-nos-proximos-anos-mostra-fmi-jcav/",
+      "data": "15/04/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2024/12/wall-street-treasuries.jpg"
-    },
-    {
-      "titulo": "Dólar fecha a R$ 4,99 de olho nas negociações entre EUA e Irã",
-      "link": "https://www.moneytimes.com.br/dolar-14-4-26-apsa/",
-      "data": "14/04/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/11/dolar-estrangeiros-1.jpg"
-    },
-    {
-      "titulo": "Petróleo recua com nova rodada de negociações entre EUA e Irã no radar",
-      "link": "https://www.moneytimes.com.br/petroleo-14-4-26-lils/",
-      "data": "14/04/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2024/04/petroleo-russia.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/02/brasil-corrupcao-.jpg"
     }
   ],
-  "noticias_em": "14/04/2026 20:15 UTC",
-  "noticias_em_br": "14/04/2026 17:15",
-  "indicadores_em": "13/04/2026 20:14 UTC",
-  "indicadores_em_br": "13/04/2026 17:14"
+  "noticias_em": "15/04/2026 15:54 UTC",
+  "noticias_em_br": "15/04/2026 12:54",
+  "indicadores_em": "15/04/2026 15:54 UTC",
+  "indicadores_em_br": "15/04/2026 12:54"
 }
