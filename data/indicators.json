@@ -505,108 +505,148 @@
   },
   "noticias": [
     {
-      "titulo": "Fim da jornada 6x1: os argumentos de quem é contra e quem é a favor",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/15/fim-da-jornada-6x1-os-argumentos-de-que-e-contra-e-quem-e-a-favor.ghtml",
-      "data": "15/04/2026",
-      "fonte": "G1",
+      "titulo": "Acionistas da Petrobras aprovam orçamento de R$ 114 bi para 2026, diz jornal",
+      "link": "https://exame.com/invest/mercados/acionistas-da-petrobras-aprovam-orcamento-de-r-114-bi-para-2026-diz-jornal/",
+      "data": "2026-04-16",
+      "fonte": "Exame",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/iGpceIpFzCGrb5YUJD8VQABzgBo=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/4/xvKmtlSBW1k0THDCozAg/4aa95155-34cf-4e72-b83f-c8baf9ecc246.jpg"
+      "imagem": "https://classic.exame.com/wp-content/uploads/2025/05/petrobras-diesel.png"
     },
     {
-      "titulo": "Ministros das Finanças de ao menos 11 países alertam para impacto prolongado do conflito no Oriente Médio",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/15/ministros-das-financas-alertam-para-impacto-prolongado-do-conflito-no-oriente-medio.ghtml",
-      "data": "15/04/2026",
+      "titulo": "Guerra no Oriente Médio deve elevar salário mínimo perto de R$ 1.730 em 2027, diz órgão do Senado; governo prevê mínimo em R$ 1.717",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/16/guerra-no-oriente-medio-deve-elevar-salario-minimo-perto-de-r-1730-em-2027-diz-orgao-do-senado-governo-preve-minimo-em-r-1717.ghtml",
+      "data": "16/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/6x7hvAXgNxW7HShcqrC5227911E=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/5/dVzbFpTDSmg7wlsBM4Cg/2026-04-12t135436z-1625689504-rc2gnkaezcwq-rtrmadp-3-iran-crisis-hormuz.jpg"
+      "imagem": ""
     },
     {
-      "titulo": "Por que o FMI prevê que Brasil crescerá mais por causa da guerra no Irã",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/15/por-que-o-fmi-preve-que-brasil-crescera-mais-por-causa-da-guerra-no-ira.ghtml",
-      "data": "15/04/2026",
+      "titulo": "Europa tem combustível para abastecer aviões por ‘talvez mais seis semanas’, diz chefe da Agência Internacional de Energia",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/16/europa-combustive-chefe-da-agencia-internacional-de-energia.ghtml",
+      "data": "16/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/4CCXcAKYxQBBJO4ZPLfzc4af0qM=/3008x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/A/VyaB2OTeu3Ao8CuAMASw/refinaria-riograndense-credito-joao-paulo-ceglinski.jpg"
+      "imagem": "https://s2-g1.glbimg.com/xurzDkMbNBFC2Sogt3bKfzWwShQ=/1440x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/2/3IzBQ3SRAUCEf1S9fOlQ/download.webp"
     },
     {
-      "titulo": "Dólar cai pelo 6º dia seguido, de olho em possível acordo de paz entre EUA e Irã; Ibovespa recua",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/15/dolar-ibovespa.ghtml",
-      "data": "15/04/2026",
+      "titulo": "No 5º mês seguido de crescimento, 'prévia do PIB' do Banco Central tem alta de 0,6% em fevereiro",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/16/no-5o-mes-seguido-de-crescimento-previa-do-pib-do-banco-central-tem-alta-de-06percent-em-fevereiro.ghtml",
+      "data": "16/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/WWL1wnf2CLz_6TKD3nEVNgRPZas=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/L/9pGXOhQjWMbLFeAbXt6w/2025-01-22t173936z-1-lynxnpel0l0qj-rtroptp-4-fluxo-cambial-semanal.jpg"
+      "imagem": "https://s2-g1.glbimg.com/8FMtdj2yY_XUupKXcJKEL7_5WCE=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/X/R/vdpClUThCOcBY2t8z23A/3a4d5d5f-5ab9-47dc-b656-ddb0cfabe130.jpg"
     },
     {
-      "titulo": "Em mensagem a católicos, Lula manifesta solidariedade ao papa Leão XIV em episódio envolvendo Trump",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/15/lula-declara-solidariedade-ao-papa-leao-xiv-em-episodio-envolvendo-trump.ghtml",
-      "data": "15/04/2026",
+      "titulo": "Feriado à vista: Dia de Tiradentes pode virar folga de 4 dias; veja como",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/16/feriado-a-vista-dia-de-tiradentes-pode-virar-folga-de-4-dias-veja-como.ghtml",
+      "data": "16/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/OFctcnGgBd4jkcXAD6Inn_ZhPBI=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/8/b/WxdqtBRw2jJnIvAVYHUw/globo-canal-4-20251013-2000-frame-114585.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/NU0LgyquIP16bcFHFcbAnaVcAPg=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/J/q/zSdIC1QkAjanlyxWkswQ/calendario-de-2026.jpeg"
     },
     {
-      "titulo": "Relator na CCJ lê parecer favorável a PECs que acabam com escala 6x1; pedido de vista da oposição adia votação",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/15/relator-le-parecer-favoravel-a-pecs-que-acabam-com-escala-6x1-pedido-de-vista-adia-votacao.ghtml",
-      "data": "15/04/2026",
+      "titulo": "Novo ministro diz que PL dos apps só será analisado após as eleições e cita necessidade de aproximação do governo com Congresso",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/16/novo-ministro-diz-que-pl-dos-apps-so-sera-analisado-apos-as-eleicoes-e-fala-em-necessidade-de-aproximacao-do-governo-com-congresso.ghtml",
+      "data": "16/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/lTR42M12Ql2GfRWxSLjE_F3TYgI=/4256x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/n/t12ySiSbAE9l3UBYDsKA/img20251126125344986.jpg"
+      "imagem": "https://s2-g1.glbimg.com/7Y6TvE0-KgrJBdEWqtJzeKhE1W4=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/e/QdpS27SAyG7RPIKyci4Q/hfo3rdgwqaajwlm.jpg"
     },
     {
-      "titulo": "Moraes abre inquérito contra Flávio Bolsonaro por suposta calúnia contra Lula",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/15/moraes-abre-inquerito-contra-flavio-bolsonaro-por-suposta-calunia-contra-lula.ghtml",
-      "data": "15/04/2026",
+      "titulo": "Empresários se mobilizam contra possível fim da taxa das blusinhas: 'Medida eleitoreira'",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/04/16/empresarios-se-mobilizam-contra-possivel-fim-da-taxa-das-blusinhas-medida-eleitoreira.ghtml",
+      "data": "16/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/YPspx5cROoVabjnNwKXm7RU8qWM=/1280x0/filters:format(jpeg)/https://s01.video.glbimg.com/x720/14526576.jpg"
+      "imagem": "https://s2-g1.glbimg.com/nQugb4g-HysApyO_cJqLmNpdn60=/2560x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/H/BKY8GzQtOeAAIEckMFMA/shein-fortaleza-boho-chic.png"
     },
     {
-      "titulo": "Estudantes da USP começam a decidir sobre greve; duas faculdades já aprovaram paralisação",
-      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/educacao/2026/04/estudantes-da-usp-comecam-a-decidir-sobre-greve-duas-faculdades-ja-aprovaram-paralisacao.shtml",
-      "data": "15/04/2026",
+      "titulo": "Master: PF aponta que planilhas, extratos e contratos 'artificiais' sustentavam ativos sem lastro",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/04/16/master-vorcaro-pf-documentos-artificiais-operacao-compliance.ghtml",
+      "data": "16/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/jt0rAYw2lGVkON0Zqym7JV0KJ0s=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/C/ZDFnXbSQGNB8ngsh2DOQ/globo-canal-4-20260319-2000-frame-98457.jpeg"
+    },
+    {
+      "titulo": "PF terá reunião com EUA nesta quinta para saber motivos da soltura de Ramagem",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/16/pf-aguarda-informacoes-sobre-soltura-de-ramagem-ex-deputado-ficou-preso-por-2-dias-nos-eua.ghtml",
+      "data": "16/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/MkLrjriQzmepw__KUtS4gxyBUV0=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/B/TGeBi7SbGy5FlUOyOd4Q/54578583475-c93dfee90f-k.jpg"
+    },
+    {
+      "titulo": "Petrobras elege novo conselho e confirma dividendos de R$ 8,1 bilhões",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/petrobras-elege-novo-conselho-e-confirma-dividendos-de-r-81-bilhoes.shtml",
+      "data": "16/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/14/177618563469de71222c399_1776185634_3x2_lg.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/02/06/17703774246985d0d03b912_1770377424_3x2_xl.jpg"
     },
     {
-      "titulo": "Livro Bege do Fed: custos de energia e combustíveis subiram em todos os distritos",
-      "link": "https://www.infomoney.com.br/mercados/livro-bege-do-fed-custos-de-energia-e-combustiveis-subiram-em-todos-os-distritos/",
-      "data": "15/04/2026",
+      "titulo": "Cremer obtém direito de excluir frete e despesas acessórias da base de cálculo do IPI",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/04/cremer-obtem-direito-de-excluir-frete-e-despesas-acessorias-da-base-de-calculo-do-ipi.shtml",
+      "data": "16/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/16/177636925969e13e6b0c19e_1776369259_3x2_xl.jpg"
+    },
+    {
+      "titulo": "Trump vai tentar minimizar preocupações com a economia em campanha nos EUA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450531",
+      "data": "16/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
+    },
+    {
+      "titulo": "Secretário de Defesa dos EUA usa Bíblia para comparar repórteres a inimigos de Jesus",
+      "link": "https://www.infomoney.com.br/mundo/secretario-de-defesa-dos-eua-usa-biblia-para-comparar-reporteres-a-inimigos-de-jesus/",
+      "data": "16/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/09/Captura-de-tela-2025-09-17-161203.png?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-30T155010Z_1_LYNXNPEL8T0SO_RTROPTP_4_EUA-HEGSETH-GENERAIS-GORDOS.jpg?quality=70"
     },
     {
-      "titulo": "JPMorgan: ambiente destaca vantagens de grandes distribuidoras de combustíveis",
-      "link": "https://www.infomoney.com.br/mercados/jpmorgan-ambiente-destaca-vantagens-de-grandes-distribuidoras-de-combustiveis/",
-      "data": "15/04/2026",
+      "titulo": "Petrobras, PRIO, Brava: quais são preferidas do BBI após alta das ações com petróleo?",
+      "link": "https://www.infomoney.com.br/mercados/petrobras-prio-brava-quais-sao-preferidas-do-bbi-apos-alta-das-acoes-com-petroleo/",
+      "data": "16/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/12/Captura-de-tela-de-2025-12-02-12-23-20.png?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/04/409963814-1.jpg?quality=70"
     },
     {
-      "titulo": "Governador de Minas se manifesta após acidente com equipe da Band",
-      "link": "https://www.metropoles.com/minas-gerais/governador-de-minas-se-manifesta-apos-acidente-com-equipe-da-band",
-      "data": "15/04/2026",
-      "fonte": "Metrópoles",
+      "titulo": "Petrobras (PETR4): Acionistas aprovam R$ 41,2 bilhões em dividendos e orçamento de 2026; veja detalhes",
+      "link": "https://www.moneytimes.com.br/petrobras-petr4-acionistas-aprovam-r-412-bilhoes-em-dividendos-jcav/",
+      "data": "16/04/2026",
+      "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://i.metroimg.com/iQsWcSn-iiTdt9Y1f1PhgIlmjOSYIMyJowv-i5_I3Kc/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/whatsapp-image-2026-04-15-at-144101-1-1.jpeg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/09/petrobras-petr4-dividendos-jcp.jpg"
     },
     {
-      "titulo": "Professores municipais fazem paralisação e cobram reajuste salarial",
-      "link": "https://www.metropoles.com/sao-paulo/professores-municipais-fazem-paralisacao-e-cobram-reajuste-salarial",
-      "data": "15/04/2026",
-      "fonte": "Metrópoles",
+      "titulo": "Petrobras (PETR4) tem forte alta com Brent perto de US$ 100 e puxa petroleiras na bolsa",
+      "link": "https://www.moneytimes.com.br/petrobras-petr4-tem-forte-alta-com-brent-perto-de-us-100-e-puxa-petroleiras-na-bolsa-lils/",
+      "data": "16/04/2026",
+      "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://i.metroimg.com/ox4c7B--1MUrtGfiS8grMelVoCE-hWQiazU7KJgE1Cs/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/design-sem-nome-7-1.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/08/petrobras-petr4-dividendos.jpg"
     },
     {
-      "titulo": "Western Australia Moves to Stockpile Diesel Amid Mounting Supply Fears",
-      "link": "https://oilprice.com/Energy/Energy-General/Western-Australia-Moves-to-Stockpile-Diesel-Amid-Mounting-Supply-Fears.html",
+      "titulo": "Volvo eleva autonomia de caminhões elétricos na Europa para até 700 km",
+      "link": "https://www.transportabrasil.com.br/2026/04/volvo-eleva-autonomia-de-caminhoes-eletricos-na-europa-para-ate-700-km/",
       "data": "15/04/2026",
-      "fonte": "OilPrice",
+      "fonte": "Transporta Brasil",
       "prioridade": 1,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-04-15_q6ckfzqxai.jpg"
+      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/04/volvo-eletricos-novo-01-1.jpg"
+    },
+    {
+      "titulo": "Grupo Kothe compra 210 caminhões Mercedes-Benz Axor",
+      "link": "https://www.transportabrasil.com.br/2026/04/grupo-kothe-compra-210-caminhoes-mercedes-benz-axor/",
+      "data": "15/04/2026",
+      "fonte": "Transporta Brasil",
+      "prioridade": 1,
+      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/04/axor-kothe02.jpg"
     },
     {
       "titulo": "Transportadora mineira compra 50 caminhões VW Meteor",
@@ -641,258 +681,266 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2025/03/scania-560g.jpg"
     },
     {
-      "titulo": "Escala 6x1: entenda principais pontos e diferenças entre textos do Congresso e do governo",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/15/escala-6x1-entenda-principais-pontos-e-diferencas-entre-textos-do-congresso-e-do-governo.ghtml",
-      "data": "15/04/2026",
+      "titulo": "Brasil deve bater recorde de exportação e produção de soja em 2026, diz associação",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/16/brasil-devera-bater-recorde-de-exportacao-e-producao-de-soja-em-2026-preve-associacao.ghtml",
+      "data": "16/04/2026",
       "fonte": "G1",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/VhVbVCtJaCB0AViIH3eezkvZ4Lc=/3244x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/0/T4P0oxRcq1Cfj4kW7LsA/img20260415120749012.jpg"
+      "imagem": "https://s2-g1.glbimg.com/E-Mmjn_VqtzfvhqXp3oFCxQGMug=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/S/Z0FuiMQnmrbMT7Jz5Z5Q/2025-09-25t131411z-1230537182-rc20zga30r0e-rtrmadp-3-india-soyoil.jpg"
     },
     {
-      "titulo": "FMI fecha acordo com a Argentina para liberar US$ 1 bilhão em novos fundos",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/15/fmi-fecha-acordo-com-a-argentina-para-liberar-us-1-bilhao-em-novos-fundos.ghtml",
-      "data": "15/04/2026",
+      "titulo": "Dólar sobe e bate R$ 5 após anúncio de cessar-fogo de Israel no Líbano; Ibovespa cai",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/16/dolar-ibovespa.ghtml",
+      "data": "16/04/2026",
       "fonte": "G1",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/kObtnrIpvPdrjrDySIvnRJaI22w=/4799x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/j/g/ikHmfDRMS3ML5bObH9Ag/2019-03-26t214414z-863943898-rc1430b0f5f0-rtrmadp-3-argentina-economics-risks.jpg"
+      "imagem": "https://s2-g1.glbimg.com/Kr3Y9qq2QwUIuHuklsZB9B66nro=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/S/u3TO0vRgyBsplTZYCmeA/2025-02-04t203004z-2-lynxmpel130tf-rtroptp-4-usa-trump-migration-colombia.jpg"
     },
     {
-      "titulo": "Análise: Lula não reverte piora na avaliação, e preço dos alimentos e dívidas são os principais desafios",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/15/analise-quaest-abril.ghtml",
-      "data": "15/04/2026",
+      "titulo": "Veja os setores e exportadores habilitados para linha de crédito de R$ 15 bilhões do governo federal",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/16/veja-os-setores-e-exportadores-habilitados-para-linha-de-credito-de-r-15-bilhoes-do-governo-federal.ghtml",
+      "data": "16/04/2026",
       "fonte": "G1",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/jWqKmPupOmgY1VpCSmQfV9OiBUs=/1300x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/a/YHroVMSeSuFlhABcyyxg/260414-pesquisa-quaest-endividamento.png"
+      "imagem": "https://s2-g1.glbimg.com/PmE7zZbV6EzlPKwx4iJGH3EFxQs=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/g/dF3xXmTzqvEY1y51p6tw/conteiner-embarque-cafe.jpg"
     },
     {
-      "titulo": "Cientista brasileira na lista da Time ajudou agricultores a economizar quase R$ 125 bilhões por ano",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/15/brasileira-entra-na-lista-das-100-pessoas-mais-influentes-do-mundo-do-time.ghtml",
-      "data": "15/04/2026",
+      "titulo": "Quando o café vai ficar mais barato? Veja o que esperar para 2026",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/16/quando-o-cafe-vai-ficar-mais-barato.ghtml",
+      "data": "16/04/2026",
       "fonte": "G1",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/vSm3bp8SkQmCzrjmM1T2bfvz1Rw=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/U/WcZIt2RQGd8NYu2CkSkw/anp-8755-1-.jpg"
+      "imagem": "https://s2-g1.glbimg.com/VioTJ1DzIcAKKifY39vnh54CqqQ=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/r/j/gAzcUVQhyGky3L5A37Vw/imagem-4.jpeg"
     },
     {
-      "titulo": "Em tom de brincadeira, Lula diz que vai conversar com Galípolo e afirma que juros podem cair se BC 'olhar para pessoas como ele'",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/15/em-tom-de-brincadeira-lula-diz-vai-chamar-galipolo-e-que-se-bc-olhar-pessoas-como-ele-vai-baixar-taxa-de-juros.ghtml",
-      "data": "15/04/2026",
+      "titulo": "'Fiz as contas para chegar no valor que combinamos': mensagens entre Vorcaro e ex-BRB apontam ajuste milionário por imóveis",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/04/16/trocas-de-mensagens-entre-vorcaro-e-ex-brb.ghtml",
+      "data": "16/04/2026",
       "fonte": "G1",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/3sKQ2XNjyiqte8OMP5mkClWoyB0=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/D/FFWiiZSPysMQ1gUPsMDg/55195431064-941e634124-k.jpg"
+      "imagem": "https://s2-g1.glbimg.com/MbMsoAjeTMN7KhWPPbKb4IL-Fy0=/1336x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/B/J9RcjyTiWLkm44hcb58g/captura-de-tela-2026-04-16-113206.png"
     },
     {
-      "titulo": "Brasil tem fluxo cambial negativo de US$ 750 milhões em abril até dia 10, diz BC",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450527",
-      "data": "15/04/2026",
+      "titulo": "Governo aprova recontratação de usina a carvão da J&F até 2040",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/governo-aprova-recontratacao-de-usina-a-carvao-da-jf-ate-2040.shtml",
+      "data": "16/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 2,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/16/177636127769e11f3d1f6f1_1776361277_3x2_rt.jpg"
+    },
+    {
+      "titulo": "PepsiCo alerta que guerra no Irã pode elevar preços",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450532",
+      "data": "16/04/2026",
       "fonte": "Folha SP",
       "prioridade": 2,
       "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
-      "titulo": "TCU decide investigar irregularidades em megaleilão de energia e ministro cita 'geradoras de papel'",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/04/tcu-decide-investigar-irregularidades-em-megaleilao-de-energia-e-e-ministro-cita-geradoras-de-papel.shtml",
-      "data": "15/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2018/09/19/15373331465ba1d79a6dc54_1537333146_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Crescimento econômico será mais lento neste trimestre em meio à guerra, diz secretário do Tesouro dos EUA",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450523",
-      "data": "15/04/2026",
+      "titulo": "Ações da fabricante de chocolate Barry Callebaut despencam com queda nos preços do cacau",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450530",
+      "data": "16/04/2026",
       "fonte": "Folha SP",
       "prioridade": 2,
       "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
-    },
-    {
-      "titulo": "IGP-10 sobe mais que o esperado em abril com pressão da guerra no Oriente Médio, mostra FGV",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450522",
-      "data": "15/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
-    },
-    {
-      "titulo": "Ouro hoje fecha em queda leve com incertezas no Oriente Médio",
-      "link": "https://www.infomoney.com.br/mercados/ouro-hoje-fecha-em-queda-leve-com-incertezas-no-oriente-medio/",
-      "data": "15/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 2,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Ouro-e-dolar.jpeg?quality=70"
-    },
-    {
-      "titulo": "EUA apuram negociações de petróleo feitas logo antes de anúncios de Trump sobre o Irã",
-      "link": "https://www.infomoney.com.br/mercados/eua-apuram-negociacoes-de-petroleo-feitas-logo-antes-de-anuncios-de-trump-sobre-o-ira/",
-      "data": "15/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 2,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/10/9421.jpg?quality=70"
-    },
-    {
-      "titulo": "Dólar hoje opera estável, abaixo dos R$ 5, com mercado atento ao Oriente Médio",
-      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-15042026/",
-      "data": "15/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 2,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/01/448264696.jpg?quality=70"
-    },
-    {
-      "titulo": "Petróleo fecha estável à espera de avanço nas negociações de cessar-fogo entre EUA e Irã",
-      "link": "https://www.moneytimes.com.br/petroleo-15-4-26-apsa/",
-      "data": "15/04/2026",
-      "fonte": "Money Times",
-      "prioridade": 2,
-      "imagem": "https://www.moneytimes.com.br/uploads/2024/04/petroleo-russia.jpg"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "Livro Bege do Fed: custos de energia e combustíveis subiram em todos os distritos",
-      "link": "https://www.infomoney.com.br/mercados/livro-bege-do-fed-custos-de-energia-e-combustiveis-subiram-em-todos-os-distritos/",
-      "data": "15/04/2026",
-      "fonte": "InfoMoney",
+      "titulo": "Como declarar consórcio no Imposto de Renda 2026?",
+      "link": "https://exame.com/invest/minhas-financas/como-declarar-consorcio-no-imposto-de-renda-2026/",
+      "data": "2026-04-16",
+      "fonte": "Exame",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/09/Captura-de-tela-2025-09-17-161203.png?quality=70"
+      "imagem": "https://classic.exame.com/wp-content/uploads/2026/04/IR_2026_Site.jpg"
     },
     {
-      "titulo": "“Por que BC ignorou os alertas durante anos sobre Vorcaro?’, questiona Haddad",
-      "link": "https://www.infomoney.com.br/politica/por-que-bc-ignorou-os-alertas-durante-anos-sobre-vorcaro-questiona-haddad/",
-      "data": "15/04/2026",
+      "titulo": "Petróleo brent sobe quase 5% com impasse para encerrar guerra no Irã num curto prazo",
+      "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-16042026/",
+      "data": "16/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/11/2025-11-06T122100Z_1_LYNXMPELA50OS_RTROPTP_4_MACRO-SEGURO-DEFESO.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/01/447247335.jpg?quality=70"
     },
     {
-      "titulo": "Novo ouro? BofA destaca status do Brasil e ressalta otimismo dos investidores globais",
-      "link": "https://www.infomoney.com.br/mercados/novo-ouro-bofa-destaca-status-do-brasil-e-reforca-otimismo-dos-investidores-globais/",
-      "data": "15/04/2026",
+      "titulo": "Diretor do BC reforça desconforto com expectativa de inflação para 2028",
+      "link": "https://www.infomoney.com.br/economia/diretor-do-bc-reforca-desconforto-com-expectativa-de-inflacao-para-2028/",
+      "data": "16/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Captura-de-tela-2026-03-24-162333.png?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/04/diretor_bc_04.webp?quality=70"
     },
     {
-      "titulo": "Brasil tem fluxo cambial negativo de US$ 750 milhões em abril até dia 10, diz BC",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450527",
-      "data": "15/04/2026",
+      "titulo": "Prefeituras ampliam quadro de funcionários em ritmo 10 vezes maior que União em quatro anos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/prefeituras-ampliam-quadro-de-funcionarios-em-ritmo-10-vezes-maior-que-uniao-em-quatro-anos.shtml",
+      "data": "16/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/04/25/1745596504680bb05880bd1_1745596504_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Cremer obtém direito de excluir frete e despesas acessórias da base de cálculo do IPI",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/04/cremer-obtem-direito-de-excluir-frete-e-despesas-acessorias-da-base-de-calculo-do-ipi.shtml",
+      "data": "16/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/16/177636925969e13e6b0c19e_1776369259_3x2_xl.jpg"
+    },
+    {
+      "titulo": "Arrecadação abaixo do previsto com taxação de dividendos causa dúvida sobre compensação de isenção de IR",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/arrecadacao-abaixo-do-previsto-com-taxacao-de-dividendos-causa-duvida-sobre-compensacao-de-isencao-de-ir.shtml",
+      "data": "16/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/16/177636352769e1280716514_1776363527_3x2_rt.jpg"
+    },
+    {
+      "titulo": "PepsiCo alerta que guerra no Irã pode elevar preços",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450532",
+      "data": "16/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
       "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
-      "titulo": "Governo deve incluir cerca de 40% das sentenças judiciais no cálculo da meta fiscal de 2027",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/governo-deve-incluir-cerca-de-40-das-sentencas-judiciais-no-calculo-da-meta-fiscal-de-2027.shtml",
-      "data": "15/04/2026",
+      "titulo": "Trump vai tentar minimizar preocupações com a economia em campanha nos EUA",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450531",
+      "data": "16/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/15/177626266469df9e08878d0_1776262664_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
-      "titulo": "Robô para substituir humanos em entregas pode economizar bilhões, diz banco inglês",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/robo-para-substituir-humanos-em-entregas-pode-economizar-bilhoes-diz-banco-ingles.shtml",
-      "data": "15/04/2026",
+      "titulo": "Ações da fabricante de chocolate Barry Callebaut despencam com queda nos preços do cacau",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450530",
+      "data": "16/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/15/177627517169dfcee356989_1776275171_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
-      "titulo": "Escala 6x1: entenda principais pontos e diferenças entre textos do Congresso e do governo",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/15/escala-6x1-entenda-principais-pontos-e-diferencas-entre-textos-do-congresso-e-do-governo.ghtml",
-      "data": "15/04/2026",
+      "titulo": "Patrimônio milionário do indicado à presidência do Banco Central dos EUA acende alerta no Senado americano",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/16/patrimonio-kevin-warsh-fed-estados-unidos.ghtml",
+      "data": "16/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/VhVbVCtJaCB0AViIH3eezkvZ4Lc=/3244x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/0/T4P0oxRcq1Cfj4kW7LsA/img20260415120749012.jpg"
+      "imagem": "https://s2-g1.glbimg.com/PXvbNC7UzHoF4IJ8wjmIfP2I-bM=/3300x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/v/oBDYvoSB20Bpq1ek06kA/afp-20260130-94jp7zq-v1-highres-filesuseconomypoliticsfinancecentralbank.jpg"
     },
     {
-      "titulo": "FMI fecha acordo com a Argentina para liberar US$ 1 bilhão em novos fundos",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/15/fmi-fecha-acordo-com-a-argentina-para-liberar-us-1-bilhao-em-novos-fundos.ghtml",
-      "data": "15/04/2026",
+      "titulo": "Brasil e Argentina firmam acordo para fortalecer o setor automotivo e reagir à concorrência chinesa",
+      "link": "https://g1.globo.com/carros/noticia/2026/04/16/brasil-e-argentina-acordo-setor-automotivo.ghtml",
+      "data": "16/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/kObtnrIpvPdrjrDySIvnRJaI22w=/4799x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/j/g/ikHmfDRMS3ML5bObH9Ag/2019-03-26t214414z-863943898-rc1430b0f5f0-rtrmadp-3-argentina-economics-risks.jpg"
+      "imagem": "https://s2-g1.glbimg.com/9Kw-QiKIz9zJ8dKssC024BL4KlU=/4000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/C/WlUeVFRJKRPPBmDIQ8wQ/poloautomotivostellantisdebetimtemregistradorecordesmensaisconsecutivosdeproduodesdeagosto-fotoleolara3.jpg"
     },
     {
-      "titulo": "Reforma Casa Brasil: governo amplia crédito para reforma de moradias para quem tem renda até R$ 13 mil",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/15/reforma-casa-brasil-governo-amplia-credito-para-reforma-de-moradias-para-quem-tem-renda-ate-r-13-mil.ghtml",
-      "data": "15/04/2026",
+      "titulo": "Guerra no Oriente Médio deve elevar salário mínimo perto de R$ 1.730 em 2027, diz órgão do Senado; governo prevê mínimo em R$ 1.717",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/16/guerra-no-oriente-medio-deve-elevar-salario-minimo-perto-de-r-1730-em-2027-diz-orgao-do-senado-governo-preve-minimo-em-r-1717.ghtml",
+      "data": "16/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/lxGoo8iOCLNZDHZyVmiW_1CU0pk=/2047x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/n/m/lsuEsqTxW3yJrbBvWWhA/unidades-habitacionais-do-programa-minha-casa-minha-vida-mcmv-no-residencial-canto-da-serra.-residencial-canto-da-serra-imperatriz-ma-.jpg"
+      "imagem": ""
     },
     {
-      "titulo": "Análise: Lula não reverte piora na avaliação, e preço dos alimentos e dívidas são os principais desafios",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/15/analise-quaest-abril.ghtml",
-      "data": "15/04/2026",
+      "titulo": "Brasil deve bater recorde de exportação e produção de soja em 2026, diz associação",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/16/brasil-devera-bater-recorde-de-exportacao-e-producao-de-soja-em-2026-preve-associacao.ghtml",
+      "data": "16/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/jWqKmPupOmgY1VpCSmQfV9OiBUs=/1300x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/a/YHroVMSeSuFlhABcyyxg/260414-pesquisa-quaest-endividamento.png"
+      "imagem": "https://s2-g1.glbimg.com/E-Mmjn_VqtzfvhqXp3oFCxQGMug=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/S/Z0FuiMQnmrbMT7Jz5Z5Q/2025-09-25t131411z-1230537182-rc20zga30r0e-rtrmadp-3-india-soyoil.jpg"
     },
     {
-      "titulo": "Ministros das Finanças de ao menos 11 países alertam para impacto prolongado do conflito no Oriente Médio",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/15/ministros-das-financas-alertam-para-impacto-prolongado-do-conflito-no-oriente-medio.ghtml",
-      "data": "15/04/2026",
+      "titulo": "Chocolate fake vai acabar? O que muda no chocolate que você come no Brasil",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/16/chocolate-fake-vai-acabar-o-que-muda-no-chocolate-que-voce-come-no-brasil.ghtml",
+      "data": "16/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/6x7hvAXgNxW7HShcqrC5227911E=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/5/dVzbFpTDSmg7wlsBM4Cg/2026-04-12t135436z-1625689504-rc2gnkaezcwq-rtrmadp-3-iran-crisis-hormuz.jpg"
+      "imagem": "https://s2-g1.glbimg.com/rK0Aqd5K5utFSsq17g8YUy2nx6o=/1445x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/M/5/a8PV9WTwKBVGpwL4pB7Q/captura-de-tela-2023-04-06-131541.png"
     },
     {
-      "titulo": "Por que o FMI prevê que Brasil crescerá mais por causa da guerra no Irã",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/15/por-que-o-fmi-preve-que-brasil-crescera-mais-por-causa-da-guerra-no-ira.ghtml",
-      "data": "15/04/2026",
+      "titulo": "Europa tem combustível para abastecer aviões por ‘talvez mais seis semanas’, diz chefe da Agência Internacional de Energia",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/16/europa-combustive-chefe-da-agencia-internacional-de-energia.ghtml",
+      "data": "16/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/4CCXcAKYxQBBJO4ZPLfzc4af0qM=/3008x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/s/A/VyaB2OTeu3Ao8CuAMASw/refinaria-riograndense-credito-joao-paulo-ceglinski.jpg"
+      "imagem": "https://s2-g1.glbimg.com/xurzDkMbNBFC2Sogt3bKfzWwShQ=/1440x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/2/3IzBQ3SRAUCEf1S9fOlQ/download.webp"
     },
     {
-      "titulo": "Cientista brasileira na lista da Time ajudou agricultores a economizar quase R$ 125 bilhões por ano",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/15/brasileira-entra-na-lista-das-100-pessoas-mais-influentes-do-mundo-do-time.ghtml",
-      "data": "15/04/2026",
+      "titulo": "No 5º mês seguido de crescimento, 'prévia do PIB' do Banco Central tem alta de 0,6% em fevereiro",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/16/no-5o-mes-seguido-de-crescimento-previa-do-pib-do-banco-central-tem-alta-de-06percent-em-fevereiro.ghtml",
+      "data": "16/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/vSm3bp8SkQmCzrjmM1T2bfvz1Rw=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/U/WcZIt2RQGd8NYu2CkSkw/anp-8755-1-.jpg"
+      "imagem": "https://s2-g1.glbimg.com/8FMtdj2yY_XUupKXcJKEL7_5WCE=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/X/R/vdpClUThCOcBY2t8z23A/3a4d5d5f-5ab9-47dc-b656-ddb0cfabe130.jpg"
     },
     {
-      "titulo": "Dólar engata queda pelo 6º dia consecutivo e fecha a R$ 4,99",
-      "link": "https://www.moneytimes.com.br/dolar-15-4-26-lils/",
-      "data": "15/04/2026",
+      "titulo": "Dólar fecha a R$ 4,99 com cautela sobre a guerra no Oriente Médio; Ibovespa cai",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/16/dolar-ibovespa.ghtml",
+      "data": "16/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/Kr3Y9qq2QwUIuHuklsZB9B66nro=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/S/u3TO0vRgyBsplTZYCmeA/2025-02-04t203004z-2-lynxmpel130tf-rtroptp-4-usa-trump-migration-colombia.jpg"
+    },
+    {
+      "titulo": "Veja os setores e exportadores habilitados para linha de crédito de R$ 15 bilhões do governo federal",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/16/veja-os-setores-e-exportadores-habilitados-para-linha-de-credito-de-r-15-bilhoes-do-governo-federal.ghtml",
+      "data": "16/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/PmE7zZbV6EzlPKwx4iJGH3EFxQs=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/g/dF3xXmTzqvEY1y51p6tw/conteiner-embarque-cafe.jpg"
+    },
+    {
+      "titulo": "Banco Central decreta liquidação extrajudicial da cooperativa Creditag por crise financeira",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/16/banco-central-liquidacao-extrajudicial-creditag.ghtml",
+      "data": "16/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/Y2-r5e8iOXy3fSad2jHsGidFbFs=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/n/LBBnKxRNiYcKC2gRM6KQ/creditag.jpg"
+    },
+    {
+      "titulo": "Imposto de Renda 2026: quais gastos com educação e despesas médicas posso deduzir?",
+      "link": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/04/16/imposto-de-renda-2026-quais-gastos-com-educacao-e-despesas-medicas-posso-deduzir.ghtml",
+      "data": "16/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/4JI9Rqmsee3pbBuWmjyTl7jp-hM=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/09/93/14479309"
+    },
+    {
+      "titulo": "Dólar fecha estável a R$ 4,99 na expectativa de negociações de paz no Oriente Médio",
+      "link": "https://www.moneytimes.com.br/dolar-16-4-26-lils/",
+      "data": "16/04/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/09/istock-465079218-e1744307084463.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/12/dolar-cambio.jpg"
     },
     {
-      "titulo": "Petróleo fecha estável à espera de avanço nas negociações de cessar-fogo entre EUA e Irã",
-      "link": "https://www.moneytimes.com.br/petroleo-15-4-26-apsa/",
-      "data": "15/04/2026",
+      "titulo": "Petróleo avança e fecha próximo de US$ 100 com incertezas sobre fim da guerra no Oriente Médio",
+      "link": "https://www.moneytimes.com.br/petroleo-16-4-26-apsa/",
+      "data": "16/04/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2024/04/petroleo-russia.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/07/petroleo.jpg"
     },
     {
-      "titulo": "Analista vê correção do Ibovespa em baixa desta quarta (15); veja destaques do Giro do Mercado",
-      "link": "https://www.moneytimes.com.br/igp-10-sobe-294-acima-do-esperado-e-ibovespa-recua-apos-recordes-veja-destaques-do-giro-do-mercado-jvka/",
-      "data": "15/04/2026",
+      "titulo": "Petrobras (PETR4): Acionistas aprovam R$ 41,2 bilhões em dividendos e orçamento de 2026; veja detalhes",
+      "link": "https://www.moneytimes.com.br/petrobras-petr4-acionistas-aprovam-r-412-bilhoes-em-dividendos-jcav/",
+      "data": "16/04/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2026/03/novo-layout-giro-17.png"
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/09/petrobras-petr4-dividendos-jcp.jpg"
     },
     {
-      "titulo": "Inflação em 5,5%? BofA revisa cenário e vê IPCA fora da meta já em abril",
-      "link": "https://www.moneytimes.com.br/inflacao-em-55-bofa-revisa-cenario-e-ve-ipca-fora-da-meta-ja-em-abril-jcav/",
-      "data": "15/04/2026",
+      "titulo": "Petróleo: Alta até US$ 120 ficou para trás, diz analista do BTG; veja destaques do Giro do Mercado hoje (16)",
+      "link": "https://www.moneytimes.com.br/alta-ate-us-120-ficou-para-tras-diz-analista-do-btg-sobre-o-petroleo-veja-destaques-do-giro-do-mercado-hoje-16-ceci/",
+      "data": "16/04/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/07/inflacao-ipca-brasil-2.jpg"
-    },
-    {
-      "titulo": "Tesouro capta 5 bilhões de euros no mercado europeu, diz Durigan",
-      "link": "https://www.moneytimes.com.br/tesouro-capta-5-bilhoes-de-euros-no-mercado-europeu-diz-durigan-jcav/",
-      "data": "15/04/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/01/tesouro-direto-hoje-taxas-1-1.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/04/novo-layout-giro-40.jpg"
     }
   ],
-  "noticias_em": "15/04/2026 20:10 UTC",
-  "noticias_em_br": "15/04/2026 17:10",
+  "noticias_em": "16/04/2026 20:06 UTC",
+  "noticias_em_br": "16/04/2026 17:06",
   "indicadores_em": "15/04/2026 20:10 UTC",
   "indicadores_em_br": "15/04/2026 17:10"
 }
