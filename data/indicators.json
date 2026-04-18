@@ -505,6 +505,126 @@
   },
   "noticias": [
     {
+      "titulo": "Diesel mais barato? 26 estados devem aderir à proposta do governo, diz Alckmin",
+      "link": "https://exame.com/brasil/diesel-mais-barato-26-estados-devem-aderir-a-proposta-do-governo-diz-alckmin/",
+      "data": "2026-04-18",
+      "fonte": "Exame",
+      "prioridade": 1,
+      "imagem": "https://classic.exame.com/wp-content/uploads/2025/07/AFP__20250714__66QU7VH__v1__HighRes__BrazilPoliticsLulaDaSilva.jpg"
+    },
+    {
+      "titulo": "'Estou em modo sobrevivência': por que ter trabalho na Argentina não é seguro contra pobreza",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/18/estou-em-modo-sobrevivencia-por-que-ter-trabalho-na-argentina-nao-e-seguro-contra-pobreza.ghtml",
+      "data": "18/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/w_1mbH0sbMapELlmdFUtJBG_beQ=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/C/0mVDKLToyBwk9Yq9r7jg/0404cf90-2d4a-11f1-8ac7-a101b1a2933c.jpg"
+    },
+    {
+      "titulo": "Alckmin diz que não é contra nem a favor da 'taxa das blusinhas' e afirma que apoiará decisão de Lula",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/18/alckmin-diz-que-nao-e-contra-nem-a-favor-da-taxa-das-blusinhas-e-afirma-que-apoiara-decisao-de-lula.ghtml",
+      "data": "18/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/ZOSar6JcxddyAhvubua_FV0yaZQ=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/s/AoY30KRECOqvDjoSaKyg/55212136799-76e9b6593d-k.jpg"
+    },
+    {
+      "titulo": "Feriado de Tiradentes: entenda os direitos na emenda e quando o desconto é permitido",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/18/feriado-de-tiradentes-entenda-os-direitos-na-emenda-e-quando-o-desconto-e-permitido.ghtml",
+      "data": "18/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/T18Qxuc6Ngd_Pr2ynfCNGQjdZ9U=/1500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/r/frQ8nbRNGz0Y8i9YBoVA/14778.jpg"
+    },
+    {
+      "titulo": "Petrobras deixa de atender 10% do pedido de diesel de distribuidoras para maio, diz agência",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/17/petrobras-pedido-diesel-distribuidoras.ghtml",
+      "data": "18/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/OtowCRweQWa1NIh79OMXOXjfDZs=/5472x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/wCR8ddTkWlDT6bfcazyg/mg-1446-0.jpg"
+    },
+    {
+      "titulo": "Lula critica líderes mundiais por guerras e afirma que Trump não 'tem direito' de excluir África do Sul do G20",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/18/lula-critica-lideres-mundiais-por-guerras-e-afirma-trump-nao-pode-excluir-africa-do-sul-do-g20.ghtml",
+      "data": "18/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/hgedkj2Z2O6vMiQu7RbWxdJVOp8=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/14537119.jpg"
+    },
+    {
+      "titulo": "Postos e distribuidoras acusam ANP de distorcer dados em fiscalizações sobre preço abusivo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/postos-e-distribuidoras-acusam-anp-de-distorcer-dados-em-fiscalizacoes-sobre-preco-abusivo.shtml",
+      "data": "18/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/08/26/175625056568ae41c56a536_1756250565_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Pará autoriza Belo Sun a minerar ouro na Volta Grande do Xingu; MPF e grupos indígenas contestam",
+      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/ambiente/2026/04/para-autoriza-belo-sun-a-minerar-ouro-na-volta-grande-do-xingu-mpf-e-grupos-indigenas-contestam.shtml",
+      "data": "18/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2022/10/08/16652002996340f0abaec20_1665200299_3x2_rt.jpg"
+    },
+    {
+      "titulo": "MP-SP volta atrás após troca de promotor e pede condenação de Monark por fala sobre nazismo",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/mp-sp-volta-atras-apos-troca-de-promotor-e-pede-condenacao-de-monark-por-fala-sobre-nazismo.shtml",
+      "data": "18/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2022/06/06/1654546874629e61ba25611_1654546874_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Alckmin: 26 Estados aderiram à subvenção de R$ 1,20 por litro de diesel importado",
+      "link": "https://www.infomoney.com.br/economia/alckmin-26-estados-aderiram-a-subvencao-de-r-120-por-litro-de-diesel-importado/",
+      "data": "18/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/55130728686_c1386d1cc7_c.jpg?quality=70"
+    },
+    {
+      "titulo": "Índia manifesta “profunda preocupação” com ataque a navios indianos em Ormuz",
+      "link": "https://www.infomoney.com.br/mundo/india-manifesta-profunda-preocupacao-com-ataque-a-navios-indianos-em-ormuz/",
+      "data": "18/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-03-16T140940Z_906141850_RC2N5KA49V32_RTRMADP_3_IRAN-CRISIS-INDIA.jpg?quality=70"
+    },
+    {
+      "titulo": "Aumento de tensão: Lanchas iranianas atacam petroleiro no Estreito de Ormuz em meio à retomada de restrições",
+      "link": "https://www.moneytimes.com.br/aumento-de-tensao-lanchas-iranianas-atacam-petroleiro-no-estreito-de-ormuz-em-meio-a-retomada-de-restricoes-rnda/",
+      "data": "18/04/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2022/10/navio-de-carga-razoni.jpg"
+    },
+    {
+      "titulo": "Petrobras: tensões geopolíticas e conflitos são riscos para o negócio",
+      "link": "https://www.metropoles.com/negocios/petrobras-tensoes-geopoliticas-e-conflitos-sao-riscos-para-o-negocio",
+      "data": "18/04/2026",
+      "fonte": "Metrópoles",
+      "prioridade": 1,
+      "imagem": "https://i.metroimg.com/hzRzSdiqqMs71OUlQ4GjwHMAmd2pietOZL8SLCOiRtw/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2025/11/07083208/petrobras-6.jpg"
+    },
+    {
+      "titulo": "Governo espera adesão unânime de estados a pacote do diesel até dia 22",
+      "link": "https://www.metropoles.com/brasil/governo-espera-adesao-unanime-de-estados-a-pacote-do-diesel-ate-dia-22",
+      "data": "18/04/2026",
+      "fonte": "Metrópoles",
+      "prioridade": 1,
+      "imagem": "https://i.metroimg.com/LJ9kkOrRqJ18fHIC1W7oIIkVB6JOe5SdxtQKY2Mtiz0/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/02/Geraldo-Alckmin-anunciou-medidas-visando-a-reducao-dos-precos-dos-alimentos-e-zerar-os-tributos-sobre-varios-alimentos-importados-Metropoles-2.jpg"
+    },
+    {
+      "titulo": "TRF-2 derruba decisão que impedia cobrança de imposto sobre exportação de petróleo",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/17/trf-2-derruba-decisao-que-impedia-cobranca-de-imposto-de-exportacao-a-petroleiras.ghtml",
+      "data": "17/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/wMqi6i6jOyC-I6BLKmgnKu_UBwk=/4626x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/O/9Ao315RAKJ6TPuCfaybg/2026-03-18t181414z-638208040-rc2x6kaxxssm-rtrmadp-3-brazil-oil.jpg"
+    },
+    {
       "titulo": "Boulos diz que é possível que governo Lula revogue a 'taxa das blusinhas'",
       "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/04/17/boulos-entrevista-globonews-taxa-blusinhas.ghtml",
       "data": "17/04/2026",
@@ -521,22 +641,6 @@
       "imagem": "https://s2-g1.glbimg.com/Hi6HprzsM7h57zcc9WKx_iO3Cic=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/43/38/14533843"
     },
     {
-      "titulo": "Preço do petróleo cai mais de 10% após reabertura do Estreito de Ormuz",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/17/preco-petroleo-reabertura-ormuz.ghtml",
-      "data": "17/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/6x7hvAXgNxW7HShcqrC5227911E=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/5/dVzbFpTDSmg7wlsBM4Cg/2026-04-12t135436z-1625689504-rc2gnkaezcwq-rtrmadp-3-iran-crisis-hormuz.jpg"
-    },
-    {
-      "titulo": "Europa pode ter combustível de aviação só para as próximas semanas, e companhias começam a cancelar voos",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/17/europa-pode-ter-combustivel-de-aviacao-so-para-as-proximas-semanas-e-companhias-comecam-a-cancelar-voos.ghtml",
-      "data": "17/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/ut_LEq2ElYkBwTQYyaQ8sIZIC3A=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/Z/Ucl0nNTDSstxAqKZV8AA/2026-03-12t071628z-941758401-rc2u2kalacoy-rtrmadp-3-germany-lufthansa-strike.jpg"
-    },
-    {
       "titulo": "Carta Pokémon de milhões de libras: valorização gera onda de crimes com roubos e furtos",
       "link": "https://g1.globo.com/economia/noticia/2026/04/17/carta-pokemon-de-milhoes-de-libras-valorizacao-gera-onda-de-crimes-com-roubos-e-furtos.ghtml",
       "data": "17/04/2026",
@@ -545,76 +649,36 @@
       "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
     },
     {
-      "titulo": "STF segue sob tensão após críticas a Fachin por demora em divulgar nota sobre relatório de CPI",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/04/17/stf-segue-sob-tensao-apos-criticas-a-fachin-por-demora-em-divulgar-nota-sobre-relatorio-de-cpi.ghtml",
+      "titulo": "Fachin nega crise com Legislativo após relatório de CPI do Crime Organizado",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/04/17/fachin-nega-crise-com-legislativo-apos-relatorio-de-cpi-do-crime-organizado.ghtml",
       "data": "17/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/ZG-OipeTYvi8RPsQAp1rO1bEGLs=/2047x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/e/NknlLfQl2dHaBQzqV04Q/victor-piemonte-stf.jpg"
+      "imagem": "https://s2-g1.glbimg.com/yb1aDussiqKundoiZBwEySHjDg8=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/F/oO6x16TAugyuBdC06S8g/gnews-gn18-agenda-fachin-20260417-0958-frame-50879.jpeg"
     },
     {
-      "titulo": "Corrida pelo biodiesel: preço cai abaixo do diesel comum pela primeira vez",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/corrida-pelo-biodiesel-preco-cai-abaixo-do-diesel-comum-pela-primeira-vez.shtml",
+      "titulo": "Lula lamenta morte de Oscar Schmidt: 'maior ídolo da história do basquete brasileiro'",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/17/lamenta-morte-oscar-schmidt.ghtml",
+      "data": "17/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/tTx5Jk03dM-BuQiyRmTAVB6xjHs=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/a/cqE1u8SdutLO86p0E8XQ/whatsapp-image-2024-01-22-at-16-1705954426-1-.jpeg"
+    },
+    {
+      "titulo": "Distribuidoras de combustível ameaçam ir à Justiça contra exposição de lucro e podem rejeitar subvenção de R$ 4 bi",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/distribuidoras-de-combustivel-ameacam-ir-a-justica-contra-exposicao-de-lucro-e-podem-rejeitar-subvencao-de-r-4-bi.shtml",
       "data": "17/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/11/177326588469b1e3dcc292f_1773265884_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/27/177462242069c696d4f0e93_1774622420_3x2_lg.jpg"
     },
     {
-      "titulo": "Confederação do agronegócio pede ao STF suspensão de bloqueio de crédito rural a desmatadores",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/confederacao-do-agronegocio-pede-ao-stf-suspensao-de-bloqueio-de-credito-rural-a-desmatadores.shtml",
+      "titulo": "Mercedes-Benz apresenta novidades nos chassis rodoviários O500",
+      "link": "https://www.transportabrasil.com.br/2026/04/mercedes-benz-apresenta-novidades-nos-chassis-rodoviarios-o500/",
       "data": "17/04/2026",
-      "fonte": "Folha SP",
+      "fonte": "Transporta Brasil",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2025/09/24/175874653168d457a37529a_1758746531_3x2_rt.jpg"
-    },
-    {
-      "titulo": "USP propõe bônus de até R$ 1.600 mensais a funcionários para encerrar greve",
-      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/educacao/2026/04/usp-propoe-bonus-de-r-1600-mensais-a-funcionarios-para-encerrar-greve.shtml",
-      "data": "17/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/17/177643429269e23c74d836f_1776434292_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Nova lei cria custódia compartilhada de animais de estimação após separação de casais",
-      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/nova-lei-cria-custodia-compartilhada-de-animais-de-estimacao-apos-separacao-de-casais.shtml",
-      "data": "17/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/17/177643173269e23274dbf50_1776431732_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Douglas Ruas (PL) é eleito presidente da Alerj e deixa Governo do RJ sob dependência do STF",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/douglas-ruas-pl-e-eleito-presidente-da-alerj-e-deixa-governo-do-rj-sob-dependencia-do-stf.shtml",
-      "data": "17/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/17/177644400069e262601914b_1776444000_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Petrobras: renovação do conselho vem em linha com expectativas e não muda tese",
-      "link": "https://www.infomoney.com.br/mercados/petrobras-renovacao-do-conselho-vem-em-linha-com-expectativas-e-nao-muda-tese/",
-      "data": "17/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/10/Captura-de-tela-2024-10-14-134411.png?quality=70"
-    },
-    {
-      "titulo": "Como o bloqueio de Ormuz afetou dólar, petróleo e bolsas nos EUA e no Brasil?",
-      "link": "https://www.infomoney.com.br/mercados/como-o-bloqueio-de-ormuz-afetou-dolar-petroleo-e-bolsas-nos-eua-e-no-brasil/",
-      "data": "17/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-28T082000Z_1053526854_RC2W7FAITUYZ_RTRMADP_3_IRAN-OIL-SANCTIONS.jpg?quality=70"
-    },
-    {
-      "titulo": "Petrobras (PETR4): BofA eleva ação para compra e sobe preço-alvo para R$ 65; veja motivos",
-      "link": "https://www.moneytimes.com.br/petrobras-petr4-bofa-eleva-acao-para-compra-e-sobe-preco-alvo-para-r-65-veja-motivos-lmrs/",
-      "data": "17/04/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/08/petrobras-petr4-dividendos.jpg"
+      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/04/mercedes-o50001.jpg"
     },
     {
       "titulo": "Worst U.S. Drought in Decades Puts Spring Crops at Risk",
@@ -679,152 +743,96 @@
       "fonte": "Transporta Brasil",
       "prioridade": 1,
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2025/03/scania-560g.jpg"
-    },
-    {
-      "titulo": "Escala 6x1: ministro da Fazenda diz que pode haver transição para 'alguns setores', mas que conta não pode sobrar para o Tesouro",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/17/escala-6x1-ministro-da-fazenda-diz-que-pode-haver-transicao-para-alguns-setores-mas-que-conta-nao-pode-sobrar-para-o-tesouro.ghtml",
-      "data": "17/04/2026",
-      "fonte": "G1",
-      "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/ZSxWBJys9oYk9ZBMUHE2yQv6uhs=/2040x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/s/eXwLJ2QmWVeFtDivEA8w/55199249110-8d099d956c-o.jpg"
-    },
-    {
-      "titulo": "Mais aluguel, menos casas quitadas e cidades mais verticais: como mudou a moradia no Brasil",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/17/mais-aluguel-menos-casas-quitadas-e-cidades-mais-verticais-como-mudou-a-moradia-no-brasil.ghtml",
-      "data": "17/04/2026",
-      "fonte": "G1",
-      "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/hjZeiZ5iWeuz0NRor_-F1NIS860=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/i/lpao6TTo2w0EDxivOj5A/260417-ino-grafico-ibge-info1.png"
-    },
-    {
-      "titulo": "ONS reduz previsão para crescimento da carga de energia no Brasil em abril",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450538",
-      "data": "17/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
-    },
-    {
-      "titulo": "Brasil fecha acordo com Vietnã para exportar miúdos bovinos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450537",
-      "data": "17/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
-    },
-    {
-      "titulo": "Agência federal tem R$ 93 milhões em multas de pedágio free flow para devolver aos motoristas",
-      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/agencia-federal-tem-r-93-milhoes-em-multas-de-pedagio-free-flow-para-devolver-aos-motoristas.shtml",
-      "data": "17/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2025/11/10/176281446669126a02be43a_1762814466_3x2_rt.jpg"
-    },
-    {
-      "titulo": "BNDES aprova operação milionária para projeto de biometano",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/04/bndes-aprova-operacao-milionaria-para-projeto-de-biometano.shtml",
-      "data": "17/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/27/177462190469c694d0de2be_1774621904_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Preços do petróleo desabam cerca de 10% após Irã declarar o estreito de Ormuz aberto",
-      "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-17042026/",
-      "data": "17/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 2,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/10/9421.jpg?quality=70"
-    },
-    {
-      "titulo": "Dólar cai a R$ 4,98 após Irã anunciar que Estreito de Ormuz está aberto",
-      "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-17042026/",
-      "data": "17/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 2,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/blogging-guide-K5DY18hy5JQ-unsplash_red.jpg?quality=70"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "Novo retrato do Brasil: número de jovens cai e população envelhece",
-      "link": "https://exame.com/brasil/novo-retrato-do-brasil-numero-de-jovens-cai-e-populacao-envelhece/",
-      "data": "2026-04-17",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2020/09/ANPR_dia_violencia_contra_idosos_201606103573.jpg"
-    },
-    {
-      "titulo": "Buser diz que sentença em SP contraria posição da Artesp e jurisprudência do TJSP",
-      "link": "https://www.infomoney.com.br/brasil/buser-diz-que-sentenca-em-sp-contraria-posicao-da-artesp-e-jurisprudencia-do-tjsp/",
-      "data": "17/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2021/06/buser.jpg?quality=70"
-    },
-    {
-      "titulo": "Preços do petróleo desabam cerca de 10% após Irã declarar o estreito de Ormuz aberto",
-      "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-17042026/",
-      "data": "17/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/10/9421.jpg?quality=70"
-    },
-    {
-      "titulo": "Oncoclínicas (ONCO3) salta 15% com proteção contra vencimento antecipado de dívidas",
-      "link": "https://www.infomoney.com.br/mercados/oncoclinicas-onco3-salta-15-apos-protecao-contra-vencimento-antecipado-de-dividas/",
-      "data": "17/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2023/05/03bbcbc4-f266-4c01-8532-cca87621007a.jpg?quality=70"
-    },
-    {
-      "titulo": "Fim da escala 6x1 não pode gerar custo ao Tesouro e deve haver transição, diz ministro",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/fim-da-escala-6x1-nao-pode-gerar-custo-ao-tesouro-e-deve-haver-transicao-diz-ministro.shtml",
-      "data": "17/04/2026",
+      "titulo": "Vorcaro já usava ciranda financeira ao comprar banco que virou o Master, mostra BC",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/vorcaro-ja-usava-ciranda-financeira-ao-comprar-banco-que-virou-o-master-mostra-bc.shtml",
+      "data": "18/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/11/177590878769da37b3a9ac5_1775908787_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/11/177325580269b1bc7a23521_1773255802_3x2_rt.jpg"
     },
     {
-      "titulo": "Corrida pelo biodiesel: preço cai abaixo do diesel comum pela primeira vez",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/corrida-pelo-biodiesel-preco-cai-abaixo-do-diesel-comum-pela-primeira-vez.shtml",
-      "data": "17/04/2026",
+      "titulo": "Trump renova isenção para petróleo russo apesar de críticas no Congresso",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/trump-renova-isencao-para-petroleo-russo-apesar-de-criticas-no-congresso.shtml",
+      "data": "18/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/11/177326588469b1e3dcc292f_1773265884_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/18/177651940369e388ebd7d0d_1776519403_3x2_rt.jpg"
     },
     {
-      "titulo": "Indústria de baterias do Brasil pede ao governo incentivo ao produto nacional no 1º leilão",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/industria-de-baterias-do-brasil-pede-ao-governo-incentivo-ao-produto-nacional-no-1o-leilao.shtml",
-      "data": "17/04/2026",
+      "titulo": "Postos e distribuidoras acusam ANP de distorcer dados em fiscalizações sobre preço abusivo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/postos-e-distribuidoras-acusam-anp-de-distorcer-dados-em-fiscalizacoes-sobre-preco-abusivo.shtml",
+      "data": "18/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/17/177644996769e279af88757_1776449967_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/08/26/175625056568ae41c56a536_1756250565_3x2_rt.jpg"
     },
     {
-      "titulo": "ONS reduz previsão para crescimento da carga de energia no Brasil em abril",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450538",
-      "data": "17/04/2026",
-      "fonte": "Folha SP",
+      "titulo": "'Estou em modo sobrevivência': por que ter trabalho na Argentina não é seguro contra pobreza",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/18/estou-em-modo-sobrevivencia-por-que-ter-trabalho-na-argentina-nao-e-seguro-contra-pobreza.ghtml",
+      "data": "18/04/2026",
+      "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
+      "imagem": "https://s2-g1.glbimg.com/w_1mbH0sbMapELlmdFUtJBG_beQ=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/C/0mVDKLToyBwk9Yq9r7jg/0404cf90-2d4a-11f1-8ac7-a101b1a2933c.jpg"
     },
     {
-      "titulo": "Brasil fecha acordo com Vietnã para exportar miúdos bovinos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450537",
-      "data": "17/04/2026",
-      "fonte": "Folha SP",
+      "titulo": "Alckmin diz que não é contra nem a favor da 'taxa das blusinhas' e afirma que apoiará decisão de Lula",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/18/alckmin-diz-que-nao-e-contra-nem-a-favor-da-taxa-das-blusinhas-e-afirma-que-apoiara-decisao-de-lula.ghtml",
+      "data": "18/04/2026",
+      "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
+      "imagem": "https://s2-g1.glbimg.com/ZOSar6JcxddyAhvubua_FV0yaZQ=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/s/AoY30KRECOqvDjoSaKyg/55212136799-76e9b6593d-k.jpg"
     },
     {
-      "titulo": "Superávit comercial da UE cai 60% com queda das exportações para EUA devido a tarifas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/superavit-comercial-da-ue-cai-60-com-queda-das-exportacoes-para-eua-devido-a-tarifas.shtml",
-      "data": "17/04/2026",
-      "fonte": "Folha SP",
+      "titulo": "Agro brasileiro abre mercados para 29 produtos em 9 países nos primeiros dias de abril",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/18/agro-brasileiro-abre-mercados-para-29-produtos-em-9-paises-nos-primeiros-dias-de-abril.ghtml",
+      "data": "18/04/2026",
+      "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/17/177644222369e25b6fdaf8a_1776442223_3x2_rt.jpg"
+      "imagem": "https://s2-g1.glbimg.com/y-LsMcte46oBlMe-PxPIa7IzBdo=/4265x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/A/eChoDIR5aUywNMs7KXSw/afp-20251013-67my8rn-v1-highres-climatecop30brazilunamazonforestfires.jpg"
+    },
+    {
+      "titulo": "EUA renovam alívio de sanções ao petróleo russo por mais 30 dias",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/17/eua-renovam-alivio-de-sancoes-ao-petroleo-russo-por-mais-30-dias.ghtml",
+      "data": "18/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/28pIDFMsVhqLTlsnf8KYvs7wIgM=/4906x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/J/L/kYc5EpQWKv5PXnPpAlFg/2022-12-01t185824z-1483736639-rc2luv9wr6dp-rtrmadp-3-ukraine-crisis-eu-oil.jpg"
+    },
+    {
+      "titulo": "Petrobras deixa de atender 10% do pedido de diesel de distribuidoras para maio, diz agência",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/17/petrobras-pedido-diesel-distribuidoras.ghtml",
+      "data": "18/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/OtowCRweQWa1NIh79OMXOXjfDZs=/5472x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/wCR8ddTkWlDT6bfcazyg/mg-1446-0.jpg"
+    },
+    {
+      "titulo": "Ibovespa pode buscar os 220 mil pontos, ou até mais, diz analista",
+      "link": "https://www.moneytimes.com.br/ibovespa-pode-buscar-os-220-mil-pontos-ou-ate-mais-diz-analista-rnda/",
+      "data": "18/04/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/10/day-trade-4-1-1-2-1-1-2-1-1-1-2.jpg"
+    },
+    {
+      "titulo": "Ford faz recall de 1,4 milhão de picapes F-150 nos Estados Unidos",
+      "link": "https://g1.globo.com/carros/noticia/2026/04/17/ford-faz-recall-de-14-milhao-de-picapes-f-150-nos-estados-unidos.ghtml",
+      "data": "17/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/wV0qBvo9zetlf_GFIc1COj8ThB4=/2560x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/d/1DQMLFSKy8k6GB9rlUMQ/ford-f-150-limited-2016.jpg"
+    },
+    {
+      "titulo": "TRF-2 derruba decisão que impedia cobrança de imposto sobre exportação de petróleo",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/17/trf-2-derruba-decisao-que-impedia-cobranca-de-imposto-de-exportacao-a-petroleiras.ghtml",
+      "data": "17/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/wMqi6i6jOyC-I6BLKmgnKu_UBwk=/4626x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/O/9Ao315RAKJ6TPuCfaybg/2026-03-18t181414z-638208040-rc2x6kaxxssm-rtrmadp-3-brazil-oil.jpg"
     },
     {
       "titulo": "Boulos diz que é possível que governo Lula revogue a 'taxa das blusinhas'",
@@ -833,50 +841,10 @@
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/5fF3xONSRNe9yq-iF6hWHW8mxuc=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/3/TjdIl6R86DNhgPQlCsrg/pgm-globonews-limpo-ao-vivo-20260417-1259-frame-239215.jpeg"
-    },
-    {
-      "titulo": "Escala 6x1: ministro da Fazenda diz que pode haver transição para 'alguns setores', mas que conta não pode sobrar para o Tesouro",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/17/escala-6x1-ministro-da-fazenda-diz-que-pode-haver-transicao-para-alguns-setores-mas-que-conta-nao-pode-sobrar-para-o-tesouro.ghtml",
-      "data": "17/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/ZSxWBJys9oYk9ZBMUHE2yQv6uhs=/2040x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/s/eXwLJ2QmWVeFtDivEA8w/55199249110-8d099d956c-o.jpg"
-    },
-    {
-      "titulo": "Como reabertura do Estreito de Ormuz e queda no valor do petróleo podem afetar o Brasil",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/17/como-reabertura-do-estreito-de-ormuz-e-queda-no-valor-do-petroleo-podem-afetar-o-brasil.ghtml",
-      "data": "17/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/Hi6HprzsM7h57zcc9WKx_iO3Cic=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/43/38/14533843"
-    },
-    {
-      "titulo": "Quaest: 29% dos brasileiros dizem que costumam apostar em bets, e 71% dizem que não",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/17/quaest-apostas.ghtml",
-      "data": "17/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
-    },
-    {
-      "titulo": "Preço do petróleo cai mais de 10% após reabertura do Estreito de Ormuz",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/17/preco-petroleo-reabertura-ormuz.ghtml",
-      "data": "17/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/6x7hvAXgNxW7HShcqrC5227911E=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/5/dVzbFpTDSmg7wlsBM4Cg/2026-04-12t135436z-1625689504-rc2gnkaezcwq-rtrmadp-3-iran-crisis-hormuz.jpg"
-    },
-    {
-      "titulo": "Ouro avança 1% com expectativa de alívio nos juros e queda do dólar após abertura do Estreito de Ormuz",
-      "link": "https://www.moneytimes.com.br/ouro-17-4-26-apsa/",
-      "data": "17/04/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/12/prata-e-ouro.png"
     }
   ],
-  "noticias_em": "17/04/2026 20:01 UTC",
-  "noticias_em_br": "17/04/2026 17:01",
+  "noticias_em": "18/04/2026 19:30 UTC",
+  "noticias_em_br": "18/04/2026 16:30",
   "indicadores_em": "15/04/2026 20:10 UTC",
   "indicadores_em_br": "15/04/2026 17:10"
 }
