@@ -505,12 +505,44 @@
   },
   "noticias": [
     {
+      "titulo": "De espiga à pamonha: Capela do Alto mantém tradição e renda com cultivo de milho",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/04/19/de-espiga-a-pamonha-capela-do-alto-mantem-tradicao-e-renda-com-cultivo-de-milho.ghtml",
+      "data": "19/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/jNfkoAWl3VkUCObsdlyt59d2B_E=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/p/nAOXGmRSaR8JmUB7sIBA/texto-do-seu-paragrafo-10-.png"
+    },
+    {
+      "titulo": "Explosão de negócios da família Trump abre caminho para presidentes dos EUA lucrarem com o cargo",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/19/explosao-de-negocios-da-familia-trump-abre-caminho-para-presidentes-dos-eua-lucrarem-com-o-cargo.ghtml",
+      "data": "19/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/GWvPFqpX9HURQ25tk4F5uxBiwwI=/3426x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/F/hFnUCcSw2DUaxFdSxCsQ/ap25343503663838.jpg"
+    },
+    {
+      "titulo": "Secretaria da gestão Tarcísio não sabe onde foram parar R$ 23 milhões em materiais",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/secretaria-da-gestao-tarcisio-nao-sabe-onde-foram-parar-r-23-milhoes-em-materiais.shtml",
+      "data": "19/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/23/177429818569c1a449a8da2_1774298185_3x2_lg.jpg"
+    },
+    {
       "titulo": "Europa sem combustível para voar? Guerra afeta custos de aéreas e oferta de voos",
       "link": "https://www.infomoney.com.br/mundo/europa-sem-combustivel-para-voar-guerra-afeta-custos-de-aereas-e-oferta-de-voos/",
       "data": "19/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/08/john-mcarthur-8KLLgqHMAv4-unsplash.jpg?quality=70"
+    },
+    {
+      "titulo": "Parar de fumar desacelera a perda cognitiva mesmo na meia-idade",
+      "link": "https://www.metropoles.com/saude/parar-de-fumar-desacelera-a-perda-cognitiva",
+      "data": "19/04/2026",
+      "fonte": "Metrópoles",
+      "prioridade": 1,
+      "imagem": "https://i.metroimg.com/_0aEPQiJ5SRFJA7M7VldRp59ON3lT0I8_sbKFaa87nY/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/02/parar-de-fumar.jpg"
     },
     {
       "titulo": "'Estou em modo sobrevivência': por que ter trabalho na Argentina não é seguro contra pobreza",
@@ -585,30 +617,6 @@
       "imagem": "https://www.moneytimes.com.br/uploads/2022/10/navio-de-carga-razoni.jpg"
     },
     {
-      "titulo": "TRF-2 derruba decisão que impedia cobrança de imposto sobre exportação de petróleo",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/17/trf-2-derruba-decisao-que-impedia-cobranca-de-imposto-de-exportacao-a-petroleiras.ghtml",
-      "data": "17/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/wMqi6i6jOyC-I6BLKmgnKu_UBwk=/4626x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/O/9Ao315RAKJ6TPuCfaybg/2026-03-18t181414z-638208040-rc2x6kaxxssm-rtrmadp-3-brazil-oil.jpg"
-    },
-    {
-      "titulo": "Boulos diz que é possível que governo Lula revogue a 'taxa das blusinhas'",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/04/17/boulos-entrevista-globonews-taxa-blusinhas.ghtml",
-      "data": "17/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/5fF3xONSRNe9yq-iF6hWHW8mxuc=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/3/TjdIl6R86DNhgPQlCsrg/pgm-globonews-limpo-ao-vivo-20260417-1259-frame-239215.jpeg"
-    },
-    {
-      "titulo": "Como reabertura do Estreito de Ormuz e queda no valor do petróleo podem afetar o Brasil",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/17/como-reabertura-do-estreito-de-ormuz-e-queda-no-valor-do-petroleo-podem-afetar-o-brasil.ghtml",
-      "data": "17/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/Hi6HprzsM7h57zcc9WKx_iO3Cic=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/43/38/14533843"
-    },
-    {
       "titulo": "Carta Pokémon de milhões de libras: valorização gera onda de crimes com roubos e furtos",
       "link": "https://g1.globo.com/economia/noticia/2026/04/17/carta-pokemon-de-milhoes-de-libras-valorizacao-gera-onda-de-crimes-com-roubos-e-furtos.ghtml",
       "data": "17/04/2026",
@@ -631,6 +639,14 @@
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/tTx5Jk03dM-BuQiyRmTAVB6xjHs=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/a/cqE1u8SdutLO86p0E8XQ/whatsapp-image-2024-01-22-at-16-1705954426-1-.jpeg"
+    },
+    {
+      "titulo": "Boulos diz que é possível que governo Lula revogue a 'taxa das blusinhas'",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/04/17/boulos-entrevista-globonews-taxa-blusinhas.ghtml",
+      "data": "17/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/5fF3xONSRNe9yq-iF6hWHW8mxuc=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/3/TjdIl6R86DNhgPQlCsrg/pgm-globonews-limpo-ao-vivo-20260417-1259-frame-239215.jpeg"
     },
     {
       "titulo": "Mercedes-Benz apresenta novidades nos chassis rodoviários O500",
@@ -697,62 +713,78 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2025/03/scania-560g.jpg"
     },
     {
-      "titulo": "Carreta tomba na BR-251em MG; dois mortos e oito ficam feridos",
-      "link": "https://exame.com/mundo/carreta-tomba-na-br-251em-mg-na-br-251-dois-mortos-e-oito-feridos/",
-      "data": "2026-04-18",
-      "fonte": "Exame",
-      "prioridade": 2,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2026/04/acidente-minas.webp"
-    },
-    {
-      "titulo": "Parlamento do Irã diz que acordo com EUA ainda está distante",
-      "link": "https://www.metropoles.com/mundo/parlamento-do-ira-diz-que-acordo-com-eua-ainda-esta-distante",
+      "titulo": "Produtores do noroeste paulista apostam no sorgo como alternativa após a colheita da soja",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/04/19/produtores-do-noroeste-paulista-apostam-no-sorgo-como-alternativa-apos-a-colheita-da-soja.ghtml",
       "data": "19/04/2026",
-      "fonte": "Metrópoles",
-      "prioridade": 2,
-      "imagem": "https://i.metroimg.com/W7WKHe7Ka9atOochlwz3sm-4aUcB0UHzPAuvELr_sfk/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/foto-presidente-parlamento-ira-ghalibaf.jpg"
-    },
-    {
-      "titulo": "Agro brasileiro abre mercados para 29 produtos em 9 países nos primeiros dias de abril",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/18/agro-brasileiro-abre-mercados-para-29-produtos-em-9-paises-nos-primeiros-dias-de-abril.ghtml",
-      "data": "18/04/2026",
       "fonte": "G1",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/y-LsMcte46oBlMe-PxPIa7IzBdo=/4265x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/A/eChoDIR5aUywNMs7KXSw/afp-20251013-67my8rn-v1-highres-climatecop30brazilunamazonforestfires.jpg"
+      "imagem": "https://s2-g1.glbimg.com/TAKI0oiN2zcQofRGUQW3KPmoRGk=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/B/O7ImvARl2YoH1n5dNjXg/texto-do-seu-paragrafo-8-.png"
     },
     {
-      "titulo": "EUA renovam alívio de sanções ao petróleo russo por mais 30 dias",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/17/eua-renovam-alivio-de-sancoes-ao-petroleo-russo-por-mais-30-dias.ghtml",
-      "data": "18/04/2026",
-      "fonte": "G1",
-      "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/28pIDFMsVhqLTlsnf8KYvs7wIgM=/4906x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/J/L/kYc5EpQWKv5PXnPpAlFg/2022-12-01t185824z-1483736639-rc2luv9wr6dp-rtrmadp-3-ukraine-crisis-eu-oil.jpg"
-    },
-    {
-      "titulo": "Em Barcelona, Lula participa de fórum em defesa da democracia neste sábado",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/18/em-barcelona-lula-participa-de-forum-em-defesa-da-democracia-neste-sabado.ghtml",
-      "data": "18/04/2026",
-      "fonte": "G1",
-      "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/ZMboD0odOhY_K5ppIf9GsWVOygI=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/h/bjrgEQSZ2VJFHfaP4TCg/55212762666-b490abc2c5-k.jpg"
-    },
-    {
-      "titulo": "Alta do petróleo explica a valorização do real",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/04/alta-do-petroleo-explica-a-valorizacao-do-real.shtml",
-      "data": "18/04/2026",
+      "titulo": "Prefeitura do Rio decreta desapropriação de casa onde viveu Carmen Miranda no centro",
+      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/prefeitura-do-rio-decreta-desapropriacao-de-casa-onde-viveu-carmen-miranda-no-centro.shtml",
+      "data": "19/04/2026",
       "fonte": "Folha SP",
       "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2023/11/21/1700588960655ceda02789c_1700588960_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/17/177646151169e2a6c7d654c_1776461511_3x2_lg.jpg"
+    },
+    {
+      "titulo": "Por que o Irã não fez ataques terroristas durante a guerra? Especialista responde",
+      "link": "https://www.infomoney.com.br/mundo/por-que-o-ira-nao-fez-ataques-terroristas-durante-a-guerra-especialista-responde/",
+      "data": "19/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 2,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Ira_Kurdistao.jpg?fit=1920%2C1441&quality=70&strip=all"
+    },
+    {
+      "titulo": "Tesouro IPCA+ em queda: veja quanto título pode render se taxas recuarem mais",
+      "link": "https://www.infomoney.com.br/onde-investir/tesouro-ipca-em-queda-veja-quanto-titulo-pode-render-se-taxas-cairem-mais/",
+      "data": "19/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 2,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/07/money-2387280_1920.jpg?fit=1920%2C1082&quality=70&strip=all"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "Colete de sobrevivente do Titanic é leiloado por R$ 4,5 milhões; veja a peça",
-      "link": "https://www.infomoney.com.br/consumo/colete-de-sobrevivente-do-titanic-e-leiloado-por-r-45-milhoes-veja-a-peca/",
+      "titulo": "Tesouro IPCA+ em queda: veja quanto título pode render se taxas recuarem mais",
+      "link": "https://www.infomoney.com.br/onde-investir/tesouro-ipca-em-queda-veja-quanto-titulo-pode-render-se-taxas-cairem-mais/",
       "data": "19/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/colete-salva-vidas-titanic-09.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/07/money-2387280_1920.jpg?fit=1920%2C1082&quality=70&strip=all"
+    },
+    {
+      "titulo": "De espiga à pamonha: Capela do Alto mantém tradição e renda com cultivo de milho",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/04/19/de-espiga-a-pamonha-capela-do-alto-mantem-tradicao-e-renda-com-cultivo-de-milho.ghtml",
+      "data": "19/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/jNfkoAWl3VkUCObsdlyt59d2B_E=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/p/nAOXGmRSaR8JmUB7sIBA/texto-do-seu-paragrafo-10-.png"
+    },
+    {
+      "titulo": "Produtores do noroeste paulista apostam no sorgo como alternativa após a colheita da soja",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/04/19/produtores-do-noroeste-paulista-apostam-no-sorgo-como-alternativa-apos-a-colheita-da-soja.ghtml",
+      "data": "19/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/TAKI0oiN2zcQofRGUQW3KPmoRGk=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/B/O7ImvARl2YoH1n5dNjXg/texto-do-seu-paragrafo-8-.png"
+    },
+    {
+      "titulo": "IR: erro de empresas ao preencher nova forma de apurar imposto retido na fonte leva trabalhadores à malha fina; entenda",
+      "link": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/04/19/ir-erro-de-empresas-ao-preencher-nova-forma-de-apurar-imposto-retido-na-fonte-leva-trabalhadores-a-malha-fina-entenda.ghtml",
+      "data": "19/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/mb60_p8vHaW0kf66cgpYTBcoEOM=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/0/fgPHcHSfS27EDbXGd0Qg/imposto-de-renda.jpg"
+    },
+    {
+      "titulo": "Explosão de negócios da família Trump abre caminho para presidentes dos EUA lucrarem com o cargo",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/19/explosao-de-negocios-da-familia-trump-abre-caminho-para-presidentes-dos-eua-lucrarem-com-o-cargo.ghtml",
+      "data": "19/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/GWvPFqpX9HURQ25tk4F5uxBiwwI=/3426x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/F/hFnUCcSw2DUaxFdSxCsQ/ap25343503663838.jpg"
     },
     {
       "titulo": "Alta do petróleo explica a valorização do real",
@@ -795,22 +827,6 @@
       "imagem": "https://s2-g1.glbimg.com/y-LsMcte46oBlMe-PxPIa7IzBdo=/4265x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/A/eChoDIR5aUywNMs7KXSw/afp-20251013-67my8rn-v1-highres-climatecop30brazilunamazonforestfires.jpg"
     },
     {
-      "titulo": "EUA renovam alívio de sanções ao petróleo russo por mais 30 dias",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/17/eua-renovam-alivio-de-sancoes-ao-petroleo-russo-por-mais-30-dias.ghtml",
-      "data": "18/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/28pIDFMsVhqLTlsnf8KYvs7wIgM=/4906x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/J/L/kYc5EpQWKv5PXnPpAlFg/2022-12-01t185824z-1483736639-rc2luv9wr6dp-rtrmadp-3-ukraine-crisis-eu-oil.jpg"
-    },
-    {
-      "titulo": "Petrobras deixa de atender 10% do pedido de diesel de distribuidoras para maio, diz agência",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/17/petrobras-pedido-diesel-distribuidoras.ghtml",
-      "data": "18/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/OtowCRweQWa1NIh79OMXOXjfDZs=/5472x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/wCR8ddTkWlDT6bfcazyg/mg-1446-0.jpg"
-    },
-    {
       "titulo": "Fictor tem recuperação judicial aceita pela Justiça, que cita indícios de fraude e impõe fiscalização rígida",
       "link": "https://www.moneytimes.com.br/fictor-tem-recuperacao-judicial-aceita-pela-justica-que-cita-indicios-de-fraude-e-impoe-fiscalizacao-rigida/",
       "data": "18/04/2026",
@@ -825,34 +841,10 @@
       "fonte": "Money Times",
       "prioridade": 1,
       "imagem": "https://www.moneytimes.com.br/uploads/2025/10/day-trade-4-1-1-2-1-1-2-1-1-1-2.jpg"
-    },
-    {
-      "titulo": "Ford faz recall de 1,4 milhão de picapes F-150 nos Estados Unidos",
-      "link": "https://g1.globo.com/carros/noticia/2026/04/17/ford-faz-recall-de-14-milhao-de-picapes-f-150-nos-estados-unidos.ghtml",
-      "data": "17/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/wV0qBvo9zetlf_GFIc1COj8ThB4=/2560x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/d/1DQMLFSKy8k6GB9rlUMQ/ford-f-150-limited-2016.jpg"
-    },
-    {
-      "titulo": "TRF-2 derruba decisão que impedia cobrança de imposto sobre exportação de petróleo",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/17/trf-2-derruba-decisao-que-impedia-cobranca-de-imposto-de-exportacao-a-petroleiras.ghtml",
-      "data": "17/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/wMqi6i6jOyC-I6BLKmgnKu_UBwk=/4626x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/O/9Ao315RAKJ6TPuCfaybg/2026-03-18t181414z-638208040-rc2x6kaxxssm-rtrmadp-3-brazil-oil.jpg"
-    },
-    {
-      "titulo": "Boulos diz que é possível que governo Lula revogue a 'taxa das blusinhas'",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/04/17/boulos-entrevista-globonews-taxa-blusinhas.ghtml",
-      "data": "17/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/5fF3xONSRNe9yq-iF6hWHW8mxuc=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/3/TjdIl6R86DNhgPQlCsrg/pgm-globonews-limpo-ao-vivo-20260417-1259-frame-239215.jpeg"
     }
   ],
-  "noticias_em": "19/04/2026 03:31 UTC",
-  "noticias_em_br": "19/04/2026 00:31",
+  "noticias_em": "19/04/2026 11:08 UTC",
+  "noticias_em_br": "19/04/2026 08:08",
   "indicadores_em": "19/04/2026 03:31 UTC",
   "indicadores_em_br": "19/04/2026 00:31"
 }
