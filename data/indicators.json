@@ -1,6 +1,6 @@
 {
-  "gerado_em": "15/04/2026 20:10 UTC",
-  "gerado_em_br": "15/04/2026 17:10",
+  "gerado_em": "19/04/2026 03:31 UTC",
+  "gerado_em_br": "19/04/2026 00:31",
   "anp": {
     "semana_referencia": "29/03 a 04/04/2026",
     "preco_atual": 7.58,
@@ -254,7 +254,7 @@
         "variacao_pct": 13.9
       }
     },
-    "atualizado": "15/04/2026 20:11 UTC"
+    "atualizado": "19/04/2026 03:32 UTC"
   },
   "ipca": {
     "series": [
@@ -446,7 +446,7 @@
   },
   "usd_brl": {
     "series": [],
-    "atual": 4.9869
+    "atual": 4.9861
   },
   "inctl": {
     "ultimo": 0.22,
@@ -501,16 +501,16 @@
       }
     ],
     "fonte": "CNT",
-    "atualizado": "15/04/2026"
+    "atualizado": "19/04/2026"
   },
   "noticias": [
     {
-      "titulo": "Diesel mais barato? 26 estados devem aderir à proposta do governo, diz Alckmin",
-      "link": "https://exame.com/brasil/diesel-mais-barato-26-estados-devem-aderir-a-proposta-do-governo-diz-alckmin/",
-      "data": "2026-04-18",
-      "fonte": "Exame",
+      "titulo": "Europa sem combustível para voar? Guerra afeta custos de aéreas e oferta de voos",
+      "link": "https://www.infomoney.com.br/mundo/europa-sem-combustivel-para-voar-guerra-afeta-custos-de-aereas-e-oferta-de-voos/",
+      "data": "19/04/2026",
+      "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2025/07/AFP__20250714__66QU7VH__v1__HighRes__BrazilPoliticsLulaDaSilva.jpg"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/08/john-mcarthur-8KLLgqHMAv4-unsplash.jpg?quality=70"
     },
     {
       "titulo": "'Estou em modo sobrevivência': por que ter trabalho na Argentina não é seguro contra pobreza",
@@ -521,7 +521,7 @@
       "imagem": "https://s2-g1.glbimg.com/w_1mbH0sbMapELlmdFUtJBG_beQ=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/C/0mVDKLToyBwk9Yq9r7jg/0404cf90-2d4a-11f1-8ac7-a101b1a2933c.jpg"
     },
     {
-      "titulo": "Alckmin diz que não é contra nem a favor da 'taxa das blusinhas' e afirma que apoiará decisão de Lula",
+      "titulo": "Alckmin: governo ainda não tomou decisão sobre revogação da \"taxa das blusinhas\"; vice-presidente chegou a defender a manutenção do imposto",
       "link": "https://g1.globo.com/politica/noticia/2026/04/18/alckmin-diz-que-nao-e-contra-nem-a-favor-da-taxa-das-blusinhas-e-afirma-que-apoiara-decisao-de-lula.ghtml",
       "data": "18/04/2026",
       "fonte": "G1",
@@ -545,20 +545,20 @@
       "imagem": "https://s2-g1.glbimg.com/OtowCRweQWa1NIh79OMXOXjfDZs=/5472x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/wCR8ddTkWlDT6bfcazyg/mg-1446-0.jpg"
     },
     {
+      "titulo": "Sem citar Trump, Brasil, México e Espanha cobram respeito à soberania de Cuba e dizem que vão 'intensificar' ajuda ao país",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/18/sem-citar-trump-brasil-cobra-respeito-a-soberania-de-cuba-e-diz-que-que-vai-intensificar-ajuda-ao-pais.ghtml",
+      "data": "18/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/0Typ49Rde0C_nFrT2S2egBJVpEo=/1536x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/z/sCpLHYTdGTfHZIBp6plw/designer-3-.png"
+    },
+    {
       "titulo": "Lula critica líderes mundiais por guerras e afirma que Trump não 'tem direito' de excluir África do Sul do G20",
       "link": "https://g1.globo.com/politica/noticia/2026/04/18/lula-critica-lideres-mundiais-por-guerras-e-afirma-trump-nao-pode-excluir-africa-do-sul-do-g20.ghtml",
       "data": "18/04/2026",
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/hgedkj2Z2O6vMiQu7RbWxdJVOp8=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/14537119.jpg"
-    },
-    {
-      "titulo": "Postos e distribuidoras acusam ANP de distorcer dados em fiscalizações sobre preço abusivo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/postos-e-distribuidoras-acusam-anp-de-distorcer-dados-em-fiscalizacoes-sobre-preco-abusivo.shtml",
-      "data": "18/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2025/08/26/175625056568ae41c56a536_1756250565_3x2_rt.jpg"
     },
     {
       "titulo": "Pará autoriza Belo Sun a minerar ouro na Volta Grande do Xingu; MPF e grupos indígenas contestam",
@@ -577,44 +577,12 @@
       "imagem": "https://f.i.uol.com.br/fotografia/2022/06/06/1654546874629e61ba25611_1654546874_3x2_rt.jpg"
     },
     {
-      "titulo": "Alckmin: 26 Estados aderiram à subvenção de R$ 1,20 por litro de diesel importado",
-      "link": "https://www.infomoney.com.br/economia/alckmin-26-estados-aderiram-a-subvencao-de-r-120-por-litro-de-diesel-importado/",
-      "data": "18/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/55130728686_c1386d1cc7_c.jpg?quality=70"
-    },
-    {
-      "titulo": "Índia manifesta “profunda preocupação” com ataque a navios indianos em Ormuz",
-      "link": "https://www.infomoney.com.br/mundo/india-manifesta-profunda-preocupacao-com-ataque-a-navios-indianos-em-ormuz/",
-      "data": "18/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-03-16T140940Z_906141850_RC2N5KA49V32_RTRMADP_3_IRAN-CRISIS-INDIA.jpg?quality=70"
-    },
-    {
       "titulo": "Aumento de tensão: Lanchas iranianas atacam petroleiro no Estreito de Ormuz em meio à retomada de restrições",
       "link": "https://www.moneytimes.com.br/aumento-de-tensao-lanchas-iranianas-atacam-petroleiro-no-estreito-de-ormuz-em-meio-a-retomada-de-restricoes-rnda/",
       "data": "18/04/2026",
       "fonte": "Money Times",
       "prioridade": 1,
       "imagem": "https://www.moneytimes.com.br/uploads/2022/10/navio-de-carga-razoni.jpg"
-    },
-    {
-      "titulo": "Petrobras: tensões geopolíticas e conflitos são riscos para o negócio",
-      "link": "https://www.metropoles.com/negocios/petrobras-tensoes-geopoliticas-e-conflitos-sao-riscos-para-o-negocio",
-      "data": "18/04/2026",
-      "fonte": "Metrópoles",
-      "prioridade": 1,
-      "imagem": "https://i.metroimg.com/hzRzSdiqqMs71OUlQ4GjwHMAmd2pietOZL8SLCOiRtw/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2025/11/07083208/petrobras-6.jpg"
-    },
-    {
-      "titulo": "Governo espera adesão unânime de estados a pacote do diesel até dia 22",
-      "link": "https://www.metropoles.com/brasil/governo-espera-adesao-unanime-de-estados-a-pacote-do-diesel-ate-dia-22",
-      "data": "18/04/2026",
-      "fonte": "Metrópoles",
-      "prioridade": 1,
-      "imagem": "https://i.metroimg.com/LJ9kkOrRqJ18fHIC1W7oIIkVB6JOe5SdxtQKY2Mtiz0/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/02/Geraldo-Alckmin-anunciou-medidas-visando-a-reducao-dos-precos-dos-alimentos-e-zerar-os-tributos-sobre-varios-alimentos-importados-Metropoles-2.jpg"
     },
     {
       "titulo": "TRF-2 derruba decisão que impedia cobrança de imposto sobre exportação de petróleo",
@@ -665,14 +633,6 @@
       "imagem": "https://s2-g1.glbimg.com/tTx5Jk03dM-BuQiyRmTAVB6xjHs=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/a/cqE1u8SdutLO86p0E8XQ/whatsapp-image-2024-01-22-at-16-1705954426-1-.jpeg"
     },
     {
-      "titulo": "Distribuidoras de combustível ameaçam ir à Justiça contra exposição de lucro e podem rejeitar subvenção de R$ 4 bi",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/distribuidoras-de-combustivel-ameacam-ir-a-justica-contra-exposicao-de-lucro-e-podem-rejeitar-subvencao-de-r-4-bi.shtml",
-      "data": "17/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/27/177462242069c696d4f0e93_1774622420_3x2_lg.jpg"
-    },
-    {
       "titulo": "Mercedes-Benz apresenta novidades nos chassis rodoviários O500",
       "link": "https://www.transportabrasil.com.br/2026/04/mercedes-benz-apresenta-novidades-nos-chassis-rodoviarios-o500/",
       "data": "17/04/2026",
@@ -687,14 +647,6 @@
       "fonte": "OilPrice",
       "prioridade": 1,
       "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-04-17_ih1n2a6my7.jpg"
-    },
-    {
-      "titulo": "Why Diesel Prices Surge Faster Than Gasoline in Every Energy Crisis",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-Diesel-Prices-Surge-Faster-Than-Gasoline-in-Every-Energy-Crisis.html",
-      "data": "17/04/2026",
-      "fonte": "OilPrice",
-      "prioridade": 1,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-04-17_aio8zx9pqp.jpg"
     },
     {
       "titulo": "Volvo eleva autonomia de caminhões elétricos na Europa para até 700 km",
@@ -743,32 +695,80 @@
       "fonte": "Transporta Brasil",
       "prioridade": 1,
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2025/03/scania-560g.jpg"
+    },
+    {
+      "titulo": "Carreta tomba na BR-251em MG; dois mortos e oito ficam feridos",
+      "link": "https://exame.com/mundo/carreta-tomba-na-br-251em-mg-na-br-251-dois-mortos-e-oito-feridos/",
+      "data": "2026-04-18",
+      "fonte": "Exame",
+      "prioridade": 2,
+      "imagem": "https://classic.exame.com/wp-content/uploads/2026/04/acidente-minas.webp"
+    },
+    {
+      "titulo": "Parlamento do Irã diz que acordo com EUA ainda está distante",
+      "link": "https://www.metropoles.com/mundo/parlamento-do-ira-diz-que-acordo-com-eua-ainda-esta-distante",
+      "data": "19/04/2026",
+      "fonte": "Metrópoles",
+      "prioridade": 2,
+      "imagem": "https://i.metroimg.com/W7WKHe7Ka9atOochlwz3sm-4aUcB0UHzPAuvELr_sfk/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/foto-presidente-parlamento-ira-ghalibaf.jpg"
+    },
+    {
+      "titulo": "Agro brasileiro abre mercados para 29 produtos em 9 países nos primeiros dias de abril",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/18/agro-brasileiro-abre-mercados-para-29-produtos-em-9-paises-nos-primeiros-dias-de-abril.ghtml",
+      "data": "18/04/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/y-LsMcte46oBlMe-PxPIa7IzBdo=/4265x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/A/eChoDIR5aUywNMs7KXSw/afp-20251013-67my8rn-v1-highres-climatecop30brazilunamazonforestfires.jpg"
+    },
+    {
+      "titulo": "EUA renovam alívio de sanções ao petróleo russo por mais 30 dias",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/17/eua-renovam-alivio-de-sancoes-ao-petroleo-russo-por-mais-30-dias.ghtml",
+      "data": "18/04/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/28pIDFMsVhqLTlsnf8KYvs7wIgM=/4906x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/J/L/kYc5EpQWKv5PXnPpAlFg/2022-12-01t185824z-1483736639-rc2luv9wr6dp-rtrmadp-3-ukraine-crisis-eu-oil.jpg"
+    },
+    {
+      "titulo": "Em Barcelona, Lula participa de fórum em defesa da democracia neste sábado",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/18/em-barcelona-lula-participa-de-forum-em-defesa-da-democracia-neste-sabado.ghtml",
+      "data": "18/04/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/ZMboD0odOhY_K5ppIf9GsWVOygI=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/h/bjrgEQSZ2VJFHfaP4TCg/55212762666-b490abc2c5-k.jpg"
+    },
+    {
+      "titulo": "Alta do petróleo explica a valorização do real",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/04/alta-do-petroleo-explica-a-valorizacao-do-real.shtml",
+      "data": "18/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 2,
+      "imagem": "https://f.i.uol.com.br/fotografia/2023/11/21/1700588960655ceda02789c_1700588960_3x2_rt.jpg"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "Vorcaro já usava ciranda financeira ao comprar banco que virou o Master, mostra BC",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/vorcaro-ja-usava-ciranda-financeira-ao-comprar-banco-que-virou-o-master-mostra-bc.shtml",
-      "data": "18/04/2026",
-      "fonte": "Folha SP",
+      "titulo": "Colete de sobrevivente do Titanic é leiloado por R$ 4,5 milhões; veja a peça",
+      "link": "https://www.infomoney.com.br/consumo/colete-de-sobrevivente-do-titanic-e-leiloado-por-r-45-milhoes-veja-a-peca/",
+      "data": "19/04/2026",
+      "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/11/177325580269b1bc7a23521_1773255802_3x2_rt.jpg"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/colete-salva-vidas-titanic-09.jpg?quality=70"
     },
     {
-      "titulo": "Trump renova isenção para petróleo russo apesar de críticas no Congresso",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/trump-renova-isencao-para-petroleo-russo-apesar-de-criticas-no-congresso.shtml",
+      "titulo": "Alta do petróleo explica a valorização do real",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/04/alta-do-petroleo-explica-a-valorizacao-do-real.shtml",
       "data": "18/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/18/177651940369e388ebd7d0d_1776519403_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2023/11/21/1700588960655ceda02789c_1700588960_3x2_rt.jpg"
     },
     {
-      "titulo": "Postos e distribuidoras acusam ANP de distorcer dados em fiscalizações sobre preço abusivo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/postos-e-distribuidoras-acusam-anp-de-distorcer-dados-em-fiscalizacoes-sobre-preco-abusivo.shtml",
+      "titulo": "A promessa de arrocho de Flávio Bolsonaro e o risco de bananismo autoritário",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/04/a-promessa-de-arrocho-de-flavio-bolsonaro-e-o-risco-de-bananismo-autoritario.shtml",
       "data": "18/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2025/08/26/175625056568ae41c56a536_1756250565_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/18/177655535069e41556c3364_1776555350_3x2_rt.jpg"
     },
     {
       "titulo": "'Estou em modo sobrevivência': por que ter trabalho na Argentina não é seguro contra pobreza",
@@ -779,7 +779,7 @@
       "imagem": "https://s2-g1.glbimg.com/w_1mbH0sbMapELlmdFUtJBG_beQ=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/C/0mVDKLToyBwk9Yq9r7jg/0404cf90-2d4a-11f1-8ac7-a101b1a2933c.jpg"
     },
     {
-      "titulo": "Alckmin diz que não é contra nem a favor da 'taxa das blusinhas' e afirma que apoiará decisão de Lula",
+      "titulo": "Alckmin: governo ainda não tomou decisão sobre revogação da \"taxa das blusinhas\"; vice-presidente chegou a defender a manutenção do imposto",
       "link": "https://g1.globo.com/politica/noticia/2026/04/18/alckmin-diz-que-nao-e-contra-nem-a-favor-da-taxa-das-blusinhas-e-afirma-que-apoiara-decisao-de-lula.ghtml",
       "data": "18/04/2026",
       "fonte": "G1",
@@ -809,6 +809,14 @@
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/OtowCRweQWa1NIh79OMXOXjfDZs=/5472x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/wCR8ddTkWlDT6bfcazyg/mg-1446-0.jpg"
+    },
+    {
+      "titulo": "Fictor tem recuperação judicial aceita pela Justiça, que cita indícios de fraude e impõe fiscalização rígida",
+      "link": "https://www.moneytimes.com.br/fictor-tem-recuperacao-judicial-aceita-pela-justica-que-cita-indicios-de-fraude-e-impoe-fiscalizacao-rigida/",
+      "data": "18/04/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/02/fictor.jpg"
     },
     {
       "titulo": "Ibovespa pode buscar os 220 mil pontos, ou até mais, diz analista",
@@ -843,8 +851,8 @@
       "imagem": "https://s2-g1.glbimg.com/5fF3xONSRNe9yq-iF6hWHW8mxuc=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/3/TjdIl6R86DNhgPQlCsrg/pgm-globonews-limpo-ao-vivo-20260417-1259-frame-239215.jpeg"
     }
   ],
-  "noticias_em": "18/04/2026 19:30 UTC",
-  "noticias_em_br": "18/04/2026 16:30",
-  "indicadores_em": "15/04/2026 20:10 UTC",
-  "indicadores_em_br": "15/04/2026 17:10"
+  "noticias_em": "19/04/2026 03:31 UTC",
+  "noticias_em_br": "19/04/2026 00:31",
+  "indicadores_em": "19/04/2026 03:31 UTC",
+  "indicadores_em_br": "19/04/2026 00:31"
 }
