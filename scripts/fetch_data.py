@@ -6,7 +6,7 @@ Modos:
 –mode=full  → ANP + BCB + Notícias  (segunda-feira)
 –mode=news  → apenas notícias       (demais dias)
 sem argumento → full (compatibilidade)
-“””
+“”"
 
 import json, os, re, io, sys, xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
