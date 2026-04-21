@@ -1,111 +1,260 @@
 {
-  "gerado_em": "21/04/2026 01:55 UTC",
-  "gerado_em_br": "20/04/2026 22:55",
+  "gerado_em": "21/04/2026 16:46 UTC",
+  "gerado_em_br": "21/04/2026 13:46",
   "anp": {
-    "semana_referencia": "08/03/2026 a 14/03/2026",
-    "preco_atual": 6.89,
+    "semana_referencia": "29/03 a 04/04/2026",
+    "preco_atual": 7.58,
     "semanas": [
       {
-        "ini": "2026-01-05",
-        "fim": "2026-01-11",
-        "ini_br": "05/01",
-        "fim_br": "11/01/2026",
-        "label": "Jan/26",
-        "preco": 6.08
-      },
-      {
-        "ini": "2026-01-12",
-        "fim": "2026-01-18",
-        "ini_br": "12/01",
-        "fim_br": "18/01/2026",
-        "label": "Jan/26",
-        "preco": 6.082
-      },
-      {
-        "ini": "2026-01-19",
-        "fim": "2026-01-25",
-        "ini_br": "19/01",
-        "fim_br": "25/01/2026",
-        "label": "Jan/26",
-        "preco": 6.084
-      },
-      {
-        "ini": "2026-01-26",
-        "fim": "2026-02-01",
-        "ini_br": "26/01",
-        "fim_br": "01/02/2026",
-        "label": "Fev/26",
-        "preco": 6.086
-      },
-      {
-        "ini": "2026-02-02",
-        "fim": "2026-02-08",
-        "ini_br": "02/02",
-        "fim_br": "08/02/2026",
-        "label": "Fev/26",
-        "preco": 6.09
-      },
-      {
-        "ini": "2026-02-09",
-        "fim": "2026-02-15",
-        "ini_br": "09/02",
-        "fim_br": "15/02/2026",
-        "label": "Fev/26",
-        "preco": 6.095
-      },
-      {
-        "ini": "2026-02-16",
-        "fim": "2026-02-22",
-        "ini_br": "16/02",
-        "fim_br": "22/02/2026",
-        "label": "Fev/26",
-        "preco": 6.1
-      },
-      {
-        "ini": "2026-03-01",
-        "fim": "2026-03-07",
-        "ini_br": "01/03",
-        "fim_br": "07/03/2026",
-        "label": "Mar/26",
-        "preco": 6.15
-      },
-      {
-        "ini": "2026-03-08",
-        "fim": "2026-03-14",
-        "ini_br": "08/03",
-        "fim_br": "14/03/2026",
-        "label": "Mar/26",
-        "preco": 6.89
+        "ini": "2026-03-29",
+        "fim": "2026-04-04",
+        "ini_br": "29/03",
+        "fim_br": "04/04/2026",
+        "label": "29/03/26",
+        "preco": 7.58,
+        "preco_min": 5.69,
+        "preco_max": 7.92
       }
     ],
+    "semanas_por_combustivel": {
+      "diesel-s10": [
+        {
+          "ini": "2026-03-29",
+          "fim": "2026-04-04",
+          "ini_br": "29/03",
+          "fim_br": "04/04/2026",
+          "label": "29/03/26",
+          "preco": 7.58,
+          "preco_min": 5.69,
+          "preco_max": 7.92
+        }
+      ],
+      "diesel-s500": [
+        {
+          "ini": "2026-03-29",
+          "fim": "2026-04-04",
+          "ini_br": "29/03",
+          "fim_br": "04/04/2026",
+          "label": "29/03/26",
+          "preco": 7.515,
+          "preco_min": 6.09,
+          "preco_max": 9.45
+        }
+      ],
+      "gasolina": [
+        {
+          "ini": "2026-03-29",
+          "fim": "2026-04-04",
+          "ini_br": "29/03",
+          "fim_br": "04/04/2026",
+          "label": "29/03/26",
+          "preco": 6.78,
+          "preco_min": 5.69,
+          "preco_max": 7.12
+        }
+      ],
+      "gasolina-ad": [
+        {
+          "ini": "2026-03-29",
+          "fim": "2026-04-04",
+          "ini_br": "29/03",
+          "fim_br": "04/04/2026",
+          "label": "29/03/26",
+          "preco": 6.97,
+          "preco_min": 5.99,
+          "preco_max": 7.31
+        }
+      ],
+      "etanol": [
+        {
+          "ini": "2026-03-29",
+          "fim": "2026-04-04",
+          "ini_br": "29/03",
+          "fim_br": "04/04/2026",
+          "label": "29/03/26",
+          "preco": 4.7,
+          "preco_min": 3.69,
+          "preco_max": 6.6
+        }
+      ],
+      "gnv": [
+        {
+          "ini": "2026-03-29",
+          "fim": "2026-04-04",
+          "ini_br": "29/03",
+          "fim_br": "04/04/2026",
+          "label": "29/03/26",
+          "preco": 4.38,
+          "preco_min": 3.41,
+          "preco_max": 4.72
+        }
+      ]
+    },
     "regioes": [
       {
         "nome": "Norte",
         "emoji": "🟢",
-        "preco": 7.2
+        "revenda_media": 7.74,
+        "revenda_variacao": 1.517,
+        "revenda_outubro": 6.223,
+        "distribuicao_media": 7.129
       },
       {
         "nome": "Nordeste",
         "emoji": "🟡",
-        "preco": 7.07
+        "revenda_media": 7.58,
+        "revenda_variacao": 1.652,
+        "revenda_outubro": 5.928,
+        "distribuicao_media": 6.981
       },
       {
         "nome": "Centro-Oeste",
         "emoji": "🟠",
-        "preco": 6.85
+        "revenda_media": 7.56,
+        "revenda_variacao": 1.415,
+        "revenda_outubro": 6.145,
+        "distribuicao_media": 6.963
       },
       {
         "nome": "Sudeste",
         "emoji": "🔵",
-        "preco": 6.76
+        "revenda_media": 7.53,
+        "revenda_variacao": 1.487,
+        "revenda_outubro": 6.043,
+        "distribuicao_media": 6.935
       },
       {
         "nome": "Sul",
         "emoji": "⚪",
-        "preco": 6.668
+        "revenda_media": 7.59,
+        "revenda_variacao": 1.513,
+        "revenda_outubro": 6.077,
+        "distribuicao_media": 6.99
       }
     ],
-    "atualizado": "fallback — 14/03/2026"
+    "estados": {
+      "SE": {
+        "preco": 7.18,
+        "preco_out": 6.304,
+        "variacao_pct": 13.9
+      },
+      "PA": {
+        "preco": 6.99,
+        "preco_out": 6.137,
+        "variacao_pct": 13.9
+      },
+      "MG": {
+        "preco": 7.01,
+        "preco_out": 6.155,
+        "variacao_pct": 13.89
+      },
+      "RR": {
+        "preco": 7.89,
+        "preco_out": 6.927,
+        "variacao_pct": 13.9
+      },
+      "DF": {
+        "preco": 7.58,
+        "preco_out": 6.655,
+        "variacao_pct": 13.9
+      },
+      "MS": {
+        "preco": 7.34,
+        "preco_out": 6.445,
+        "variacao_pct": 13.89
+      },
+      "MT": {
+        "preco": 7.43,
+        "preco_out": 6.524,
+        "variacao_pct": 13.89
+      },
+      "SC": {
+        "preco": 7.76,
+        "preco_out": 6.813,
+        "variacao_pct": 13.9
+      },
+      "CE": {
+        "preco": 6.98,
+        "preco_out": 6.128,
+        "variacao_pct": 13.9
+      },
+      "GO": {
+        "preco": 7.53,
+        "preco_out": 6.611,
+        "variacao_pct": 13.9
+      },
+      "AM": {
+        "preco": 7.58,
+        "preco_out": 6.655,
+        "variacao_pct": 13.9
+      },
+      "AL": {
+        "preco": 6.89,
+        "preco_out": 6.049,
+        "variacao_pct": 13.9
+      },
+      "RN": {
+        "preco": 7.28,
+        "preco_out": 6.392,
+        "variacao_pct": 13.89
+      },
+      "TO": {
+        "preco": 7.84,
+        "preco_out": 6.884,
+        "variacao_pct": 13.89
+      },
+      "RS": {
+        "preco": 7.34,
+        "preco_out": 6.445,
+        "variacao_pct": 13.89
+      },
+      "RO": {
+        "preco": 7.41,
+        "preco_out": 6.506,
+        "variacao_pct": 13.89
+      },
+      "PE": {
+        "preco": 7.01,
+        "preco_out": 6.155,
+        "variacao_pct": 13.89
+      },
+      "AC": {
+        "preco": 8.02,
+        "preco_out": 7.042,
+        "variacao_pct": 13.89
+      },
+      "RJ": {
+        "preco": 7.3,
+        "preco_out": 6.409,
+        "variacao_pct": 13.9
+      },
+      "BA": {
+        "preco": 8.16,
+        "preco_out": 7.164,
+        "variacao_pct": 13.9
+      },
+      "MA": {
+        "preco": 7.31,
+        "preco_out": 6.418,
+        "variacao_pct": 13.9
+      },
+      "SA": {
+        "preco": 7.66,
+        "preco_out": 6.725,
+        "variacao_pct": 13.9
+      },
+      "PI": {
+        "preco": 7.7,
+        "preco_out": 6.761,
+        "variacao_pct": 13.89
+      },
+      "ES": {
+        "preco": 6.76,
+        "preco_out": 5.935,
+        "variacao_pct": 13.9
+      }
+    },
+    "atualizado": "21/04/2026 16:46 UTC"
   },
   "ipca": {
     "series": [
@@ -244,68 +393,538 @@
   "selic": {
     "series": [
       {
-        "label": "01/16/04/2",
+        "label": "Mar/25",
+        "valor": 13.25
+      },
+      {
+        "label": "Abr/25",
+        "valor": 13.25
+      },
+      {
+        "label": "Mai/25",
+        "valor": 13.75
+      },
+      {
+        "label": "Jun/25",
+        "valor": 13.75
+      },
+      {
+        "label": "Jul/25",
+        "valor": 14.25
+      },
+      {
+        "label": "Ago/25",
+        "valor": 14.25
+      },
+      {
+        "label": "Set/25",
         "valor": 14.75
       },
       {
-        "label": "01/17/04/2",
+        "label": "Out/25",
         "valor": 14.75
       },
       {
-        "label": "01/18/04/2",
+        "label": "Nov/25",
         "valor": 14.75
       },
       {
-        "label": "01/19/04/2",
+        "label": "Dez/25",
         "valor": 14.75
       },
       {
-        "label": "01/20/04/2",
+        "label": "Jan/26",
         "valor": 14.75
       },
       {
-        "label": "01/21/04/2",
-        "valor": 14.75
-      },
-      {
-        "label": "01/22/04/2",
-        "valor": 14.75
-      },
-      {
-        "label": "01/23/04/2",
-        "valor": 14.75
-      },
-      {
-        "label": "01/24/04/2",
-        "valor": 14.75
-      },
-      {
-        "label": "01/25/04/2",
-        "valor": 14.75
-      },
-      {
-        "label": "01/26/04/2",
-        "valor": 14.75
-      },
-      {
-        "label": "01/27/04/2",
-        "valor": 14.75
-      },
-      {
-        "label": "01/28/04/2",
-        "valor": 14.75
-      },
-      {
-        "label": "01/29/04/2",
+        "label": "Fev/26",
         "valor": 14.75
       }
     ],
     "atual": 14.75,
-    "ultimo_label": "Abr/26"
+    "ultimo_label": "Fev/26"
+  },
+  "usd_brl": {
+    "series": [],
+    "atual": 4.9803
   },
   "inctl": {
     "ultimo": 0.22,
-    "fonte": "CNT scraping",
+    "series": [
+      {
+        "label": "Mar/25",
+        "valor": 0.32
+      },
+      {
+        "label": "Abr/25",
+        "valor": 0.4
+      },
+      {
+        "label": "Mai/25",
+        "valor": 0.35
+      },
+      {
+        "label": "Jun/25",
+        "valor": 0.18
+      },
+      {
+        "label": "Jul/25",
+        "valor": 0.25
+      },
+      {
+        "label": "Ago/25",
+        "valor": 0.05
+      },
+      {
+        "label": "Set/25",
+        "valor": 0.3
+      },
+      {
+        "label": "Out/25",
+        "valor": 0.45
+      },
+      {
+        "label": "Nov/25",
+        "valor": 0.32
+      },
+      {
+        "label": "Dez/25",
+        "valor": 0.38
+      },
+      {
+        "label": "Jan/26",
+        "valor": 0.28
+      },
+      {
+        "label": "Fev/26",
+        "valor": 0.55
+      }
+    ],
+    "fonte": "CNT",
     "atualizado": "21/04/2026"
-  }
+  },
+  "noticias": [
+    {
+      "titulo": "Segundo SUV mais vendido do país, Volkswagen Tera vai bem na cidade, mas não anima na estrada",
+      "link": "https://g1.globo.com/carros/noticia/2026/04/21/volkswagen-tera-teste.ghtml",
+      "data": "21/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/NGEUDFnLaW5eCDr5F1j1rHSNvuU=/3936x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/0/aAAXAVRtS9wT4WZAiDCQ/dsc00600.jpg"
+    },
+    {
+      "titulo": "Por que é tão difícil abandonar o petróleo?",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/21/por-que-e-tao-dificil-abandonar-o-petroleo.ghtml",
+      "data": "21/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/lCHVPdlugENP4nYuyk0oz53M8rw=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/u/rlmCAFSxiTrpbUjXJ5cA/2026-03-18t214048z-1013148856-rc2mwja0qpho-rtrmadp-3-iran-crisis-funds.jpg"
+    },
+    {
+      "titulo": "Lula afirma que Brasil e Portugal vivem melhor momento da relação e exalta brasileiros no país: 'Povo trabalhador'",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/21/lula-diz-que-brasil-e-portugal-vivem-melhor-momento-da-relacao-e-exalta-brasileiros-que-vivem-no-pais-povo-trabalhador.ghtml",
+      "data": "21/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/5Vhxg21VVlbFfFxlN7IvYXjMI_8=/1705x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/F/IJ80QZQZCXNFIsYIZR8Q/55221811375-e38414ac61-k.jpg"
+    },
+    {
+      "titulo": "Lula diz que pode adotar reciprocidade contra os EUA no caso de delegado envolvido na prisão de Ramagem",
+      "link": "https://g1.globo.com/politica/politico/noticia/2026/04/21/lula-diz-que-pode-adotar-reciprocidade-contra-os-eua-no-caso-de-delegado-envolvido-na-prisao-de-ramagem.ghtml",
+      "data": "21/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/pFarS0NQeP2KG8SJo1GBYnG3PiY=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/58/36/14543658"
+    },
+    {
+      "titulo": "'O dilema de Malaca': por que outra passagem crítica para a navegação gera preocupação no comércio global",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/o-dilema-de-malaca-por-que-outra-passagem-critica-para-a-navegacao-gera-preocupacao-no-comercio-global.shtml",
+      "data": "21/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/21/177678456069e794b0886cf_1776784560_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Tráfego no estreito de Hormuz segue praticamente paralisado",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450540",
+      "data": "21/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
+    },
+    {
+      "titulo": "Herbíssimo atinge 74% de market share em desodorantes em creme e mira Geração Z",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/04/herbissimo-atinge-74-de-market-share-em-desodorantes-em-creme-e-mira-geracao-z.shtml",
+      "data": "21/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/20/177671741969e68e6becc9d_1776717419_3x2_lg.jpg"
+    },
+    {
+      "titulo": "Linha de ônibus da zona norte lidera queixas de passageiros em São Paulo",
+      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/linha-de-onibus-da-zona-norte-lidera-queixas-de-passageiros-em-sao-paulo.shtml",
+      "data": "21/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/16/177638085169e16bb37a754_1776380851_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Lula fala em adotar reciprocidade após ação do governo Trump contra policial brasileiro",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/na-alemanha-lula-fala-de-abuso-contra-policial-brasileiro-nos-eua.shtml",
+      "data": "21/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/21/177676428869e74580940b1_1776764288_3x2_rt.jpg"
+    },
+    {
+      "titulo": "ADRs da Petrobras operam na contramão do mercado e sobem forte em NY",
+      "link": "https://www.infomoney.com.br/mercados/acoes-brasileiras-em-ny-abrem-com-leve-queda-em-dia-sem-negocios-na-b3/",
+      "data": "21/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/08/20289170_6256878.jpg?quality=70"
+    },
+    {
+      "titulo": "Biocombustíveis voltam à moda com aumento no preço do petróleo por guerra",
+      "link": "https://www.infomoney.com.br/mercados/biocombustiveis-voltam-a-moda-com-aumento-no-preco-do-petroleo-por-guerra/",
+      "data": "21/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/E2G_Raizen.webp?quality=70"
+    },
+    {
+      "titulo": "Tráfego marítimo através de Ormuz continua praticamente parado",
+      "link": "https://www.infomoney.com.br/mundo/trafego-maritimo-atraves-de-ormuz-continua-praticamente-parado/",
+      "data": "21/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-21T124130Z_1_LYNXMPEM3K0PK_RTROPTP_4_IRAN-CRISIS-OMAN-HORMUZ.jpg?quality=70"
+    },
+    {
+      "titulo": "UE alerta para consequências catastróficas com fechamento permanente de Ormuz",
+      "link": "https://www.infomoney.com.br/mercados/ue-alerta-para-consequencias-catastroficas-com-fechamento-permanente-de-ormuz/",
+      "data": "21/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": ""
+    },
+    {
+      "titulo": "GO: cobra exótica de 4 m foge de casa e vai parar no centro de Aruanã",
+      "link": "https://www.metropoles.com/brasil/go-cobra-exotica-de-4-m-foge-de-casa-e-vai-parar-no-centro-de-aruana",
+      "data": "21/04/2026",
+      "fonte": "Metrópoles",
+      "prioridade": 1,
+      "imagem": "https://i.metroimg.com/9lVjNZ4Mhb4vdWCpHzdQUcLf3AqPQfkGRDwFndlLTdU/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/cobra-piton-aruana-scaled.jpeg"
+    },
+    {
+      "titulo": "Fachin diz que proposta de Dino para nova reforma no Judiciário 'vem somar'",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/04/20/fachin-diz-que-proposta-de-dino-para-nova-reforma-no-judiciario-vem-somar.ghtml",
+      "data": "20/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/ut8AW4xU04jMZNeJwAFak-aiJHo=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/V/0XScAXQdG686mxEa7QoA/55080441679-76f05e5eab-k.jpg"
+    },
+    {
+      "titulo": "Braskem diz que Novonor assinou contrato para venda do controle da companhia",
+      "link": "https://g1.globo.com/economia/negocios/noticia/2026/04/20/braskem-diz-que-novonor-assinou-contrato-para-venda-do-controle-da-companhia.ghtml",
+      "data": "20/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
+    },
+    {
+      "titulo": "Dino propõe revisão de competências do STF e tribunais superiores e mais rigor para corrupção de juízes",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/20/dino-propoe-revisao-de-competencias-do-stf-e-tribunais-superiores-e-mais-rigor-para-corrupcao-de-juizes.ghtml",
+      "data": "20/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/tFmYIv9hvr-yEy-_mec4X7XzD2I=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/B/Y45AweQAmqowZzgS2KTA/55212196863-ff7b99a247-k.jpg"
+    },
+    {
+      "titulo": "EUA mandam delegado brasileiro envolvido na prisão de Ramagem deixar o país",
+      "link": "https://g1.globo.com/mundo/noticia/2026/04/20/eua-pedem-saida-de-autoridade-brasileira-por-tentar-contornar-pedido-extradicao.ghtml",
+      "data": "20/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/VR8dpC1iW4GBdtvuryPhlAb5Qwo=/1280x0/filters:format(jpeg)/https://s03.video.glbimg.com/x720/14542902.jpg"
+    },
+    {
+      "titulo": "Romeu Zema diz que não foi notificado sobre pedido para que seja incluído no inquérito das fake news",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/20/romeu-zema-entrevista-globonews.ghtml",
+      "data": "20/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/Ke-TiYzr06PIDneL9dllnZUoSLk=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/85/19/14541985"
+    },
+    {
+      "titulo": "Gilmar Mendes pede a Moraes que Zema seja incluído no inquérito das fake news",
+      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/04/20/gilmar-mendes-pede-a-moraes-que-zema-seja-incluido-no-inquerito-das-fake-news.ghtml",
+      "data": "20/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/jLcq1-2ZH5J4gX4NipsGTNDJmq0=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/49/07/14540749"
+    },
+    {
+      "titulo": "Na Alemanha, Lula diz que Europa precisa 'superar resistência ideológica aos biocombustíveis'",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/20/na-alemanha-lula-defende-biocombustiveis-brasileiros-e-critica-regras-ambientais-da-uniao-europeia.ghtml",
+      "data": "20/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/tLlwhZWrZAORdgNTOeYsgLdlkLk=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/N/ecMaiUQZCrPWgcSP8GVg/55218087087-e7fee4467e-k.jpg"
+    },
+    {
+      "titulo": "Carta Pokémon de milhões de libras: valorização gera onda de crimes com roubos e furtos",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/17/carta-pokemon-de-milhoes-de-libras-valorizacao-gera-onda-de-crimes-com-roubos-e-furtos.ghtml",
+      "data": "17/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
+    },
+    {
+      "titulo": "Mercedes-Benz apresenta novidades nos chassis rodoviários O500",
+      "link": "https://www.transportabrasil.com.br/2026/04/mercedes-benz-apresenta-novidades-nos-chassis-rodoviarios-o500/",
+      "data": "17/04/2026",
+      "fonte": "Transporta Brasil",
+      "prioridade": 1,
+      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/04/mercedes-o50001.jpg"
+    },
+    {
+      "titulo": "Volvo eleva autonomia de caminhões elétricos na Europa para até 700 km",
+      "link": "https://www.transportabrasil.com.br/2026/04/volvo-eleva-autonomia-de-caminhoes-eletricos-na-europa-para-ate-700-km/",
+      "data": "15/04/2026",
+      "fonte": "Transporta Brasil",
+      "prioridade": 1,
+      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/04/volvo-eletricos-novo-01-1.jpg"
+    },
+    {
+      "titulo": "Grupo Kothe compra 210 caminhões Mercedes-Benz Axor",
+      "link": "https://www.transportabrasil.com.br/2026/04/grupo-kothe-compra-210-caminhoes-mercedes-benz-axor/",
+      "data": "15/04/2026",
+      "fonte": "Transporta Brasil",
+      "prioridade": 1,
+      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/04/axor-kothe02.jpg"
+    },
+    {
+      "titulo": "Transportadora mineira compra 50 caminhões VW Meteor",
+      "link": "https://www.transportabrasil.com.br/2026/04/transportadora-mineira-compra-50-caminhoes-vw-meteor/",
+      "data": "13/04/2026",
+      "fonte": "Transporta Brasil",
+      "prioridade": 1,
+      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/04/fertran-meteor.jpg"
+    },
+    {
+      "titulo": "Volvo inicia testes na Europa com caminhões movidos a hidrogênio combustível",
+      "link": "https://www.transportabrasil.com.br/2026/04/volvo-inicia-testes-na-europa-com-caminhoes-movidos-a-hidrogenio-combustivel/",
+      "data": "10/04/2026",
+      "fonte": "Transporta Brasil",
+      "prioridade": 1,
+      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/04/volvo-h2-01.jpg"
+    },
+    {
+      "titulo": "Amazon anuncia investimento de até US$ 25 bilhões na empresa de IA Anthropic",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/04/20/amazon-investimento-anthropic.ghtml",
+      "data": "21/04/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/58eLlnm_ou5w76G6U-4F9-WyUZU=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/0/E/rf1LWUSguzTiABWvHV9w/2025-10-14t232819z-1103731399-rc2lsca3ivds-rtrmadp-3-mackenzie-scott-amazon-stake.jpg"
+    },
+    {
+      "titulo": "Recuo de Trump com energia eólica gerada no mar é oportunidade para Brasil, diz associação",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/recuo-de-trump-com-energia-eolica-gerada-no-mar-e-oportunidade-para-brasil-diz-associacao.shtml",
+      "data": "21/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 2,
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/12/22/17664390466949b886f0267_1766439046_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Preços do petróleo oscilam, e Bolsas asiáticas fecham em alta com expectativa por negociações no Oriente Médio",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450539",
+      "data": "21/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 2,
+      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
+    }
+  ],
+  "econ_noticias": [
+    {
+      "titulo": "Brasil tem superávit comercial de US$ 2,05 bi nas relações de trocas com Portugal",
+      "link": "https://www.infomoney.com.br/economia/brasil-tem-superavit-comercial-de-us-205-bi-nas-relacoes-de-trocas-com-portugal/",
+      "data": "21/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/02/cimeira-brasil-portugal_mcamgo_abr_19022025-3.webp?quality=70"
+    },
+    {
+      "titulo": "Biocombustíveis voltam à moda com aumento no preço do petróleo por guerra",
+      "link": "https://www.infomoney.com.br/mercados/biocombustiveis-voltam-a-moda-com-aumento-no-preco-do-petroleo-por-guerra/",
+      "data": "21/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/E2G_Raizen.webp?quality=70"
+    },
+    {
+      "titulo": "Indicado de Trump para o Fed promete manter política monetária independente",
+      "link": "https://www.infomoney.com.br/mundo/indicado-de-trump-para-o-fed-promete-manter-politica-monetaria-independente/",
+      "data": "21/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/InfoMoney-Imagem-de-destaque-18.jpg?quality=70"
+    },
+    {
+      "titulo": "Lula ressalta ajuda de Portugal em acordo Mercosul-UE; “mercado de US$ 22 bi”",
+      "link": "https://www.infomoney.com.br/mundo/lula-ressalta-ajuda-de-portugal-em-acordo-mercosul-ue-mercado-de-us-22-bi/",
+      "data": "21/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/01/240209_mercosul_uniao_europeia.jpg?quality=70"
+    },
+    {
+      "titulo": "Tráfego no estreito de Hormuz segue praticamente paralisado",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450540",
+      "data": "21/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
+    },
+    {
+      "titulo": "Varejo físico recua 5,4% no 1º trimestre com Carnaval e juros altos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/04/varejo-fisico-recua-54-no-1o-trimestre-com-carnaval-e-juros-altos.shtml",
+      "data": "21/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/20/177672805669e6b7f8a3a75_1776728056_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Preços do petróleo oscilam, e Bolsas asiáticas fecham em alta com expectativa por negociações no Oriente Médio",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450539",
+      "data": "21/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
+    },
+    {
+      "titulo": "Veja como é a declaração do Imposto de Renda do MEI e por que categoria entrega dois documentos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/veja-como-e-a-declaracao-do-imposto-de-renda-do-mei-e-por-que-categoria-entrega-dois-documentos.shtml",
+      "data": "21/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/16/177366412669b7f77e3e7c8_1773664126_3x2_rt.jpg"
+    },
+    {
+      "titulo": "'Irei lembrar das empresas que não pedirem', diz Trump sobre reembolso do tarifaço",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/21/irei-lembrar-das-empresas-que-nao-pedirem-diz-trump-sobre-reembolso-do-tarifaco.ghtml",
+      "data": "21/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/dhfMa38c0tYuJ59rkm9zHoe4HLE=/3936x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/zT3j3XSZmYBWyYiaNjfg/ap26108511492559.jpg"
+    },
+    {
+      "titulo": "Governo federal diz que continuará adotando medidas para aumentar arrecadação e cumprir metas fiscais",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/21/governo-federal-diz-que-continuara-adotando-medidas-para-aumentar-arrecadacao-e-cumprir-metas-fiscais.ghtml",
+      "data": "21/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/ibJuP6NiDNAWN_BNnaug_1c0JRg=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/i/gPeIyBS7y2lE6BxD6mUQ/dinheiro.jpg"
+    },
+    {
+      "titulo": "Segundo SUV mais vendido do país, Volkswagen Tera vai bem na cidade, mas não anima na estrada",
+      "link": "https://g1.globo.com/carros/noticia/2026/04/21/volkswagen-tera-teste.ghtml",
+      "data": "21/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/NGEUDFnLaW5eCDr5F1j1rHSNvuU=/3936x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/0/aAAXAVRtS9wT4WZAiDCQ/dsc00600.jpg"
+    },
+    {
+      "titulo": "Diploma na mão, mas trabalho fora da área: como a falta de vagas tem levado jovens ao subemprego nos EUA",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/21/diploma-na-mao-mas-trabalho-fora-da-area-como-a-falta-de-vagas-tem-levado-jovens-ao-subemprego-nos-eua.ghtml",
+      "data": "21/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/X0BJJU4yzzbtc728WTrVRjzRoKM=/1500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/m/DFGHVfR6GmTLFrEU9Ndg/134418.jpg"
+    },
+    {
+      "titulo": "Brasil tenta emplacar fim da escala 6x1 desde os anos 1980",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/21/brasil-tenta-emplacar-fim-da-escala-6x1-desde-os-anos-1980.ghtml",
+      "data": "21/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/eTY8cjl83SWVkBR2G7u7EfttlwA=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/g/BMMslAQMebhMLJxgSNWw/61969673-1004.webp"
+    },
+    {
+      "titulo": "Por que é tão difícil abandonar o petróleo?",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/21/por-que-e-tao-dificil-abandonar-o-petroleo.ghtml",
+      "data": "21/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/lCHVPdlugENP4nYuyk0oz53M8rw=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/u/rlmCAFSxiTrpbUjXJ5cA/2026-03-18t214048z-1013148856-rc2mwja0qpho-rtrmadp-3-iran-crisis-funds.jpg"
+    },
+    {
+      "titulo": "BRB anuncia acordo com gestora de fundos para vender R$ 15 bilhões em ativos ligados ao Banco Master",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/20/brb-anuncia-acordo-com-gestora-de-fundos-para-vender-r-15-bilhoes-em-ativos-ligados-ao-banco-master.ghtml",
+      "data": "21/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/ILGkt73q_FEfjPhaIdRHVdIXXfQ=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/10/37/14543710"
+    },
+    {
+      "titulo": "Marcopolo (POMO4): Alta do petróleo pode beneficiar ação e Safra calcula potencial de 30%; veja motivos",
+      "link": "https://www.moneytimes.com.br/marcopolo-pomo4-alta-do-petroleo-pode-beneficiar-acao-e-safra-calcula-potencial-de-30-veja-motivos-lmrs/",
+      "data": "21/04/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2024/05/marcopolo.jpg"
+    },
+    {
+      "titulo": "Trump critica Powell e diz que ficará desapontado se novo presidente do Fed não reduzir juros",
+      "link": "https://www.moneytimes.com.br/trump-critica-powell-e-diz-que-ficara-desapontado-se-novo-presidente-do-fed-nao-reduzir-juros/",
+      "data": "21/04/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/07/jerome-powell-donald-trump-juros-tarifas.jpg"
+    },
+    {
+      "titulo": "O vencedor do BBB que ganhou mais dinheiro não é quem você pensa",
+      "link": "https://exame.com/pop/o-vencedor-do-bbb-que-ganhou-mais-dinheiro-nao-e-quem-voce-pensa/",
+      "data": "2026-04-21",
+      "fonte": "Exame",
+      "prioridade": 1,
+      "imagem": "https://classic.exame.com/wp-content/uploads/2026/04/dinheiro.jpg"
+    },
+    {
+      "titulo": "Robin Brooks: Dólar está caminhando para os R$ 4,50",
+      "link": "https://exame.com/invest/mercados/robin-brooks-dolar-esta-caminhando-para-os-r-450/",
+      "data": "2026-04-21",
+      "fonte": "Exame",
+      "prioridade": 1,
+      "imagem": "https://classic.exame.com/wp-content/uploads/2025/01/dollar-banknote.jpg"
+    },
+    {
+      "titulo": "Economista analisa alta em serviços, varejo e prévia do PIB",
+      "link": "https://exame.com/bussola/economista-analisa-crescimento-em-servicos-varejo-e-previa-do-pib/",
+      "data": "2026-04-21",
+      "fonte": "Exame",
+      "prioridade": 1,
+      "imagem": "https://classic.exame.com/wp-content/uploads/2023/08/GettyImages-1455284519.jpg"
+    },
+    {
+      "titulo": "Fachin diz que proposta de Dino para nova reforma no Judiciário 'vem somar'",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/04/20/fachin-diz-que-proposta-de-dino-para-nova-reforma-no-judiciario-vem-somar.ghtml",
+      "data": "20/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/ut8AW4xU04jMZNeJwAFak-aiJHo=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/V/0XScAXQdG686mxEa7QoA/55080441679-76f05e5eab-k.jpg"
+    },
+    {
+      "titulo": "Quem é John Ternus, sucessor de Tim Cook no comando da Apple",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/04/20/quem-e-john-ternus-sucessor-de-tim-cook-no-comando-da-apple.ghtml",
+      "data": "20/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/d9-t7YfnfKEt92NZdzcQMJDww2s=/2880x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/m/OdJc5bS02IZ2XR2zBIgw/apple-john-ternus2.jpg"
+    }
+  ],
+  "noticias_em": "21/04/2026 16:46 UTC",
+  "noticias_em_br": "21/04/2026 13:46",
+  "indicadores_em": "21/04/2026 16:46 UTC",
+  "indicadores_em_br": "21/04/2026 13:46"
 }
