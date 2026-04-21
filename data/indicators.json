@@ -537,6 +537,14 @@
       "imagem": "https://s2-g1.glbimg.com/pFarS0NQeP2KG8SJo1GBYnG3PiY=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/58/36/14543658"
     },
     {
+      "titulo": "UE tem reservas e produção para abastecer combustível de aviação por cinco meses, diz governo holandês",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/ue-tem-reservas-e-producao-para-abastecer-combustivel-de-aviacao-por-cinco-meses-diz-governo-holandes.shtml",
+      "data": "21/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/21/177674234369e6efc7d601b_1776742343_3x2_rt.jpg"
+    },
+    {
       "titulo": "'O dilema de Malaca': por que outra passagem crítica para a navegação gera preocupação no comércio global",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/o-dilema-de-malaca-por-que-outra-passagem-critica-para-a-navegacao-gera-preocupacao-no-comercio-global.shtml",
       "data": "21/04/2026",
@@ -593,20 +601,20 @@
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/E2G_Raizen.webp?quality=70"
     },
     {
-      "titulo": "Tráfego marítimo através de Ormuz continua praticamente parado",
-      "link": "https://www.infomoney.com.br/mundo/trafego-maritimo-atraves-de-ormuz-continua-praticamente-parado/",
-      "data": "21/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-21T124130Z_1_LYNXMPEM3K0PK_RTROPTP_4_IRAN-CRISIS-OMAN-HORMUZ.jpg?quality=70"
-    },
-    {
       "titulo": "UE alerta para consequências catastróficas com fechamento permanente de Ormuz",
       "link": "https://www.infomoney.com.br/mercados/ue-alerta-para-consequencias-catastroficas-com-fechamento-permanente-de-ormuz/",
       "data": "21/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
       "imagem": ""
+    },
+    {
+      "titulo": "Tráfego marítimo através de Ormuz continua praticamente parado",
+      "link": "https://www.moneytimes.com.br/trafego-maritimo-atraves-de-ormuz-continua-praticamente-parado-lmrs/",
+      "data": "21/04/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/04/ormuz.jpg"
     },
     {
       "titulo": "GO: cobra exótica de 4 m foge de casa e vai parar no centro de Aruanã",
@@ -729,23 +737,39 @@
       "imagem": "https://s2-g1.glbimg.com/58eLlnm_ou5w76G6U-4F9-WyUZU=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/0/E/rf1LWUSguzTiABWvHV9w/2025-10-14t232819z-1103731399-rc2lsca3ivds-rtrmadp-3-mackenzie-scott-amazon-stake.jpg"
     },
     {
-      "titulo": "Recuo de Trump com energia eólica gerada no mar é oportunidade para Brasil, diz associação",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/recuo-de-trump-com-energia-eolica-gerada-no-mar-e-oportunidade-para-brasil-diz-associacao.shtml",
+      "titulo": "Indicado de Trump pede uma 'mudança de regime' no Fed e uma nova abordagem para inflação",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/indicado-de-trump-pede-uma-mudanca-de-regime-no-fed-e-uma-nova-abordagem-para-inflacao.shtml",
       "data": "21/04/2026",
       "fonte": "Folha SP",
       "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2025/12/22/17664390466949b886f0267_1766439046_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Preços do petróleo oscilam, e Bolsas asiáticas fecham em alta com expectativa por negociações no Oriente Médio",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450539",
-      "data": "21/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/21/177679063269e7ac68e9056_1776790632_3x2_rt.jpg"
     }
   ],
   "econ_noticias": [
+    {
+      "titulo": "Wall Street vira para queda à espera de desdobramento de guerra no Irã; petróleo sobe",
+      "link": "https://www.infomoney.com.br/mercados/wall-street-sobe-com-fala-de-trump-sobre-ira-petroleo-recua/",
+      "data": "21/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Design-sem-nome-28.png?quality=70"
+    },
+    {
+      "titulo": "Exportação de petróleo russo para Índia deve seguir perto de máxima com aval dos EUA",
+      "link": "https://www.infomoney.com.br/mundo/exportacao-de-petroleo-russo-para-india-deve-seguir-perto-de-maxima-com-aval-dos-eua/",
+      "data": "21/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/451259399.jpg?quality=70"
+    },
+    {
+      "titulo": "Warsh pede uma “mudança de regime” no Fed e uma nova abordagem para inflação",
+      "link": "https://www.infomoney.com.br/mercados/warsh-pede-uma-mudanca-de-regime-no-fed-e-uma-nova-abordagem-para-inflacao/",
+      "data": "21/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/10/442608059-1.jpg?quality=70"
+    },
     {
       "titulo": "Brasil tem superávit comercial de US$ 2,05 bi nas relações de trocas com Portugal",
       "link": "https://www.infomoney.com.br/economia/brasil-tem-superavit-comercial-de-us-205-bi-nas-relacoes-de-trocas-com-portugal/",
@@ -755,28 +779,12 @@
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/02/cimeira-brasil-portugal_mcamgo_abr_19022025-3.webp?quality=70"
     },
     {
-      "titulo": "Biocombustíveis voltam à moda com aumento no preço do petróleo por guerra",
-      "link": "https://www.infomoney.com.br/mercados/biocombustiveis-voltam-a-moda-com-aumento-no-preco-do-petroleo-por-guerra/",
+      "titulo": "Indicado de Trump pede uma 'mudança de regime' no Fed e uma nova abordagem para inflação",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/indicado-de-trump-pede-uma-mudanca-de-regime-no-fed-e-uma-nova-abordagem-para-inflacao.shtml",
       "data": "21/04/2026",
-      "fonte": "InfoMoney",
+      "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/E2G_Raizen.webp?quality=70"
-    },
-    {
-      "titulo": "Indicado de Trump para o Fed promete manter política monetária independente",
-      "link": "https://www.infomoney.com.br/mundo/indicado-de-trump-para-o-fed-promete-manter-politica-monetaria-independente/",
-      "data": "21/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/InfoMoney-Imagem-de-destaque-18.jpg?quality=70"
-    },
-    {
-      "titulo": "Lula ressalta ajuda de Portugal em acordo Mercosul-UE; “mercado de US$ 22 bi”",
-      "link": "https://www.infomoney.com.br/mundo/lula-ressalta-ajuda-de-portugal-em-acordo-mercosul-ue-mercado-de-us-22-bi/",
-      "data": "21/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/01/240209_mercosul_uniao_europeia.jpg?quality=70"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/21/177679063269e7ac68e9056_1776790632_3x2_rt.jpg"
     },
     {
       "titulo": "Tráfego no estreito de Hormuz segue praticamente paralisado",
@@ -801,14 +809,6 @@
       "fonte": "Folha SP",
       "prioridade": 1,
       "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
-    },
-    {
-      "titulo": "Veja como é a declaração do Imposto de Renda do MEI e por que categoria entrega dois documentos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/veja-como-e-a-declaracao-do-imposto-de-renda-do-mei-e-por-que-categoria-entrega-dois-documentos.shtml",
-      "data": "21/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/16/177366412669b7f77e3e7c8_1773664126_3x2_rt.jpg"
     },
     {
       "titulo": "'Irei lembrar das empresas que não pedirem', diz Trump sobre reembolso do tarifaço",
@@ -867,6 +867,14 @@
       "imagem": "https://s2-g1.glbimg.com/ILGkt73q_FEfjPhaIdRHVdIXXfQ=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/10/37/14543710"
     },
     {
+      "titulo": "Por que uma decisão sobre biocombustíveis está mexendo com o agro global",
+      "link": "https://www.moneytimes.com.br/por-que-uma-decisao-sobre-biocombustiveis-esta-mexendo-com-o-agro-global-ceci/",
+      "data": "21/04/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2024/08/commodities-fertilizantes.jpg"
+    },
+    {
       "titulo": "Marcopolo (POMO4): Alta do petróleo pode beneficiar ação e Safra calcula potencial de 30%; veja motivos",
       "link": "https://www.moneytimes.com.br/marcopolo-pomo4-alta-do-petroleo-pode-beneficiar-acao-e-safra-calcula-potencial-de-30-veja-motivos-lmrs/",
       "data": "21/04/2026",
@@ -875,12 +883,20 @@
       "imagem": "https://www.moneytimes.com.br/uploads/2024/05/marcopolo.jpg"
     },
     {
-      "titulo": "Trump critica Powell e diz que ficará desapontado se novo presidente do Fed não reduzir juros",
-      "link": "https://www.moneytimes.com.br/trump-critica-powell-e-diz-que-ficara-desapontado-se-novo-presidente-do-fed-nao-reduzir-juros/",
+      "titulo": "Indicado de Trump para o Fed promete manter política monetária independente",
+      "link": "https://www.moneytimes.com.br/indicado-de-trump-para-o-fed-promete-manter-politica-monetaria-independente-lmrs/",
       "data": "21/04/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/07/jerome-powell-donald-trump-juros-tarifas.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/04/kevin-warsh-fed-eua-.jpg"
+    },
+    {
+      "titulo": "Kevin Warsh diz que o Fed necessita de novo arcabouço para lidar com a inflação",
+      "link": "https://exame.com/invest/mercados/kevin-warsh-diz-que-o-fed-necessita-de-novo-arcabouco-para-lidar-com-a-inflacao/",
+      "data": "2026-04-21",
+      "fonte": "Exame",
+      "prioridade": 1,
+      "imagem": "https://classic.exame.com/wp-content/uploads/2025/12/HOOVER-INSTITUTION-KEVIN-WARSH.png"
     },
     {
       "titulo": "O vencedor do BBB que ganhou mais dinheiro não é quem você pensa",
@@ -889,22 +905,6 @@
       "fonte": "Exame",
       "prioridade": 1,
       "imagem": "https://classic.exame.com/wp-content/uploads/2026/04/dinheiro.jpg"
-    },
-    {
-      "titulo": "Robin Brooks: Dólar está caminhando para os R$ 4,50",
-      "link": "https://exame.com/invest/mercados/robin-brooks-dolar-esta-caminhando-para-os-r-450/",
-      "data": "2026-04-21",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2025/01/dollar-banknote.jpg"
-    },
-    {
-      "titulo": "Economista analisa alta em serviços, varejo e prévia do PIB",
-      "link": "https://exame.com/bussola/economista-analisa-crescimento-em-servicos-varejo-e-previa-do-pib/",
-      "data": "2026-04-21",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2023/08/GettyImages-1455284519.jpg"
     },
     {
       "titulo": "Fachin diz que proposta de Dino para nova reforma no Judiciário 'vem somar'",
@@ -923,8 +923,8 @@
       "imagem": "https://s2-g1.glbimg.com/d9-t7YfnfKEt92NZdzcQMJDww2s=/2880x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/m/OdJc5bS02IZ2XR2zBIgw/apple-john-ternus2.jpg"
     }
   ],
-  "noticias_em": "21/04/2026 16:46 UTC",
-  "noticias_em_br": "21/04/2026 13:46",
+  "noticias_em": "21/04/2026 17:50 UTC",
+  "noticias_em_br": "21/04/2026 14:50",
   "indicadores_em": "21/04/2026 16:46 UTC",
   "indicadores_em_br": "21/04/2026 13:46"
 }
