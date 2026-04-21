@@ -1,260 +1,111 @@
 {
-  "gerado_em": "19/04/2026 03:31 UTC",
-  "gerado_em_br": "19/04/2026 00:31",
+  "gerado_em": "21/04/2026 01:48 UTC",
+  "gerado_em_br": "20/04/2026 22:48",
   "anp": {
-    "semana_referencia": "29/03 a 04/04/2026",
-    "preco_atual": 7.58,
+    "semana_referencia": "08/03/2026 a 14/03/2026",
+    "preco_atual": 6.89,
     "semanas": [
       {
-        "ini": "2026-03-29",
-        "fim": "2026-04-04",
-        "ini_br": "29/03",
-        "fim_br": "04/04/2026",
-        "label": "29/03/26",
-        "preco": 7.58,
-        "preco_min": 5.69,
-        "preco_max": 7.92
+        "ini": "2026-01-05",
+        "fim": "2026-01-11",
+        "ini_br": "05/01",
+        "fim_br": "11/01/2026",
+        "label": "Jan/26",
+        "preco": 6.08
+      },
+      {
+        "ini": "2026-01-12",
+        "fim": "2026-01-18",
+        "ini_br": "12/01",
+        "fim_br": "18/01/2026",
+        "label": "Jan/26",
+        "preco": 6.082
+      },
+      {
+        "ini": "2026-01-19",
+        "fim": "2026-01-25",
+        "ini_br": "19/01",
+        "fim_br": "25/01/2026",
+        "label": "Jan/26",
+        "preco": 6.084
+      },
+      {
+        "ini": "2026-01-26",
+        "fim": "2026-02-01",
+        "ini_br": "26/01",
+        "fim_br": "01/02/2026",
+        "label": "Fev/26",
+        "preco": 6.086
+      },
+      {
+        "ini": "2026-02-02",
+        "fim": "2026-02-08",
+        "ini_br": "02/02",
+        "fim_br": "08/02/2026",
+        "label": "Fev/26",
+        "preco": 6.09
+      },
+      {
+        "ini": "2026-02-09",
+        "fim": "2026-02-15",
+        "ini_br": "09/02",
+        "fim_br": "15/02/2026",
+        "label": "Fev/26",
+        "preco": 6.095
+      },
+      {
+        "ini": "2026-02-16",
+        "fim": "2026-02-22",
+        "ini_br": "16/02",
+        "fim_br": "22/02/2026",
+        "label": "Fev/26",
+        "preco": 6.1
+      },
+      {
+        "ini": "2026-03-01",
+        "fim": "2026-03-07",
+        "ini_br": "01/03",
+        "fim_br": "07/03/2026",
+        "label": "Mar/26",
+        "preco": 6.15
+      },
+      {
+        "ini": "2026-03-08",
+        "fim": "2026-03-14",
+        "ini_br": "08/03",
+        "fim_br": "14/03/2026",
+        "label": "Mar/26",
+        "preco": 6.89
       }
     ],
-    "semanas_por_combustivel": {
-      "diesel-s10": [
-        {
-          "ini": "2026-03-29",
-          "fim": "2026-04-04",
-          "ini_br": "29/03",
-          "fim_br": "04/04/2026",
-          "label": "29/03/26",
-          "preco": 7.58,
-          "preco_min": 5.69,
-          "preco_max": 7.92
-        }
-      ],
-      "diesel-s500": [
-        {
-          "ini": "2026-03-29",
-          "fim": "2026-04-04",
-          "ini_br": "29/03",
-          "fim_br": "04/04/2026",
-          "label": "29/03/26",
-          "preco": 7.515,
-          "preco_min": 6.09,
-          "preco_max": 9.45
-        }
-      ],
-      "gasolina": [
-        {
-          "ini": "2026-03-29",
-          "fim": "2026-04-04",
-          "ini_br": "29/03",
-          "fim_br": "04/04/2026",
-          "label": "29/03/26",
-          "preco": 6.78,
-          "preco_min": 5.69,
-          "preco_max": 7.12
-        }
-      ],
-      "gasolina-ad": [
-        {
-          "ini": "2026-03-29",
-          "fim": "2026-04-04",
-          "ini_br": "29/03",
-          "fim_br": "04/04/2026",
-          "label": "29/03/26",
-          "preco": 6.97,
-          "preco_min": 5.99,
-          "preco_max": 7.31
-        }
-      ],
-      "etanol": [
-        {
-          "ini": "2026-03-29",
-          "fim": "2026-04-04",
-          "ini_br": "29/03",
-          "fim_br": "04/04/2026",
-          "label": "29/03/26",
-          "preco": 4.7,
-          "preco_min": 3.69,
-          "preco_max": 6.6
-        }
-      ],
-      "gnv": [
-        {
-          "ini": "2026-03-29",
-          "fim": "2026-04-04",
-          "ini_br": "29/03",
-          "fim_br": "04/04/2026",
-          "label": "29/03/26",
-          "preco": 4.38,
-          "preco_min": 3.41,
-          "preco_max": 4.72
-        }
-      ]
-    },
     "regioes": [
       {
         "nome": "Norte",
         "emoji": "🟢",
-        "revenda_media": 7.74,
-        "revenda_variacao": 1.517,
-        "revenda_outubro": 6.223,
-        "distribuicao_media": 7.129
+        "preco": 7.2
       },
       {
         "nome": "Nordeste",
         "emoji": "🟡",
-        "revenda_media": 7.58,
-        "revenda_variacao": 1.652,
-        "revenda_outubro": 5.928,
-        "distribuicao_media": 6.981
+        "preco": 7.07
       },
       {
         "nome": "Centro-Oeste",
         "emoji": "🟠",
-        "revenda_media": 7.56,
-        "revenda_variacao": 1.415,
-        "revenda_outubro": 6.145,
-        "distribuicao_media": 6.963
+        "preco": 6.85
       },
       {
         "nome": "Sudeste",
         "emoji": "🔵",
-        "revenda_media": 7.53,
-        "revenda_variacao": 1.487,
-        "revenda_outubro": 6.043,
-        "distribuicao_media": 6.935
+        "preco": 6.76
       },
       {
         "nome": "Sul",
         "emoji": "⚪",
-        "revenda_media": 7.59,
-        "revenda_variacao": 1.513,
-        "revenda_outubro": 6.077,
-        "distribuicao_media": 6.99
+        "preco": 6.668
       }
     ],
-    "estados": {
-      "SE": {
-        "preco": 7.18,
-        "preco_out": 6.304,
-        "variacao_pct": 13.9
-      },
-      "PA": {
-        "preco": 6.99,
-        "preco_out": 6.137,
-        "variacao_pct": 13.9
-      },
-      "MG": {
-        "preco": 7.01,
-        "preco_out": 6.155,
-        "variacao_pct": 13.89
-      },
-      "RR": {
-        "preco": 7.89,
-        "preco_out": 6.927,
-        "variacao_pct": 13.9
-      },
-      "DF": {
-        "preco": 7.58,
-        "preco_out": 6.655,
-        "variacao_pct": 13.9
-      },
-      "MS": {
-        "preco": 7.34,
-        "preco_out": 6.445,
-        "variacao_pct": 13.89
-      },
-      "MT": {
-        "preco": 7.43,
-        "preco_out": 6.524,
-        "variacao_pct": 13.89
-      },
-      "SC": {
-        "preco": 7.76,
-        "preco_out": 6.813,
-        "variacao_pct": 13.9
-      },
-      "CE": {
-        "preco": 6.98,
-        "preco_out": 6.128,
-        "variacao_pct": 13.9
-      },
-      "GO": {
-        "preco": 7.53,
-        "preco_out": 6.611,
-        "variacao_pct": 13.9
-      },
-      "AM": {
-        "preco": 7.58,
-        "preco_out": 6.655,
-        "variacao_pct": 13.9
-      },
-      "AL": {
-        "preco": 6.89,
-        "preco_out": 6.049,
-        "variacao_pct": 13.9
-      },
-      "RN": {
-        "preco": 7.28,
-        "preco_out": 6.392,
-        "variacao_pct": 13.89
-      },
-      "TO": {
-        "preco": 7.84,
-        "preco_out": 6.884,
-        "variacao_pct": 13.89
-      },
-      "RS": {
-        "preco": 7.34,
-        "preco_out": 6.445,
-        "variacao_pct": 13.89
-      },
-      "RO": {
-        "preco": 7.41,
-        "preco_out": 6.506,
-        "variacao_pct": 13.89
-      },
-      "PE": {
-        "preco": 7.01,
-        "preco_out": 6.155,
-        "variacao_pct": 13.89
-      },
-      "AC": {
-        "preco": 8.02,
-        "preco_out": 7.042,
-        "variacao_pct": 13.89
-      },
-      "RJ": {
-        "preco": 7.3,
-        "preco_out": 6.409,
-        "variacao_pct": 13.9
-      },
-      "BA": {
-        "preco": 8.16,
-        "preco_out": 7.164,
-        "variacao_pct": 13.9
-      },
-      "MA": {
-        "preco": 7.31,
-        "preco_out": 6.418,
-        "variacao_pct": 13.9
-      },
-      "SA": {
-        "preco": 7.66,
-        "preco_out": 6.725,
-        "variacao_pct": 13.9
-      },
-      "PI": {
-        "preco": 7.7,
-        "preco_out": 6.761,
-        "variacao_pct": 13.89
-      },
-      "ES": {
-        "preco": 6.76,
-        "preco_out": 5.935,
-        "variacao_pct": 13.9
-      }
-    },
-    "atualizado": "19/04/2026 03:32 UTC"
+    "atualizado": "fallback — 14/03/2026"
   },
   "ipca": {
     "series": [
@@ -393,458 +244,68 @@
   "selic": {
     "series": [
       {
-        "label": "Mar/25",
-        "valor": 13.25
-      },
-      {
-        "label": "Abr/25",
-        "valor": 13.25
-      },
-      {
-        "label": "Mai/25",
-        "valor": 13.75
-      },
-      {
-        "label": "Jun/25",
-        "valor": 13.75
-      },
-      {
-        "label": "Jul/25",
-        "valor": 14.25
-      },
-      {
-        "label": "Ago/25",
-        "valor": 14.25
-      },
-      {
-        "label": "Set/25",
+        "label": "01/16/04/2",
         "valor": 14.75
       },
       {
-        "label": "Out/25",
+        "label": "01/17/04/2",
         "valor": 14.75
       },
       {
-        "label": "Nov/25",
+        "label": "01/18/04/2",
         "valor": 14.75
       },
       {
-        "label": "Dez/25",
+        "label": "01/19/04/2",
         "valor": 14.75
       },
       {
-        "label": "Jan/26",
+        "label": "01/20/04/2",
         "valor": 14.75
       },
       {
-        "label": "Fev/26",
+        "label": "01/21/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/22/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/23/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/24/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/25/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/26/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/27/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/28/04/2",
+        "valor": 14.75
+      },
+      {
+        "label": "01/29/04/2",
         "valor": 14.75
       }
     ],
     "atual": 14.75,
-    "ultimo_label": "Fev/26"
-  },
-  "usd_brl": {
-    "series": [],
-    "atual": 4.9861
+    "ultimo_label": "Abr/26"
   },
   "inctl": {
     "ultimo": 0.22,
-    "series": [
-      {
-        "label": "Mar/25",
-        "valor": 0.32
-      },
-      {
-        "label": "Abr/25",
-        "valor": 0.4
-      },
-      {
-        "label": "Mai/25",
-        "valor": 0.35
-      },
-      {
-        "label": "Jun/25",
-        "valor": 0.18
-      },
-      {
-        "label": "Jul/25",
-        "valor": 0.25
-      },
-      {
-        "label": "Ago/25",
-        "valor": 0.05
-      },
-      {
-        "label": "Set/25",
-        "valor": 0.3
-      },
-      {
-        "label": "Out/25",
-        "valor": 0.45
-      },
-      {
-        "label": "Nov/25",
-        "valor": 0.32
-      },
-      {
-        "label": "Dez/25",
-        "valor": 0.38
-      },
-      {
-        "label": "Jan/26",
-        "valor": 0.28
-      },
-      {
-        "label": "Fev/26",
-        "valor": 0.55
-      }
-    ],
-    "fonte": "CNT",
-    "atualizado": "19/04/2026"
-  },
-  "noticias": [
-    {
-      "titulo": "De espiga à pamonha: Capela do Alto mantém tradição e renda com cultivo de milho",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/04/19/de-espiga-a-pamonha-capela-do-alto-mantem-tradicao-e-renda-com-cultivo-de-milho.ghtml",
-      "data": "19/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/jNfkoAWl3VkUCObsdlyt59d2B_E=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/p/nAOXGmRSaR8JmUB7sIBA/texto-do-seu-paragrafo-10-.png"
-    },
-    {
-      "titulo": "Explosão de negócios da família Trump abre caminho para presidentes dos EUA lucrarem com o cargo",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/19/explosao-de-negocios-da-familia-trump-abre-caminho-para-presidentes-dos-eua-lucrarem-com-o-cargo.ghtml",
-      "data": "19/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/GWvPFqpX9HURQ25tk4F5uxBiwwI=/3426x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/F/hFnUCcSw2DUaxFdSxCsQ/ap25343503663838.jpg"
-    },
-    {
-      "titulo": "Secretaria da gestão Tarcísio não sabe onde foram parar R$ 23 milhões em materiais",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/secretaria-da-gestao-tarcisio-nao-sabe-onde-foram-parar-r-23-milhoes-em-materiais.shtml",
-      "data": "19/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/23/177429818569c1a449a8da2_1774298185_3x2_lg.jpg"
-    },
-    {
-      "titulo": "Europa sem combustível para voar? Guerra afeta custos de aéreas e oferta de voos",
-      "link": "https://www.infomoney.com.br/mundo/europa-sem-combustivel-para-voar-guerra-afeta-custos-de-aereas-e-oferta-de-voos/",
-      "data": "19/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/08/john-mcarthur-8KLLgqHMAv4-unsplash.jpg?quality=70"
-    },
-    {
-      "titulo": "Parar de fumar desacelera a perda cognitiva mesmo na meia-idade",
-      "link": "https://www.metropoles.com/saude/parar-de-fumar-desacelera-a-perda-cognitiva",
-      "data": "19/04/2026",
-      "fonte": "Metrópoles",
-      "prioridade": 1,
-      "imagem": "https://i.metroimg.com/_0aEPQiJ5SRFJA7M7VldRp59ON3lT0I8_sbKFaa87nY/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/02/parar-de-fumar.jpg"
-    },
-    {
-      "titulo": "'Estou em modo sobrevivência': por que ter trabalho na Argentina não é seguro contra pobreza",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/18/estou-em-modo-sobrevivencia-por-que-ter-trabalho-na-argentina-nao-e-seguro-contra-pobreza.ghtml",
-      "data": "18/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/w_1mbH0sbMapELlmdFUtJBG_beQ=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/C/0mVDKLToyBwk9Yq9r7jg/0404cf90-2d4a-11f1-8ac7-a101b1a2933c.jpg"
-    },
-    {
-      "titulo": "Alckmin: governo ainda não tomou decisão sobre revogação da \"taxa das blusinhas\"; vice-presidente chegou a defender a manutenção do imposto",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/18/alckmin-diz-que-nao-e-contra-nem-a-favor-da-taxa-das-blusinhas-e-afirma-que-apoiara-decisao-de-lula.ghtml",
-      "data": "18/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/ZOSar6JcxddyAhvubua_FV0yaZQ=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/s/AoY30KRECOqvDjoSaKyg/55212136799-76e9b6593d-k.jpg"
-    },
-    {
-      "titulo": "Feriado de Tiradentes: entenda os direitos na emenda e quando o desconto é permitido",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/18/feriado-de-tiradentes-entenda-os-direitos-na-emenda-e-quando-o-desconto-e-permitido.ghtml",
-      "data": "18/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/T18Qxuc6Ngd_Pr2ynfCNGQjdZ9U=/1500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/r/frQ8nbRNGz0Y8i9YBoVA/14778.jpg"
-    },
-    {
-      "titulo": "Petrobras deixa de atender 10% do pedido de diesel de distribuidoras para maio, diz agência",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/17/petrobras-pedido-diesel-distribuidoras.ghtml",
-      "data": "18/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/OtowCRweQWa1NIh79OMXOXjfDZs=/5472x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/wCR8ddTkWlDT6bfcazyg/mg-1446-0.jpg"
-    },
-    {
-      "titulo": "Sem citar Trump, Brasil, México e Espanha cobram respeito à soberania de Cuba e dizem que vão 'intensificar' ajuda ao país",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/18/sem-citar-trump-brasil-cobra-respeito-a-soberania-de-cuba-e-diz-que-que-vai-intensificar-ajuda-ao-pais.ghtml",
-      "data": "18/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/0Typ49Rde0C_nFrT2S2egBJVpEo=/1536x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/z/sCpLHYTdGTfHZIBp6plw/designer-3-.png"
-    },
-    {
-      "titulo": "Lula critica líderes mundiais por guerras e afirma que Trump não 'tem direito' de excluir África do Sul do G20",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/18/lula-critica-lideres-mundiais-por-guerras-e-afirma-trump-nao-pode-excluir-africa-do-sul-do-g20.ghtml",
-      "data": "18/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/hgedkj2Z2O6vMiQu7RbWxdJVOp8=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/14537119.jpg"
-    },
-    {
-      "titulo": "Pará autoriza Belo Sun a minerar ouro na Volta Grande do Xingu; MPF e grupos indígenas contestam",
-      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/ambiente/2026/04/para-autoriza-belo-sun-a-minerar-ouro-na-volta-grande-do-xingu-mpf-e-grupos-indigenas-contestam.shtml",
-      "data": "18/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2022/10/08/16652002996340f0abaec20_1665200299_3x2_rt.jpg"
-    },
-    {
-      "titulo": "MP-SP volta atrás após troca de promotor e pede condenação de Monark por fala sobre nazismo",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/mp-sp-volta-atras-apos-troca-de-promotor-e-pede-condenacao-de-monark-por-fala-sobre-nazismo.shtml",
-      "data": "18/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2022/06/06/1654546874629e61ba25611_1654546874_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Aumento de tensão: Lanchas iranianas atacam petroleiro no Estreito de Ormuz em meio à retomada de restrições",
-      "link": "https://www.moneytimes.com.br/aumento-de-tensao-lanchas-iranianas-atacam-petroleiro-no-estreito-de-ormuz-em-meio-a-retomada-de-restricoes-rnda/",
-      "data": "18/04/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2022/10/navio-de-carga-razoni.jpg"
-    },
-    {
-      "titulo": "Carta Pokémon de milhões de libras: valorização gera onda de crimes com roubos e furtos",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/17/carta-pokemon-de-milhoes-de-libras-valorizacao-gera-onda-de-crimes-com-roubos-e-furtos.ghtml",
-      "data": "17/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
-    },
-    {
-      "titulo": "Fachin nega crise com Legislativo após relatório de CPI do Crime Organizado",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/04/17/fachin-nega-crise-com-legislativo-apos-relatorio-de-cpi-do-crime-organizado.ghtml",
-      "data": "17/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/yb1aDussiqKundoiZBwEySHjDg8=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/F/oO6x16TAugyuBdC06S8g/gnews-gn18-agenda-fachin-20260417-0958-frame-50879.jpeg"
-    },
-    {
-      "titulo": "Lula lamenta morte de Oscar Schmidt: 'maior ídolo da história do basquete brasileiro'",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/17/lamenta-morte-oscar-schmidt.ghtml",
-      "data": "17/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/tTx5Jk03dM-BuQiyRmTAVB6xjHs=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/a/cqE1u8SdutLO86p0E8XQ/whatsapp-image-2024-01-22-at-16-1705954426-1-.jpeg"
-    },
-    {
-      "titulo": "Boulos diz que é possível que governo Lula revogue a 'taxa das blusinhas'",
-      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/04/17/boulos-entrevista-globonews-taxa-blusinhas.ghtml",
-      "data": "17/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/5fF3xONSRNe9yq-iF6hWHW8mxuc=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/3/TjdIl6R86DNhgPQlCsrg/pgm-globonews-limpo-ao-vivo-20260417-1259-frame-239215.jpeg"
-    },
-    {
-      "titulo": "Mercedes-Benz apresenta novidades nos chassis rodoviários O500",
-      "link": "https://www.transportabrasil.com.br/2026/04/mercedes-benz-apresenta-novidades-nos-chassis-rodoviarios-o500/",
-      "data": "17/04/2026",
-      "fonte": "Transporta Brasil",
-      "prioridade": 1,
-      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/04/mercedes-o50001.jpg"
-    },
-    {
-      "titulo": "Worst U.S. Drought in Decades Puts Spring Crops at Risk",
-      "link": "https://oilprice.com/Energy/Energy-General/Worst-US-Drought-in-Decades-Puts-Spring-Crops-at-Risk.html",
-      "data": "17/04/2026",
-      "fonte": "OilPrice",
-      "prioridade": 1,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-04-17_ih1n2a6my7.jpg"
-    },
-    {
-      "titulo": "Volvo eleva autonomia de caminhões elétricos na Europa para até 700 km",
-      "link": "https://www.transportabrasil.com.br/2026/04/volvo-eleva-autonomia-de-caminhoes-eletricos-na-europa-para-ate-700-km/",
-      "data": "15/04/2026",
-      "fonte": "Transporta Brasil",
-      "prioridade": 1,
-      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/04/volvo-eletricos-novo-01-1.jpg"
-    },
-    {
-      "titulo": "Grupo Kothe compra 210 caminhões Mercedes-Benz Axor",
-      "link": "https://www.transportabrasil.com.br/2026/04/grupo-kothe-compra-210-caminhoes-mercedes-benz-axor/",
-      "data": "15/04/2026",
-      "fonte": "Transporta Brasil",
-      "prioridade": 1,
-      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/04/axor-kothe02.jpg"
-    },
-    {
-      "titulo": "Transportadora mineira compra 50 caminhões VW Meteor",
-      "link": "https://www.transportabrasil.com.br/2026/04/transportadora-mineira-compra-50-caminhoes-vw-meteor/",
-      "data": "13/04/2026",
-      "fonte": "Transporta Brasil",
-      "prioridade": 1,
-      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/04/fertran-meteor.jpg"
-    },
-    {
-      "titulo": "Volvo inicia testes na Europa com caminhões movidos a hidrogênio combustível",
-      "link": "https://www.transportabrasil.com.br/2026/04/volvo-inicia-testes-na-europa-com-caminhoes-movidos-a-hidrogenio-combustivel/",
-      "data": "10/04/2026",
-      "fonte": "Transporta Brasil",
-      "prioridade": 1,
-      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/04/volvo-h2-01.jpg"
-    },
-    {
-      "titulo": "Fundo de Bill Ackman propõe aquisição da Universal Music por US$ 64 bilhões",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/07/pershing-square-universal-music-group.ghtml",
-      "data": "07/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/23tIU10QWkAgvLXG0LIFTGsqtH0=/2509x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/8/y/ghSk5VS72BljvxRXypeA/2024-06-24t163916z-1-lynxmpek5n0m4-rtroptp-4-umg-results.jpg"
-    },
-    {
-      "titulo": "Confira os 10 caminhões pesados mais vendidos em 2026",
-      "link": "https://www.transportabrasil.com.br/2026/04/confira-os-10-caminhoes-pesados-mais-vendidos-em-2026/",
-      "data": "07/04/2026",
-      "fonte": "Transporta Brasil",
-      "prioridade": 1,
-      "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2025/03/scania-560g.jpg"
-    },
-    {
-      "titulo": "Produtores do noroeste paulista apostam no sorgo como alternativa após a colheita da soja",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/04/19/produtores-do-noroeste-paulista-apostam-no-sorgo-como-alternativa-apos-a-colheita-da-soja.ghtml",
-      "data": "19/04/2026",
-      "fonte": "G1",
-      "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/TAKI0oiN2zcQofRGUQW3KPmoRGk=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/B/O7ImvARl2YoH1n5dNjXg/texto-do-seu-paragrafo-8-.png"
-    },
-    {
-      "titulo": "Prefeitura do Rio decreta desapropriação de casa onde viveu Carmen Miranda no centro",
-      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/prefeitura-do-rio-decreta-desapropriacao-de-casa-onde-viveu-carmen-miranda-no-centro.shtml",
-      "data": "19/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/17/177646151169e2a6c7d654c_1776461511_3x2_lg.jpg"
-    },
-    {
-      "titulo": "Por que o Irã não fez ataques terroristas durante a guerra? Especialista responde",
-      "link": "https://www.infomoney.com.br/mundo/por-que-o-ira-nao-fez-ataques-terroristas-durante-a-guerra-especialista-responde/",
-      "data": "19/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 2,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Ira_Kurdistao.jpg?fit=1920%2C1441&quality=70&strip=all"
-    },
-    {
-      "titulo": "Tesouro IPCA+ em queda: veja quanto título pode render se taxas recuarem mais",
-      "link": "https://www.infomoney.com.br/onde-investir/tesouro-ipca-em-queda-veja-quanto-titulo-pode-render-se-taxas-cairem-mais/",
-      "data": "19/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 2,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/07/money-2387280_1920.jpg?fit=1920%2C1082&quality=70&strip=all"
-    }
-  ],
-  "econ_noticias": [
-    {
-      "titulo": "Tesouro IPCA+ em queda: veja quanto título pode render se taxas recuarem mais",
-      "link": "https://www.infomoney.com.br/onde-investir/tesouro-ipca-em-queda-veja-quanto-titulo-pode-render-se-taxas-cairem-mais/",
-      "data": "19/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/07/money-2387280_1920.jpg?fit=1920%2C1082&quality=70&strip=all"
-    },
-    {
-      "titulo": "De espiga à pamonha: Capela do Alto mantém tradição e renda com cultivo de milho",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/04/19/de-espiga-a-pamonha-capela-do-alto-mantem-tradicao-e-renda-com-cultivo-de-milho.ghtml",
-      "data": "19/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/jNfkoAWl3VkUCObsdlyt59d2B_E=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/p/nAOXGmRSaR8JmUB7sIBA/texto-do-seu-paragrafo-10-.png"
-    },
-    {
-      "titulo": "Produtores do noroeste paulista apostam no sorgo como alternativa após a colheita da soja",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/04/19/produtores-do-noroeste-paulista-apostam-no-sorgo-como-alternativa-apos-a-colheita-da-soja.ghtml",
-      "data": "19/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/TAKI0oiN2zcQofRGUQW3KPmoRGk=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/B/O7ImvARl2YoH1n5dNjXg/texto-do-seu-paragrafo-8-.png"
-    },
-    {
-      "titulo": "IR: erro de empresas ao preencher nova forma de apurar imposto retido na fonte leva trabalhadores à malha fina; entenda",
-      "link": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/04/19/ir-erro-de-empresas-ao-preencher-nova-forma-de-apurar-imposto-retido-na-fonte-leva-trabalhadores-a-malha-fina-entenda.ghtml",
-      "data": "19/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/mb60_p8vHaW0kf66cgpYTBcoEOM=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/0/fgPHcHSfS27EDbXGd0Qg/imposto-de-renda.jpg"
-    },
-    {
-      "titulo": "Explosão de negócios da família Trump abre caminho para presidentes dos EUA lucrarem com o cargo",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/19/explosao-de-negocios-da-familia-trump-abre-caminho-para-presidentes-dos-eua-lucrarem-com-o-cargo.ghtml",
-      "data": "19/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/GWvPFqpX9HURQ25tk4F5uxBiwwI=/3426x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/F/hFnUCcSw2DUaxFdSxCsQ/ap25343503663838.jpg"
-    },
-    {
-      "titulo": "Alta do petróleo explica a valorização do real",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/04/alta-do-petroleo-explica-a-valorizacao-do-real.shtml",
-      "data": "18/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2023/11/21/1700588960655ceda02789c_1700588960_3x2_rt.jpg"
-    },
-    {
-      "titulo": "A promessa de arrocho de Flávio Bolsonaro e o risco de bananismo autoritário",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/04/a-promessa-de-arrocho-de-flavio-bolsonaro-e-o-risco-de-bananismo-autoritario.shtml",
-      "data": "18/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/18/177655535069e41556c3364_1776555350_3x2_rt.jpg"
-    },
-    {
-      "titulo": "'Estou em modo sobrevivência': por que ter trabalho na Argentina não é seguro contra pobreza",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/18/estou-em-modo-sobrevivencia-por-que-ter-trabalho-na-argentina-nao-e-seguro-contra-pobreza.ghtml",
-      "data": "18/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/w_1mbH0sbMapELlmdFUtJBG_beQ=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/C/0mVDKLToyBwk9Yq9r7jg/0404cf90-2d4a-11f1-8ac7-a101b1a2933c.jpg"
-    },
-    {
-      "titulo": "Alckmin: governo ainda não tomou decisão sobre revogação da \"taxa das blusinhas\"; vice-presidente chegou a defender a manutenção do imposto",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/18/alckmin-diz-que-nao-e-contra-nem-a-favor-da-taxa-das-blusinhas-e-afirma-que-apoiara-decisao-de-lula.ghtml",
-      "data": "18/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/ZOSar6JcxddyAhvubua_FV0yaZQ=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/s/AoY30KRECOqvDjoSaKyg/55212136799-76e9b6593d-k.jpg"
-    },
-    {
-      "titulo": "Agro brasileiro abre mercados para 29 produtos em 9 países nos primeiros dias de abril",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/18/agro-brasileiro-abre-mercados-para-29-produtos-em-9-paises-nos-primeiros-dias-de-abril.ghtml",
-      "data": "18/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/y-LsMcte46oBlMe-PxPIa7IzBdo=/4265x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/A/eChoDIR5aUywNMs7KXSw/afp-20251013-67my8rn-v1-highres-climatecop30brazilunamazonforestfires.jpg"
-    },
-    {
-      "titulo": "Fictor tem recuperação judicial aceita pela Justiça, que cita indícios de fraude e impõe fiscalização rígida",
-      "link": "https://www.moneytimes.com.br/fictor-tem-recuperacao-judicial-aceita-pela-justica-que-cita-indicios-de-fraude-e-impoe-fiscalizacao-rigida/",
-      "data": "18/04/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2026/02/fictor.jpg"
-    },
-    {
-      "titulo": "Ibovespa pode buscar os 220 mil pontos, ou até mais, diz analista",
-      "link": "https://www.moneytimes.com.br/ibovespa-pode-buscar-os-220-mil-pontos-ou-ate-mais-diz-analista-rnda/",
-      "data": "18/04/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/10/day-trade-4-1-1-2-1-1-2-1-1-1-2.jpg"
-    }
-  ],
-  "noticias_em": "19/04/2026 11:08 UTC",
-  "noticias_em_br": "19/04/2026 08:08",
-  "indicadores_em": "19/04/2026 03:31 UTC",
-  "indicadores_em_br": "19/04/2026 00:31"
+    "fonte": "CNT scraping",
+    "atualizado": "21/04/2026"
+  }
 }
