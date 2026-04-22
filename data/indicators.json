@@ -505,132 +505,108 @@
   },
   "noticias": [
     {
-      "titulo": "Segundo SUV mais vendido do país, Volkswagen Tera vai bem na cidade, mas não anima na estrada",
-      "link": "https://g1.globo.com/carros/noticia/2026/04/21/volkswagen-tera-teste.ghtml",
-      "data": "21/04/2026",
+      "titulo": "Usar o celular enquanto carrega é perigoso? Veja em quais situações é preciso ter cuidado",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/04/22/saiba-se-usar-o-celular-enquanto-carrega-e-perigoso-veja-em-quais-situacoes-e-preciso-ter-cuidado.ghtml",
+      "data": "22/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/NGEUDFnLaW5eCDr5F1j1rHSNvuU=/3936x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/0/aAAXAVRtS9wT4WZAiDCQ/dsc00600.jpg"
+      "imagem": "https://s2-g1.glbimg.com/Vo7PYhrFPewUAm-m7yNmZaVisgQ=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/9/b/rbibUiRFek1BouzGCA9A/cuidados-celular.png"
     },
     {
-      "titulo": "Por que é tão difícil abandonar o petróleo?",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/21/por-que-e-tao-dificil-abandonar-o-petroleo.ghtml",
-      "data": "21/04/2026",
+      "titulo": "Ucrânia retoma transporte de petróleo russo para a Europa",
+      "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/04/22/ucrania-retoma-transporte-de-petroleo-russo-para-a-europa-diz-agencia.ghtml",
+      "data": "22/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/lCHVPdlugENP4nYuyk0oz53M8rw=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/u/rlmCAFSxiTrpbUjXJ5cA/2026-03-18t214048z-1013148856-rc2mwja0qpho-rtrmadp-3-iran-crisis-funds.jpg"
+      "imagem": "https://s2-g1.glbimg.com/mkToAv0hQ7nJQjvg8xDtd6c5dd0=/3930x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/j/A2ixNjSWaFvieLJtBSAQ/2026-04-22t065947z-141233605-rc2s9u9hd8lp-rtrmadp-3-ukraine-crisis-pipeline-restart.jpg"
     },
     {
-      "titulo": "Lula afirma que Brasil e Portugal vivem melhor momento da relação e exalta brasileiros no país: 'Povo trabalhador'",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/21/lula-diz-que-brasil-e-portugal-vivem-melhor-momento-da-relacao-e-exalta-brasileiros-que-vivem-no-pais-povo-trabalhador.ghtml",
-      "data": "21/04/2026",
+      "titulo": "Dólar cai para R$ 4,95 com mercado atento à trégua entre EUA e Irã; Ibovespa recua",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/22/dolar-ibovespa.ghtml",
+      "data": "22/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/5Vhxg21VVlbFfFxlN7IvYXjMI_8=/1705x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/F/IJ80QZQZCXNFIsYIZR8Q/55221811375-e38414ac61-k.jpg"
+      "imagem": "https://s2-g1.glbimg.com/kUk4eSC3refN5SlhLUWjxPmz3jc=/5934x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/K/J/NvIKwCR8arhLFNMisILw/2025-01-21t204813z-1-lynxnpel0k0yk-rtroptp-4-brazil-economy.jpg"
     },
     {
-      "titulo": "Lula diz que pode adotar reciprocidade contra os EUA no caso de delegado envolvido na prisão de Ramagem",
-      "link": "https://g1.globo.com/politica/politico/noticia/2026/04/21/lula-diz-que-pode-adotar-reciprocidade-contra-os-eua-no-caso-de-delegado-envolvido-na-prisao-de-ramagem.ghtml",
-      "data": "21/04/2026",
+      "titulo": "Lufthansa cortará voos para economizar combustível",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/22/lufthansa-cortara-voos-para-economizar-combustivel.ghtml",
+      "data": "22/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/pFarS0NQeP2KG8SJo1GBYnG3PiY=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/58/36/14543658"
+      "imagem": "https://s2-g1.glbimg.com/ut_LEq2ElYkBwTQYyaQ8sIZIC3A=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/Z/Ucl0nNTDSstxAqKZV8AA/2026-03-12t071628z-941758401-rc2u2kalacoy-rtrmadp-3-germany-lufthansa-strike.jpg"
     },
     {
-      "titulo": "UE tem reservas e produção para abastecer combustível de aviação por cinco meses, diz governo holandês",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/ue-tem-reservas-e-producao-para-abastecer-combustivel-de-aviacao-por-cinco-meses-diz-governo-holandes.shtml",
-      "data": "21/04/2026",
+      "titulo": "Maior produtor de camisinhas do mundo pode subir preços em até 30% por causa da guerra no Irã",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/22/maior-produtor-de-camisinhas-do-mundo-pode-subir-precos-em-ate-30-por-causa-da-guerra-no-ira.ghtml",
+      "data": "22/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
+    },
+    {
+      "titulo": "Conteúdos virais prometem atalhos para reduzir dívidas, mas especialistas alertam para armadilhas",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/22/conteudos-virais-prometem-atalhos-para-reduzir-dividas-mas-especialistas-alertam-para-armadilhas.ghtml",
+      "data": "22/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/nBeGUkE49jIl97t7FFJObyC5DuU=/3589x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/I/g/buYfw3QAK3EpzQJGvsCA/man-saving-money-energy-crisis.jpg"
+    },
+    {
+      "titulo": "Ativos do Banco Master cresceram 2.123% após Daniel Vorcaro assumir o controle",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/22/ativos-do-banco-master-cresceram-2123percent-apos-daniel-vorcaro-assumir-o-controle.ghtml",
+      "data": "22/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/AKSHrJHreNWQ87JsxIET-xlyq9I=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/h/NEuvjhTemvNmn8bUNGeA/globo-canal-4-20260304-2000-frame-59140.jpeg"
+    },
+    {
+      "titulo": "Setor de biodiesel critica governo por incentivo a diesel fóssil importado e quer aumento de mistura",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/setor-de-biodiesel-critica-governo-por-incentivo-a-diesel-fossil-importado-e-quer-aumento-de-mistura.shtml",
+      "data": "22/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/21/177674234369e6efc7d601b_1776742343_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/02/23/1771874850699caa2287570_1771874850_3x2_rt.jpg"
     },
     {
-      "titulo": "'O dilema de Malaca': por que outra passagem crítica para a navegação gera preocupação no comércio global",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/o-dilema-de-malaca-por-que-outra-passagem-critica-para-a-navegacao-gera-preocupacao-no-comercio-global.shtml",
-      "data": "21/04/2026",
+      "titulo": "Aneel aprova reajuste de 9,15% na conta de luz para residências da CPFL Paulista",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/aneel-aprova-reajuste-de-915-na-conta-de-luz-para-residencias-da-cpfl-paulista.shtml",
+      "data": "22/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/21/177678456069e794b0886cf_1776784560_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2024/11/08/1731084310672e401675db6_1731084310_3x2_rt.jpg"
     },
     {
-      "titulo": "Tráfego no estreito de Hormuz segue praticamente paralisado",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450540",
-      "data": "21/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
-    },
-    {
-      "titulo": "Herbíssimo atinge 74% de market share em desodorantes em creme e mira Geração Z",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/04/herbissimo-atinge-74-de-market-share-em-desodorantes-em-creme-e-mira-geracao-z.shtml",
-      "data": "21/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/20/177671741969e68e6becc9d_1776717419_3x2_lg.jpg"
-    },
-    {
-      "titulo": "Linha de ônibus da zona norte lidera queixas de passageiros em São Paulo",
-      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/linha-de-onibus-da-zona-norte-lidera-queixas-de-passageiros-em-sao-paulo.shtml",
-      "data": "21/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/16/177638085169e16bb37a754_1776380851_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Lula fala em adotar reciprocidade após ação do governo Trump contra policial brasileiro",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/na-alemanha-lula-fala-de-abuso-contra-policial-brasileiro-nos-eua.shtml",
-      "data": "21/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/21/177676428869e74580940b1_1776764288_3x2_rt.jpg"
-    },
-    {
-      "titulo": "ADRs da Petrobras operam na contramão do mercado e sobem forte em NY",
-      "link": "https://www.infomoney.com.br/mercados/acoes-brasileiras-em-ny-abrem-com-leve-queda-em-dia-sem-negocios-na-b3/",
-      "data": "21/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/08/20289170_6256878.jpg?quality=70"
-    },
-    {
-      "titulo": "Biocombustíveis voltam à moda com aumento no preço do petróleo por guerra",
-      "link": "https://www.infomoney.com.br/mercados/biocombustiveis-voltam-a-moda-com-aumento-no-preco-do-petroleo-por-guerra/",
-      "data": "21/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/E2G_Raizen.webp?quality=70"
-    },
-    {
-      "titulo": "UE alerta para consequências catastróficas com fechamento permanente de Ormuz",
-      "link": "https://www.infomoney.com.br/mercados/ue-alerta-para-consequencias-catastroficas-com-fechamento-permanente-de-ormuz/",
-      "data": "21/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": ""
-    },
-    {
-      "titulo": "Tráfego marítimo através de Ormuz continua praticamente parado",
-      "link": "https://www.moneytimes.com.br/trafego-maritimo-atraves-de-ormuz-continua-praticamente-parado-lmrs/",
-      "data": "21/04/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2026/04/ormuz.jpg"
-    },
-    {
-      "titulo": "GO: cobra exótica de 4 m foge de casa e vai parar no centro de Aruanã",
-      "link": "https://www.metropoles.com/brasil/go-cobra-exotica-de-4-m-foge-de-casa-e-vai-parar-no-centro-de-aruana",
-      "data": "21/04/2026",
+      "titulo": "Aneel aprova reajustes na conta de luz de oito distribuidoras",
+      "link": "https://www.metropoles.com/brasil/aneel-aprova-reajustes-na-conta-de-luz-de-oito-distribuidoras",
+      "data": "22/04/2026",
       "fonte": "Metrópoles",
       "prioridade": 1,
-      "imagem": "https://i.metroimg.com/9lVjNZ4Mhb4vdWCpHzdQUcLf3AqPQfkGRDwFndlLTdU/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/cobra-piton-aruana-scaled.jpeg"
+      "imagem": "https://i.metroimg.com/fR4GMt4Bgr-5Iz7eQdBSNlHFw4rJRfK2T6AJ_sgqsoo/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2023/05/18105853/luz-energia.jpg"
     },
     {
-      "titulo": "Fachin diz que proposta de Dino para nova reforma no Judiciário 'vem somar'",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/04/20/fachin-diz-que-proposta-de-dino-para-nova-reforma-no-judiciario-vem-somar.ghtml",
-      "data": "20/04/2026",
-      "fonte": "G1",
+      "titulo": "Petrobras, PRF, PCDF: veja os concursos públicos previstos para 2026",
+      "link": "https://www.metropoles.com/brasil/petrobras-prf-pcdf-veja-os-concursos-publicos-previstos-para-2026",
+      "data": "22/04/2026",
+      "fonte": "Metrópoles",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/ut8AW4xU04jMZNeJwAFak-aiJHo=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/V/0XScAXQdG686mxEa7QoA/55080441679-76f05e5eab-k.jpg"
+      "imagem": "https://i.metroimg.com/g04Jyi5cQzBWz-AvE-6LWuXwHQ3EdiO_1bSeeuiEf74/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2025/12/05105910/Concurso-gabarito-prova.jpg"
+    },
+    {
+      "titulo": "Australian State Bets on Biodiesel To Reduce Reliance on Oil",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Australian-State-Bets-on-Biodiesel-To-Reduce-Reliance-on-Oil.html",
+      "data": "22/04/2026",
+      "fonte": "OilPrice",
+      "prioridade": 1,
+      "imagem": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-04-22_gt3eh8bzru.jpg"
+    },
+    {
+      "titulo": "Como um brasileiro buscou apoio de Thomas Jefferson, autor da independência americana, para separar o Brasil de Portugal",
+      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/como-um-brasileiro-buscou-apoio-de-thomas-jefferson-autor-da-independencia-americana-para-separar-o-brasil-de-portugal.shtml",
+      "data": "21/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/21/177680156569e7d71d9e53f_1776801565_3x2_xl.jpg"
     },
     {
       "titulo": "Braskem diz que Novonor assinou contrato para venda do controle da companhia",
@@ -639,46 +615,6 @@
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
-    },
-    {
-      "titulo": "Dino propõe revisão de competências do STF e tribunais superiores e mais rigor para corrupção de juízes",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/20/dino-propoe-revisao-de-competencias-do-stf-e-tribunais-superiores-e-mais-rigor-para-corrupcao-de-juizes.ghtml",
-      "data": "20/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/tFmYIv9hvr-yEy-_mec4X7XzD2I=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/B/Y45AweQAmqowZzgS2KTA/55212196863-ff7b99a247-k.jpg"
-    },
-    {
-      "titulo": "EUA mandam delegado brasileiro envolvido na prisão de Ramagem deixar o país",
-      "link": "https://g1.globo.com/mundo/noticia/2026/04/20/eua-pedem-saida-de-autoridade-brasileira-por-tentar-contornar-pedido-extradicao.ghtml",
-      "data": "20/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/VR8dpC1iW4GBdtvuryPhlAb5Qwo=/1280x0/filters:format(jpeg)/https://s03.video.glbimg.com/x720/14542902.jpg"
-    },
-    {
-      "titulo": "Romeu Zema diz que não foi notificado sobre pedido para que seja incluído no inquérito das fake news",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/20/romeu-zema-entrevista-globonews.ghtml",
-      "data": "20/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/Ke-TiYzr06PIDneL9dllnZUoSLk=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/85/19/14541985"
-    },
-    {
-      "titulo": "Gilmar Mendes pede a Moraes que Zema seja incluído no inquérito das fake news",
-      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/04/20/gilmar-mendes-pede-a-moraes-que-zema-seja-incluido-no-inquerito-das-fake-news.ghtml",
-      "data": "20/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/jLcq1-2ZH5J4gX4NipsGTNDJmq0=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/49/07/14540749"
-    },
-    {
-      "titulo": "Na Alemanha, Lula diz que Europa precisa 'superar resistência ideológica aos biocombustíveis'",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/20/na-alemanha-lula-defende-biocombustiveis-brasileiros-e-critica-regras-ambientais-da-uniao-europeia.ghtml",
-      "data": "20/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/tLlwhZWrZAORdgNTOeYsgLdlkLk=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/N/ecMaiUQZCrPWgcSP8GVg/55218087087-e7fee4467e-k.jpg"
     },
     {
       "titulo": "Carta Pokémon de milhões de libras: valorização gera onda de crimes com roubos e furtos",
@@ -729,202 +665,218 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/04/volvo-h2-01.jpg"
     },
     {
-      "titulo": "Amazon anuncia investimento de até US$ 25 bilhões na empresa de IA Anthropic",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/04/20/amazon-investimento-anthropic.ghtml",
-      "data": "21/04/2026",
+      "titulo": "Aneel aperta regras para geração solar distribuída e mira ampliações irregulares",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/22/aneel-aperta-regras-para-geracao-solar-distribuida-e-mira-ampliacoes-irregulares.ghtml",
+      "data": "22/04/2026",
       "fonte": "G1",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/58eLlnm_ou5w76G6U-4F9-WyUZU=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/0/E/rf1LWUSguzTiABWvHV9w/2025-10-14t232819z-1103731399-rc2lsca3ivds-rtrmadp-3-mackenzie-scott-amazon-stake.jpg"
+      "imagem": "https://s2-g1.glbimg.com/d8s6KcSjq-GaQhpiwbwl74r0q-k=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/k/R/g3SEjJQmaLdzKA8aZvFA/usina-01.png"
     },
     {
-      "titulo": "Indicado de Trump pede uma 'mudança de regime' no Fed e uma nova abordagem para inflação",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/indicado-de-trump-pede-uma-mudanca-de-regime-no-fed-e-uma-nova-abordagem-para-inflacao.shtml",
-      "data": "21/04/2026",
+      "titulo": "Chevrolet Sonic quer desbancar Volkswagen Nivus no Brasil; veja primeiras imagens do SUV",
+      "link": "https://g1.globo.com/carros/noticia/2026/04/22/chevrolet-sonic-quer-desbancar-volkswagen-nivus-no-brasil-veja-primeiras-imagens-do-suv.ghtml",
+      "data": "22/04/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/adhn32mXpepxrSV4R6wu9D-VDhg=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/A/kBPyEsRwa0oB7To91LvQ/sonic-exteriorn-2.jpg"
+    },
+    {
+      "titulo": "'Meu nome está sujo em 5 bancos por causa de bets': a angústia de brasileiros em meio ao endividamento recorde",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/22/meu-nome-esta-sujo-em-5-bancos-por-causa-de-bets-a-angustia-de-brasileiros-em-meio-ao-endividamento-recorde.ghtml",
+      "data": "22/04/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
+    },
+    {
+      "titulo": "Escala 6x1: CCJ da Câmara vota nesta quarta relatório que dá aval à tramitação de PECs",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/22/escala-6x1-ccj-da-camara-vota-nesta-quarta-relatorio-que-da-aval-a-tramitacao-de-pecs.ghtml",
+      "data": "22/04/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/VhVbVCtJaCB0AViIH3eezkvZ4Lc=/3244x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/0/T4P0oxRcq1Cfj4kW7LsA/img20260415120749012.jpg"
+    },
+    {
+      "titulo": "Reebok volta a priorizar China e fala em abrir 200 lojas até fim de 2029",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450543",
+      "data": "22/04/2026",
       "fonte": "Folha SP",
       "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/21/177679063269e7ac68e9056_1776790632_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
+    },
+    {
+      "titulo": "Bank of America eleva projeção e estima Bolsa brasileira em 210 mil pontos ao fim de 2026",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450542",
+      "data": "22/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 2,
+      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
+    },
+    {
+      "titulo": "Como a política tarifária pode matar uma 'cash cow'",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/joisa-dutra/2026/04/como-a-politica-tarifaria-pode-matar-uma-cash-cow.shtml",
+      "data": "22/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 2,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/22/177687071969e8e53f5d2bd_1776870719_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Inflação do Reino Unido mostra primeiro impacto da guerra do Irã e sobe para 3,3%",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450541",
+      "data": "22/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 2,
+      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
+    },
+    {
+      "titulo": "Bolsa recua mais de 1% com tensões no Oriente Médio; dólar cai",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/dolar-fica-perto-da-estabilidade-apos-trump-prorrogar-cessar-fogo-com-ira.shtml",
+      "data": "22/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 2,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/15/177625671569df86cb09f6a_1776256715_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Petróleo volta a ultrapassar US$ 100 após prorrogação do cessar-fogo entre EUA e Irã",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/petroleo-volta-a-ultrapassar-us-100-apos-prorrogacao-do-cessar-fogo-entre-eua-e-ira.shtml",
+      "data": "22/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 2,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/22/177686223469e8c41acb568_1776862234_3x2_rt.jpg"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "Wall Street vira para queda à espera de desdobramento de guerra no Irã; petróleo sobe",
-      "link": "https://www.infomoney.com.br/mercados/wall-street-sobe-com-fala-de-trump-sobre-ira-petroleo-recua/",
-      "data": "21/04/2026",
+      "titulo": "Câmara analisa regulação do ouro apesar de críticas a taxa e Casa da Moeda",
+      "link": "https://www.infomoney.com.br/politica/camara-analisa-regulacao-do-ouro-apesar-de-criticas-a-taxa-e-casa-da-moeda/",
+      "data": "22/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Design-sem-nome-28.png?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-02T224635Z_1_LYNXMPEM111BK_RTROPTP_4_BRAZIL-BOLSONARO-CONGRESS.jpg?quality=70"
     },
     {
-      "titulo": "Exportação de petróleo russo para Índia deve seguir perto de máxima com aval dos EUA",
-      "link": "https://www.infomoney.com.br/mundo/exportacao-de-petroleo-russo-para-india-deve-seguir-perto-de-maxima-com-aval-dos-eua/",
-      "data": "21/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/451259399.jpg?quality=70"
-    },
-    {
-      "titulo": "Warsh pede uma “mudança de regime” no Fed e uma nova abordagem para inflação",
-      "link": "https://www.infomoney.com.br/mercados/warsh-pede-uma-mudanca-de-regime-no-fed-e-uma-nova-abordagem-para-inflacao/",
-      "data": "21/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/10/442608059-1.jpg?quality=70"
-    },
-    {
-      "titulo": "Brasil tem superávit comercial de US$ 2,05 bi nas relações de trocas com Portugal",
-      "link": "https://www.infomoney.com.br/economia/brasil-tem-superavit-comercial-de-us-205-bi-nas-relacoes-de-trocas-com-portugal/",
-      "data": "21/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/02/cimeira-brasil-portugal_mcamgo_abr_19022025-3.webp?quality=70"
-    },
-    {
-      "titulo": "Indicado de Trump pede uma 'mudança de regime' no Fed e uma nova abordagem para inflação",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/indicado-de-trump-pede-uma-mudanca-de-regime-no-fed-e-uma-nova-abordagem-para-inflacao.shtml",
-      "data": "21/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/21/177679063269e7ac68e9056_1776790632_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Tráfego no estreito de Hormuz segue praticamente paralisado",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450540",
-      "data": "21/04/2026",
+      "titulo": "Reebok volta a priorizar China e fala em abrir 200 lojas até fim de 2029",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450543",
+      "data": "22/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
       "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
-      "titulo": "Varejo físico recua 5,4% no 1º trimestre com Carnaval e juros altos",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/04/varejo-fisico-recua-54-no-1o-trimestre-com-carnaval-e-juros-altos.shtml",
-      "data": "21/04/2026",
+      "titulo": "Maior produtor de camisinhas do mundo pode subir preços em até 30% por causa da guerra no Irã",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/maior-produtor-de-camisinhas-do-mundo-pode-subir-precos-em-ate-30-por-causa-da-guerra-no-ira.shtml",
+      "data": "22/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/20/177672805669e6b7f8a3a75_1776728056_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/22/177687536369e8f763d42c2_1776875363_3x2_lg.jpg"
     },
     {
-      "titulo": "Preços do petróleo oscilam, e Bolsas asiáticas fecham em alta com expectativa por negociações no Oriente Médio",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450539",
-      "data": "21/04/2026",
+      "titulo": "Bank of America eleva projeção e estima Bolsa brasileira em 210 mil pontos ao fim de 2026",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450542",
+      "data": "22/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
       "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
-      "titulo": "'Irei lembrar das empresas que não pedirem', diz Trump sobre reembolso do tarifaço",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/21/irei-lembrar-das-empresas-que-nao-pedirem-diz-trump-sobre-reembolso-do-tarifaco.ghtml",
-      "data": "21/04/2026",
-      "fonte": "G1",
+      "titulo": "Como a política tarifária pode matar uma 'cash cow'",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/joisa-dutra/2026/04/como-a-politica-tarifaria-pode-matar-uma-cash-cow.shtml",
+      "data": "22/04/2026",
+      "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/dhfMa38c0tYuJ59rkm9zHoe4HLE=/3936x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/zT3j3XSZmYBWyYiaNjfg/ap26108511492559.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/22/177687071969e8e53f5d2bd_1776870719_3x2_rt.jpg"
     },
     {
-      "titulo": "Governo federal diz que continuará adotando medidas para aumentar arrecadação e cumprir metas fiscais",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/21/governo-federal-diz-que-continuara-adotando-medidas-para-aumentar-arrecadacao-e-cumprir-metas-fiscais.ghtml",
-      "data": "21/04/2026",
-      "fonte": "G1",
+      "titulo": "Receita abre consulta a lote residual do Imposto de Renda nesta quinta (23)",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/receita-abre-consulta-a-lote-residual-do-imposto-de-renda-nesta-quinta-23.shtml",
+      "data": "22/04/2026",
+      "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/ibJuP6NiDNAWN_BNnaug_1c0JRg=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/i/gPeIyBS7y2lE6BxD6mUQ/dinheiro.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/13/177342964369b4638b55526_1773429643_3x2_rt.jpg"
     },
     {
-      "titulo": "Segundo SUV mais vendido do país, Volkswagen Tera vai bem na cidade, mas não anima na estrada",
-      "link": "https://g1.globo.com/carros/noticia/2026/04/21/volkswagen-tera-teste.ghtml",
-      "data": "21/04/2026",
-      "fonte": "G1",
+      "titulo": "Inflação do Reino Unido mostra primeiro impacto da guerra do Irã e sobe para 3,3%",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450541",
+      "data": "22/04/2026",
+      "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/NGEUDFnLaW5eCDr5F1j1rHSNvuU=/3936x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/0/aAAXAVRtS9wT4WZAiDCQ/dsc00600.jpg"
+      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
-      "titulo": "Diploma na mão, mas trabalho fora da área: como a falta de vagas tem levado jovens ao subemprego nos EUA",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/21/diploma-na-mao-mas-trabalho-fora-da-area-como-a-falta-de-vagas-tem-levado-jovens-ao-subemprego-nos-eua.ghtml",
-      "data": "21/04/2026",
+      "titulo": "Usar o celular enquanto carrega é perigoso? Veja em quais situações é preciso ter cuidado",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/04/22/saiba-se-usar-o-celular-enquanto-carrega-e-perigoso-veja-em-quais-situacoes-e-preciso-ter-cuidado.ghtml",
+      "data": "22/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/X0BJJU4yzzbtc728WTrVRjzRoKM=/1500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/m/DFGHVfR6GmTLFrEU9Ndg/134418.jpg"
+      "imagem": "https://s2-g1.glbimg.com/Vo7PYhrFPewUAm-m7yNmZaVisgQ=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/9/b/rbibUiRFek1BouzGCA9A/cuidados-celular.png"
     },
     {
-      "titulo": "Brasil tenta emplacar fim da escala 6x1 desde os anos 1980",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/21/brasil-tenta-emplacar-fim-da-escala-6x1-desde-os-anos-1980.ghtml",
-      "data": "21/04/2026",
+      "titulo": "Aumento de capital no BRB pressiona caixa do governo do DF, que terá de buscar ao menos R$ 4 bilhões",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/04/22/aumento-de-capital-no-brb-pressiona-caixa-do-gdf-que-tera-de-buscar-ao-menos-r-4-bilhoes.ghtml",
+      "data": "22/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/eTY8cjl83SWVkBR2G7u7EfttlwA=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/g/BMMslAQMebhMLJxgSNWw/61969673-1004.webp"
+      "imagem": "https://s2-g1.glbimg.com/bWnhSaSuSja_Sn9iZSgyFbXTOCY=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/2/M0FSrOSDqJp5fOAA1Q0g/globo-canal-4-20260417-2000-frame-103130.jpeg"
     },
     {
-      "titulo": "Por que é tão difícil abandonar o petróleo?",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/21/por-que-e-tao-dificil-abandonar-o-petroleo.ghtml",
-      "data": "21/04/2026",
+      "titulo": "Fundo da Robinhood investe US$ 75 mi na OpenAI para ampliar acesso de investidores",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/04/22/fundo-da-robinhood-investe-us-75-mi-na-openai-para-ampliar-acesso-de-investidores.ghtml",
+      "data": "22/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/lCHVPdlugENP4nYuyk0oz53M8rw=/3500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/u/rlmCAFSxiTrpbUjXJ5cA/2026-03-18t214048z-1013148856-rc2mwja0qpho-rtrmadp-3-iran-crisis-funds.jpg"
+      "imagem": "https://s2-g1.glbimg.com/wXReHsHhU_ES17iu5Ge0xywvuTk=/4000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/j/wbLzAcQRAZAxnKlAYHMQ/2026-04-02t143739z-1-lynxmpem310vd-rtroptp-4-openai-extremists-throughline.jpg"
     },
     {
-      "titulo": "BRB anuncia acordo com gestora de fundos para vender R$ 15 bilhões em ativos ligados ao Banco Master",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/20/brb-anuncia-acordo-com-gestora-de-fundos-para-vender-r-15-bilhoes-em-ativos-ligados-ao-banco-master.ghtml",
-      "data": "21/04/2026",
+      "titulo": "Chevrolet Sonic quer desbancar Volkswagen Nivus no Brasil; veja primeiras imagens do SUV",
+      "link": "https://g1.globo.com/carros/noticia/2026/04/22/chevrolet-sonic-quer-desbancar-volkswagen-nivus-no-brasil-veja-primeiras-imagens-do-suv.ghtml",
+      "data": "22/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/ILGkt73q_FEfjPhaIdRHVdIXXfQ=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/10/37/14543710"
+      "imagem": "https://s2-g1.glbimg.com/adhn32mXpepxrSV4R6wu9D-VDhg=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/A/kBPyEsRwa0oB7To91LvQ/sonic-exteriorn-2.jpg"
     },
     {
-      "titulo": "Por que uma decisão sobre biocombustíveis está mexendo com o agro global",
-      "link": "https://www.moneytimes.com.br/por-que-uma-decisao-sobre-biocombustiveis-esta-mexendo-com-o-agro-global-ceci/",
-      "data": "21/04/2026",
+      "titulo": "Como Tim Cook transformou a Apple em uma gigante trilionária e o que fica de legado; CEO deixará o cargo em setembro",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/04/22/como-tim-cook-transformou-a-apple-em-uma-gigante-trilionaria-e-o-que-fica-de-legado-ceo-deixara-o-cargo-em-setembro.ghtml",
+      "data": "22/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/p9h9GEdHBxhvYd3GnHdxF8G8GEU=/5000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/H/A/71sg8pTm64pT4RTDk6Eg/2020-10-13t181202z-114564881-rc2uhj9rob01-rtrmadp-3-apple-iphone.jpg"
+    },
+    {
+      "titulo": "Dólar cai para R$ 4,95 com mercado atento à trégua entre EUA e Irã; Ibovespa recua",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/22/dolar-ibovespa.ghtml",
+      "data": "22/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/kUk4eSC3refN5SlhLUWjxPmz3jc=/5934x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/K/J/NvIKwCR8arhLFNMisILw/2025-01-21t204813z-1-lynxnpel0k0yk-rtroptp-4-brazil-economy.jpg"
+    },
+    {
+      "titulo": "'Meu nome está sujo em 5 bancos por causa de bets': a angústia de brasileiros em meio ao endividamento recorde",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/22/meu-nome-esta-sujo-em-5-bancos-por-causa-de-bets-a-angustia-de-brasileiros-em-meio-ao-endividamento-recorde.ghtml",
+      "data": "22/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
+    },
+    {
+      "titulo": "Bolsas da Europa fecham em queda com temor de choque inflacionário e incertezas sobre o cessar-fogo no Oriente Médio",
+      "link": "https://www.moneytimes.com.br/europa-22-4-26-lils/",
+      "data": "22/04/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2024/08/commodities-fertilizantes.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2022/12/2022-12-05t114823z-1-lynxmpeib40hf-rtroptp-4-europa-abre.jpg"
     },
     {
-      "titulo": "Marcopolo (POMO4): Alta do petróleo pode beneficiar ação e Safra calcula potencial de 30%; veja motivos",
-      "link": "https://www.moneytimes.com.br/marcopolo-pomo4-alta-do-petroleo-pode-beneficiar-acao-e-safra-calcula-potencial-de-30-veja-motivos-lmrs/",
-      "data": "21/04/2026",
+      "titulo": "Acionistas do BRB aprovam aumento de capital de R$ 8,8 bilhões",
+      "link": "https://www.moneytimes.com.br/acionistas-do-brb-aprovam-aumento-de-capital-de-r-88-bilhoes/",
+      "data": "22/04/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2024/05/marcopolo.jpg"
-    },
-    {
-      "titulo": "Indicado de Trump para o Fed promete manter política monetária independente",
-      "link": "https://www.moneytimes.com.br/indicado-de-trump-para-o-fed-promete-manter-politica-monetaria-independente-lmrs/",
-      "data": "21/04/2026",
-      "fonte": "Money Times",
-      "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2026/04/kevin-warsh-fed-eua-.jpg"
-    },
-    {
-      "titulo": "Kevin Warsh diz que o Fed necessita de novo arcabouço para lidar com a inflação",
-      "link": "https://exame.com/invest/mercados/kevin-warsh-diz-que-o-fed-necessita-de-novo-arcabouco-para-lidar-com-a-inflacao/",
-      "data": "2026-04-21",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2025/12/HOOVER-INSTITUTION-KEVIN-WARSH.png"
-    },
-    {
-      "titulo": "O vencedor do BBB que ganhou mais dinheiro não é quem você pensa",
-      "link": "https://exame.com/pop/o-vencedor-do-bbb-que-ganhou-mais-dinheiro-nao-e-quem-voce-pensa/",
-      "data": "2026-04-21",
-      "fonte": "Exame",
-      "prioridade": 1,
-      "imagem": "https://classic.exame.com/wp-content/uploads/2026/04/dinheiro.jpg"
-    },
-    {
-      "titulo": "Fachin diz que proposta de Dino para nova reforma no Judiciário 'vem somar'",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/04/20/fachin-diz-que-proposta-de-dino-para-nova-reforma-no-judiciario-vem-somar.ghtml",
-      "data": "20/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/ut8AW4xU04jMZNeJwAFak-aiJHo=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/V/0XScAXQdG686mxEa7QoA/55080441679-76f05e5eab-k.jpg"
-    },
-    {
-      "titulo": "Quem é John Ternus, sucessor de Tim Cook no comando da Apple",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/04/20/quem-e-john-ternus-sucessor-de-tim-cook-no-comando-da-apple.ghtml",
-      "data": "20/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/d9-t7YfnfKEt92NZdzcQMJDww2s=/2880x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/m/OdJc5bS02IZ2XR2zBIgw/apple-john-ternus2.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/04/brb-3.jpg"
     }
   ],
-  "noticias_em": "21/04/2026 17:50 UTC",
-  "noticias_em_br": "21/04/2026 14:50",
+  "noticias_em": "22/04/2026 17:51 UTC",
+  "noticias_em_br": "22/04/2026 14:51",
   "indicadores_em": "21/04/2026 16:46 UTC",
   "indicadores_em_br": "21/04/2026 13:46"
 }
