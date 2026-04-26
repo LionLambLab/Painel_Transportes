@@ -505,6 +505,22 @@
   },
   "noticias": [
     {
+      "titulo": "A personagem de IA que viraliza com críticas ao governo Lula e ao STF",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/26/a-personagem-de-ia-que-viraliza-com-criticas-ao-governo-lula-e-ao-stf.ghtml",
+      "data": "26/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/YbuwMFfY7MnE6uC5sKrgz3PhnpI=/800x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/e/PlQzTZTKmJtjtiYnbCNw/1.webp"
+    },
+    {
+      "titulo": "Lula manifesta solidariedade a Trump após tiros em jantar em Washington: 'Violência política afronta a democracia'",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/26/lula-manifesta-solidariedade-a-trump-apos-tiros-em-jantar-em-washington-violencia-politica-afronta-a-democracia.ghtml",
+      "data": "26/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/zm0w7cfsgwG09_WZTnvspKMsiWY=/2200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/7/1bFeDsQuK1hXw3opEaiQ/2026-04-26t043810z-338018300-rc2kwkamvoos-rtrmadp-3-usa-trump-dinner.jpg"
+    },
+    {
       "titulo": "Indicado ao STF, Jorge Messias passa por sabatina da CCJ do Senado na próxima quarta-feira; entenda como funciona",
       "link": "https://g1.globo.com/politica/noticia/2026/04/26/indicado-ao-stf-jorge-messias-passa-por-sabatina-da-ccj-do-senado-na-proxima-quarta-feira-entenda-como-funciona.ghtml",
       "data": "26/04/2026",
@@ -521,20 +537,44 @@
       "imagem": "https://s2-g1.glbimg.com/jAONXHQhjZW1ait-2RBf1lqtbLE=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/0/r/eaos1LTaeBgzpDZ0orxA/35685238476-ac5825152a-k.jpg"
     },
     {
-      "titulo": "Líderes mundiais condenam tiros em jantar com Trump nos EUA",
-      "link": "https://www.moneytimes.com.br/lideres-mundiais-condenam-tiros-em-jantar-com-trump-nos-eua-rnda/",
+      "titulo": "Motoristas dos EUA compartilham caronas e vendem até plasma sanguíneo para pagar gasolina",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/motoristas-dos-eua-compartilham-caronas-e-vendem-ate-plasma-sanguineo-para-pagar-gasolina.shtml",
+      "data": "26/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/26/177721393369ee21ed15e8c_1777213933_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Como suas roupas velhas podem ir parar neste deserto no Chile",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/ambiente/2026/04/como-suas-roupas-velhas-podem-ir-parar-neste-deserto-no-chile.shtml",
+      "data": "26/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/26/177721779769ee310523096_1777217797_3x2_lg.jpg"
+    },
+    {
+      "titulo": "Guerra no Irã eleva preços do pistache ao maior patamar desde 2018",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/guerra-no-ira-eleva-precos-do-pistache-ao-maior-patamar-desde-2018.shtml",
+      "data": "26/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2025/01/29/1738161832679a3ea8202b6_1738161832_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Após fim de investigação sobre Powell, Warsh ganha impulso para assumir o Fed",
+      "link": "https://www.infomoney.com.br/mercados/apos-fim-de-investigacao-sobre-powell-warsh-ganha-impulso-para-assumir-o-fed/",
+      "data": "26/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/454636206.jpg?quality=70"
+    },
+    {
+      "titulo": "Quem é o ‘lobo solitário’ que tentou matar Trump?",
+      "link": "https://www.moneytimes.com.br/quem-e-o-lobo-solitario-que-tentou-matar-trump-rnda/",
       "data": "26/04/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2026/04/2026-04-16t160049z-1-lynxmpem3f169-rtroptp-4-usa-trump-scaled-e1777062233185.jpg"
-    },
-    {
-      "titulo": "PEC do reajuste para a segurança vira prioridade em MG no ano eleitoral, mas tem entraves",
-      "link": "https://www.metropoles.com/minas-gerais/pec-do-reajuste-para-a-seguranca-vira-prioridade-em-mg-no-ano-eleitoral-mas-tem-entraves",
-      "data": "26/04/2026",
-      "fonte": "Metrópoles",
-      "prioridade": 1,
-      "imagem": "https://i.metroimg.com/j0dudu0bgfnQRhxMBr4bX8IkOabG0sXR59Ois1sBs5M/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/forcas-de-seguranca-mg.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/04/donald-trump-2.jpg"
     },
     {
       "titulo": "IA, influenciadores, posts nas redes: o que diz a lei sobre campanha eleitoral",
@@ -577,14 +617,6 @@
       "imagem": "https://s2-g1.glbimg.com/i2cZV3l2RcCtq_WR0iSy0Yr-HIk=/4200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/j/Y/H4FYwFTmWvHiHU1V8oLQ/fta20250604056.jpg"
     },
     {
-      "titulo": "Associação pede anulação de resolução da ANTT que aplica multa de até R$ 10 milhões",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/04/associacao-pede-anulacao-de-resolucao-da-antt-que-aplica-multa-de-ate-r-10-milhoes.shtml",
-      "data": "25/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/24/177708230369ec1fbf2f2d3_1777082303_3x2_rt.jpg"
-    },
-    {
       "titulo": "Enel contesta Aneel e pede reconsideração em processo que pode encerrar concessão em SP",
       "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/enel-contesta-aneel-e-pede-reconsideracao-em-processo-que-pode-encerrar-concessao-em-sp.shtml",
       "data": "25/04/2026",
@@ -615,30 +647,6 @@
       "fonte": "InfoMoney",
       "prioridade": 1,
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Navio_Estreito_Ormuz.jpg?quality=70"
-    },
-    {
-      "titulo": "UBS: Brasil se destaca entre mercados emergentes como forte exportador de commodities",
-      "link": "https://www.infomoney.com.br/mercados/ubs-brasil-se-destaca-entre-mercados-emergentes-como-forte-exportador-de-commodities/",
-      "data": "25/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-17T201026Z_1_LYNXMPEM3G1AN_RTROPTP_4_BRAZIL-PETROBRAS.jpg?fit=1008%2C567&quality=70&strip=all"
-    },
-    {
-      "titulo": "Governo inicia fiscalização de transparência de preços em aplicativos de transporte e delivery",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/24/governo-inicia-fiscalizacao-de-transparencia-de-precos-em-aplicativos-de-transporte-e-delivery.ghtml",
-      "data": "24/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/pVe2JN7Na64pde--2DRDeewUh_w=/1500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/7/s/SYYlTYSSa2F1xhGCkMGg/entregador-de-comida-com-caixas-de-comida.jpg"
-    },
-    {
-      "titulo": "PGR se manifesta a favor de pedido de Bolsonaro para cirurgia no ombro",
-      "link": "https://g1.globo.com/politica/noticia/2026/04/24/pgr-se-manifesta-a-favor-sobre-pedido-de-bolsonaro-para-cirurgia-no-ombro.ghtml",
-      "data": "24/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/vkSeQAHml9uqhJE_OmI8fyYu9R4=/8256x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/v/ezHm5zSIuTpPTlr0YTIw/bolsonaro.jpg"
     },
     {
       "titulo": "Braskem diz que Novonor assinou contrato para venda do controle da companhia",
@@ -705,54 +713,70 @@
       "imagem": "https://s2-g1.glbimg.com/z-qu1blScjMEoGasKRzCPhuewUM=/3284x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/M/ZLv6WmRdAnM8eCXBSxsg/data-center-meta.jpg"
     },
     {
-      "titulo": "Salão de Pequim: conheça o GAC Aion UT, lançamento confirmado para o Brasil",
-      "link": "https://g1.globo.com/carros/noticia/2026/04/25/salao-de-pequim-conheca-o-gac-aion-ut-lancamento-confirmado-para-o-brasil.ghtml",
-      "data": "25/04/2026",
-      "fonte": "G1",
-      "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/hSqk9aBzfyR7v9eYJ4xgwXQXcoc=/1379x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/R/kOdRUGQtCBFzAQv1Ed4g/1776221578091-tu-pian-2.webp"
-    },
-    {
-      "titulo": "Sabesp quer transformar Emae em subsidiária com compra de ações restantes",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/sabesp-quer-transformar-emae-em-subsidiaria-com-compra-de-acoes-restantes.shtml",
-      "data": "25/04/2026",
+      "titulo": "Disparada do ouro, Selic alta e endividamento recorde dão impulso a penhor de joias na Caixa",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/disparada-do-ouro-selic-alta-e-endividamento-recorde-dao-impulso-a-penhor-de-joias-na-caixa.shtml",
+      "data": "26/04/2026",
       "fonte": "Folha SP",
       "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/25/177713594169ecf145522f1_1777135941_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2021/03/15/1615809484604f4bcc1412e_1615809484_3x2_rt.jpg"
     },
     {
-      "titulo": "Feiras do agronegócio se consolidam como território da direita no Brasil",
-      "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/04/feiras-do-agronegocio-se-consolidam-como-territorio-da-direita-no-brasil.shtml",
-      "data": "25/04/2026",
+      "titulo": "Rio Grande do Sul tenta acelerar obras de proteção contra enchentes antes de retorno do El Niño",
+      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/rio-grande-do-sul-tenta-acelerar-obras-de-protecao-contra-enchentes-antes-de-retorno-do-el-nino.shtml",
+      "data": "26/04/2026",
       "fonte": "Folha SP",
       "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2024/04/29/1714405371662fbffb417fc_1714405371_3x2_xl.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/25/177716393969ed5ea3d2b21_1777163939_3x2_rt.jpg"
     },
     {
-      "titulo": "EUA afirmam estar à procura de explosivos no Estreito de Ormuz para reabrir passagem",
-      "link": "https://www.moneytimes.com.br/eua-afirmam-estar-a-procura-de-explosivos-no-estreito-de-ormuz-para-reabrir-passagem-lils/",
-      "data": "25/04/2026",
-      "fonte": "Money Times",
+      "titulo": "WEG começará a vender produtos a pequenas e médias empresas da Alemanha",
+      "link": "https://www.infomoney.com.br/mercados/weg-comecara-a-vender-produtos-a-pequenas-e-medias-empresas-da-alemanha/",
+      "data": "26/04/2026",
+      "fonte": "InfoMoney",
       "prioridade": 2,
-      "imagem": "https://www.moneytimes.com.br/uploads/2026/04/estreito-de-ormuz.jpg"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/08/weg.jpeg?quality=70"
     },
     {
-      "titulo": "Governo iraniano apresenta condições para fim da guerra e recusa negociar diretamente com EUA",
-      "link": "https://www.moneytimes.com.br/governo-iraniano-apresenta-condicoes-para-fim-da-guerra-e-recusa-negociar-diretamente-com-eua/",
-      "data": "25/04/2026",
+      "titulo": "Ministro das Relações Exteriores do Irã chega ao Paquistão em meio a dúvidas sobre negociações de guerra",
+      "link": "https://www.moneytimes.com.br/ministro-das-relacoes-exteriores-do-ira-chega-ao-paquistao-em-meio-a-duvidas-sobre-negociacoes-de-guerra/",
+      "data": "26/04/2026",
       "fonte": "Money Times",
       "prioridade": 2,
-      "imagem": "https://www.moneytimes.com.br/uploads/2022/07/2022-07-15t130758z-1-lynxmpei6e0ki-rtroptp-4-ira-eua-israel.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/04/2026-04-24t185510z-1-lynxmpem3n17n-rtroptp-4-iran-crisis-turkey-e1777058725985.jpg"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "Como declarar venda de imóvel no Imposto de Renda? Quando a venda é isenta? Veja",
-      "link": "https://www.infomoney.com.br/minhas-financas/como-declarar-venda-de-imovel-no-imposto-de-renda-quando-a-venda-e-isenta-veja/",
+      "titulo": "O próximo desafio de Musk é transformar o X em um ‘super app’ e banco; vai funcionar?",
+      "link": "https://www.infomoney.com.br/business/o-proximo-desafio-de-musk-e-transformar-o-x-em-um-super-app-e-banco-vai-funcionar/",
       "data": "26/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
       "imagem": ""
+    },
+    {
+      "titulo": "Alckmin anuncia R$ 10 bi em crédito para máquinas agrícolas em feira do agro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/alckmin-anuncia-r-10-bi-em-credito-para-maquinas-agricolas-em-feira-do-agro.shtml",
+      "data": "26/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/26/177722212369ee41ebc1803_1777222123_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Disparada do ouro, Selic alta e endividamento recorde dão impulso a penhor de joias na Caixa",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/disparada-do-ouro-selic-alta-e-endividamento-recorde-dao-impulso-a-penhor-de-joias-na-caixa.shtml",
+      "data": "26/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2021/03/15/1615809484604f4bcc1412e_1615809484_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Reforma tributária também é campo minado para Flávio Bolsonaro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/04/reforma-tributaria-tambem-e-campo-minado-para-flavio-bolsonaro.shtml",
+      "data": "26/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/10/177586315669d98574d23c4_1775863156_3x2_rt.jpg"
     },
     {
       "titulo": "Novo Toyota RAV4 abre mão de ser plug-in para encarar chineses e dobrar as vendas; será possível?",
@@ -779,16 +803,24 @@
       "imagem": "https://s2-g1.glbimg.com/bHpm-hiZLVuYkUFsYZ13XHrdhVY=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/E/1nRx4kSH6aFRaDVmGFAg/golpe-idosos-frame-8169.png"
     },
     {
-      "titulo": "Master sabotou controles para crescer, e sistema bancário ainda tenta corrigir falhas",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/master-sabotou-controles-para-crescer-e-sistema-bancario-ainda-tenta-corrigir-falhas.shtml",
-      "data": "25/04/2026",
-      "fonte": "Folha SP",
+      "titulo": "Iguatemi (IGTI11), Itaúsa (ITSA3) e mais outras 9 empresas pagam dividendos nesta semana; veja o calendário",
+      "link": "https://www.moneytimes.com.br/dividendos-da-semana-24-4-26-apsa/",
+      "data": "26/04/2026",
+      "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/20/177670953169e66f9bcb272_1776709531_3x2_rt.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/01/dinheiro-dividendos-imagem-emerson-barreto-istockphoto.png"
+    },
+    {
+      "titulo": "Tudo ao mesmo tempo: agenda da semana tem Copom, Fed e bateria de indicadores; confira",
+      "link": "https://www.moneytimes.com.br/agenda-da-semana-tem-copom-fed-e-bateria-de-indicadores-confira-jcav/",
+      "data": "26/04/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/04/agenda-indicadores-economia-inflacao-juros-.jpg"
     }
   ],
-  "noticias_em": "26/04/2026 11:26 UTC",
-  "noticias_em_br": "26/04/2026 08:26",
+  "noticias_em": "26/04/2026 17:30 UTC",
+  "noticias_em_br": "26/04/2026 14:30",
   "indicadores_em": "21/04/2026 16:46 UTC",
   "indicadores_em_br": "21/04/2026 13:46"
 }
