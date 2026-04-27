@@ -1,6 +1,6 @@
 {
-  "gerado_em": "27/04/2026 15:48 UTC",
-  "gerado_em_br": "27/04/2026 12:48",
+  "gerado_em": "27/04/2026 17:59 UTC",
+  "gerado_em_br": "27/04/2026 14:59",
   "anp": {
     "semana_referencia": "12/04 a 18/04/2026",
     "preco_atual": 7.49,
@@ -1584,7 +1584,7 @@
         "variacao_pct": 26.5
       }
     },
-    "atualizado": "27/04/2026 15:48 UTC"
+    "atualizado": "27/04/2026 18:00 UTC"
   },
   "ipca": {
     "series": [
@@ -1835,6 +1835,22 @@
   },
   "noticias": [
     {
+      "titulo": "Bayer apresenta recurso na Suprema Corte dos EUA em processo sobre agrotóxico glifosato",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/27/bayer-apresenta-recurso-na-suprema-corte-dos-eua-em-processo-sobre-agrotoxico-glifosato.ghtml",
+      "data": "27/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/StNNQNIkOpcowrqJQQ6aHIYhtzc=/4004x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/A/HQ58dUTHS5mQUHilXI9Q/reutersmike-blake-monsanto-cos-roundup-is-shown-for-sale-in-encinitas-california.jpg"
+    },
+    {
+      "titulo": "Salão de Pequim: Brasil terá 1 mil carregadores ultrarrápidos da BYD com recarga em 9 minutos até 2027; VÍDEO",
+      "link": "https://g1.globo.com/carros/noticia/2026/04/27/salao-de-pequim-brasil-tera-1-mil-carregadores-ultrarrapidos-da-byd-com-recarga-em-9-minutos-ate-2027-video.ghtml",
+      "data": "27/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/UD8OuyeaSy-tn-PPVZDsKH1K7Pc=/4712x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/F/mBGS23RtSP0PXu5h0GKw/img-5046.jpg"
+    },
+    {
       "titulo": "Mistura maior de etanol na gasolina deve elevar demanda pelo combustível em 1 bilhão de litros, diz Unica",
       "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/27/mistura-etanol-gasolina-unica.ghtml",
       "data": "27/04/2026",
@@ -1851,7 +1867,7 @@
       "imagem": "https://s2-g1.glbimg.com/WK0aV25zfTSaC4IxQsPbHlBnqr0=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/i/VzYDFHRXyIqG3FVKrj4A/globo-canal-4-20260312-2000-frame-75789.jpeg"
     },
     {
-      "titulo": "Dólar cai a R$ 4,96 com mercado de olho nas negociações entre EUA e Irã; Ibovespa avança",
+      "titulo": "Dólar cai a R$ 4,96 com mercado de olho nas negociações entre EUA e Irã; Ibovespa recua",
       "link": "https://g1.globo.com/economia/noticia/2026/04/27/dolar-ibovespa.ghtml",
       "data": "27/04/2026",
       "fonte": "G1",
@@ -1875,20 +1891,28 @@
       "imagem": "https://s2-g1.glbimg.com/nCH4K2tBq6R4fbmBIdGupSOx7MU=/4961x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/d/v/hfKVQUQaaJzXq5MEANiA/saque-do-pis-foto-jose-cruz-agencia-brasil.jpg"
     },
     {
-      "titulo": "Dia do Trabalhador: 1º de maio é feriado? Ganho em dobro se trabalhar? Saiba o que diz a lei",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/27/dia-do-trabalhador-1o-de-maio-e-feriado.ghtml",
-      "data": "27/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/Tg-djhhGUr5-wihLaAcWv6GuWJ4=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/A/rtRgUPRKaGELCoo7ML8g/edicao-imagens-g1-14-.png"
-    },
-    {
       "titulo": "Manifestantes exigem que Camboja descongele contas em empresa ligada a golpes",
       "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/manifestantes-exigem-que-camboja-descongele-contas-em-empresa-ligada-a-golpes.shtml",
       "data": "27/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
       "imagem": "https://f.i.uol.com.br/fotografia/2026/04/27/177729885469ef6da6f25e6_1777298854_3x2_lg.jpg"
+    },
+    {
+      "titulo": "Painel internacional na USP quer influenciar fim dos combustíveis fósseis",
+      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/ambiente/2026/04/painel-internacional-na-usp-quer-influenciar-fim-dos-combustiveis-fosseis.shtml",
+      "data": "27/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/27/177730657269ef8bcc35fd5_1777306572_3x2_rt.jpg"
+    },
+    {
+      "titulo": "El Niño pode começar a se manifestar já em maio e alterar chuvas no Brasil",
+      "link": "https://www.infomoney.com.br/brasil/el-nino-pode-comecar-a-se-manifestar-ja-em-maio-e-alterar-chuvas-no-brasil/",
+      "data": "27/04/2026",
+      "fonte": "InfoMoney",
+      "prioridade": 1,
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/el-nino-2026-nasa.png?quality=70"
     },
     {
       "titulo": "XP: Impostos menores sobre combustíveis podem abrir espaço para reajuste da Petrobras",
@@ -1905,6 +1929,14 @@
       "fonte": "InfoMoney",
       "prioridade": 1,
       "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-16T221448Z_1_LYNXMPEM0F18J_RTROPTP_4_USA-OIL-PRODUCTION.jpg?quality=70"
+    },
+    {
+      "titulo": "Servidores da educação de Belo Horizonte anunciam greve",
+      "link": "https://www.metropoles.com/minas-gerais/servidores-da-educacao-de-belo-horizonte-anunciam-greve",
+      "data": "27/04/2026",
+      "fonte": "Metrópoles",
+      "prioridade": 1,
+      "imagem": "https://i.metroimg.com/i6STqeo-YsxRBPBQ5NF8wA__JILfBPXlacMnlQZNKw0/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/passeata-capa_3x2.jpg"
     },
     {
       "titulo": "Lindbergh se manifesta sobre volta do PL da Dosimetria ao Congresso",
@@ -1971,14 +2003,6 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/04/axor-kothe02.jpg"
     },
     {
-      "titulo": "Nubank quer investir R$ 45 bilhões no Brasil em 2026",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/27/nubank-investimento-brasil-2026.ghtml",
-      "data": "27/04/2026",
-      "fonte": "G1",
-      "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/2FiR6cWOCZ9K2CziA6FgO4IkZbc=/5401x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/U/p/PVq7rxRBinLAWQYeLdWw/logotipo-de-nubank-na-sede-do-banco-em-sao-paulo-brasil.jpg"
-    },
-    {
       "titulo": "Desigualdade salarial: mulheres ganham 21,3% menos que homens, mesmo com alta do emprego",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/27/desigualdade-salarial-mulheres.ghtml",
       "data": "27/04/2026",
@@ -1993,6 +2017,14 @@
       "fonte": "G1",
       "prioridade": 2,
       "imagem": "https://s2-g1.glbimg.com/B7-hC_soesoNksjDiI91t9yFTu8=/2200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/u/vbGAQQTCaBXpRmEoIv9Q/dsc-0075.jpg"
+    },
+    {
+      "titulo": "Petróleo pode chegar a quase US$ 120 se guerra se prolongar, alerta banco",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450566",
+      "data": "27/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 2,
+      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
       "titulo": "Grupo Mover pretende vender participação na Motiva após receber oferta do Bradesco BBI",
@@ -2041,80 +2073,40 @@
       "fonte": "Folha SP",
       "prioridade": 2,
       "imagem": "https://f.i.uol.com.br/fotografia/2026/03/27/177462754569c6aad9a3caf_1774627545_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Shell anuncia compra da canadense de energia ARC Resources por US$ 16,4 bilhões",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450561",
-      "data": "27/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
-    },
-    {
-      "titulo": "Índia e Nova Zelândia assinam acordo de livre comércio",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450560",
-      "data": "27/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
-    },
-    {
-      "titulo": "Entenda o que é desaparecimento voluntário, como o realizado pelo professor universitário localizado em rodovia",
-      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/entenda-o-que-e-desaparecimento-voluntario-como-o-realizado-pelo-professor-universitario-localizado-em-rodovia.shtml",
-      "data": "27/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/24/177707647769ec08fd39684_1777076477_3x2_lg.jpg"
-    },
-    {
-      "titulo": "Irã analisa pedido de Trump para negociações, diz ministro das Relações Exteriores",
-      "link": "https://www.infomoney.com.br/mundo/ira-analisa-pedido-de-trump-para-negociacoes-diz-ministro-das-relacoes-exteriores/",
-      "data": "27/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 2,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-04-11T075322Z_168830337_RC2IVDA0A1J6_RTRMADP_3_IRAN-NUCLEAR-USA-ARAQCHI_red.jpg?quality=70"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "XP: Impostos menores sobre combustíveis podem abrir espaço para reajuste da Petrobras",
-      "link": "https://www.infomoney.com.br/mercados/xp-impostos-menores-sobre-combustiveis-podem-abrir-espaco-para-reajuste-da-petrobras/",
+      "titulo": "B3 dá início à negociação de Contratos de Eventos para Ibovespa, dólar e Bitcoin",
+      "link": "https://www.infomoney.com.br/mercados/b3-da-inicio-a-negociacao-de-contratos-de-eventos-para-ibovespa-dolar-e-bitcoin/",
       "data": "27/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2019/06/posto-de-gasolina.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Centro-de-Operacoes-B3_02_14ab6f.jpg?quality=70"
     },
     {
-      "titulo": "Empresas globais de consumo enfrentam teste de estresse de preços devido ao petróleo",
-      "link": "https://www.infomoney.com.br/mercados/empresas-globais-de-consumo-enfrentam-teste-de-estresse-de-precos-devido-ao-petroleo/",
+      "titulo": "Empresas de Musk compram mais de 1.000 Cybertruks e inflam números da Tesla",
+      "link": "https://www.infomoney.com.br/consumo/empresas-de-musk-cybertruks-inflam-numeros-tesla/",
       "data": "27/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-16T221448Z_1_LYNXMPEM0F18J_RTROPTP_4_USA-OIL-PRODUCTION.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Cybertruk.jpg?quality=70"
     },
     {
-      "titulo": "OpenAI rompe amarras de exclusividade em IA com a Microsoft",
-      "link": "https://www.infomoney.com.br/business/openai-rompe-amarras-de-exclusividade-em-ia-com-a-microsoft/",
+      "titulo": "XP: Copom deve emitir comunicado mais duro frente a risco de inflação e alta do Brent",
+      "link": "https://www.infomoney.com.br/economia/xp-copom-deve-emitir-comunicado-mais-duro-frente-a-risco-de-inflacao-e-alta-do-brent/",
       "data": "27/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": ""
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Copom_Foto_Rarhael-Ribeiro.jpg?quality=70"
     },
     {
-      "titulo": "Calculadora de juros compostos gratuita para planejar investimentos",
-      "link": "https://www.infomoney.com.br/minhas-financas/calculadora-de-juros-compostos-gratuita/",
+      "titulo": "Petróleo pode chegar a quase US$ 120 se guerra se prolongar, alerta banco",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450566",
       "data": "27/04/2026",
-      "fonte": "InfoMoney",
+      "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2019/06/taxa-de-juros.jpg?quality=70"
-    },
-    {
-      "titulo": "Shell compra canadense ARC por US$ 13,6 bi e reforça aposta em gás e petróleo",
-      "link": "https://www.infomoney.com.br/business/shell-compra-canadense-arc-por-us-136-bi-e-reforca-aposta-em-gas-e-petroleo/",
-      "data": "27/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/454686324.jpg?quality=70"
+      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
       "titulo": "Grupo Mover pretende vender participação na Motiva após receber oferta do Bradesco BBI",
@@ -2157,20 +2149,20 @@
       "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
-      "titulo": "Dólar e Bolsa recuam, com impasses na guerra no Irã e 'superquarta' no radar",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/dolar-tem-queda-acentuada-nesta-segunda-a-espera-de-reunioes-sobre-juros-no-brasil-e-nos-eua.shtml",
+      "titulo": "Governo impõe limites contra juros elevados do consignado privado",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/27/governo-juros-consignado.ghtml",
       "data": "27/04/2026",
-      "fonte": "Folha SP",
+      "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/27/177462754569c6aad9a3caf_1774627545_3x2_rt.jpg"
+      "imagem": "https://s2-g1.glbimg.com/GKjhuP3in9sozJPtjriShX2dX-M=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/K/A49oMaQPCl2RqVBDnDfQ/financasidosossaoespertoscomdinheiro.jpg"
     },
     {
-      "titulo": "Endividamento das famílias atinge 49,9% em fevereiro e renova recorde, mostra BC",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/endividamento-das-familias-atinge-499-em-fevereiro-e-renova-recorde-mostra-bc.shtml",
+      "titulo": "Nubank quer investir R$ 45 bilhões no Brasil em 2026",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/27/nubank-investimento-brasil-2026.ghtml",
       "data": "27/04/2026",
-      "fonte": "Folha SP",
+      "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2024/10/03/172798609266fef9ac70f21_1727986092_3x2_rt.jpg"
+      "imagem": "https://s2-g1.glbimg.com/2FiR6cWOCZ9K2CziA6FgO4IkZbc=/5401x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/U/p/PVq7rxRBinLAWQYeLdWw/logotipo-de-nubank-na-sede-do-banco-em-sao-paulo-brasil.jpg"
     },
     {
       "titulo": "Mistura maior de etanol na gasolina deve elevar demanda pelo combustível em 1 bilhão de litros, diz Unica",
@@ -2205,7 +2197,7 @@
       "imagem": "https://s2-g1.glbimg.com/WK0aV25zfTSaC4IxQsPbHlBnqr0=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/i/VzYDFHRXyIqG3FVKrj4A/globo-canal-4-20260312-2000-frame-75789.jpeg"
     },
     {
-      "titulo": "Dólar cai a R$ 4,96 com mercado de olho nas negociações entre EUA e Irã; Ibovespa avança",
+      "titulo": "Dólar cai a R$ 4,96 com mercado de olho nas negociações entre EUA e Irã; Ibovespa recua",
       "link": "https://g1.globo.com/economia/noticia/2026/04/27/dolar-ibovespa.ghtml",
       "data": "27/04/2026",
       "fonte": "G1",
@@ -2229,24 +2221,24 @@
       "imagem": "https://s2-g1.glbimg.com/O_gm-wjHm_QtBFvCsCkB2uFPNXw=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/4/sdL2RrSO2QbV4jfIzq7Q/globo-canal-4-20260413-2000-frame-79216.jpeg"
     },
     {
-      "titulo": "PIS/Pasep: Caixa libera novo lote do dinheiro esquecido nesta segunda",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/27/pispasep-esquecido-novo-lote.ghtml",
-      "data": "27/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/nCH4K2tBq6R4fbmBIdGupSOx7MU=/4961x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/d/v/hfKVQUQaaJzXq5MEANiA/saque-do-pis-foto-jose-cruz-agencia-brasil.jpg"
-    },
-    {
-      "titulo": "Focus mostra 7ª alta seguida na projeção para inflação e aumento na incerteza; que impacto isso pode ter na Selic?",
-      "link": "https://www.moneytimes.com.br/focus-mostra-7a-alta-seguida-na-projecao-para-inflacao-e-aumento-na-incerteza-que-impacto-isso-pode-ter-na-selic-jcav/",
+      "titulo": "Bolsas da Europa fecham em queda com impasse no Oriente Médio e expectativa por decisões de juros",
+      "link": "https://www.moneytimes.com.br/europa-27-4-26-lils/",
       "data": "27/04/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/09/inflacao-ipca-3.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/04/bolsas-europeias-mercados.jpg"
+    },
+    {
+      "titulo": "Empresas globais de consumo enfrentam teste de estresse de preços devido ao impacto do petróleo",
+      "link": "https://www.moneytimes.com.br/empresas-globais-de-consumo-enfrentam-teste-de-estresse-de-precos-devido-ao-impacto-do-petroleo/",
+      "data": "27/04/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2020/01/1-209.jpg"
     }
   ],
-  "noticias_em": "27/04/2026 15:48 UTC",
-  "noticias_em_br": "27/04/2026 12:48",
-  "indicadores_em": "27/04/2026 15:48 UTC",
-  "indicadores_em_br": "27/04/2026 12:48"
+  "noticias_em": "27/04/2026 17:59 UTC",
+  "noticias_em_br": "27/04/2026 14:59",
+  "indicadores_em": "27/04/2026 17:59 UTC",
+  "indicadores_em_br": "27/04/2026 14:59"
 }
