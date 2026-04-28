@@ -505,124 +505,148 @@
   },
   "noticias": [
     {
-      "titulo": "Bayer apresenta recurso na Suprema Corte dos EUA em processo sobre agrotóxico glifosato",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/27/bayer-apresenta-recurso-na-suprema-corte-dos-eua-em-processo-sobre-agrotoxico-glifosato.ghtml",
-      "data": "27/04/2026",
+      "titulo": "Aprovação de Trump cai em meio a preocupações com o custo de vida e a guerra com o Irã, aponta pesquisa",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/28/aprovacao-de-trump-cai-em-meio-a-preocupacoes-com-o-custo-de-vida-e-a-guerra-com-o-ira.ghtml",
+      "data": "28/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/StNNQNIkOpcowrqJQQ6aHIYhtzc=/4004x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/A/HQ58dUTHS5mQUHilXI9Q/reutersmike-blake-monsanto-cos-roundup-is-shown-for-sale-in-encinitas-california.jpg"
+      "imagem": "https://s2-g1.glbimg.com/a8Q9P4RwTVmQAyZNQNcx3WOaYw4=/3727x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/A/6qJs1MR3qYr52EI0VAJA/2026-04-26t123354z-943546949-rc2rwkasvtl5-rtrmadp-3-usa-trump-dinner.jpg"
     },
     {
-      "titulo": "Salão de Pequim: Brasil terá 1 mil carregadores ultrarrápidos da BYD com recarga em 9 minutos até 2027; VÍDEO",
-      "link": "https://g1.globo.com/carros/noticia/2026/04/27/salao-de-pequim-brasil-tera-1-mil-carregadores-ultrarrapidos-da-byd-com-recarga-em-9-minutos-ate-2027-video.ghtml",
-      "data": "27/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/UD8OuyeaSy-tn-PPVZDsKH1K7Pc=/4712x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/F/mBGS23RtSP0PXu5h0GKw/img-5046.jpg"
-    },
-    {
-      "titulo": "Mistura maior de etanol na gasolina deve elevar demanda pelo combustível em 1 bilhão de litros, diz Unica",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/27/mistura-etanol-gasolina-unica.ghtml",
-      "data": "27/04/2026",
+      "titulo": "O Brasil é a 'bola da vez' na economia?",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/28/o-brasil-e-a-bola-da-vez-na-economia.ghtml",
+      "data": "28/04/2026",
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/xOXHdHEPc9ozQqXk6aRE2a9pgFw=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/k/xzLny9QEunFjNDwk5ifg/informe-g1-2026-03-26t145731.329.png"
     },
     {
-      "titulo": "Preços do petróleo atingem maior nível em quase três semanas com impasse nas negociações entre EUA e Irã",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/27/precos-do-petroleo-sobem-com-impasse-nas-negociacoes-na-guerra-entre-eua-e-ira.ghtml",
-      "data": "27/04/2026",
+      "titulo": "Preços do petróleo sobem ao maior patamar em um mês, após saída dos Emirados Árabes Unidos da Opep",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/28/precos-do-petroleo-apos-saida-dos-emirados-arabes-unidos-da-opep.ghtml",
+      "data": "28/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/WK0aV25zfTSaC4IxQsPbHlBnqr0=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/i/VzYDFHRXyIqG3FVKrj4A/globo-canal-4-20260312-2000-frame-75789.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/JA4_emBEJvEHN77zglxWDaE_06w=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/H/amJCukTUqsBvvpPcI9bA/informe-g1-2026-03-26t150304.741.png"
     },
     {
-      "titulo": "Dólar cai a R$ 4,96 com mercado de olho nas negociações entre EUA e Irã; Ibovespa recua",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/27/dolar-ibovespa.ghtml",
-      "data": "27/04/2026",
+      "titulo": "Governo suspende mais de 3 milhões de multas em pedágio 'free flow' e dá prazo para tarifas vencidas",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/28/governo-suspende-mais-de-3-milhoes-de-multas-em-pedagio-eletronico-e-da-prazo-para-tarifas-vencidas.ghtml",
+      "data": "28/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/0bZGeDNCnyx5cna4O9xp64sqCe4=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/0/TX8XW2RP6Go2X8PRFz5A/globo-canal-4-20260209-2000-frame-80048.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/79Vi4EmBNcCUFe-zFfq-ymt6EiM=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/0/jqdgC4SVqoRL4NR1BNHw/thumb-fotos-2026-04-23t090547.844.jpg"
     },
     {
-      "titulo": "Mercado financeiro eleva estimativa de inflação em 2026 para 4,86%",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/27/mercado-financeiro-eleva-estimativa-de-inflacao-em-2026-para-486percent.ghtml",
-      "data": "27/04/2026",
+      "titulo": "Saída dos Emirados Árabes da Opep e Opep+: o que são os grupos e como eles podem afetar seu bolso",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/28/saida-emirados-arabes-opep-o-que-sao-e-impacto-precos.ghtml",
+      "data": "28/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/O_gm-wjHm_QtBFvCsCkB2uFPNXw=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/4/sdL2RrSO2QbV4jfIzq7Q/globo-canal-4-20260413-2000-frame-79216.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/ROEOhwwHWScODvNpILgLUTZ1HtM=/3500x0/filters:format(jpeg)/http://s.glbimg.com/jo/g1/f/original/2016/09/28/2016-09-28t185852z_2122251086_d1beudyinkaa_rtrmadp_3_opec-meeting.jpg"
     },
     {
-      "titulo": "PIS/Pasep: Caixa libera novo lote do dinheiro esquecido nesta segunda",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/27/pispasep-esquecido-novo-lote.ghtml",
-      "data": "27/04/2026",
+      "titulo": "BYD tem maior queda de lucro em seis anos com diminuição das vendas na China",
+      "link": "https://g1.globo.com/carros/noticia/2026/04/28/byd-tem-maior-queda-de-lucro-em-seis-anos-com-diminuicao-das-vendas-na-china.ghtml",
+      "data": "28/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/nCH4K2tBq6R4fbmBIdGupSOx7MU=/4961x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/d/v/hfKVQUQaaJzXq5MEANiA/saque-do-pis-foto-jose-cruz-agencia-brasil.jpg"
+      "imagem": "https://s2-g1.glbimg.com/4uyk9trs-TgwT_b6tENtyJqZJGw=/4823x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/z/mfrLFRQo2iDIBtBZ4MRA/byds-new-energy-vehicles-manufacturing-factory.jpg"
     },
     {
-      "titulo": "Manifestantes exigem que Camboja descongele contas em empresa ligada a golpes",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/manifestantes-exigem-que-camboja-descongele-contas-em-empresa-ligada-a-golpes.shtml",
-      "data": "27/04/2026",
+      "titulo": "Guerra no Oriente Médio: Banco Mundial prevê alta de 24% nos preços de energia em 2026",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/28/banco-mundial-precos-energia-2026.ghtml",
+      "data": "28/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/SRFdIxdwmOioUEXY9CzIvcP94BI=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/1/WeBovHS4CxEiK7luPDBA/ap26107616582722.jpg"
+    },
+    {
+      "titulo": "PGR arquiva pedido de investigação contra Gilmar Mendes por homofobia em críticas a Zema",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/28/pgr-arquiva-pedido-de-investigacao-contra-gilmar-mendes-por-homofobia.ghtml",
+      "data": "28/04/2026",
+      "fonte": "G1",
+      "prioridade": 1,
+      "imagem": "https://s2-g1.glbimg.com/ys6f0nXCnf-prbD3NxxoiGHZ3vw=/1625x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/A/qcST3JQ2ujjKP7r3I1Hw/sem-nome-1000-x-563-px-.png"
+    },
+    {
+      "titulo": "Inflação dos alimentos acelera e pressiona IPCA-15 com oferta menor e frete mais caro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/inflacao-dos-alimentos-acelera-e-pressiona-ipca-15-com-oferta-menor-e-frete-mais-caro.shtml",
+      "data": "28/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/27/177729885469ef6da6f25e6_1777298854_3x2_lg.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2022/08/09/166006990262f2a80e9bec4_1660069902_3x2_rt.jpg"
     },
     {
-      "titulo": "Painel internacional na USP quer influenciar fim dos combustíveis fósseis",
-      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/ambiente/2026/04/painel-internacional-na-usp-quer-influenciar-fim-dos-combustiveis-fosseis.shtml",
-      "data": "27/04/2026",
+      "titulo": "Gasolina nos EUA salta 1,6% e tem maior preço em quatro anos",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/gasolina-nos-eua-salta-16-e-tem-maior-preco-em-quatro-anos.shtml",
+      "data": "28/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/27/177730657269ef8bcc35fd5_1777306572_3x2_rt.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/28/177739635869f0ea86e5fce_1777396358_3x2_rt.jpg"
     },
     {
-      "titulo": "El Niño pode começar a se manifestar já em maio e alterar chuvas no Brasil",
-      "link": "https://www.infomoney.com.br/brasil/el-nino-pode-comecar-a-se-manifestar-ja-em-maio-e-alterar-chuvas-no-brasil/",
-      "data": "27/04/2026",
+      "titulo": "Vale, Petrobras e Itaú Unibanco lideram ranking de ações mais negociadas no 1º trimestre de 2026 na B3",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450574",
+      "data": "28/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
+    },
+    {
+      "titulo": "Credores da Raízen contratam Journey Capital e Felsberg como consultores, diz agência",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450572",
+      "data": "28/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
+    },
+    {
+      "titulo": "Conferência na Colômbia pelo fim dos combustíveis fósseis tem dia de protestos",
+      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/ambiente/2026/04/conferencia-na-colombia-pelo-fim-dos-combustiveis-fosseis-tem-dia-de-protestos.shtml",
+      "data": "28/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/28/177735705069f050fa4e9d9_1777357050_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Congresso tem que discutir desvinculação de receita, diz Tarcísio durante a Agrishow",
+      "link": "https://www.infomoney.com.br/politica/congresso-tem-que-discutir-desvinculacao-de-receita-diz-tarcisio-durante-a-agrishow/",
+      "data": "28/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/04/el-nino-2026-nasa.png?quality=70"
+      "imagem": ""
     },
     {
-      "titulo": "XP: Impostos menores sobre combustíveis podem abrir espaço para reajuste da Petrobras",
-      "link": "https://www.infomoney.com.br/mercados/xp-impostos-menores-sobre-combustiveis-podem-abrir-espaco-para-reajuste-da-petrobras/",
-      "data": "27/04/2026",
+      "titulo": "CEO da Petrobras: isenção de PIS/Cofins é suficiente para evitar ajuste na gasolina",
+      "link": "https://www.infomoney.com.br/mercados/ceo-da-petrobras-isencao-de-pis-cofins-e-suficiente-para-evitar-ajuste-na-gasolina/",
+      "data": "28/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2019/06/posto-de-gasolina.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/05/magda2-e1747148692777.png?quality=70"
     },
     {
-      "titulo": "Empresas globais de consumo enfrentam teste de estresse de preços devido ao petróleo",
-      "link": "https://www.infomoney.com.br/mercados/empresas-globais-de-consumo-enfrentam-teste-de-estresse-de-precos-devido-ao-petroleo/",
-      "data": "27/04/2026",
-      "fonte": "InfoMoney",
+      "titulo": "Petrobras (PETR4) vê isenção de PIS/Cofins suficiente para segurar gasolina e projeta petróleo a US$ 70",
+      "link": "https://www.moneytimes.com.br/petrobras-petr4-ve-isencao-de-pis-cofins-suficiente-para-segurar-gasolina-e-projeta-petroleo-a-us-70-jcav/",
+      "data": "28/04/2026",
+      "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-16T221448Z_1_LYNXMPEM0F18J_RTROPTP_4_USA-OIL-PRODUCTION.jpg?quality=70"
+      "imagem": "https://www.moneytimes.com.br/uploads/2025/02/presidente-da-petrobras-magda-chambriard-em-27052024.jpg"
     },
     {
-      "titulo": "Lindbergh se manifesta sobre volta do PL da Dosimetria ao Congresso",
-      "link": "https://www.metropoles.com/brasil/lindbergh-se-manifesta-sobre-volta-do-pl-da-dosimetria-ao-congresso",
-      "data": "27/04/2026",
+      "titulo": "Luana Piovani rebate polêmica com Virginia e cita \"lei da colheita\"",
+      "link": "https://www.metropoles.com/colunas/lucas-pasin/luana-piovani-rebate-polemica-com-virginia-e-cita-lei-da-colheita",
+      "data": "28/04/2026",
       "fonte": "Metrópoles",
       "prioridade": 1,
-      "imagem": "https://i.metroimg.com/a8bWxnhleoXt1_ubHY6SJOWQRKxx9z2DSIaCBabI2gM/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/Deputado-Lindbergh-Farias-PT-e-entrevistado-pelo-colunista-Paulo-Cappelli-no-estudio-Metropoles-4.jpg"
+      "imagem": "https://i.metroimg.com/LpEbk1tDj4PM0yQv5yOUcJLx-nCRnVu9LUIHhTILJW0/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/luana-piovani-e-virginia-fonseca.jpg"
     },
     {
-      "titulo": "Servidor: contracheques já trazem novos salários; veja como conferir",
-      "link": "https://www.metropoles.com/brasil/servidor-contracheques-ja-trazem-novos-salarios-veja-como-conferir",
-      "data": "27/04/2026",
+      "titulo": "Jovem de 17 anos rejeita homem e é morta a tiros em posto de gasolina",
+      "link": "https://www.metropoles.com/brasil/jovem-de-17-anos-rejeita-homem-e-e-morta-a-tiros-em-posto-de-gasolina",
+      "data": "28/04/2026",
       "fonte": "Metrópoles",
       "prioridade": 1,
-      "imagem": "https://i.metroimg.com/OoktMdxzMcVaJb2_SVEdXy-XhstK8LHFzpS--1qYVYk/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2025/11/27064818/cats-346.jpg"
-    },
-    {
-      "titulo": "Two Russian Diesel Cargoes Bound for Brazil Pivot East Toward Egypt",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Two-Russian-Diesel-Cargoes-Bound-for-Brazil-Pivot-East-Toward-Egypt.html",
-      "data": "27/04/2026",
-      "fonte": "OilPrice",
-      "prioridade": 1,
-      "imagem": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-04-27_bq53n79e8t.jpg"
+      "imagem": "https://i.metroimg.com/oXzfqEdLCuxIMcHBuJ0LsPQF9EM_SYAXILWmw_k8t38/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/04/adolescente-e-assasinada-a-tiros.jpg"
     },
     {
       "titulo": "Braskem diz que Novonor assinou contrato para venda do controle da companhia",
@@ -665,250 +689,202 @@
       "imagem": "https://www.transportabrasil.com.br/wp-content/uploads/2026/04/axor-kothe02.jpg"
     },
     {
-      "titulo": "Desigualdade salarial: mulheres ganham 21,3% menos que homens, mesmo com alta do emprego",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/27/desigualdade-salarial-mulheres.ghtml",
-      "data": "27/04/2026",
+      "titulo": "Free flow: veja como pedir de volta dinheiro da multa de pedágio eletrônico",
+      "link": "https://g1.globo.com/carros/noticia/2026/04/28/free-flow-veja-como-pedir-de-volta-dinheiro-da-multa-de-pedagio-eletronico.ghtml",
+      "data": "28/04/2026",
       "fonte": "G1",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/tMQRJp1YD-2sNvy_SHGMGBmTVEs=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/S/f/kGS2YnSyqvYhOkYP0APw/mulheres-tecnologia.jpg"
+      "imagem": "https://s2-g1.glbimg.com/0d7tx8f9ToivTWaCrnBeb2QKYmQ=/1224x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/n/Z/jlsBJCRROSdH7KubiVAA/17617842196902b19ba16b4-1761784219-3x2-lg.jpg"
     },
     {
-      "titulo": "Flávio e Tarcísio cumprem primeira agenda de pré-campanha conjunta na Agrishow, em Ribeirão Preto",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/agrishow/noticia/2026/04/27/flavio-e-tarcisio-cumprem-primeira-agenda-de-pre-campanha-conjunta-na-agrishow-em-ribeirao-preto.ghtml",
-      "data": "27/04/2026",
+      "titulo": "Para analistas, saída dos Emirados da Opep pode enfraquecer grupo e reduzir controle sobre preços do petróleo",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/28/saida-emirados-arabes-unidos-opep-impactos.ghtml",
+      "data": "28/04/2026",
       "fonte": "G1",
       "prioridade": 2,
-      "imagem": "https://s2-g1.glbimg.com/B7-hC_soesoNksjDiI91t9yFTu8=/2200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/u/vbGAQQTCaBXpRmEoIv9Q/dsc-0075.jpg"
+      "imagem": "https://s2-g1.glbimg.com/JA4_emBEJvEHN77zglxWDaE_06w=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/H/amJCukTUqsBvvpPcI9bA/informe-g1-2026-03-26t150304.741.png"
     },
     {
-      "titulo": "Petróleo pode chegar a quase US$ 120 se guerra se prolongar, alerta banco",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450566",
-      "data": "27/04/2026",
+      "titulo": "Como fica a Opep depois de os Emirados Árabes Unidos saírem do grupo",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/28/como-fica-a-opep-depois-de-os-emirados-arabes-unidos-sairem-do-grupo.ghtml",
+      "data": "28/04/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/YlwuPxPGUuifAsCu-IrWS4ciAhg=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/992055.jpg"
+    },
+    {
+      "titulo": "Emirados Árabes têm a 5ª maior reserva conhecida de petróleo no mundo; veja MAPA",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/28/emirados-arabes-sao-o-5o-pais-com-maior-reserva-conhecida-de-petroleo-veja-ranking.ghtml",
+      "data": "28/04/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/nX-nT8kB1FNN9VJQ30HJIAhT4Ok=/5500x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/e/mtGJgTR5u4e1BQnR5xQw/2026-04-28t135323z-1-lynxmpem3r155-rtroptp-4-iran-crisis-oman-hormuz.jpg"
+    },
+    {
+      "titulo": "Zema afirma que equilíbrio de poderes depende de Supremo 'sem rabo preso'",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/agrishow/noticia/2026/04/28/zema-afirma-que-equilibrio-de-poderes-depende-de-supremo-sem-rabo-preso.ghtml",
+      "data": "28/04/2026",
+      "fonte": "G1",
+      "prioridade": 2,
+      "imagem": "https://s2-g1.glbimg.com/WLCMCAdZtD0JlXRZmI_AAY91nFc=/2200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/5/IttIe8RmCz6UAli6GMVQ/zema.jpg"
+    },
+    {
+      "titulo": "Elétricas brasileiras intensificam uso de IA e projetam ganhos de centena de milhões",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450576",
+      "data": "28/04/2026",
       "fonte": "Folha SP",
       "prioridade": 2,
       "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
-      "titulo": "Grupo Mover pretende vender participação na Motiva após receber oferta do Bradesco BBI",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450565",
-      "data": "27/04/2026",
+      "titulo": "Banco Mundial prevê aumento de 24% nos preços da energia em 2026 devido à guerra",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/banco-mundial-preve-aumento-de-24-nos-precos-da-energia-em-2026-devido-a-guerra.shtml",
+      "data": "28/04/2026",
       "fonte": "Folha SP",
       "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
-    },
-    {
-      "titulo": "Fitch rebaixa nota da Enel Brasil por risco de perda da concessão em São Paulo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450564",
-      "data": "27/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
-    },
-    {
-      "titulo": "Ministério propõe exportar excedentes futuros de energia hidrelétrica do Brasil ao Uruguai e Argentina",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/ministerio-propoe-exportar-excedentes-futuros-de-energia-hidreletrica-do-brasil-ao-uruguai-e-argentina.shtml",
-      "data": "27/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/27/177729920369ef6f03adf8b_1777299203_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Irã proíbe exportação de placas e chapas de aço até 30 de maio, diz jornal estatal",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450563",
-      "data": "27/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
-    },
-    {
-      "titulo": "Empresas preparam sondas e equipamentos para buscar petróleo na Venezuela, diz agência",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450562",
-      "data": "27/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
-    },
-    {
-      "titulo": "Dólar e Bolsa recuam, com impasses na guerra no Irã e 'superquarta' no radar",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/dolar-tem-queda-acentuada-nesta-segunda-a-espera-de-reunioes-sobre-juros-no-brasil-e-nos-eua.shtml",
-      "data": "27/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/03/27/177462754569c6aad9a3caf_1774627545_3x2_rt.jpg"
-    },
-    {
-      "titulo": "Empresários da 'Times Square de SP' querem atrair multidão e 'lucro com propósito' ao explorar publicidade no centro",
-      "link": "https://redir.folha.com.br/redir/online/cotidiano/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/04/empresarios-da-time-square-de-sp-querem-atrair-multidao-e-lucro-com-proposito-ao-explorar-publicidade-no-centro.shtml",
-      "data": "27/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 2,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/24/177706445269ebda04431eb_1777064452_3x2_lg.jpg"
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/28/177739758769f0ef53179cf_1777397587_3x2_rt.jpg"
     }
   ],
   "econ_noticias": [
     {
-      "titulo": "Governo impõe limites contra ‘juros abusivos’ do consignado privado",
-      "link": "https://www.infomoney.com.br/politica/governo-impoe-limites-contra-juros-abusivos-do-consignado-privado/",
-      "data": "27/04/2026",
+      "titulo": "Romeu Zema: vou atacar gastança, e taxa de juro cai pela metade em 6, 12 meses",
+      "link": "https://www.infomoney.com.br/politica/romeu-zema-vou-atacar-gastanca-e-taxa-de-juro-cai-pela-metade-em-6-12-meses/",
+      "data": "28/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2148783033.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2024/10/romeu-zema.jpg?quality=70"
     },
     {
-      "titulo": "B3 dá início à negociação de contratos de Eventos para Ibovespa, dólar e Bitcoin",
-      "link": "https://www.infomoney.com.br/mercados/b3-da-inicio-a-negociacao-de-contratos-de-eventos-para-ibovespa-dolar-e-bitcoin/",
-      "data": "27/04/2026",
+      "titulo": "Real lidera moedas em 2026 e Goldman projeta dólar a R$ 4,90 em três meses",
+      "link": "https://www.infomoney.com.br/mercados/real-lidera-moedas-em-2026-e-goldman-projeta-dolar-a-r-490-em-tres-meses/",
+      "data": "28/04/2026",
       "fonte": "InfoMoney",
       "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Centro-de-Operacoes-B3_02_14ab6f.jpg?quality=70"
+      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/09/money-1273908_1280.jpg?fit=1280%2C853&quality=70&strip=all"
     },
     {
-      "titulo": "Empresas de Musk compram mais de 1.000 Cybertruks e inflam números da Tesla",
-      "link": "https://www.infomoney.com.br/consumo/empresas-de-musk-cybertruks-inflam-numeros-tesla/",
-      "data": "27/04/2026",
-      "fonte": "InfoMoney",
+      "titulo": "Inflação dos alimentos acelera e pressiona IPCA-15 com oferta menor e frete mais caro",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/inflacao-dos-alimentos-acelera-e-pressiona-ipca-15-com-oferta-menor-e-frete-mais-caro.shtml",
+      "data": "28/04/2026",
+      "fonte": "Folha SP",
       "prioridade": 1,
-      "imagem": ""
+      "imagem": "https://f.i.uol.com.br/fotografia/2022/08/09/166006990262f2a80e9bec4_1660069902_3x2_rt.jpg"
     },
     {
-      "titulo": "XP: Copom deve emitir comunicado mais duro frente a risco de inflação e alta do Brent",
-      "link": "https://www.infomoney.com.br/economia/xp-copom-deve-emitir-comunicado-mais-duro-frente-a-risco-de-inflacao-e-alta-do-brent/",
-      "data": "27/04/2026",
-      "fonte": "InfoMoney",
-      "prioridade": 1,
-      "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Copom_Foto_Rarhael-Ribeiro.jpg?quality=70"
-    },
-    {
-      "titulo": "Petróleo pode chegar a quase US$ 120 se guerra se prolongar, alerta banco",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450566",
-      "data": "27/04/2026",
+      "titulo": "Elétricas brasileiras intensificam uso de IA e projetam ganhos de centena de milhões",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450576",
+      "data": "28/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
       "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
-      "titulo": "Grupo Mover pretende vender participação na Motiva após receber oferta do Bradesco BBI",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450565",
-      "data": "27/04/2026",
+      "titulo": "Banco Mundial prevê aumento de 24% nos preços da energia em 2026 devido à guerra",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/banco-mundial-preve-aumento-de-24-nos-precos-da-energia-em-2026-devido-a-guerra.shtml",
+      "data": "28/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/28/177739758769f0ef53179cf_1777397587_3x2_rt.jpg"
+    },
+    {
+      "titulo": "Companhias aéreas de baixo custo cancelam voos com alta do petróleo",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450575",
+      "data": "28/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
       "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
-      "titulo": "Fitch rebaixa nota da Enel Brasil por risco de perda da concessão em São Paulo",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450564",
-      "data": "27/04/2026",
+      "titulo": "Receita afasta 25 servidores por suposto esquema de corrupção no Porto do Rio",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/receita-afasta-25-servidores-por-suposto-esquema-de-corrupcao-no-porto-do-rio.shtml",
+      "data": "28/04/2026",
+      "fonte": "Folha SP",
+      "prioridade": 1,
+      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/28/177738953069f0cfda72814_1777389530_3x2_xl.jpg"
+    },
+    {
+      "titulo": "Vale, Petrobras e Itaú Unibanco lideram ranking de ações mais negociadas no 1º trimestre de 2026 na B3",
+      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450574",
+      "data": "28/04/2026",
       "fonte": "Folha SP",
       "prioridade": 1,
       "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
     },
     {
-      "titulo": "Manifestantes exigem que Camboja descongele contas em empresa ligada a golpes",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/manifestantes-exigem-que-camboja-descongele-contas-em-empresa-ligada-a-golpes.shtml",
-      "data": "27/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/fotografia/2026/04/27/177729885469ef6da6f25e6_1777298854_3x2_lg.jpg"
-    },
-    {
-      "titulo": "Irã proíbe exportação de placas e chapas de aço até 30 de maio, diz jornal estatal",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450563",
-      "data": "27/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
-    },
-    {
-      "titulo": "Empresas preparam sondas e equipamentos para buscar petróleo na Venezuela, diz agência",
-      "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/04/01/6443-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450562",
-      "data": "27/04/2026",
-      "fonte": "Folha SP",
-      "prioridade": 1,
-      "imagem": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
-    },
-    {
-      "titulo": "Governo impõe limites contra juros elevados do consignado privado",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/27/governo-juros-consignado.ghtml",
-      "data": "27/04/2026",
+      "titulo": "GM aumenta previsão de lucro e espera reembolso de tarifas nos EUA",
+      "link": "https://g1.globo.com/carros/noticia/2026/04/28/gm-lucro-tarifas.ghtml",
+      "data": "28/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/GKjhuP3in9sozJPtjriShX2dX-M=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/K/A49oMaQPCl2RqVBDnDfQ/financasidosossaoespertoscomdinheiro.jpg"
+      "imagem": "https://s2-g1.glbimg.com/jZl6SQ5T7iAmT8jAfae2fBlCaCg=/4677x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/r/xHINQuRH2EG0KPw4e0Fw/2026-04-28t173050z-1-lynxmpem3r1gl-rtroptp-4-gm-ceo.jpg"
     },
     {
-      "titulo": "Nubank quer investir R$ 45 bilhões no Brasil em 2026",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/27/nubank-investimento-brasil-2026.ghtml",
-      "data": "27/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/2FiR6cWOCZ9K2CziA6FgO4IkZbc=/5401x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/U/p/PVq7rxRBinLAWQYeLdWw/logotipo-de-nubank-na-sede-do-banco-em-sao-paulo-brasil.jpg"
-    },
-    {
-      "titulo": "Mistura maior de etanol na gasolina deve elevar demanda pelo combustível em 1 bilhão de litros, diz Unica",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/04/27/mistura-etanol-gasolina-unica.ghtml",
-      "data": "27/04/2026",
+      "titulo": "O Brasil é a 'bola da vez' na economia?",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/28/o-brasil-e-a-bola-da-vez-na-economia.ghtml",
+      "data": "28/04/2026",
       "fonte": "G1",
       "prioridade": 1,
       "imagem": "https://s2-g1.glbimg.com/xOXHdHEPc9ozQqXk6aRE2a9pgFw=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/k/xzLny9QEunFjNDwk5ifg/informe-g1-2026-03-26t145731.329.png"
     },
     {
-      "titulo": "Desigualdade salarial: mulheres ganham 21,3% menos que homens, mesmo com alta do emprego",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/27/desigualdade-salarial-mulheres.ghtml",
-      "data": "27/04/2026",
+      "titulo": "Correios: balanço prévio aponta prejuízo de R$ 3,4 bilhões no 1º trimestre de 2026",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/28/correios-balanco-previo-aponta-prejuizo-de-r-34-bilhoes-no-1o-trimestre-de-2026.ghtml",
+      "data": "28/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/tMQRJp1YD-2sNvy_SHGMGBmTVEs=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/S/f/kGS2YnSyqvYhOkYP0APw/mulheres-tecnologia.jpg"
+      "imagem": "https://s2-g1.glbimg.com/gNpfdyXiAqeXu7fiA4VRPUB6U-0=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/7/HbXVolQCe4MIU1I9AE6g/globo-canal-4-20260423-2000-frame-83867.jpeg"
     },
     {
-      "titulo": "China constrói mais rápido e barato que os EUA; veja comparação entre Xangai e Nova York",
-      "link": "https://g1.globo.com/fantastico/noticia/2026/04/27/a-diferenca-de-precos-e-tempo-das-construcoes-em-xangai-em-ny.ghtml",
-      "data": "27/04/2026",
+      "titulo": "Preços do petróleo sobem ao maior patamar em um mês, após saída dos Emirados Árabes Unidos da Opep",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/28/precos-do-petroleo-apos-saida-dos-emirados-arabes-unidos-da-opep.ghtml",
+      "data": "28/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/zGM1wjTzdzGbrJX9WlZlPnseFBg=/1280x0/filters:format(jpeg)/https://s01.video.glbimg.com/x720/14560724.jpg"
+      "imagem": "https://s2-g1.glbimg.com/JA4_emBEJvEHN77zglxWDaE_06w=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/H/amJCukTUqsBvvpPcI9bA/informe-g1-2026-03-26t150304.741.png"
     },
     {
-      "titulo": "Preços do petróleo atingem maior nível em quase três semanas com impasse nas negociações entre EUA e Irã",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/27/precos-do-petroleo-sobem-com-impasse-nas-negociacoes-na-guerra-entre-eua-e-ira.ghtml",
-      "data": "27/04/2026",
+      "titulo": "Governo suspende mais de 3 milhões de multas em pedágio 'free flow' e dá prazo para tarifas vencidas",
+      "link": "https://g1.globo.com/politica/noticia/2026/04/28/governo-suspende-mais-de-3-milhoes-de-multas-em-pedagio-eletronico-e-da-prazo-para-tarifas-vencidas.ghtml",
+      "data": "28/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/WK0aV25zfTSaC4IxQsPbHlBnqr0=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/i/VzYDFHRXyIqG3FVKrj4A/globo-canal-4-20260312-2000-frame-75789.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/79Vi4EmBNcCUFe-zFfq-ymt6EiM=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/0/jqdgC4SVqoRL4NR1BNHw/thumb-fotos-2026-04-23t090547.844.jpg"
     },
     {
-      "titulo": "Dólar cai a R$ 4,96 com mercado de olho nas negociações entre EUA e Irã; Ibovespa recua",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/27/dolar-ibovespa.ghtml",
-      "data": "27/04/2026",
+      "titulo": "Para analistas, saída dos Emirados da Opep pode enfraquecer grupo e reduzir controle sobre preços do petróleo",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/28/saida-emirados-arabes-unidos-opep-impactos.ghtml",
+      "data": "28/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/0bZGeDNCnyx5cna4O9xp64sqCe4=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/0/TX8XW2RP6Go2X8PRFz5A/globo-canal-4-20260209-2000-frame-80048.jpeg"
+      "imagem": "https://s2-g1.glbimg.com/JA4_emBEJvEHN77zglxWDaE_06w=/1600x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/H/amJCukTUqsBvvpPcI9bA/informe-g1-2026-03-26t150304.741.png"
     },
     {
-      "titulo": "Apesar do juro alto, famílias recorrem mais ao rotativo do cartão de crédito; empréstimos somam R$ 110 bi no 1º trimestre",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/27/apesar-do-juro-alto-familias-recorrem-mais-ao-rotativo-do-cartao-de-credito-emprestimos-somam-r-110-bi-no-1o-trimestre.ghtml",
-      "data": "27/04/2026",
+      "titulo": "INSS restringe pedidos de aposentadoria, pensão e BPC para reduzir fila; entenda a nova regra",
+      "link": "https://g1.globo.com/economia/noticia/2026/04/28/inss-restringe-pedidos-de-aposentadoria-pensao-e-bpc-para-reduzir-fila-entenda-a-nova-regra.ghtml",
+      "data": "28/04/2026",
       "fonte": "G1",
       "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/jCql5_tftulcCzYL087eDtXl4jQ=/1280x0/filters:format(jpeg)/https://s03.video.glbimg.com/x720/14502234.jpg"
+      "imagem": "https://s2-g1.glbimg.com/v1yBga2hNVuSc8hBghsXOcAnqoI=/2004x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/M/u/tQizoEQuut9PDxHxVXwg/converted-1-16-.jpg"
     },
     {
-      "titulo": "Mercado financeiro eleva estimativa de inflação em 2026 para 4,86%",
-      "link": "https://g1.globo.com/economia/noticia/2026/04/27/mercado-financeiro-eleva-estimativa-de-inflacao-em-2026-para-486percent.ghtml",
-      "data": "27/04/2026",
-      "fonte": "G1",
-      "prioridade": 1,
-      "imagem": "https://s2-g1.glbimg.com/O_gm-wjHm_QtBFvCsCkB2uFPNXw=/3840x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/4/sdL2RrSO2QbV4jfIzq7Q/globo-canal-4-20260413-2000-frame-79216.jpeg"
-    },
-    {
-      "titulo": "Bolsas da Europa fecham em queda com impasse no Oriente Médio e expectativa por decisões de juros",
-      "link": "https://www.moneytimes.com.br/europa-27-4-26-lils/",
-      "data": "27/04/2026",
+      "titulo": "“Inflação veio melhor que o esperado”, diz analista após alta do IPCA-15 em abril",
+      "link": "https://www.moneytimes.com.br/inflacao-veio-melhor-que-o-esperado-diz-analista-apos-alta-do-ipca-15-em-abril-ceci/",
+      "data": "28/04/2026",
       "fonte": "Money Times",
       "prioridade": 1,
-      "imagem": "https://www.moneytimes.com.br/uploads/2025/04/bolsas-europeias-mercados.jpg"
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/04/novo-layout-giro-46.png"
+    },
+    {
+      "titulo": "Consenso é Selic a 14,50%: O que esperar da reunião do Copom?",
+      "link": "https://www.moneytimes.com.br/consenso-e-selic-a-1450-o-que-esperar-para-o-copom-de-abril-jcav/",
+      "data": "28/04/2026",
+      "fonte": "Money Times",
+      "prioridade": 1,
+      "imagem": "https://www.moneytimes.com.br/uploads/2026/01/selic-copom.png"
     }
   ],
-  "noticias_em": "27/04/2026 18:04 UTC",
-  "noticias_em_br": "27/04/2026 15:04",
+  "noticias_em": "28/04/2026 18:12 UTC",
+  "noticias_em_br": "28/04/2026 15:12",
   "indicadores_em": "27/04/2026 18:04 UTC",
   "indicadores_em_br": "27/04/2026 15:04"
 }
